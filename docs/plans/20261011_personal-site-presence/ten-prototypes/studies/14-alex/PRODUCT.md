@@ -1,0 +1,3 @@
+# Practice Ledger
+
+Victor Mendivil is a software developer and problem solver grounded in Dynamics 365 F&O / ERP. Scope includes requirements, technical design, implementation, testing, deployment, support and coordination. Interests: Raspberry Pi, homelab/server, AI-assisted processes and web apps. Full-time employed; contained remote, evening or asynchronous freelance work; technical-lead/senior career interests. Contact: https://www.linkedin.com/in/vmendivilaxdeveloper. No dates, employers, client proof, metrics, email or resume file supplied. Local static exploration only, no submissions, trackers or external runtime.

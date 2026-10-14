@@ -1,0 +1,2 @@
+# Thumbnail generation for the optional preview assembler.
+Pillow==12.0.0

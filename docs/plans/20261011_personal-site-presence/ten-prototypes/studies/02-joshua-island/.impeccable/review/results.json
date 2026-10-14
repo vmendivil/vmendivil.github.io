@@ -1,0 +1,190 @@
+{
+  "desktop": {
+    "overflow": false,
+    "renderer": true,
+    "fallback": false,
+    "fonts": true,
+    "errors": []
+  },
+  "keyboard": {
+    "tabs": [
+      "Victor MendivilSoftware developer \u00b7 curious humanSay hello \u2197\nThe illustration couldn't load. Every island's story is still available in the navigation below.The workshopExplore my practicePi harbourExplore my curiositiesThe lookoutMeet the personThere's always another shore.\nA few islands.One curious mind.I'm Victor. I build software, untangle problems, and follow the things that make me wonder.Choose a place. Have a look around.\n\u2190 Whole archipelago\nWhole mapThe workshopPi harbourThe lookout\nResume seaLocal exploration \u00b7 no messages are sent here",
+      "Victor MendivilSoftware developer \u00b7 curious human",
+      "Say hello \u2197",
+      "The workshopExplore my practice",
+      "Pi harbourExplore my curiosities",
+      "The lookoutMeet the person",
+      "Whole map"
+    ],
+    "enterResult": "home",
+    "escapeResult": "home",
+    "spaceResult": "work",
+    "enterRegionConfirmation": {
+      "focus": "The workshop",
+      "active": "home",
+      "camera": [
+        24,
+        25,
+        32
+      ],
+      "note": "Pi harbour"
+    },
+    "enterWithText": {
+      "active": "work",
+      "focus": "The workshop",
+      "camera": [
+        11.3,
+        14,
+        16
+      ],
+      "note": "The workshop"
+    }
+  },
+  "mobile": {
+    "overflow": false,
+    "visualWidth": 390,
+    "camera": [
+      27.993017904853634,
+      41.98691822662116,
+      44.98706656449982
+    ],
+    "markerBounds": [
+      {
+        "name": "The workshopExplore my practice",
+        "x": 162.9921875,
+        "right": 252.0078125
+      },
+      {
+        "name": "Pi harbourExplore my curiosities",
+        "x": 55.2890625,
+        "right": 125.0859375
+      },
+      {
+        "name": "The lookoutMeet the person",
+        "x": 274.2578125,
+        "right": 352.2734375
+      }
+    ],
+    "pointerResult": {
+      "active": "lab",
+      "note": "Pi harbour",
+      "camera": [
+        3.0667713855900027,
+        16.06942669123878,
+        17.074770290655792
+      ],
+      "bodyFont": "16px",
+      "overflow": false
+    }
+  },
+  "reduced": {
+    "active": "lab",
+    "paused": true,
+    "camera": [
+      3,
+      16,
+      17
+    ],
+    "motionLabel": "Still sea \u00b7 reduced motion",
+    "disabled": true,
+    "destinationConfirmation": {
+      "focus": "The workshop",
+      "active": "home",
+      "camera": [
+        24,
+        25,
+        32
+      ],
+      "note": "Pi harbour"
+    },
+    "immediateCamera": {
+      "active": "work",
+      "focus": "The workshop",
+      "camera": [
+        11.3,
+        14,
+        16
+      ],
+      "note": "The workshop"
+    }
+  },
+  "finalErrors": [],
+  "contact": [
+    "https://www.linkedin.com/in/vmendivilaxdeveloper"
+  ],
+  "regions": {
+    "work": {
+      "active": "work",
+      "title": "The workshop",
+      "content": "I like the moment a tangled requirement becomes something you can actually use.My grounding is in Dynamics 365 Finance & Operations and ERP: requirements, technical design, implementation, testing, deployment and support.From the first question to the last detailI work across teams, connecting the business need with the technical decisions that make it workable. I'm interested in senior and technical-lead opportunities.",
+      "camera": [
+        11.3,
+        14,
+        16
+      ],
+      "overflow": false
+    },
+    "lab": {
+      "active": "lab",
+      "title": "Pi harbour",
+      "content": "Some questions are best answered by building a little version and seeing what happens.I'm interested in Raspberry Pi homelab and server projects, AI-assisted work processes, and AI-assisted web apps.A place for experimentsThis island is an illustration of those interests\u2014not a case study or a claim about a shipped product. The appeal is learning how the pieces fit, then making them useful.",
+      "camera": [
+        4.300000000000001,
+        13,
+        20
+      ],
+      "overflow": false
+    },
+    "human": {
+      "active": "human",
+      "title": "The lookout",
+      "content": "I'm Victor Mendivil. A software developer, problem solver, and a person who likes following a good question.I'm employed full-time. For freelance work, I'm interested in contained needs for individuals and small businesses that fit remote, evening or asynchronous collaboration.Tell me what you're thinkingA clear problem is a good starting point. Find me on LinkedIn \u2197",
+      "camera": [
+        17.3,
+        14,
+        12
+      ],
+      "overflow": false
+    }
+  },
+  "touch": {
+    "active": "human",
+    "title": "The lookout",
+    "camera": [
+      16,
+      17,
+      9
+    ]
+  },
+  "final": {
+    "errors": [],
+    "overflow": false,
+    "fonts": "loaded",
+    "minimumControlFont": 11,
+    "contact": [
+      "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "https://www.linkedin.com/in/vmendivilaxdeveloper"
+    ]
+  },
+  "mobileNoteBounds": {
+    "viewport": 390,
+    "note": {
+      "x": 23,
+      "y": 545,
+      "width": 344,
+      "height": 511,
+      "top": 545,
+      "right": 367,
+      "bottom": 1056,
+      "left": 23
+    },
+    "scrollWidth": 390,
+    "active": "human"
+  },
+  "fallback": {
+    "messageVisible": true,
+    "markersHidden": true,
+    "active": "human",
+    "note": "The lookout"
+  }
+}

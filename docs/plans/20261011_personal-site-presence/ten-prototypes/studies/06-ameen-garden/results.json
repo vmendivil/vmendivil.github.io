@@ -1,0 +1,125 @@
+{
+  "desktop": {
+    "width": 1440,
+    "documentWidth": 1425,
+    "ready": "true",
+    "fonts": true
+  },
+  "firstTab": "skip",
+  "keyboardNavigation": {
+    "hash": "#about",
+    "top": 30
+  },
+  "pausedPixelsStable": true,
+  "pauseLabel": "Resume the water",
+  "ambientPixelsChange": true,
+  "pointerNavigation": true,
+  "contact": {
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "target": "_blank",
+    "forms": 0
+  },
+  "mobile": {
+    "width": 390,
+    "documentWidth": 390,
+    "sections": [
+      "home",
+      "about",
+      "practice",
+      "interests",
+      "contact"
+    ],
+    "padding": "27.2969px"
+  },
+  "touchNavigation": true,
+  "reducedMotion": {
+    "matches": true,
+    "label": "Still water \u00b7 reduced motion",
+    "disabled": true,
+    "motion": "paused",
+    "scroll": "auto",
+    "pixelsStable": true
+  },
+  "renderer": "WebGL / Three.js r170",
+  "errors": [],
+  "assets": [
+    {
+      "url": "style.css",
+      "status": 200
+    },
+    {
+      "url": "landscape.js",
+      "status": 200
+    },
+    {
+      "url": "assets/three.module.js",
+      "status": 200
+    },
+    {
+      "url": "assets/three-LICENSE.txt",
+      "status": 200
+    },
+    {
+      "url": "assets/karla.ttf",
+      "status": 200
+    },
+    {
+      "url": "assets/bellefair.ttf",
+      "status": 200
+    },
+    {
+      "url": "assets/leaf.svg",
+      "status": 200
+    }
+  ],
+  "escape": "No modal, trap, or dismissible overlay exists; Escape is not applicable.",
+  "webglFailure": {
+    "canvasHidden": true,
+    "buttonHidden": true,
+    "content": true,
+    "links": 3
+  },
+  "status": "passed",
+  "pointerMotion": {
+    "pausedHashes": [
+      -1752262694,
+      -1752262694
+    ],
+    "ambientHashes": [
+      -656411045,
+      704963395
+    ],
+    "pauseLabel": "Resume the water",
+    "resumeLabel": "Pause the water",
+    "passed": true,
+    "foregroundSampling": true
+  },
+  "consoleErrors": [],
+  "captureSizes": {
+    "desktop.png": [
+      1440,
+      900
+    ],
+    "desktop-full.png": [
+      1440,
+      3548
+    ],
+    "mobile.png": [
+      390,
+      844
+    ],
+    "mobile-full.png": [
+      390,
+      4442
+    ]
+  },
+  "captureRepair": "desktop.png is the exact top1440x900 crop of the valid full-page screenshot; see PROVENANCE.md",
+  "historicalScope": "Original scenic-rebuild assertions; earlier capture sizes/full-page paths are historical, not current reading UI.",
+  "currentContentMobile": {
+    "results": "content-results.json",
+    "runner": "verify-content.cjs",
+    "status": "passed",
+    "viewports": 6,
+    "review": "Parent comparative visual verdict pending"
+  }
+}

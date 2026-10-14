@@ -1,0 +1,495 @@
+{
+  "engine": "Playwright Chromium; emulated viewports and trusted synthetic touch, not physical Safari",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "route": "index.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "Field Editions.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "route": "workable-system.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "From requirement to workable system.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "route": "after-hours.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "After-hours curiosity.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "route": "ai-judgment.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "Tools, with judgment.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "keyboard": "Enter/Tab/Escape/Space",
+      "focusRestore": true,
+      "trustedTouchMenu": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "route": "index.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "Field Editions.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "route": "workable-system.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "From requirement to workable system.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "route": "after-hours.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "After-hours curiosity.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "route": "ai-judgment.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "Tools, with judgment.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "keyboard": "Enter/Tab/Escape/Space",
+      "focusRestore": true,
+      "trustedTouchMenu": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "route": "index.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "Field Editions.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "route": "workable-system.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "From requirement to workable system.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "route": "after-hours.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "After-hours curiosity.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "route": "ai-judgment.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 16,
+      "paragraphMin": 16,
+      "heading": "Tools, with judgment.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 54,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "keyboard": "Enter/Tab/Escape/Space",
+      "focusRestore": true,
+      "trustedTouchMenu": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "route": "index.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "Field Editions.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "route": "workable-system.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "From requirement to workable system.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "route": "after-hours.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "After-hours curiosity.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "route": "ai-judgment.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "Tools, with judgment.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "keyboard": "Enter/Tab/Escape/Space",
+      "focusRestore": true,
+      "trustedTouchMenu": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "route": "index.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "Field Editions.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "route": "workable-system.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "From requirement to workable system.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "route": "after-hours.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "After-hours curiosity.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "route": "ai-judgment.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "Tools, with judgment.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "route": "index.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "Field Editions.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "route": "workable-system.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "From requirement to workable system.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "route": "after-hours.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "After-hours curiosity.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "route": "ai-judgment.html",
+      "overflow": false,
+      "images": true,
+      "font": true,
+      "body": 18,
+      "paragraphMin": 18,
+      "heading": "Tools, with judgment.",
+      "links": [
+        "https://www.linkedin.com/in/vmendivilaxdeveloper"
+      ],
+      "contactTarget": 56,
+      "contactAndReturn": true
+    },
+    {
+      "reducedMotion": {
+        "emulated": true,
+        "scroll": "auto",
+        "transition": "0s",
+        "visible": true
+      }
+    },
+    {
+      "noJavaScript": {
+        "navigation": true,
+        "contact": true
+      }
+    },
+    {
+      "failedAssets": {
+        "independentText": true,
+        "contact": true,
+        "nativeImageAlt": true
+      }
+    }
+  ],
+  "errors": []
+}

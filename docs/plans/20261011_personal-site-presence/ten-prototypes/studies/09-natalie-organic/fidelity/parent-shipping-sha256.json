@@ -1,0 +1,30 @@
+{
+  "index.html": {
+    "sha256": "500cf10cdae37a8a64392669eed61a9c72d47d55e513737643e65b643ff547c5",
+    "bytes": 6181
+  },
+  "style.css": {
+    "sha256": "fa294b9f127c543050cbf43dcbcd8fef1b20740317e78f8898270e5d58be2597",
+    "bytes": 12351
+  },
+  "gallery.js": {
+    "sha256": "fa77666e9da9e7714389c7e53cbc1cbdc831eb0e02edcf902539f3cbf900185e",
+    "bytes": 11856
+  },
+  "assets/Manrope-OFL.txt": {
+    "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+    "bytes": 4387
+  },
+  "assets/THREE-LICENSE.txt": {
+    "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "bytes": 1081
+  },
+  "assets/manrope.ttf": {
+    "sha256": "a13d9b41b0a471ce58f0e46d377fa3cc76615e4632c3b15eb397caadf7a13f0a",
+    "bytes": 94972
+  },
+  "assets/three.module.js": {
+    "sha256": "0a3368c165eea773490aec7b77c22de70e3eac288503409256fdbf4d12578416",
+    "bytes": 1304820
+  }
+}

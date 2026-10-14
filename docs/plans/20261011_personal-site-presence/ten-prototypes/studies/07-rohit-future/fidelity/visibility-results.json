@@ -1,0 +1,287 @@
+{
+  "method": "Atomic simulated document-hidden event; not physical background tab certification",
+  "rows": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "draws": 8,
+        "renderMs": 3.1999999284744263,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      },
+      "hidden": {
+        "draws": 8,
+        "renderMs": 3.1999999284744263,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      },
+      "resumed": {
+        "draws": 12,
+        "renderMs": 2.6999999284744263,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "draws": 22,
+        "renderMs": 0.5,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      },
+      "hidden": {
+        "draws": 22,
+        "renderMs": 0.5,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      },
+      "resumed": {
+        "draws": 25,
+        "renderMs": 0.5,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "draws": 32,
+        "renderMs": 0.3999999761581421,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      },
+      "hidden": {
+        "draws": 32,
+        "renderMs": 0.3999999761581421,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      },
+      "resumed": {
+        "draws": 35,
+        "renderMs": 1.6999999284744263,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "draws": 44,
+        "renderMs": 0.19999992847442627,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      },
+      "hidden": {
+        "draws": 44,
+        "renderMs": 0.19999992847442627,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      },
+      "resumed": {
+        "draws": 47,
+        "renderMs": 0.20000004768371582,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "draws": 53,
+        "renderMs": 0.6000000238418579,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      },
+      "hidden": {
+        "draws": 53,
+        "renderMs": 0.6000000238418579,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      },
+      "resumed": {
+        "draws": 56,
+        "renderMs": 1.600000023841858,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "draws": 62,
+        "renderMs": 0.2999999523162842,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          14.5
+        ]
+      },
+      "hidden": {
+        "draws": 62,
+        "renderMs": 0.2999999523162842,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          14.5
+        ]
+      },
+      "resumed": {
+        "draws": 65,
+        "renderMs": 0.5,
+        "progress": 0,
+        "paused": false,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          14.5
+        ]
+      }
+    }
+  ]
+}

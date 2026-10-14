@@ -1,0 +1,80 @@
+{
+  "first_tab": "alignment",
+  "arrow_right": {
+    "value": "66",
+    "shift": "0.34",
+    "label": "66% aligned \u2014 Finding the rhythm"
+  },
+  "second_tab": "align",
+  "Enter": {
+    "value": "66",
+    "state": "Finding the rhythm",
+    "button": "Align the words"
+  },
+  "Space": {
+    "value": "100",
+    "state": "In sync",
+    "button": "Scatter the words"
+  },
+  "pointer_scrub": {
+    "value": "61",
+    "shift": "0.39"
+  },
+  "reduced_motion": [
+    {
+      "word": "SOFTWARE",
+      "transform": "none"
+    },
+    {
+      "word": "PROCESS",
+      "transform": "none"
+    },
+    {
+      "word": "PEOPLE",
+      "transform": "none"
+    },
+    {
+      "word": "IN SYNC.",
+      "transform": "none"
+    }
+  ],
+  "sizes": [
+    {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 900,
+      "buttonBottom": 854,
+      "wordsInside": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "scrollHeight": 844,
+      "buttonBottom": 782,
+      "wordsInside": true
+    },
+    {
+      "width": 320,
+      "height": 780,
+      "scrollWidth": 320,
+      "scrollHeight": 780,
+      "buttonBottom": 718,
+      "wordsInside": true
+    },
+    {
+      "width": 1280,
+      "height": 900,
+      "scrollWidth": 1280,
+      "scrollHeight": 900,
+      "buttonBottom": 854,
+      "wordsInside": true
+    }
+  ],
+  "Enter_retest_complete_event": {
+    "focused": "align",
+    "value": "100",
+    "state": "In sync"
+  }
+}

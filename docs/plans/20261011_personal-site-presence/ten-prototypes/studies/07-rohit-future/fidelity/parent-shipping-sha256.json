@@ -1,0 +1,34 @@
+{
+  "index.html": {
+    "sha256": "c6f5fabee4295266eb753ea7e1812bf27286695235323b9233299811a34e3630",
+    "bytes": 5956
+  },
+  "style.css": {
+    "sha256": "394cd2926840f76dcec91ff350fd4400443f228c16a405833c5e9bbae5c02e3d",
+    "bytes": 14570
+  },
+  "scene.js": {
+    "sha256": "6a7059814d0d6d6dbb1cfdb9a482a8312dedc91e6acd8254d0ce21e9a2578035",
+    "bytes": 6924
+  },
+  "assets/ChakraPetch-Medium.ttf": {
+    "sha256": "d480f4f97405fac3600652e2e14fd0b14339031c0af4da11582994878f04d919",
+    "bytes": 78600
+  },
+  "assets/FONT-LICENSE.txt": {
+    "sha256": "13831d02389d917d22fcfa6c79f98f8acbf61d230add0e73a4d4dc5f3bfb9e56",
+    "bytes": 4396
+  },
+  "assets/THREE-LICENSE.txt": {
+    "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "bytes": 1081
+  },
+  "assets/favicon.svg": {
+    "sha256": "88a9d7555b4990e3183d7d305dfa529a8e261ebbbf9faa3351c83a77faa03353",
+    "bytes": 216
+  },
+  "assets/three.module.js": {
+    "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb",
+    "bytes": 1314681
+  }
+}

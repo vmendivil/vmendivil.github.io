@@ -1,0 +1,29 @@
+/* Local comparison utility only; independent of each prototype's design. */
+#prototype-source-link {
+  all: initial !important;
+  position: fixed !important;
+  z-index: 2147483000 !important;
+  right: max(12px, env(safe-area-inset-right)) !important;
+  bottom: max(12px, env(safe-area-inset-bottom)) !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  box-sizing: border-box !important;
+  min-height: 44px !important;
+  min-width: 120px !important;
+  padding: 10px 14px !important;
+  background: #f4f2ed !important;
+  color: #243026 !important;
+  border: 1px solid #647064 !important;
+  border-radius: 4px !important;
+  box-shadow: 0 2px 8px #0003 !important;
+  font: 500 14px/20px system-ui, sans-serif !important;
+  white-space: nowrap !important;
+  text-decoration: underline !important;
+  text-underline-offset: 3px !important;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+}
+#prototype-source-link:hover { background: #dfe7da !important; }
+#prototype-source-link:focus-visible { outline: 3px solid #5985d5 !important; outline-offset: 3px !important; }
+#prototype-source-link[data-placed] { left: var(--source-left) !important; top: var(--source-top) !important; right: auto !important; bottom: auto !important; }

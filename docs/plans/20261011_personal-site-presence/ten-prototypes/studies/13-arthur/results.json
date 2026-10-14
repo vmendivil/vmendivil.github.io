@@ -1,0 +1,263 @@
+{
+  "engine": "Chromium / Playwright",
+  "viewports": [
+    {
+      "width": 320,
+      "height": 740,
+      "states": [
+        {
+          "id": "practice",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        },
+        {
+          "id": "curiosity",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        },
+        {
+          "id": "contact",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "overflow": false,
+      "return": true,
+      "keyboardTab": true,
+      "reducedMotion": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "states": [
+        {
+          "id": "practice",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        },
+        {
+          "id": "curiosity",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        },
+        {
+          "id": "contact",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "overflow": false,
+      "return": true,
+      "keyboardTab": true,
+      "reducedMotion": true
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "states": [
+        {
+          "id": "practice",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        },
+        {
+          "id": "curiosity",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        },
+        {
+          "id": "contact",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "overflow": false,
+      "return": true,
+      "keyboardTab": true,
+      "reducedMotion": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "states": [
+        {
+          "id": "practice",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        },
+        {
+          "id": "curiosity",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        },
+        {
+          "id": "contact",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "overflow": false,
+      "return": true,
+      "keyboardTab": true,
+      "reducedMotion": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "states": [
+        {
+          "id": "practice",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        },
+        {
+          "id": "curiosity",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        },
+        {
+          "id": "contact",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "overflow": false,
+      "return": true,
+      "keyboardTab": true,
+      "reducedMotion": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "states": [
+        {
+          "id": "practice",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": false
+        },
+        {
+          "id": "curiosity",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": false
+        },
+        {
+          "id": "contact",
+          "opened": true,
+          "lastLinkReachable": true,
+          "bodySize": 17,
+          "escapeClose": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "touch": false
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "overflow": false,
+      "return": true,
+      "keyboardTab": true,
+      "reducedMotion": true
+    }
+  ],
+  "lightControl": {
+    "spacePause": true,
+    "enterResume": true
+  },
+  "fallback": true,
+  "physicalSafari": false
+}

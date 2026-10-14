@@ -1,0 +1,46 @@
+{
+  "index.html": {
+    "sha256": "afd7180f7649972e66dd969fe26cd9caf968d1729447052eac31d02eacc9b85a",
+    "bytes": 7915
+  },
+  "style.css": {
+    "sha256": "630b9d4428c2ceea7036eb57e7cbe6786c1b440f20d29e285b4819572728d428",
+    "bytes": 11751
+  },
+  "app.js": {
+    "sha256": "02321d44724329f246cc65c82237b0755a17e09ad57bd8c35436d7498a1112f3",
+    "bytes": 9812
+  },
+  "assets/Anton-Regular.ttf": {
+    "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+    "bytes": 170812
+  },
+  "assets/Anton-OFL.txt": {
+    "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4",
+    "bytes": 4484
+  },
+  "assets/portrait.jpg": {
+    "sha256": "a197395771b3268334fcc72a3079a15147ffa4ec27a8ecc6ff4f919f1ca944ee",
+    "bytes": 625300
+  },
+  "assets/portrait-depth.svg": {
+    "sha256": "10396cbd1bd2b3d7cb10231b34e2f1ff55572d32c9cac78fc9a62eb812463c12",
+    "bytes": 625
+  },
+  "assets/fold.svg": {
+    "sha256": "dab2428512371cb9cd0301510e6cb4d2fc2dfb1bdc59cd2a8c125d2e909e5995",
+    "bytes": 13971
+  },
+  "assets/homelab.svg": {
+    "sha256": "a9c49285dd0f3b83a598e5877a7c89d794dacec18a01a4dfd3e4dd1a01c256ab",
+    "bytes": 8440
+  },
+  "assets/process.svg": {
+    "sha256": "7d44d12c8fb2c19389600ee76e3f4b0f0e9b6145504d9385f33dc78a3c0ada68",
+    "bytes": 1952
+  },
+  "assets/web.svg": {
+    "sha256": "987794f3ba1c89bc775d28853d3dfe1d43434857b410b57c4eb90219b3641284",
+    "bytes": 2282
+  }
+}

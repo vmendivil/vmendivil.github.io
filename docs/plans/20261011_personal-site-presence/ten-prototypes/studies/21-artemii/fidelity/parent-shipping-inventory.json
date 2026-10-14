@@ -1,0 +1,71 @@
+{
+  "study": "21-artemii",
+  "verdict": "READY",
+  "boundary": "worker-source local comparison only; parent LAN assembly pending",
+  "runtimeAllowlist": [
+    "index.html",
+    "style.css",
+    "fidelity.css",
+    "main.js",
+    "assets/plate-0.svg",
+    "assets/plate-1.svg",
+    "assets/plate-2.svg",
+    "assets/plate-3.svg",
+    "assets/plate-4.svg",
+    "assets/plate-5.svg",
+    "assets/chivo.ttf",
+    "assets/chivo-OFL.txt"
+  ],
+  "shippingSHA256": {
+    "index.html": "d12dcefa70a75049d1f3b46c5a09af06b5b6b85e19bfe0c75e5ff282b20bd480",
+    "style.css": "8cc2dc257e6348c9e9711b2acd94a7f8d19fc788170d5935c690a222e647b535",
+    "fidelity.css": "03307a97f02610ac82348dad17c6a49213cdfdef766f799580f9f43f02b835a9",
+    "main.js": "765f59da25b1966d8abf9f71978fb6d8d206d9e2e601110d51e5aa9d7d3fb175",
+    "assets/plate-0.svg": "87c20cf6441aaa0b49427f77c8584a75f132af2b185b4ba9380506df24e33671",
+    "assets/plate-1.svg": "3a396976c08a20e4695ecbebf0ee7451308581df254f9e33524ca5a899c0e9cc",
+    "assets/plate-2.svg": "a9da675db0a95210d091dbe6a5f0cea366b4a7ca71645e637e044d898cc62dce",
+    "assets/plate-3.svg": "3dd18b09852865f6f9a5f8bc9f54fd85b695a1043d39116241271cfb2dfc4c91",
+    "assets/plate-4.svg": "ad5fc8520324d0d3b8f1d94f4290e0249d73d93800355908a391ea1fd6f778bd",
+    "assets/plate-5.svg": "cecee5484b87f565a2f3e8846fd7f85a404b5974c8f0ebb6c443481f4bd290a9",
+    "assets/chivo.ttf": "801674cbeff749011a0186b2c932dc9158187a8ca4ca6598db2a1f5c7c4342d1",
+    "assets/chivo-OFL.txt": "c9b69fa18c372df2b187b49efc57b1ea643b86a938e5af32f6b5a7af1017c891"
+  },
+  "servedMatchesSource": true,
+  "historicalSixViewportStaleFiles": [],
+  "freshAssertions": {
+    "passed": 84,
+    "failed": [],
+    "errors": []
+  },
+  "boundaryAssertions": {
+    "study": 21,
+    "results": [
+      {
+        "label": "rapid reversed filters latest wins",
+        "pass": true
+      },
+      {
+        "label": "interrupted note reversed to register",
+        "pass": true
+      },
+      {
+        "label": "no note remains visible",
+        "pass": true
+      },
+      {
+        "label": "settled animation count zero",
+        "pass": true
+      }
+    ],
+    "errors": []
+  },
+  "coverage": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/21-artemii/fidelity/confirmation/results.json",
+  "freshProof": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/21-artemii/fidelity/parent-inspection/results.json",
+  "motionProof": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/21-artemii/fidelity/parent-motion/results.json",
+  "sourceEvidenceSHA256": {
+    "fidelity/source/03-action.png": "bfb018a834b3d254f2c09b6e75182167a90b8a14408af7ccb7128fe76de60d3d",
+    "fidelity/source/02-scroll.png": "c9aac5be8ec88f327e9fef23c1430f0d5b372eb99e73b89ee0b5dffe15fca6b0",
+    "fidelity/source/01-opening.png": "0905206b26ce320a35f6e1f1a4853b2f689c6b798eb0b7ef1a9cc8cacec86e28",
+    "fidelity/source/observations.json": "a5ca73ddcef2f89826a62caf7a12576e4f627d4eb8e52bf8695d6ffb67484d4e"
+  }
+}

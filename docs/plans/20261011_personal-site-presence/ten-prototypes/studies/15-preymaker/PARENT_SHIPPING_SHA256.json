@@ -1,0 +1,84 @@
+{
+  "session": "pending-13-15",
+  "verdict": "READY_SOURCE",
+  "runtimeAllowlist": [
+    "index.html",
+    "style.css",
+    "fidelity.css",
+    "fidelity.js",
+    "app.js",
+    "assets/Archivo-OFL.txt",
+    "assets/Archivo.ttf",
+    "assets/detail.jpg",
+    "assets/notes.jpg",
+    "assets/portrait.jpg",
+    "assets/wide.jpg"
+  ],
+  "shippingSHA256": {
+    "index.html": "b303f262883eb0ba45915feb97f9c6cae40785fb63c039ba0c7cc8d6a428639c",
+    "style.css": "04e0d779a6c2ed625cf30ef05d12e2449ae9cbaa858870be0e7cc7b2f57ea367",
+    "fidelity.css": "b3f36f683388b20a9dfd20600bebc74c3869140c8f769ada74197514d7434de9",
+    "fidelity.js": "af20656dfb812bf17696c4a078f2b2fab14135c83ba96d2cbd603934abb97d58",
+    "app.js": "f5288fca89729cade2baafec46163869f5044957b08a0e5997cd0f29d954325a",
+    "assets/Archivo-OFL.txt": "108b4e57c9c796d3d38d0428ca7ee39de47ad93187302718d9b2d8864b9b716b",
+    "assets/Archivo.ttf": "0e094a7d3c7c4c25cf1310c4b30014f1dae9332220b1c2c88f4fa996f0b05053",
+    "assets/detail.jpg": "701ed19a2228f2a55165c1b56b405411fa8513d7a2334ee4fcdc44b97eba0986",
+    "assets/notes.jpg": "b759be7105bfafee3f1dc4480a20401227411527ba241773c916a9cf4289c521",
+    "assets/portrait.jpg": "65e52cd2a826efca0cd027d0aa2860f717c473333dbc28493c0b2f0592e1572e",
+    "assets/wide.jpg": "5534d593ccaed2a341ca39f1573921f826a26e01038953c83e00eaf8a86df0c5"
+  },
+  "changedAgainstPriorFidelity": {
+    "fidelity.js": {
+      "prior": "d19872629a006de3d1a07a08f50fe29ab17db1e1e1f1bfa704a4a79fb5ac847d",
+      "current": "af20656dfb812bf17696c4a078f2b2fab14135c83ba96d2cbd603934abb97d58"
+    }
+  },
+  "sourceEvidenceSHA256": {
+    "group-b/15-frame-board.jpg": "9c887ed168f1c99ddea892d98e613ea9edba4254ab8a33dc1c2b97e56b67146e",
+    "group-b/15-preymaker-recording-0.mp4": "835ab22e82a0e7cd9f68d58869a17206e33d785b86ae5ff09c7d166b63ff1f45",
+    "group-b/15-preymaker-recording-1.mp4": "f0e235c0f043ced16399347e5ea68fc0d4ab5718af23c703c245b2d39bb536df"
+  },
+  "sourceEvidenceMatchesRecorded": true,
+  "freshResults": "fidelity-evidence/parent-confirmation/parent-confirmation-results.json",
+  "freshPasses": 78,
+  "freshErrors": [],
+  "freshCaptureSHA256": {
+    "fidelity-evidence/parent-confirmation/1440-main.png": "d5a4c6c040b126a216f1f22b68212fa7f3311fdac511971cd7f26c8bee49fcf9",
+    "fidelity-evidence/parent-confirmation/1440-detail-shot.png": "3a812af92ef09ddc2e18c99ae03f1f9fad32c435d07a0118cccc457c3176bf88",
+    "fidelity-evidence/parent-confirmation/1440-notes-shot.png": "f37b56718ff4e43b125e883ba01483b440847325c2692f7c2a543f86137b4eae",
+    "fidelity-evidence/parent-confirmation/1440-approach-reading.png": "1a1e598a0c169420bfeab3c0e7aca4cd9599086f4c909bb916eb7e583c7d39ce",
+    "fidelity-evidence/parent-confirmation/1440-contact.png": "5d624eb7ebf54937ef8022960e8131c799532a418967d3c179eb4838a9f65ee6",
+    "fidelity-evidence/parent-confirmation/1440-contact-final.png": "9e4fd2a54e227940cb5f384173c4a6cbca631828abde3b91163905d324380853",
+    "fidelity-evidence/parent-confirmation/390-main.png": "80eaf6c0ee81d2209982aa5391f1127a0cc939bbb9accf1bee9193faa13bd9bb",
+    "fidelity-evidence/parent-confirmation/390-detail-shot.png": "9af7fbbf38873990fddccac57565dacf1a4158461b253d1f2e68d9fc45b35305",
+    "fidelity-evidence/parent-confirmation/390-notes-shot.png": "ba246b646a00dded2430218f8fcf1337d5c20ef1a7aa6b0cae0d00695423ebbb",
+    "fidelity-evidence/parent-confirmation/390-approach-reading.png": "1259f5fa714c55ed9f635eaa1a5f7cd53a68c5ef9756c94eb047dccc4aef4328",
+    "fidelity-evidence/parent-confirmation/390-contact.png": "33c9a5b5abeaba0b571b53a9aed434211765ae0ceeacb024ca76bdde6884b7ef",
+    "fidelity-evidence/parent-confirmation/390-contact-final.png": "fba6630c2fdfebdb59edfc3845de4dec899c14da8639ecd0e38a0b0bb6d49430",
+    "fidelity-evidence/parent-confirmation/844-main.png": "9f4bc2af0c48850d7345a4fff777bbf40dff1d28d73c48f7ace13aca75c56c72",
+    "fidelity-evidence/parent-confirmation/844-detail-shot.png": "79032b0a53fb1e3f1b52e80ebd01d96bde7daa6fea05a1bafba4f461f16f62d2",
+    "fidelity-evidence/parent-confirmation/844-notes-shot.png": "024efe054401d3b9a4551bc1b9e2f5ce196d7b6f19613139afa34d1f637ef891",
+    "fidelity-evidence/parent-confirmation/844-approach-reading.png": "b778dcc5363fad9b44931418e16efd6334132be497b37ee7253a0a72166119df",
+    "fidelity-evidence/parent-confirmation/844-contact.png": "a78a03e8b2a4cfbd95316e0824735d1b9e2e6d2b918e220d4e8294c433980694",
+    "fidelity-evidence/parent-confirmation/844-contact-final.png": "6df834f06994fa8351d5642ded5b87ca8cd8a07677ddc79520eee63f6b6d7a8b",
+    "fidelity-evidence/parent-confirmation/sequence-00-establish.png": "1d619b8d384ad869dc60e6b7e9f02f4a5069df09536e6fe5b860c2da8645dcf8",
+    "fidelity-evidence/parent-confirmation/sequence-01-shutter.png": "36ffe1bcee07cc49e3032f1367a523e87bc6721f765f81b45a68b6b164a7f6bc",
+    "fidelity-evidence/parent-confirmation/sequence-02-detail.png": "26620f657fc4c272be6964d939a05cd7b40feb425a6305283405de06e9ceecda",
+    "fidelity-evidence/parent-confirmation/sequence-03-notes.png": "a680720bff7be75a7cf32cf97c27659f0b37c6ac92438fd9744a3840c1b03f3b",
+    "fidelity-evidence/parent-confirmation/sequence-04-reversal.png": "70257864171c2a0414059ac316abd625e756aa0bb7cd22046702d380532ee934",
+    "fidelity-evidence/parent-confirmation/reduced-contact.png": "fba6630c2fdfebdb59edfc3845de4dec899c14da8639ecd0e38a0b0bb6d49430",
+    "fidelity-evidence/parent-confirmation/nojs-contact.png": "374429cc571f91b35a09d77c9efc4c212465b3a1b941ac4e848ea1056d5cd9fb",
+    "fidelity-evidence/parent-confirmation/fallback-contact.png": "fba6630c2fdfebdb59edfc3845de4dec899c14da8639ecd0e38a0b0bb6d49430"
+  },
+  "priorMatrix": {
+    "path": "fidelity-evidence/confirmation/confirmation-results.json",
+    "passed": 82,
+    "errors": [],
+    "interpretation": "Prior six-size layout/reading captures: stylesheet/HTML/assets unchanged. Prior JS behavior historical after one-line stop-state fix; current behavior confirmed at desktop/phone/landscape."
+  },
+  "limits": [
+    "Loopback source only; parent owns runtime assembly and actual LAN/source links",
+    "No physical Safari/device or physical background-tab certification",
+    "Historical detector preserved, not rerun"
+  ]
+}

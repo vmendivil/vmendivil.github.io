@@ -1,0 +1,1510 @@
+{
+  "study": 19,
+  "engine": "Chromium emulation; trusted Playwright input; not physical GPU/Safari certification",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 3,
+        "frames": 1,
+        "active": false,
+        "camera": {
+          "floorY": 0,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "320x740 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 opening images",
+      "pass": true
+    },
+    {
+      "label": "320x740 floor 1",
+      "pass": true
+    },
+    {
+      "label": "320x740 full reading 1",
+      "pass": true
+    },
+    {
+      "label": "320x740 floor 2",
+      "pass": true
+    },
+    {
+      "label": "320x740 full reading 2",
+      "pass": true
+    },
+    {
+      "label": "320x740 floor 3",
+      "pass": true
+    },
+    {
+      "label": "320x740 full reading 3",
+      "pass": true
+    },
+    {
+      "label": "320x740 floor 4",
+      "pass": true
+    },
+    {
+      "label": "320x740 full reading 4",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "contact",
+      "hash": "#4f/read",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 810,
+      "active": "chapter",
+      "animations": 0,
+      "metrics": {
+        "renders": 48,
+        "frames": 46,
+        "active": false,
+        "camera": {
+          "floorY": 20.936101122694588,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "320x740 contact overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 contact images",
+      "pass": true
+    },
+    {
+      "label": "real contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "screening",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 66,
+        "frames": 64,
+        "active": false,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "320x740 screening overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 screening images",
+      "pass": true
+    },
+    {
+      "label": "320x740 screening enter",
+      "pass": true
+    },
+    {
+      "label": "320x740 real playback",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "playing",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "renders": 81,
+        "frames": 79,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "320x740 playing overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 playing images",
+      "pass": true
+    },
+    {
+      "label": "320x740 pause zero render",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "reversal",
+      "hash": "#4f",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 101,
+        "frames": 99,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 0.004981258409119376
+        }
+      }
+    },
+    {
+      "label": "320x740 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 reversal images",
+      "pass": true
+    },
+    {
+      "label": "320x740 interrupted reversal",
+      "pass": true
+    },
+    {
+      "label": "320x740 reduced static truthful control",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "reduced",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 121,
+        "frames": 117,
+        "active": false,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "320x740 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 reduced images",
+      "pass": true
+    },
+    {
+      "label": "320x740 real Tab",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 3,
+        "frames": 1,
+        "active": false,
+        "camera": {
+          "floorY": 0,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "390x844 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 opening images",
+      "pass": true
+    },
+    {
+      "label": "390x844 floor 1",
+      "pass": true
+    },
+    {
+      "label": "390x844 full reading 1",
+      "pass": true
+    },
+    {
+      "label": "390x844 floor 2",
+      "pass": true
+    },
+    {
+      "label": "390x844 full reading 2",
+      "pass": true
+    },
+    {
+      "label": "390x844 floor 3",
+      "pass": true
+    },
+    {
+      "label": "390x844 full reading 3",
+      "pass": true
+    },
+    {
+      "label": "390x844 floor 4",
+      "pass": true
+    },
+    {
+      "label": "390x844 full reading 4",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "contact",
+      "hash": "#4f/read",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 514,
+      "active": "chapter",
+      "animations": 0,
+      "metrics": {
+        "renders": 45,
+        "frames": 43,
+        "active": false,
+        "camera": {
+          "floorY": 20.925596260489467,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "390x844 contact overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 contact images",
+      "pass": true
+    },
+    {
+      "label": "real contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "screening",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 62,
+        "frames": 60,
+        "active": false,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "390x844 screening overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 screening images",
+      "pass": true
+    },
+    {
+      "label": "390x844 screening enter",
+      "pass": true
+    },
+    {
+      "label": "390x844 real playback",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "playing",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "renders": 76,
+        "frames": 74,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "390x844 playing overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 playing images",
+      "pass": true
+    },
+    {
+      "label": "390x844 pause zero render",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "reversal",
+      "hash": "#4f",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 91,
+        "frames": 89,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 0.01236695512635931
+        }
+      }
+    },
+    {
+      "label": "390x844 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 reversal images",
+      "pass": true
+    },
+    {
+      "label": "390x844 interrupted reversal",
+      "pass": true
+    },
+    {
+      "label": "390x844 reduced static truthful control",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "reduced",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 113,
+        "frames": 109,
+        "active": false,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "390x844 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 reduced images",
+      "pass": true
+    },
+    {
+      "label": "390x844 real Tab",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 3,
+        "frames": 1,
+        "active": false,
+        "camera": {
+          "floorY": 0,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "430x932 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 opening images",
+      "pass": true
+    },
+    {
+      "label": "430x932 floor 1",
+      "pass": true
+    },
+    {
+      "label": "430x932 full reading 1",
+      "pass": true
+    },
+    {
+      "label": "430x932 floor 2",
+      "pass": true
+    },
+    {
+      "label": "430x932 full reading 2",
+      "pass": true
+    },
+    {
+      "label": "430x932 floor 3",
+      "pass": true
+    },
+    {
+      "label": "430x932 full reading 3",
+      "pass": true
+    },
+    {
+      "label": "430x932 floor 4",
+      "pass": true
+    },
+    {
+      "label": "430x932 full reading 4",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "contact",
+      "hash": "#4f/read",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 396,
+      "active": "chapter",
+      "animations": 0,
+      "metrics": {
+        "renders": 44,
+        "frames": 42,
+        "active": false,
+        "camera": {
+          "floorY": 20.882931839080708,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "430x932 contact overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 contact images",
+      "pass": true
+    },
+    {
+      "label": "real contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "screening",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 58,
+        "frames": 56,
+        "active": false,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "430x932 screening overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 screening images",
+      "pass": true
+    },
+    {
+      "label": "430x932 screening enter",
+      "pass": true
+    },
+    {
+      "label": "430x932 real playback",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "playing",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "renders": 73,
+        "frames": 71,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "430x932 playing overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 playing images",
+      "pass": true
+    },
+    {
+      "label": "430x932 pause zero render",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "reversal",
+      "hash": "#4f",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 87,
+        "frames": 85,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 0.012355717548644566
+        }
+      }
+    },
+    {
+      "label": "430x932 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 reversal images",
+      "pass": true
+    },
+    {
+      "label": "430x932 interrupted reversal",
+      "pass": true
+    },
+    {
+      "label": "430x932 reduced static truthful control",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "reduced",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 108,
+        "frames": 104,
+        "active": false,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "430x932 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 reduced images",
+      "pass": true
+    },
+    {
+      "label": "430x932 real Tab",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 3,
+        "frames": 1,
+        "active": false,
+        "camera": {
+          "floorY": 0,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "844x390 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 opening images",
+      "pass": true
+    },
+    {
+      "label": "844x390 floor 1",
+      "pass": true
+    },
+    {
+      "label": "844x390 full reading 1",
+      "pass": true
+    },
+    {
+      "label": "844x390 floor 2",
+      "pass": true
+    },
+    {
+      "label": "844x390 full reading 2",
+      "pass": true
+    },
+    {
+      "label": "844x390 floor 3",
+      "pass": true
+    },
+    {
+      "label": "844x390 full reading 3",
+      "pass": true
+    },
+    {
+      "label": "844x390 floor 4",
+      "pass": true
+    },
+    {
+      "label": "844x390 full reading 4",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "contact",
+      "hash": "#4f/read",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 790,
+      "active": "chapter",
+      "animations": 0,
+      "metrics": {
+        "renders": 46,
+        "frames": 44,
+        "active": false,
+        "camera": {
+          "floorY": 20.882931839080708,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "844x390 contact overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 contact images",
+      "pass": true
+    },
+    {
+      "label": "real contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "screening",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 61,
+        "frames": 59,
+        "active": false,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "844x390 screening overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 screening images",
+      "pass": true
+    },
+    {
+      "label": "844x390 screening enter",
+      "pass": true
+    },
+    {
+      "label": "844x390 real playback",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "playing",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "renders": 72,
+        "frames": 70,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "844x390 playing overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 playing images",
+      "pass": true
+    },
+    {
+      "label": "844x390 pause zero render",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "reversal",
+      "hash": "#4f",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 83,
+        "frames": 81,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 0.04151011353411509
+        }
+      }
+    },
+    {
+      "label": "844x390 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 reversal images",
+      "pass": true
+    },
+    {
+      "label": "844x390 interrupted reversal",
+      "pass": true
+    },
+    {
+      "label": "844x390 reduced static truthful control",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "reduced",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 105,
+        "frames": 101,
+        "active": false,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "844x390 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 reduced images",
+      "pass": true
+    },
+    {
+      "label": "844x390 real Tab",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 3,
+        "frames": 1,
+        "active": false,
+        "camera": {
+          "floorY": 0,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "768x1024 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 opening images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 floor 1",
+      "pass": true
+    },
+    {
+      "label": "768x1024 full reading 1",
+      "pass": true
+    },
+    {
+      "label": "768x1024 floor 2",
+      "pass": true
+    },
+    {
+      "label": "768x1024 full reading 2",
+      "pass": true
+    },
+    {
+      "label": "768x1024 floor 3",
+      "pass": true
+    },
+    {
+      "label": "768x1024 full reading 3",
+      "pass": true
+    },
+    {
+      "label": "768x1024 floor 4",
+      "pass": true
+    },
+    {
+      "label": "768x1024 full reading 4",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "contact",
+      "hash": "#4f/read",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 188,
+      "active": "chapter",
+      "animations": 0,
+      "metrics": {
+        "renders": 39,
+        "frames": 37,
+        "active": false,
+        "camera": {
+          "floorY": 20.81524497561912,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "768x1024 contact overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 contact images",
+      "pass": true
+    },
+    {
+      "label": "real contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "screening",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 50,
+        "frames": 48,
+        "active": true,
+        "camera": {
+          "floorY": 20.998755130437907,
+          "zoom": 0.9932620530009145
+        }
+      }
+    },
+    {
+      "label": "768x1024 screening overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 screening images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 screening enter",
+      "pass": true
+    },
+    {
+      "label": "768x1024 real playback",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "playing",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "renders": 62,
+        "frames": 60,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "768x1024 playing overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 playing images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 pause zero render",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "reversal",
+      "hash": "#4f",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 75,
+        "frames": 73,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 0.06539740322986021
+        }
+      }
+    },
+    {
+      "label": "768x1024 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reversal images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 interrupted reversal",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reduced static truthful control",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "reduced",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 96,
+        "frames": 92,
+        "active": false,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "768x1024 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reduced images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 real Tab",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 3,
+        "frames": 1,
+        "active": false,
+        "camera": {
+          "floorY": 0,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "1440x900 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 opening images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 floor 1",
+      "pass": true
+    },
+    {
+      "label": "1440x900 full reading 1",
+      "pass": true
+    },
+    {
+      "label": "1440x900 floor 2",
+      "pass": true
+    },
+    {
+      "label": "1440x900 full reading 2",
+      "pass": true
+    },
+    {
+      "label": "1440x900 floor 3",
+      "pass": true
+    },
+    {
+      "label": "1440x900 full reading 3",
+      "pass": true
+    },
+    {
+      "label": "1440x900 floor 4",
+      "pass": true
+    },
+    {
+      "label": "1440x900 full reading 4",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "contact",
+      "hash": "#4f/read",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 386,
+      "active": "chapter",
+      "animations": 0,
+      "metrics": {
+        "renders": 39,
+        "frames": 37,
+        "active": false,
+        "camera": {
+          "floorY": 20.88242980041644,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "label": "1440x900 contact overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 contact images",
+      "pass": true
+    },
+    {
+      "label": "real contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "screening",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 44,
+        "frames": 42,
+        "active": true,
+        "camera": {
+          "floorY": 20.987886647873747,
+          "zoom": 0.8376793888181518
+        }
+      }
+    },
+    {
+      "label": "1440x900 screening overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 screening images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 screening enter",
+      "pass": true
+    },
+    {
+      "label": "1440x900 real playback",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "playing",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "renders": 53,
+        "frames": 51,
+        "active": true,
+        "camera": {
+          "floorY": 20.999797416020574,
+          "zoom": 0.9972853463670922
+        }
+      }
+    },
+    {
+      "label": "1440x900 playing overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 playing images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 pause zero render",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "reversal",
+      "hash": "#4f",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready",
+      "animations": 0,
+      "metrics": {
+        "renders": 59,
+        "frames": 57,
+        "active": true,
+        "camera": {
+          "floorY": 21,
+          "zoom": 0.25572915991310063
+        }
+      }
+    },
+    {
+      "label": "1440x900 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reversal images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 interrupted reversal",
+      "pass": false
+    },
+    {
+      "label": "1440x900 reduced static truthful control",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "reduced",
+      "hash": "#4f/screen",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "webgl-ready screening",
+      "animations": 0,
+      "metrics": {
+        "renders": 78,
+        "frames": 74,
+        "active": false,
+        "camera": {
+          "floorY": 21,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "label": "1440x900 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reduced images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 real Tab",
+      "pass": true
+    },
+    {
+      "label": "noJS facts visible",
+      "pass": true
+    },
+    {
+      "label": "noJS genuine contact",
+      "pass": true
+    },
+    {
+      "label": "renderer/image fallback independent heading",
+      "pass": true
+    },
+    {
+      "label": "renderer fallback original SVG",
+      "pass": true
+    },
+    {
+      "label": "renderer fallback contact",
+      "pass": false
+    }
+  ],
+  "errors": [],
+  "hashes": {
+    "app.js": "937b0c42abbe6f4abe5b88deac257320042bda7cc44ce9a4b6d61cf76f49cbe2",
+    "fidelity.css": "a3314056550f06247be866d645adee4fc1c0ebf66da95f8809a907f608cbb951",
+    "index.html": "f6aeac966f69678ad1eb0fc0e950a996afdd70f93f151b3c95ad81dabe1dbf10",
+    "scene.js": "712ddf29aeebe4f684d00afdf4b48acf87b7e6d477fd6f630a1958af65b68cdf",
+    "style.css": "c8f116d331d61b7ce52b5ae62f17ce2629026415cd6980532398cc55b620ec82"
+  }
+}

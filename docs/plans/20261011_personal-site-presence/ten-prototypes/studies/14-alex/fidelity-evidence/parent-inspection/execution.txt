@@ -1,0 +1,8 @@
+{
+  "slug": "14-alex",
+  "pass": "parent-inspection",
+  "passed": 40,
+  "failed": [],
+  "errors": [],
+  "captures": 19
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "concept": "01-computation",
+    "label": "01 Computation",
+    "packaged_files": 4
+  },
+  {
+    "concept": "02-kinetic",
+    "label": "02 Kinetic",
+    "packaged_files": 6
+  },
+  {
+    "concept": "03-ecology",
+    "label": "03 Hardware",
+    "packaged_files": 7
+  },
+  {
+    "concept": "04-assembly",
+    "label": "04 Assembly",
+    "packaged_files": 9
+  },
+  {
+    "concept": "05-fieldnotes",
+    "label": "05 Fieldnotes",
+    "packaged_files": 6
+  }
+]

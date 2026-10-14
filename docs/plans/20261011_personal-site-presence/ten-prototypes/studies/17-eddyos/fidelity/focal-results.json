@@ -1,0 +1,88 @@
+{
+  "engine": "Chromium / SwiftShader emulation",
+  "physicalDevice": false,
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "errors": [],
+      "failed": [],
+      "searchKeyboard": "Ctrl K, typing, empty, Enter, Tab/ShiftTab, Escape",
+      "maximize": "single full-width mobile document",
+      "reducedMotion": "no reveal animation",
+      "passed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "failed": [],
+      "searchKeyboard": "Ctrl K, typing, empty, Enter, Tab/ShiftTab, Escape",
+      "maximize": "single full-width mobile document",
+      "reducedMotion": "no reveal animation",
+      "passed": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "errors": [],
+      "failed": [],
+      "searchKeyboard": "Ctrl K, typing, empty, Enter, Tab/ShiftTab, Escape",
+      "maximize": "single full-width mobile document",
+      "reducedMotion": "no reveal animation",
+      "passed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "failed": [],
+      "searchKeyboard": "Ctrl K, typing, empty, Enter, Tab/ShiftTab, Escape",
+      "maximize": "single full-width mobile document",
+      "reducedMotion": "no reveal animation",
+      "passed": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "errors": [],
+      "failed": [],
+      "searchKeyboard": "Ctrl K, typing, empty, Enter, Tab/ShiftTab, Escape",
+      "maximize": {
+        "before": 736,
+        "after": 736,
+        "reversed": true
+      },
+      "reducedMotion": "no reveal animation",
+      "passed": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "failed": [],
+      "searchKeyboard": "Ctrl K, typing, empty, Enter, Tab/ShiftTab, Escape",
+      "maximize": {
+        "before": 1100,
+        "after": 1408,
+        "reversed": true
+      },
+      "reducedMotion": "no reveal animation",
+      "passed": true
+    }
+  ],
+  "fallback": [],
+  "failures": []
+}

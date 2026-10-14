@@ -1,0 +1,68 @@
+[
+  {
+    "width": 320,
+    "scroll": 320,
+    "images": true,
+    "brokenAnchors": 0
+  },
+  {
+    "width": 390,
+    "scroll": 390,
+    "images": true,
+    "brokenAnchors": 0
+  },
+  {
+    "width": 650,
+    "scroll": 650,
+    "images": true,
+    "brokenAnchors": 0
+  },
+  {
+    "width": 768,
+    "scroll": 768,
+    "images": true,
+    "brokenAnchors": 0
+  },
+  {
+    "width": 1000,
+    "scroll": 1000,
+    "images": true,
+    "brokenAnchors": 0
+  },
+  {
+    "width": 1280,
+    "scroll": 1280,
+    "images": true,
+    "brokenAnchors": 0
+  },
+  {
+    "width": 1440,
+    "scroll": 1440,
+    "images": true,
+    "brokenAnchors": 0
+  },
+  {
+    "width": 1600,
+    "scroll": 1600,
+    "images": true,
+    "brokenAnchors": 0
+  },
+  {
+    "reducedMotion": {
+      "matched": true,
+      "scroll": "auto",
+      "animation": "none"
+    }
+  },
+  {
+    "computedSpacing": {
+      "sheet": "20px",
+      "problem": "88px",
+      "conversation": "90px",
+      "minText": 12
+    }
+  },
+  {
+    "externalResourceCount": 0
+  }
+]

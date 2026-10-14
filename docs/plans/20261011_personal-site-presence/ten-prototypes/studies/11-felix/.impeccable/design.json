@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T03:45:27+00:00",
+  "title": "Design System: Signal Lounge",
+  "extensions": {
+    "shadows": [
+      {
+        "name": "channel-selected",
+        "value": "0 3px 9px #161d1e40",
+        "purpose": "Selected broadcast control"
+      },
+      {
+        "name": "read-action",
+        "value": "0 5px 12px #3c302326",
+        "purpose": "Primary reading action"
+      }
+    ],
+    "motion": [
+      {
+        "name": "rain",
+        "value": "4s linear infinite",
+        "purpose": "Ambient rain plus wet glass; stopped under reduce/pause/hidden/offscreen; bounded tuning and receiver framing."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow",
+        "value": "350px"
+      },
+      {
+        "name": "phone",
+        "value": "760px"
+      },
+      {
+        "name": "tablet",
+        "value": "1050px"
+      },
+      {
+        "name": "short-landscape",
+        "value": "500px height"
+      }
+    ],
+    "fidelity": {
+      "controls": [
+        "tune channel",
+        "receiver framing",
+        "listening light",
+        "read screen",
+        "pause rain"
+      ],
+      "motion": "Demand-driven/interruption-aware; reduced/pause selects visible state; hidden/offscreen suspension",
+      "renderer": "SVG optical illustration",
+      "functionalClosure": "Pause, reduced motion, offscreen and hidden states cancel in-flight phosphor tuning as well as stopping rain. Lamp/receiver/rain controls disable while SVG is unavailable; ordinary channel transcripts remain functional."
+    }
+  },
+  "components": [
+    {
+      "name": "Read channel",
+      "kind": "button",
+      "refersTo": "read-button",
+      "description": "Open the current transcript",
+      "html": "<button class=\"ds-read\">Read this channel</button>",
+      "css": ".ds-read{font:16px Arial;background:var(--blue,#254c53);color:var(--cream,#ede3c9);padding:16px 20px;border:0;border-radius:4px;box-shadow:0 5px 12px #3c302326;min-height:52px;cursor:pointer}.ds-read:hover{background:#376570}.ds-read:focus-visible{outline:3px solid var(--honey,#dfbd77);outline-offset:4px}.ds-read:active{transform:translateY(1px)}"
+    },
+    {
+      "name": "Selected channel",
+      "kind": "nav",
+      "refersTo": "selected-channel",
+      "description": "Pressed state in the personal broadcast band",
+      "html": "<button class=\"ds-channel\" aria-pressed=\"true\">Practice</button>",
+      "css": ".ds-channel{font:14px ui-monospace,monospace;color:var(--ink,#352c25);background:var(--cream,#ede3c9);padding:10px 16px;border:1px solid #fff0c9;border-radius:4px;min-height:44px;box-shadow:0 3px 9px #161d1e40;cursor:pointer}.ds-channel:hover{background:#e1d5b8}.ds-channel:focus-visible{outline:3px solid var(--honey,#dfbd77);outline-offset:4px}.ds-channel:active{transform:translateY(1px)}"
+    },
+    {
+      "name": "Program segment",
+      "kind": "custom",
+      "description": "Unboxed broadcast label and paragraph",
+      "html": "<section class=\"ds-segment\"><h3>Start with the real request</h3><p>Understand the problem and the people who use the change.</p></section>",
+      "css": ".ds-segment{background:#ede3c9;color:#352c25;display:grid;grid-template-columns:1fr 3fr;gap:40px;border-top:1px solid #b6a589;padding:28px 0;font:18px/1.7 Arial}.ds-segment h3{font-size:18px;line-height:1.4;margin:0;color:#695238}.ds-segment p{margin:0;max-width:68ch}@media(max-width:760px){.ds-segment{display:block;font-size:17px}.ds-segment h3{margin-bottom:14px}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Signal Lounge",
+    "overview": "Original illustrated listening-room warmth surrounds a personal broadcast. Final local SVG refinement adds layered reflective glazing, occluded local light pools, curved ceramic/terracotta response, varied leaf contours, turntable thickness and cabinet recess depth; no photographic or physical-simulation claim.",
+    "keyCharacteristics": [
+      "Broad broadcast lettering and direct channel controls.",
+      "Authored material detail with directional light and overlapping depth.",
+      "Ordinary full-size transcripts, not CRT-bound prose or modal cards."
+    ],
+    "rules": [],
+    "dos": [
+      "Do keep directional warmth, rainy contrast, cloth/wood/glass details and stable framing together.",
+      "Do keep primary prose at 16px or more and normal document scroll."
+    ],
+    "donts": [
+      "Don't introduce fake BASIC, OS booting, copied source objects or invented professional proof.",
+      "Don't box paragraphs into a generic card grid."
+    ]
+  }
+}

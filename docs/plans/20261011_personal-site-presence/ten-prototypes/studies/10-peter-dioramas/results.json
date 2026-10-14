@@ -1,0 +1,109 @@
+{
+  "url": "http://127.0.0.1:8920/",
+  "viewports": {
+    "desktop": {
+      "width": 1440,
+      "documentWidth": 1440,
+      "fontLoaded": true,
+      "canvas": [
+        1440,
+        590
+      ],
+      "title": "The homelab garden"
+    },
+    "mobile": {
+      "width": 390,
+      "documentWidth": 390,
+      "fontLoaded": true,
+      "canvas": [
+        390,
+        350
+      ]
+    }
+  },
+  "console_errors": [],
+  "request_failures": [],
+  "checks": {
+    "keyboard": {
+      "passed": true,
+      "focus_sequence": [
+        {
+          "tag": "A",
+          "text": "Skip to collection",
+          "id": "",
+          "outline": "solid"
+        },
+        {
+          "tag": "A",
+          "text": "Victor MendivilSoftware developer & curious maker",
+          "id": "",
+          "outline": "solid"
+        },
+        {
+          "tag": "A",
+          "text": "A little about me",
+          "id": "",
+          "outline": "solid"
+        },
+        {
+          "tag": "A",
+          "text": "Let\u2019s talk",
+          "id": "",
+          "outline": "solid"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "id": "previous",
+          "outline": "solid"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "id": "next",
+          "outline": "solid"
+        }
+      ],
+      "enter": "next / previous",
+      "space": "next",
+      "escape": "no modal; does not change scene"
+    },
+    "about_navigation": true,
+    "linkedin": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "mobile_measures": {
+      ".identity span": {
+        "fontSize": "11px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      ".collection-intro p": {
+        "fontSize": "12px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      ".caption-number": {
+        "fontSize": "12px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      ".art-note": {
+        "fontSize": "12px",
+        "paddingLeft": "0px",
+        "paddingRight": "0px"
+      },
+      ".about": {
+        "fontSize": "16px",
+        "paddingLeft": "27.2969px",
+        "paddingRight": "27.2969px"
+      },
+      ".contact": {
+        "fontSize": "16px",
+        "paddingLeft": "27.2969px",
+        "paddingRight": "27.2969px"
+      }
+    },
+    "touch_browsing": true,
+    "reduced_motion": true,
+    "webgl_fallback": true
+  }
+}

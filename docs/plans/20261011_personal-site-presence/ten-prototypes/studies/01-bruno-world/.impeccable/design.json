@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 2,
+  "title": "Design System: Circuit Coast",
+  "extensions": {
+    "colorMeta": {
+      "coast-ink": {
+        "role": "primary",
+        "displayName": "Coast ink"
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Warm field-guide paper"
+      },
+      "enamel": {
+        "role": "secondary",
+        "displayName": "Orange service enamel"
+      },
+      "patina": {
+        "role": "tertiary",
+        "displayName": "Oxidized roof green"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Industrial lettering",
+        "purpose": "World title"
+      },
+      "body": {
+        "displayName": "Field-guide reading",
+        "purpose": "Destination prose"
+      }
+    },
+    "shadows": [
+      {
+        "name": "sign",
+        "value": "0 5px 12px #09282a30",
+        "purpose": "Projected sign elevation"
+      },
+      {
+        "name": "board",
+        "value": "0 14px 40px #082b3540",
+        "purpose": "Solid enamel destination separation"
+      }
+    ],
+    "motion": [
+      {
+        "name": "turbine",
+        "value": "0.25 radians/second",
+        "purpose": "One restrained ambient movement, paused with driving and under reduced motion"
+      }
+    ],
+    "readingSurface": {
+      "background": "#163e43",
+      "routeBar": "#225157",
+      "headline": "#f1bc75",
+      "desktopWidth": "410px",
+      "portraitTop": "45dvh",
+      "portraitCanvasTranslation": "-25dvh while open only",
+      "closeTarget": "44px",
+      "body": "17px",
+      "disclosure": "16px",
+      "modal": false
+    },
+    "breakpoints": [
+      {
+        "name": "portrait",
+        "value": "700px and min-height501px"
+      },
+      {
+        "name": "folded-nav",
+        "value": "1000px"
+      },
+      {
+        "name": "short-landscape",
+        "value": "max-height500px"
+      }
+    ],
+    "rendering": {
+      "engine": "Three.js 0.170.0 WebGL",
+      "maxPixelRatio": 1.5,
+      "staticGeometry": "batched by material",
+      "camera": "orthographic",
+      "toneMapping": "ACES"
+    },
+    "experienceFidelity": {
+      "focal": "Rover exploration",
+      "behavior": "Inertial driving now turns all wheel/hub geometry and banks/pitches the service rover. A bounded pursuit camera follows its physical position and eases into a slightly closer view at speed. Destination selection frames the landmark instead of relocating the rover; closing reverses to its real position. Rendering is capped at 30fps and sun shadow texture at 1024px. The enamel route log remains unchanged.",
+      "reducedMotion": "immediate visible state",
+      "noJS": "complete factual reading with contact",
+      "verification": "fidelity/results.json; performance-confirmation.json; keyboard-confirmation.json",
+      "limits": "Kinematic keep-out boxes, not rigid-body vehicle physics; no source-level physics toys, weather or reflections. Coast rendering measured only 2 desktop / 4 phone renders per second under this heavily concurrent software-WebGL run. This is not a smoothness pass. Initial 2.5-second paused snapshots had 1/2 residual camera frames; the diagnostic confirmed zero work after settling, but settling took ~15 seconds in this environment. One inherited hover contrast advisory is 4.46:1 vs 4.5:1; it remains unresolved. Tinted offset shadow warnings are retained accepted elevation, not newly added effects."
+    }
+  },
+  "components": [
+    {
+      "name": "Destination sign",
+      "kind": "button",
+      "refersTo": "destination-sign",
+      "description": "A clickable label attached to a world landmark",
+      "html": "<button class=\"ds-sign\">Server greenhouse</button>",
+      "css": ".ds-sign{font:14px Barlow,sans-serif;background:#123a3edb;color:#fff4da;border:0;border-radius:2px;padding:7px 11px;box-shadow:0 5px 12px #09282a30;cursor:pointer}.ds-sign:hover{background:#f8be71;color:#163e43}.ds-sign:focus-visible{outline:3px solid #ffbe58;outline-offset:5px}"
+    },
+    {
+      "name": "Contact link",
+      "kind": "button",
+      "refersTo": "contact-link",
+      "description": "Actual contact, no pretend submission",
+      "html": "<a class=\"ds-contact\" href=\"https://www.linkedin.com/in/vmendivilaxdeveloper\">Find me on LinkedIn</a>",
+      "css": ".ds-contact{display:inline-flex;font:17px Barlow,sans-serif;padding:13px 16px;min-height:48px;background:#efb668;color:#123a3e;text-decoration:none}.ds-contact:hover{text-decoration:underline;text-underline-offset:4px}.ds-contact:focus-visible{outline:3px solid #ffbe58;outline-offset:5px}"
+    },
+    {
+      "name": "Guide control",
+      "kind": "button",
+      "description": "Quiet world utility",
+      "html": "<button class=\"ds-guide\">Destinations</button>",
+      "css": ".ds-guide{font:14px Barlow,sans-serif;background:#173e43ef;color:#fff4da;padding:11px 16px;min-height:44px;border:1px solid #fff0d64d;border-radius:3px;cursor:pointer}.ds-guide:hover{border-color:#ffbe58}.ds-guide:focus-visible{outline:3px solid #ffbe58;outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Circuit Coast",
+    "overview": "A materially lit miniature industrial coastline, not a 3D chart. Architecture has roof seams, glazing, pipes, loading awnings, visible server racks, cables and pier planks. Visitors explore with an original six-wheel utility rover; the surrounding page is a restrained field guide.",
+    "keyCharacteristics": [
+      "Golden sandstone and orange enamel against a deep coastal ground.",
+      "Detailed original procedural geometry, physical cast shadows and quiet signage.",
+      "Information remains independent of game skill."
+    ],
+    "rules": [],
+    "dos": [
+      "Do retain direct access to all professional information.",
+      "Do keep the original world coherent in architecture, material and light."
+    ],
+    "donts": [
+      "Don't treat illustrative scenery as evidence of actual client projects or infrastructure.",
+      "Don't substitute abstract primitive diagrams for the detailed landscape.",
+      "Don't imply mechanical browser passes establish reference-level visual acceptance."
+    ]
+  }
+}

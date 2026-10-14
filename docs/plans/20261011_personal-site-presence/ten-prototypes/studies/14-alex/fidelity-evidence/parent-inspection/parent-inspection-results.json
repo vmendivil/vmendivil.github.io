@@ -1,0 +1,328 @@
+{
+  "slug": "14-alex",
+  "engine": "Chromium software ANGLE/SwiftShader; not physical GPU/Safari",
+  "pass": "parent-inspection",
+  "checks": [
+    {
+      "name": "1440 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "1440 ledger keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "1440 all open",
+      "pass": true
+    },
+    {
+      "name": "1440 expanded bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "1440 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "1440 expansion continuity",
+      "pass": true
+    },
+    {
+      "name": "1440 overview restored",
+      "pass": true
+    },
+    {
+      "name": "1440 direct stage link",
+      "pass": true
+    },
+    {
+      "name": "1440 Space opens responsibility",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape closes responsibility",
+      "pass": true
+    },
+    {
+      "name": "1440 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "390 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 ledger keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "390 all open",
+      "pass": true
+    },
+    {
+      "name": "390 expanded bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 expansion continuity",
+      "pass": true
+    },
+    {
+      "name": "390 overview restored",
+      "pass": true
+    },
+    {
+      "name": "390 direct stage link",
+      "pass": true
+    },
+    {
+      "name": "390 Space opens responsibility",
+      "pass": true
+    },
+    {
+      "name": "390 Escape closes responsibility",
+      "pass": true
+    },
+    {
+      "name": "trusted ledger touch",
+      "pass": true
+    },
+    {
+      "name": "390 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "844 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 ledger keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "844 all open",
+      "pass": true
+    },
+    {
+      "name": "844 expanded bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 expansion continuity",
+      "pass": true
+    },
+    {
+      "name": "844 overview restored",
+      "pass": true
+    },
+    {
+      "name": "844 direct stage link",
+      "pass": true
+    },
+    {
+      "name": "844 Space opens responsibility",
+      "pass": true
+    },
+    {
+      "name": "844 Escape closes responsibility",
+      "pass": true
+    },
+    {
+      "name": "844 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "interrupted ledger clean final state",
+      "pass": true
+    },
+    {
+      "name": "reduced media actual",
+      "pass": true
+    },
+    {
+      "name": "reduced ledger visible result",
+      "pass": true
+    },
+    {
+      "name": "reduced contact readable",
+      "pass": true
+    },
+    {
+      "name": "nojs contact readable",
+      "pass": true
+    },
+    {
+      "name": "fallback contact readable",
+      "pass": true
+    }
+  ],
+  "captures": [
+    {
+      "name": "1440-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/1440-main.png",
+      "sha256": "48a3a710fa03f771b04eb90af2821cdb50709f06d478ab3ef9112628fa22bf54"
+    },
+    {
+      "name": "1440-practice-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/1440-practice-reading.png",
+      "sha256": "37d4889bfbd36bf02809a307462005863a2c1429feefd370ba63b7f9e49de87b"
+    },
+    {
+      "name": "1440-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/1440-contact.png",
+      "sha256": "2f0edecfd8be1750c95658d191cf319b0dc8ec9fb89396c8ab2bb4dbaa941646"
+    },
+    {
+      "name": "1440-stage-three",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/1440-stage-three.png",
+      "sha256": "af74d93368d656f7ba236097d609367c48f779228831d60ddc003093ab89d905"
+    },
+    {
+      "name": "390-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/390-main.png",
+      "sha256": "02a13073409940f16f032360cdddc5b23d18192621c40b0f4fd061f6cd645b9c"
+    },
+    {
+      "name": "390-practice-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/390-practice-reading.png",
+      "sha256": "a8f6d69a496ab7b4ed4dba396d90b69b07f250f94bd27b2ce10f139f21b807c1"
+    },
+    {
+      "name": "390-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/390-contact.png",
+      "sha256": "26a0c29c3f9885e53498775c4386d79e117dab25556ec0ff71dbb133b630f749"
+    },
+    {
+      "name": "390-stage-three",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/390-stage-three.png",
+      "sha256": "b1ebb82daa8a5899bc17fd41520d5c2c965fe2074a29b344e2f626ce4430aa76"
+    },
+    {
+      "name": "844-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/844-main.png",
+      "sha256": "c3203bec185ceefbc99ddbb09197a9d920de8407304d3187225259d688e7ab85"
+    },
+    {
+      "name": "844-practice-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/844-practice-reading.png",
+      "sha256": "aeeefaf958814cba331ed37731a9b84435f175f429a4023181cc884bc0e45729"
+    },
+    {
+      "name": "844-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/844-contact.png",
+      "sha256": "cfc6467da95bb632086d65a60a06a21e8e9509f5102c46abb0bb475298397d02"
+    },
+    {
+      "name": "844-stage-three",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/844-stage-three.png",
+      "sha256": "f6bcc712abeee17b93c27503231b0b4f11906d6714030cf43ba03037cb461c2a"
+    },
+    {
+      "name": "sequence-00-overview",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/sequence-00-overview.png",
+      "sha256": "062c05aa69d82427b4631acf46a877ae3e8bb41de261c81459b532761e8a388e"
+    },
+    {
+      "name": "sequence-01-expanding",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/sequence-01-expanding.png",
+      "sha256": "dfd6a17d75d382c47af7e3d726a1217c014572b35f83e9b53a2ee14979953943"
+    },
+    {
+      "name": "sequence-02-expanded",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/sequence-02-expanded.png",
+      "sha256": "37d4889bfbd36bf02809a307462005863a2c1429feefd370ba63b7f9e49de87b"
+    },
+    {
+      "name": "sequence-03-overview",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/sequence-03-overview.png",
+      "sha256": "062c05aa69d82427b4631acf46a877ae3e8bb41de261c81459b532761e8a388e"
+    },
+    {
+      "name": "reduced-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/reduced-contact.png",
+      "sha256": "79d51dfbcddf4b4df7e5df999b1869bf49db6633c5e72c36688f20a7f4024032"
+    },
+    {
+      "name": "nojs-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/nojs-contact.png",
+      "sha256": "8b80cc176c117f5b14d0d540be040e34e49be3cda520f1291f20ff015b3ee071"
+    },
+    {
+      "name": "fallback-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/fidelity-evidence/parent-inspection/fallback-contact.png",
+      "sha256": "26a0c29c3f9885e53498775c4386d79e117dab25556ec0ff71dbb133b630f749"
+    }
+  ],
+  "errors": [],
+  "runtimeHashes": {
+    "index.html": "975551cd0787b0745def3605ec9ae111897418b613e386e6b20ca5a83283ac35",
+    "style.css": "5dffec17e74f3c7e3247e1237922fa4d31dc6ee046819d8a31fca210c4ac5604",
+    "fidelity.css": "fc5ab617a97d56a5010d7a529c0fba8f7f66e9504024cd65c3a82c649e366bb9",
+    "fidelity.js": "5b33dfe2617aa020e80bf75fb60191ac4901fa838260aa02f4afa7dd5f225f50",
+    "main.js": "babe27a7cf3862bb058d358698470725bcbc6d29fe78fdbc44c6fb9ca6573975"
+  },
+  "passed": 40,
+  "failed": []
+}

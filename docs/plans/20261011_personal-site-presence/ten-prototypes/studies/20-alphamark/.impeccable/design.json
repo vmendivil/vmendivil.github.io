@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T03:45:02.551696+00:00",
+  "title": "Design System: Field Editions",
+  "extensions": {
+    "motion": [
+      {
+        "name": "edition-handoff",
+        "value": "cross-document shared plate 480ms; editorial menu cover 420ms",
+        "purpose": "Preserve plate continuity into native essay routes and collection origin on return; reduced motion uses native immediate navigation."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "portrait",
+        "value": "700px"
+      },
+      {
+        "name": "compact",
+        "value": "1000px"
+      },
+      {
+        "name": "short-landscape",
+        "value": "450px height"
+      }
+    ],
+    "shadows": []
+  },
+  "components": [
+    {
+      "name": "Primary link",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Editorial navigation or genuine external contact.",
+      "html": "<a class=\"ds-pill\" href=\"#\">Read the edition <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 12h15m-6-6 6 6-6 6\"/></svg></a>",
+      "css": ".ds-pill{display:inline-flex;align-items:center;gap:30px;background:var(--yellow,#e9ee46);color:var(--ink,#101110);font-family:Manrope,Arial,sans-serif;min-height:56px;padding:12px 22px;border-radius:40px;text-decoration:none}.ds-pill svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.8}.ds-pill:hover{text-decoration:underline}.ds-pill:focus-visible{outline:3px solid #de6138;outline-offset:6px}"
+    },
+    {
+      "name": "Contact link",
+      "kind": "button",
+      "refersTo": "button-dark",
+      "description": "Editorial navigation or genuine external contact.",
+      "html": "<a class=\"ds-pill\" href=\"#\">Read the edition <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 12h15m-6-6 6 6-6 6\"/></svg></a>",
+      "css": ".ds-pill{display:inline-flex;align-items:center;gap:30px;background:var(--ink,#101110);color:var(--paper,#f0f1e9);font-family:Manrope,Arial,sans-serif;min-height:56px;padding:12px 22px;border-radius:40px;text-decoration:none}.ds-pill svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.8}.ds-pill:hover{text-decoration:underline}.ds-pill:focus-visible{outline:3px solid #de6138;outline-offset:6px}"
+    },
+    {
+      "name": "Text return link",
+      "kind": "nav",
+      "description": "Unboxed essay wayfinding.",
+      "html": "<a class=\"ds-return\" href=\"#\">Return to the collection</a>",
+      "css": ".ds-return{display:inline-flex;align-items:center;min-height:44px;color:var(--paper,#f0f1e9);font:16px Manrope,Arial,sans-serif;text-underline-offset:6px}.ds-return:hover{text-decoration-thickness:2px}.ds-return:focus-visible{outline:3px solid #de6138;outline-offset:6px}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "description": "Plain editorial desktop links.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#\">Editions</a><a href=\"#\">Approach</a><a href=\"#\">About</a><a href=\"#\">Contact</a></nav>",
+      "css": ".ds-nav{display:flex;flex-wrap:wrap;gap:30px;font:16px Manrope,Arial,sans-serif}.ds-nav a{display:flex;align-items:center;min-height:44px;color:var(--paper,#f0f1e9);text-decoration:none}.ds-nav a:hover{text-decoration:underline;text-underline-offset:6px}.ds-nav a:focus-visible{outline:3px solid #de6138;outline-offset:6px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The personal visual edition",
+    "overview": "A black editorial collection in which original artwork carries visual authority. Yellow is a full-page color field as well as an action color. Typography moves between exceptionally large, light display lettering and a readable restrained prose voice.",
+    "keyCharacteristics": [
+      "Oversized original plates and open captions.",
+      "Contrasting black and yellow page-scale fields.",
+      "Native vertical reading with separate complete essay destinations."
+    ],
+    "rules": [],
+    "dos": [
+      "Do preserve complete artwork lettering and independent textual captions.",
+      "Do make reading and final contact reachable through native scroll and links.",
+      "Do label representative illustrations and thought experiments honestly."
+    ],
+    "donts": [
+      "Don\u2019t import client logos, ratings, commercial claims or agency identity.",
+      "Don\u2019t turn essays into repeated boxed modal cards."
+    ]
+  }
+}

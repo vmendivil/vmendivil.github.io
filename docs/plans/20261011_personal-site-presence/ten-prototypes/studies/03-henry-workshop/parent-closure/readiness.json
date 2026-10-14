@@ -1,0 +1,49 @@
+{
+  "verdict": "READY",
+  "boundary": "source-side selective assembly only; served/LAN/source-link acceptance remains parent-owned",
+  "counts": {
+    "main": {
+      "assertions": 112,
+      "failed": 0
+    },
+    "extra": {
+      "assertions": 51,
+      "failed": 0
+    },
+    "keyboard": {
+      "assertions": 1,
+      "failed": 0
+    },
+    "performance": {
+      "assertions": 7,
+      "failed": 0
+    },
+    "detector": {
+      "findings": 3,
+      "warnings": 0
+    }
+  },
+  "historical_primary_hash_match": {
+    "index.html": false,
+    "style.css": true,
+    "room.js": false
+  },
+  "allowlist": [
+    "index.html",
+    "style.css",
+    "room.js",
+    "assets/ALEGREYA-OFL.txt",
+    "assets/THREE-LICENSE.txt",
+    "assets/VOLLKORN-OFL.txt",
+    "assets/alegreya-sans.ttf",
+    "assets/three.module.js",
+    "assets/vollkorn.ttf"
+  ],
+  "runtime_inventory": "parent-closure/runtime-sha256.json",
+  "current_full_path": "parent-closure/confirmation/results.json",
+  "limitations": [
+    "headless software-rendered Chromium and trusted emulated touch only",
+    "genuinely hidden tab not certified",
+    "not physical-device Safari or GPU smoothness proof"
+  ]
+}

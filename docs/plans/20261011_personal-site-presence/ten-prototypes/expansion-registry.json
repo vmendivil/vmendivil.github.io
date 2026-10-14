@@ -1,0 +1,113 @@
+[
+  {
+    "number": 11,
+    "slug": "11-felix",
+    "title": "Felix Rieseberg direction",
+    "reference": "Felix Rieseberg",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 12,
+    "slug": "12-vectrfl",
+    "title": "Vectrfl direction",
+    "reference": "Vectrfl",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 13,
+    "slug": "13-arthur",
+    "title": "Arthur Engel direction",
+    "reference": "Arthur Engel",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 14,
+    "slug": "14-alex",
+    "title": "Alex Zapadenko direction",
+    "reference": "Alex Zapadenko",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 15,
+    "slug": "15-preymaker",
+    "title": "Preymaker direction",
+    "reference": "Preymaker",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 16,
+    "slug": "16-lantern",
+    "title": "Lantern House direction",
+    "reference": "Lantern House",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 17,
+    "slug": "17-eddyos",
+    "title": "EddyOS / Eddy Naboulet direction",
+    "reference": "EddyOS / Eddy Naboulet",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 18,
+    "slug": "18-artisans",
+    "title": "Artisans d\u2019id\u00e9es direction",
+    "reference": "Artisans d\u2019id\u00e9es",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 19,
+    "slug": "19-rokumaruichi",
+    "title": "Rokumaruichi direction",
+    "reference": "Rokumaruichi",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 20,
+    "slug": "20-alphamark",
+    "title": "Alphamark direction",
+    "reference": "Alphamark",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 21,
+    "slug": "21-artemii",
+    "title": "Artemii Lebedev direction",
+    "reference": "Artemii Lebedev",
+    "group": "new",
+    "description": "Additional original prototype from your selected reference. Preparation in progress.",
+    "ready": false
+  },
+  {
+    "number": 22,
+    "slug": "22-nickho",
+    "title": "Nick Ho direction",
+    "reference": "Nick Ho Motorsports",
+    "group": "new",
+    "description": "An additional personal-site interpretation with source-informed depth, bold typography and rich interaction. Preparation in progress.",
+    "ready": false,
+    "thumbnail": null,
+    "source_url": "https://nickho-motorsports.nl/",
+    "reference_url": null
+  }
+]

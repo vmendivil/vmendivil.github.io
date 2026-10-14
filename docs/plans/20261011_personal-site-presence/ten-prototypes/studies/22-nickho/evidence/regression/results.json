@@ -1,0 +1,40 @@
+{
+  "scope": "Narrow correction to link drag regression; not another aesthetic QA pass",
+  "results": [
+    {
+      "name": "Native mouse drag selects AI reading",
+      "pass": true,
+      "detail": {
+        "frames": 51,
+        "depthFrames": 3,
+        "fanFrames": 65,
+        "active": false,
+        "visible": false,
+        "paused": false,
+        "reduced": false,
+        "renderer": "webgl-depth",
+        "selected": 1
+      }
+    },
+    {
+      "name": "Interrupted keyboard reverse returns first",
+      "pass": true
+    },
+    {
+      "name": "Next three times returns first",
+      "pass": true
+    },
+    {
+      "name": "Space on plate reads web apps",
+      "pass": true
+    },
+    {
+      "name": "Enter on plate reads web apps",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion selects perceptible AI image and note",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "method": "independent Chromium real input; software WebGL; no physical device",
+  "contexts": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "launcher executes actual document",
+        "launcher selection focuses reading",
+        "minimize restores actual scroll",
+        "maximize changes actual bounds",
+        "expanded pane clamps to real document bounds",
+        "restore recovers pre-clamp reading offset",
+        "about searchable real document",
+        "approach searchable real document",
+        "curiosity searchable real document",
+        "contact searchable real document",
+        "real contact route",
+        "launcher reverse wrap",
+        "launcher forward wrap"
+      ],
+      "launcherFocus": "document",
+      "passed": false,
+      "failure": "AssertionError [ERR_ASSERTION]: escape restores reading\n    at check (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/confirmation.cjs:7:1018)\n    at main (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/confirmation.cjs:12:384)"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "launcher executes actual document",
+        "launcher selection focuses reading",
+        "minimize restores actual scroll",
+        "about searchable real document",
+        "approach searchable real document",
+        "curiosity searchable real document",
+        "contact searchable real document",
+        "real contact route",
+        "launcher reverse wrap",
+        "launcher forward wrap",
+        "escape restores reading",
+        "close resets file",
+        "reduced no reveal loop",
+        "no horizontal overflow",
+        "no page errors",
+        "no asset failures"
+      ],
+      "launcherFocus": "document",
+      "passed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "launcher executes actual document",
+        "launcher selection focuses reading",
+        "minimize restores actual scroll",
+        "about searchable real document",
+        "approach searchable real document",
+        "curiosity searchable real document",
+        "contact searchable real document",
+        "real contact route",
+        "launcher reverse wrap",
+        "launcher forward wrap",
+        "escape restores reading",
+        "close resets file",
+        "reduced no reveal loop",
+        "no horizontal overflow",
+        "no page errors",
+        "no asset failures"
+      ],
+      "launcherFocus": "document",
+      "passed": true
+    }
+  ],
+  "failures": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "error": "escape restores reading"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "sizesAndExtremes": [
+    {
+      "width": 1440,
+      "value": "0",
+      "softwareWidth": 867.146728515625,
+      "wordBounds": [
+        {
+          "text": "SOFTWARE",
+          "left": 25.910999298095703,
+          "right": 893.0577278137207
+        },
+        {
+          "text": "PROCESS",
+          "left": 430.5318908691406,
+          "right": 1207.3744201660156
+        },
+        {
+          "text": "PEOPLE",
+          "left": 111.27354431152344,
+          "right": 881.2733001708984
+        },
+        {
+          "text": "IN SYNC.",
+          "left": 585.6666870117188,
+          "right": 1076.052001953125
+        }
+      ],
+      "practiceBottom": 782.40625,
+      "controlTop": 774,
+      "scrollWidth": 1440
+    },
+    {
+      "width": 1440,
+      "value": "65",
+      "softwareWidth": 806.57080078125,
+      "wordBounds": [
+        {
+          "text": "SOFTWARE",
+          "left": 48.31147766113281,
+          "right": 854.8822784423828
+        },
+        {
+          "text": "PROCESS",
+          "left": 404.1244812011719,
+          "right": 1175.2817077636719
+        },
+        {
+          "text": "PEOPLE",
+          "left": 146.62347412109375,
+          "right": 910.9234008789062
+        },
+        {
+          "text": "IN SYNC.",
+          "left": 587.2105102539062,
+          "right": 1074.50830078125
+        }
+      ],
+      "practiceBottom": 782.40625,
+      "controlTop": 774,
+      "scrollWidth": 1440
+    },
+    {
+      "width": 1440,
+      "value": "100",
+      "softwareWidth": 773.65625,
+      "wordBounds": [
+        {
+          "text": "SOFTWARE",
+          "left": 60.46875,
+          "right": 834.125
+        },
+        {
+          "text": "PROCESS",
+          "left": 390.234375,
+          "right": 1157.671875
+        },
+        {
+          "text": "PEOPLE",
+          "left": 165.984375,
+          "right": 926.5625
+        },
+        {
+          "text": "IN SYNC.",
+          "left": 588.09375,
+          "right": 1073.625
+        }
+      ],
+      "practiceBottom": 782.40625,
+      "controlTop": 774,
+      "scrollWidth": 1440
+    },
+    {
+      "width": 390,
+      "value": "0",
+      "softwareWidth": 288.48760986328125,
+      "wordBounds": [
+        {
+          "text": "SOFTWARE",
+          "left": 15.748384475708008,
+          "right": 304.23599433898926
+        },
+        {
+          "text": "PROCESS",
+          "left": 60.47834396362305,
+          "right": 353.25605392456055
+        },
+        {
+          "text": "PEOPLE",
+          "left": 8.827739715576172,
+          "right": 332.8754081726074
+        },
+        {
+          "text": "IN SYNC.",
+          "left": 65.65472412109375,
+          "right": 294.39215087890625
+        }
+      ],
+      "practiceBottom": 631.265625,
+      "controlTop": 677,
+      "scrollWidth": 390
+    },
+    {
+      "width": 390,
+      "value": "65",
+      "softwareWidth": 274.74493408203125,
+      "wordBounds": [
+        {
+          "text": "SOFTWARE",
+          "left": 19.791582107543945,
+          "right": 294.5365161895752
+        },
+        {
+          "text": "PROCESS",
+          "left": 55.61827850341797,
+          "right": 345.11608123779297
+        },
+        {
+          "text": "PEOPLE",
+          "left": 17.300804138183594,
+          "right": 337.40230560302734
+        },
+        {
+          "text": "IN SYNC.",
+          "left": 66.49308776855469,
+          "right": 293.55377197265625
+        }
+      ],
+      "practiceBottom": 631.265625,
+      "controlTop": 677,
+      "scrollWidth": 390
+    },
+    {
+      "width": 390,
+      "value": "100",
+      "softwareWidth": 267.296875,
+      "wordBounds": [
+        {
+          "text": "SOFTWARE",
+          "left": 22,
+          "right": 289.296875
+        },
+        {
+          "text": "PROCESS",
+          "left": 53.125,
+          "right": 340.609375
+        },
+        {
+          "text": "PEOPLE",
+          "left": 22,
+          "right": 339.703125
+        },
+        {
+          "text": "IN SYNC.",
+          "left": 66.96875,
+          "right": 293.078125
+        }
+      ],
+      "practiceBottom": 631.265625,
+      "controlTop": 677,
+      "scrollWidth": 390
+    }
+  ],
+  "reducedMotion": [
+    {
+      "value": "0",
+      "width": 267.296875,
+      "transforms": [
+        "none",
+        "none",
+        "none",
+        "none"
+      ]
+    },
+    {
+      "value": "100",
+      "width": 267.296875,
+      "transforms": [
+        "none",
+        "none",
+        "none",
+        "none"
+      ]
+    }
+  ],
+  "touchScrub": {
+    "verified": false,
+    "reason": "Input.dispatchTouchEvent timed out in browser harness; no touch pass claimed."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "desktop": {
+    "width": 1440,
+    "documentWidth": 1425,
+    "webgl": "ready",
+    "font": true,
+    "icons": 6,
+    "unicodeArrows": false,
+    "disabled": true,
+    "errors": []
+  },
+  "keyboard": {
+    "spacePause": true,
+    "enterResume": true,
+    "tabSequence": [
+      "skip",
+      "identity",
+      "Context",
+      "Approach",
+      "Contact",
+      "Explore the archive",
+      "motion"
+    ],
+    "reducedSkip": {
+      "hash": "#about",
+      "scrollY": 795,
+      "top": 105
+    },
+    "mobileContextEnter": {
+      "hash": "#about",
+      "y": 915,
+      "top": 25,
+      "errors": []
+    }
+  },
+  "toolIssues": [
+    "Enter lacking text event initially inconclusive; recovered",
+    "Screenshot immediately after navigation timed out; settled capture worked"
+  ],
+  "mobile": {
+    "width": 390,
+    "documentWidth": 390,
+    "webgl": "ready",
+    "font": true,
+    "icons": 6,
+    "unicodeArrows": false,
+    "disabled": true,
+    "errors": [],
+    "markDisplay": "none",
+    "semantic": true
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "noJavaScript": [
+    {
+      "route": "/",
+      "overflow": false,
+      "text": "Skip to content\nVictor Mendivil\nSoftware developer / problem solver\nEditions\nApproach\nAbout\nContact\nField\nEditions.\n\nSoftware practice, after-hours curiosity\nand the thinking that connects them.\n\nExplore the collection\nFrom requirement\nto workable system\nSoftware craft / Read the edition\n\nIllustrative visual essay. An account of my approach, not a client case study.\n\nAfter-hours curiosity\nHomelab / Raspberry Pi\n\nSmall machines, useful experiments, more questions.\n\nTools, with judgment\nAI-assisted work\n\nAssistance can be fast. Responsibility stays human.\n\nAll artwork is original and illustrative. These editions describe interests and working principles, not delivered projects.\n\nThe code is only\npart of the work.\n\nI’m Victor Mendivil. I work on software that has to make sense to the people using it—not just to the person who wrote it.\n\nMy experience is grounded in Dynamics 365 Finance & Operations and ERP. That means listening to requirements, shaping technical designs, implementing changes and carrying them through testing, deployment and support.\n\nI care about the connections between those stages. A clear requirement helps a test mean something. A considered deployment helps a change become usable. Support brings the next questions back into the design.\n\nRead about my approach\nA little more\nthan a job title.\n\nI like making complicated things understandable—and finding out how they work in the first place.\n\nOutside my professional work, that curiosity turns toward Raspberry Pi, homelab servers and AI-assisted work processes and web applications. This collection gives those interests room without dressing them up as a list of accomplishments.\n\nWorking together\n\nI’m employed full-time. Freelance conversations are best suited to contained needs for individuals or small businesses, with remote, evening or asynchronous collaboration discussed up front. Scope and availability need an honest conversation before any commitment.\n\nCareer conversations\n\nI’m also interested in senior and technical-lead roles. That is a separate conversation from freelance work: one about responsibility, collaboration and the next step in my software practice.\n\nSomething worth\nworking through?\n\nA focused software need or a career conversation.\nLet’s start with the context, not a sales pitch.\n\nConnect on LinkedIn\n\nLocal personal-site prototype. LinkedIn opens externally; there is no contact form or message delivery here.\n\nVictor Mendivil / Field Editions\nBack to the collection",
+      "notes": [],
+      "contact": [
+        {
+          "visible": true,
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "Editions",
+          "visible": true,
+          "href": "index.html#editions"
+        },
+        {
+          "text": "Approach",
+          "visible": true,
+          "href": "index.html#approach"
+        },
+        {
+          "text": "About",
+          "visible": true,
+          "href": "index.html#about"
+        },
+        {
+          "text": "Contact",
+          "visible": true,
+          "href": "#contact"
+        }
+      ]
+    },
+    {
+      "route": "/workable-system.html",
+      "overflow": false,
+      "text": "Skip to content\nVictor Mendivil\nSoftware developer / problem solver\nEditions\nApproach\nAbout\nContact\nBack to editions\nFrom requirement\nto workable system.\n\nAn illustrated reflection on software craft: understanding the need, making a change and staying responsible for what follows.\n\nPersonal practice essay / Illustrative artwork / Not a client case study\n\nIntent into operation. Original artwork representing the passage from a written need to something people can use.\nStart with the\nactual need.\n\nA request often arrives as a desired change: add a field, adjust a process, make a report. I want to understand what that change is meant to help someone do. Who uses the information? Where does it come from? What would a useful result look like?\n\nIn Dynamics 365 F&O and ERP work, those questions connect software to an existing way of operating. Requirements need to be specific enough for technical decisions, but also understandable enough for people from different teams to challenge them.\n\nThat is why I see clarification as part of development, not as a delay before it begins. The point is not to generate more documentation. It is to give the work a shared meaning.\n\nDesign it.\nBuild it.\nMake it usable.\n\nRequirements → technical design → implementation → testing → deployment → support.\n\nThis is a chain of responsibilities, not a claim that every project follows a perfect straight line.\n\nCarry the context\nwith the change.\n\nTechnical design turns a need into choices. Implementation gives those choices a concrete form. Testing asks whether the result fits the original intention, including the less convenient paths that a happy-path demonstration can miss.\n\nDeployment and support belong to that same story. A change is not finished merely because it works on a developer’s machine. People need to understand what changed, and the next person working on it needs enough context to make a considered decision.\n\nCross-team coordination helps that context survive. My approach is to connect the requirement, the implementation and the conversations around both—not to treat code as an isolated deliverable.\n\nReturn to the collection\nSomething worth\nworking through?\n\nA focused software need or a career conversation.\nLet’s start with the context, not a sales pitch.\n\nConnect on LinkedIn\n\nLocal personal-site prototype. LinkedIn opens externally; there is no contact form or message delivery here.\n\nVictor Mendivil / Field Editions\nBack to the collection",
+      "notes": [],
+      "contact": [
+        {
+          "visible": true,
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "Editions",
+          "visible": true,
+          "href": "index.html#editions"
+        },
+        {
+          "text": "Approach",
+          "visible": true,
+          "href": "index.html#approach"
+        },
+        {
+          "text": "About",
+          "visible": true,
+          "href": "index.html#about"
+        },
+        {
+          "text": "Contact",
+          "visible": true,
+          "href": "#contact"
+        }
+      ]
+    },
+    {
+      "route": "/after-hours.html",
+      "overflow": false,
+      "text": "Skip to content\nVictor Mendivil\nSoftware developer / problem solver\nEditions\nApproach\nAbout\nContact\nBack to editions\nAfter-hours\ncuriosity.\n\nRaspberry Pi, homelab servers and the appeal of understanding the parts for yourself.\n\nPersonal interests / Illustrative hardware / No project or performance claims\n\nAn imagined small machine, drawn for this edition. Not a photograph of my homelab or a particular Raspberry Pi model.\nA smaller place\nto ask questions.\n\nA small computer can make a large topic feel approachable. My interest in Raspberry Pi and homelab servers is about that opportunity: looking beneath the application and considering the machine, the network and the responsibilities around them.\n\nWhat has to stay running? Which parts depend on each other? What would I need to know if something stopped responding? These are useful questions even when the setting is personal rather than a production system.\n\nThis page is an expression of that curiosity, not a documented build log. The hardware image is an original illustration; it should not be read as evidence of equipment I own or a configuration I have deployed.\n\nThere is a particular pleasure in making room for a question you don’t yet know how to answer.\n\nCuriosity connects\nback to craft.\n\nSoftware depends on more than software. A personal server is a way to think about those surrounding layers: how a service starts, where information lives, and what maintenance asks of the person responsible for it.\n\nI do not need to turn every interest into a polished case study. Some explorations matter because they make the next technical conversation better informed. That is the spirit of this edition.\n\nNext: tools, with judgment\nReturn to the collection\nSomething worth\nworking through?\n\nA focused software need or a career conversation.\nLet’s start with the context, not a sales pitch.\n\nConnect on LinkedIn\n\nLocal personal-site prototype. LinkedIn opens externally; there is no contact form or message delivery here.\n\nVictor Mendivil / Field Editions\nBack to the collection",
+      "notes": [],
+      "contact": [
+        {
+          "visible": true,
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "Editions",
+          "visible": true,
+          "href": "index.html#editions"
+        },
+        {
+          "text": "Approach",
+          "visible": true,
+          "href": "index.html#approach"
+        },
+        {
+          "text": "About",
+          "visible": true,
+          "href": "index.html#about"
+        },
+        {
+          "text": "Contact",
+          "visible": true,
+          "href": "#contact"
+        }
+      ]
+    },
+    {
+      "route": "/ai-judgment.html",
+      "overflow": false,
+      "text": "Skip to content\nVictor Mendivil\nSoftware developer / problem solver\nEditions\nApproach\nAbout\nContact\nBack to editions\nTools,\nwith judgment.\n\nAI-assisted processes and web apps interest me. The responsibility for understanding the result does not disappear.\n\nPersonal approach / Illustrative edition / No benchmark or delivery claims\n\nOriginal typographic artwork: assistance and accountability are not opposites.\nA helpful tool\nis still a tool.\n\nAI can be a way to explore a problem, shape an initial idea or ask for a different explanation. I’m interested in AI-assisted work processes and web applications for those possibilities—not because a generated answer automatically becomes a reliable one.\n\nThe interesting question is where assistance fits. What is the task? What context does the tool have? What needs an independent check? Those questions keep the person doing the work in the picture.\n\nSpeed does not\nreplace a check.\n\nA plausible answer can still be wrong. In software work, the result needs to be read, understood and exercised. I want assistance to support that process, not to become an excuse for skipping it.\n\nFor an illustrative example, imagine asking a tool to outline a small web-app feature. Its suggestions could help identify options. The developer still has to decide what belongs in scope, inspect the implementation and test the actual behavior. This is a thought experiment, not an account of a delivered client project.\n\nMy interest is in a useful relationship with the tool: ask clearly, inspect carefully, test what matters and own the result. That principle connects this newer curiosity to the rest of my software practice.\n\nReturn to the collection\nSomething worth\nworking through?\n\nA focused software need or a career conversation.\nLet’s start with the context, not a sales pitch.\n\nConnect on LinkedIn\n\nLocal personal-site prototype. LinkedIn opens externally; there is no contact form or message delivery here.\n\nVictor Mendivil / Field Editions\nBack to the collection",
+      "notes": [],
+      "contact": [
+        {
+          "visible": true,
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "Editions",
+          "visible": true,
+          "href": "index.html#editions"
+        },
+        {
+          "text": "Approach",
+          "visible": true,
+          "href": "index.html#approach"
+        },
+        {
+          "text": "About",
+          "visible": true,
+          "href": "index.html#about"
+        },
+        {
+          "text": "Contact",
+          "visible": true,
+          "href": "#contact"
+        }
+      ]
+    }
+  ],
+  "computedRuntime": {
+    "loadedFonts": [
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Software practice, after-hours curiosity and the thinking th",
+        "size": "17px",
+        "color": "rgb(175, 179, 172)"
+      },
+      {
+        "text": "Illustrative visual essay. An account of my approach, not a ",
+        "size": "13px",
+        "color": "rgb(175, 179, 172)"
+      },
+      {
+        "text": "Small machines, useful experiments, more questions.",
+        "size": "16px",
+        "color": "rgb(175, 179, 172)"
+      },
+      {
+        "text": "Assistance can be fast. Responsibility stays human.",
+        "size": "16px",
+        "color": "rgb(175, 179, 172)"
+      },
+      {
+        "text": "All artwork is original and illustrative. These editions des",
+        "size": "13px",
+        "color": "rgb(175, 179, 172)"
+      },
+      {
+        "text": "I’m Victor Mendivil. I work on software that has to make sen",
+        "size": "27px",
+        "color": "rgb(16, 17, 16)"
+      },
+      {
+        "text": "My experience is grounded in Dynamics 365 Finance & Operatio",
+        "size": "16px",
+        "color": "rgb(16, 17, 16)"
+      },
+      {
+        "text": "I care about the connections between those stages. A clear r",
+        "size": "16px",
+        "color": "rgb(16, 17, 16)"
+      },
+      {
+        "text": "I like making complicated things understandable—and finding ",
+        "size": "27px",
+        "color": "rgb(240, 241, 233)"
+      },
+      {
+        "text": "Outside my professional work, that curiosity turns toward Ra",
+        "size": "16px",
+        "color": "rgb(175, 179, 172)"
+      },
+      {
+        "text": "I’m employed full-time. Freelance conversations are best sui",
+        "size": "16px",
+        "color": "rgb(175, 179, 172)"
+      },
+      {
+        "text": "I’m also interested in senior and technical-lead roles. That",
+        "size": "16px",
+        "color": "rgb(175, 179, 172)"
+      },
+      {
+        "text": "A focused software need or a career conversation. Let’s star",
+        "size": "16px",
+        "color": "rgb(16, 17, 16)"
+      },
+      {
+        "text": "Local personal-site prototype. LinkedIn opens externally; th",
+        "size": "13px",
+        "color": "rgb(16, 17, 16)"
+      }
+    ],
+    "targets": [
+      {
+        "text": "Victor MendivilSoftware developer / problem solver",
+        "height": 41.78125
+      },
+      {
+        "text": "Menu ",
+        "height": 44
+      }
+    ]
+  }
+}

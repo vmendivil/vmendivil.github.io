@@ -1,0 +1,83 @@
+[
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "mode": "no-js",
+    "errors": [],
+    "passed": true
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "mode": "reduced",
+    "errors": [],
+    "passed": true
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "mode": "webgl-failed",
+    "errors": [],
+    "passed": true
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "mode": "no-js",
+    "errors": [],
+    "passed": true
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "mode": "reduced",
+    "errors": [],
+    "passed": true
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "mode": "webgl-failed",
+    "errors": [],
+    "passed": true
+  },
+  {
+    "viewport": [
+      844,
+      390
+    ],
+    "mode": "no-js",
+    "errors": [],
+    "passed": true
+  },
+  {
+    "viewport": [
+      844,
+      390
+    ],
+    "mode": "reduced",
+    "errors": [],
+    "passed": true
+  },
+  {
+    "viewport": [
+      844,
+      390
+    ],
+    "mode": "webgl-failed",
+    "errors": [],
+    "passed": true
+  }
+]

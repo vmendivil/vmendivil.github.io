@@ -1,0 +1,120 @@
+{
+  "artwork": {
+    "path": "assets/pavilion.svg",
+    "sha256": "aa2d01691b0cc204cd879266000990a8586aebdb4bc8731648e3deffc6616d64"
+  },
+  "authoringSource": {
+    "path": "build_scene.py",
+    "sha256": "09018995a4be9e013b2a8d7baaca5ff4025e3482ffd1a5a017193c262d558323"
+  },
+  "historicalDetector": {
+    "path": "detector-raw.json",
+    "sha256": "315d9a7c905c7613314b371d0857787b12ba48c1824f419bf07af2511bcbf50e"
+  },
+  "results": {
+    "path": "results.json",
+    "sha256": "8ddbcb90a7600c5e9ee1ac2e0126da9aa8ec5b126ca63fe65904bc45af0357a3"
+  },
+  "captureCount": 11,
+  "captures": [
+    {
+      "path": ".impeccable/review/about-desktop.png",
+      "sha256": "e3c211a02c3e3097ac45a48e352269de02da46a392c3e9c37e66410e7ad9bb26",
+      "dimensions": [
+        1440,
+        1192
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "path": ".impeccable/review/about-mobile.png",
+      "sha256": "88585e0bcfbf64348ff64e45abd7b0b97b320feb40bfd14beb78cdf136b53e0d",
+      "dimensions": [
+        390,
+        1496
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "path": ".impeccable/review/contact-desktop.png",
+      "sha256": "5736fe91dc1a8611ed562372f36c44edb93ba79e57e77375ceabef1c1af645bf",
+      "dimensions": [
+        1440,
+        1261
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "path": ".impeccable/review/contact-mobile.png",
+      "sha256": "dcfb3497d26f2fe734848ab559590a9ec9fafcb4ea80a140b99fc1c99e82342e",
+      "dimensions": [
+        390,
+        1567
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "path": ".impeccable/review/content-desktop.png",
+      "sha256": "22d45ea62679522bb5419340a1b28648d0de18e30c9e2be73c530ce7b9857b8d",
+      "dimensions": [
+        1440,
+        1450
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "path": ".impeccable/review/content-mobile.png",
+      "sha256": "54022354691d0cb599417860227eb061e4e5705b5928ebd5bf4fcd3014afa1a7",
+      "dimensions": [
+        390,
+        1808
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "path": ".impeccable/review/curiosity-desktop.png",
+      "sha256": "7d491634d0bcc55e91a6f7ab8c894f9d0db540d4fc95f9ba130590870442295a",
+      "dimensions": [
+        1440,
+        1318
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "path": ".impeccable/review/curiosity-mobile.png",
+      "sha256": "15b561db2a28f8a64e820e4869414963382a12fad1768b6460ac9172bd8e1375",
+      "dimensions": [
+        390,
+        1624
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "path": ".impeccable/review/desktop.png",
+      "sha256": "10ceb75729a4223ee906758a1ec3ae214b76523e6f9cd9f525a4809b7cae7185",
+      "dimensions": [
+        1440,
+        1019
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "path": ".impeccable/review/landscape.png",
+      "sha256": "c51bc4fd57120874b094c6cad7a0ed50a79d7e8c8a50f640324ecbbe507fa8c4",
+      "dimensions": [
+        844,
+        1532
+      ],
+      "visuallyInspected": true
+    },
+    {
+      "path": ".impeccable/review/mobile.png",
+      "sha256": "490cf0a82213d87fe6e3c2350533d7bb4b1f9c9ba3c966509dba5d70c9831e81",
+      "dimensions": [
+        390,
+        980
+      ],
+      "visuallyInspected": true
+    }
+  ]
+}

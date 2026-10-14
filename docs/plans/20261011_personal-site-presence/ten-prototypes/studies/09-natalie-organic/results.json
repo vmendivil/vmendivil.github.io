@@ -1,0 +1,112 @@
+{
+  "checks": [
+    {
+      "name": "art",
+      "value": 4
+    },
+    {
+      "name": "desktop overflow",
+      "value": true
+    },
+    {
+      "name": "real Tab",
+      "value": true
+    },
+    {
+      "name": "Tab reaches first specimen",
+      "value": true
+    },
+    {
+      "name": "Enter opens focused detail",
+      "value": true
+    },
+    {
+      "name": "next",
+      "value": true
+    },
+    {
+      "name": "keyboard previous",
+      "value": true
+    },
+    {
+      "name": "keyboard next",
+      "value": true
+    },
+    {
+      "name": "Escape restores focus",
+      "value": true
+    },
+    {
+      "name": "Space opens",
+      "value": true
+    },
+    {
+      "name": "About navigation",
+      "value": true
+    },
+    {
+      "name": "approach disclosure",
+      "value": true
+    },
+    {
+      "name": "mobile overflow",
+      "value": true
+    },
+    {
+      "name": "mobile pointer detail",
+      "value": true
+    },
+    {
+      "name": "reduced motion",
+      "value": true
+    },
+    {
+      "name": "font",
+      "value": true
+    },
+    {
+      "name": "local requests",
+      "value": true
+    },
+    {
+      "name": "previous wraps",
+      "value": true
+    },
+    {
+      "name": "modal focus contained",
+      "value": true
+    },
+    {
+      "name": "contact target",
+      "value": true
+    },
+    {
+      "name": "real touch",
+      "value": true
+    },
+    {
+      "name": "touch next",
+      "value": true
+    },
+    {
+      "name": "touch previous",
+      "value": true
+    },
+    {
+      "name": "touch close restores focus",
+      "value": true
+    },
+    {
+      "name": "WebGL failure usable",
+      "value": true
+    }
+  ],
+  "errors": [],
+  "requests": [
+    "http://127.0.0.1:8919/",
+    "http://127.0.0.1:8919/style.css",
+    "http://127.0.0.1:8919/gallery.js",
+    "http://127.0.0.1:8919/assets/manrope.ttf",
+    "http://127.0.0.1:8919/assets/three.module.js"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "method": "Actual headed Chromium tab switched away/restored under existing Xvfb, after disabling Playwright forced focus emulation; no visibility property injection",
+  "before": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 0
+      },
+      {
+        "state": "running",
+        "time": 0
+      }
+    ]
+  },
+  "minimized": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 0
+      },
+      {
+        "state": "running",
+        "time": 0
+      }
+    ]
+  },
+  "after": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 1000.0089999991206
+      },
+      {
+        "state": "running",
+        "time": 1000.0089999991206
+      }
+    ]
+  },
+  "restored": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 1516.6549999991207
+      },
+      {
+        "state": "running",
+        "time": 1516.6549999991207
+      }
+    ]
+  }
+}

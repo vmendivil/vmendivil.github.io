@@ -1,0 +1,134 @@
+[
+  {
+    "viewport": [
+      320,
+      740
+    ],
+    "trusted": "Playwright tap on actual header Contact, real wheel to final CTA",
+    "visible": true,
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "rect": {
+      "x": 22,
+      "y": 618.40625,
+      "width": 276,
+      "height": 68,
+      "top": 618.40625,
+      "right": 298,
+      "bottom": 686.40625,
+      "left": 22
+    },
+    "hash": "#contact",
+    "scroll": 9355,
+    "overflow": false
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "trusted": "Playwright tap on actual header Contact, real wheel to final CTA",
+    "visible": true,
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "rect": {
+      "x": 22,
+      "y": 529.609375,
+      "width": 346,
+      "height": 68,
+      "top": 529.609375,
+      "right": 368,
+      "bottom": 597.609375,
+      "left": 22
+    },
+    "hash": "#contact",
+    "scroll": 8640,
+    "overflow": false
+  },
+  {
+    "viewport": [
+      430,
+      932
+    ],
+    "trusted": "Playwright tap on actual header Contact, real wheel to final CTA",
+    "visible": true,
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "rect": {
+      "x": 22,
+      "y": 576.375,
+      "width": 386,
+      "height": 68,
+      "top": 576.375,
+      "right": 408,
+      "bottom": 644.375,
+      "left": 22
+    },
+    "hash": "#contact",
+    "scroll": 8318,
+    "overflow": false
+  },
+  {
+    "viewport": [
+      844,
+      390
+    ],
+    "trusted": "Playwright tap on actual header Contact, real wheel to final CTA",
+    "visible": true,
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "rect": {
+      "x": 447.3125,
+      "y": 133,
+      "width": 354.5,
+      "height": 68,
+      "top": 133,
+      "right": 801.8125,
+      "bottom": 201,
+      "left": 447.3125
+    },
+    "hash": "#contact",
+    "scroll": 6767,
+    "overflow": false
+  },
+  {
+    "viewport": [
+      768,
+      1024
+    ],
+    "trusted": "Playwright tap on actual header Contact, real wheel to final CTA",
+    "visible": true,
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "rect": {
+      "x": 407.03125,
+      "y": 677.640625,
+      "width": 322.578125,
+      "height": 69.1875,
+      "top": 677.640625,
+      "right": 729.609375,
+      "bottom": 746.828125,
+      "left": 407.03125
+    },
+    "hash": "#contact",
+    "scroll": 7710,
+    "overflow": false
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "trusted": "Playwright tap on actual header Contact, real wheel to final CTA",
+    "visible": true,
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "rect": {
+      "x": 792,
+      "y": 575.109375,
+      "width": 576,
+      "height": 68,
+      "top": 575.109375,
+      "right": 1368,
+      "bottom": 643.109375,
+      "left": 792
+    },
+    "hash": "#contact",
+    "scroll": 6484,
+    "overflow": false
+  }
+]

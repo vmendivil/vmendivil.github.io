@@ -1,0 +1,27 @@
+[
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "scrollWidth": 390,
+    "loaded": true,
+    "fontStatus": "loaded",
+    "brief": "I\u2019d like to discuss this situation:\n\nWe enter the same data twice.\n\nA useful next step: clarify the current workflow, the people involved and what a workable outcome would look like.\n\nPrepared locally. Not sent.",
+    "storage": {
+      "local": 0,
+      "session": 0
+    }
+  },
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "loaded": true,
+    "fonts": "loaded",
+    "disclosureOpened": true,
+    "brief": "I\u2019d like to discuss this situation:\n\nWe enter the same data twice.\n\nA useful next step: clarify the current workflow, the people involved and what a workable outcome would look like.\n\nPrepared locally. Not sent.",
+    "storage": {
+      "local": 0,
+      "session": 0
+    }
+  }
+]

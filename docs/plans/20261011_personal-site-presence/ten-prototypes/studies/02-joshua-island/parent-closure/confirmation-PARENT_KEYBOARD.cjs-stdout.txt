@@ -1,0 +1,16 @@
+[
+  {
+    "name": "background visibility observation",
+    "hidden": false,
+    "certified": false
+  },
+  {
+    "name": "fully offscreen narrow atlas",
+    "pass": true,
+    "delta": 0,
+    "renders": 14,
+    "worldBottom": -182,
+    "scroll": 532
+  }
+]
+completeTab true

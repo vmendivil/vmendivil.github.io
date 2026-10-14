@@ -1,0 +1,59 @@
+{
+  "phase": "inspection",
+  "engine": "Chromium Playwright; SwiftShader software emulation; physical Safari not tested",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "fatal": "page.screenshot: Timeout 20000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n",
+      "errors": [],
+      "failed": [],
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 37,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "fatal": "page.waitForFunction: Timeout 20000ms exceeded.",
+      "errors": [],
+      "failed": [],
+      "states": []
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "fatal": "page.waitForFunction: Target page, context or browser has been closed",
+      "errors": [],
+      "failed": [],
+      "states": []
+    }
+  ]
+}

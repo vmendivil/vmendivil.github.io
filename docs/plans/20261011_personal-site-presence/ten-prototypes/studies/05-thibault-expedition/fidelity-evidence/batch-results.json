@@ -1,0 +1,406 @@
+{
+  "study": 5,
+  "session": "fidelity-05",
+  "engine": "Playwright Chromium / software WebGL; trusted emulated touch, not physical Safari/GPU certification",
+  "checks": [
+    {
+      "name": "1440 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 13,
+          "zoom": 0.88
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 14,
+          "zoom": 0.88
+        }
+      }
+    },
+    {
+      "name": "1440 journey completed",
+      "pass": false,
+      "detail": "locator.scrollIntoViewIfNeeded: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-place=\"lab\"]')\n    - locator resolved to visible <button data-place=\"lab\" class=\"landmark\">…</button>\n\n    at click (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:16:51)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:23:28"
+    },
+    {
+      "name": "320 journey completed",
+      "pass": false,
+      "detail": "page.waitForFunction: Timeout 30000ms exceeded.\n    at ready (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:14:18)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:20:29"
+    },
+    {
+      "name": "390 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 14,
+          "zoom": 0.8815959860250933
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 15,
+          "zoom": 0.8811134816664478
+        }
+      }
+    },
+    {
+      "name": "390 journey completed",
+      "pass": false,
+      "detail": "locator.scrollIntoViewIfNeeded: Timeout 3330.9770000000135ms exceeded.\nCall log:\n  - attempting scroll into view action\n    - waiting for element to be stable\n\n    at click (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:16:51)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:23:28"
+    },
+    {
+      "name": "430 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 15,
+          "zoom": 0.8811134816664478
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 16,
+          "zoom": 0.8807768497981947
+        }
+      }
+    },
+    {
+      "name": "430 journey completed",
+      "pass": false,
+      "detail": "locator.scrollIntoViewIfNeeded: Timeout 11353.380999999994ms exceeded.\nCall log:\n  - attempting scroll into view action\n    - waiting for element to be stable\n\n    at click (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:16:51)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:23:28"
+    },
+    {
+      "name": "844 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 14,
+          "zoom": 0.88
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 15,
+          "zoom": 0.88
+        }
+      }
+    },
+    {
+      "name": "844 journey completed",
+      "pass": false,
+      "detail": "locator.scrollIntoViewIfNeeded: Timeout 13864.09500000003ms exceeded.\nCall log:\n  - attempting scroll into view action\n    - waiting for element to be stable\n\n    at click (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:16:51)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:23:28"
+    },
+    {
+      "name": "768 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 15,
+          "zoom": 0.88
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 16,
+          "zoom": 0.88
+        }
+      }
+    },
+    {
+      "name": "768 journey completed",
+      "pass": false,
+      "detail": "locator.scrollIntoViewIfNeeded: Timeout 7186.981000000029ms exceeded.\nCall log:\n  - attempting scroll into view action\n    - waiting for element to be stable\n\n    at click (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:16:51)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:23:28"
+    },
+    {
+      "name": "keyboard Tab reaches native focus",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "performance": [
+    {
+      "width": 1440,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 13,
+        "zoom": 0.88
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 0.88
+      },
+      "renderDelta": 1
+    },
+    {
+      "width": 390,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 0.8815959860250933
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 15,
+        "zoom": 0.8811134816664478
+      },
+      "renderDelta": 1
+    },
+    {
+      "width": 430,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 15,
+        "zoom": 0.8811134816664478
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 16,
+        "zoom": 0.8807768497981947
+      },
+      "renderDelta": 1
+    },
+    {
+      "width": 844,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 0.88
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 15,
+        "zoom": 0.88
+      },
+      "renderDelta": 1
+    },
+    {
+      "width": 768,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 15,
+        "zoom": 0.88
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 16,
+        "zoom": 0.88
+      },
+      "renderDelta": 1
+    }
+  ],
+  "frames": [
+    {
+      "file": "1440-overview.png",
+      "timestamp": 1791842106667,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 12,
+        "zoom": 0.88
+      }
+    },
+    {
+      "file": "390-overview.png",
+      "timestamp": 1791842261595,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 13,
+        "zoom": 0.8822875737149934
+      }
+    },
+    {
+      "file": "430-overview.png",
+      "timestamp": 1791842354680,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 0.8815959860250933
+      }
+    },
+    {
+      "file": "844-overview.png",
+      "timestamp": 1791842453318,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 13,
+        "zoom": 0.88
+      }
+    },
+    {
+      "file": "768-overview.png",
+      "timestamp": 1791842539744,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 0.88
+      }
+    }
+  ],
+  "fatal": "locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('body')\n    - locator resolved to <body>…</body>\n  - attempting click action\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:32:146",
+  "total": 12,
+  "passed": 6,
+  "failed": [
+    {
+      "name": "1440 journey completed",
+      "pass": false,
+      "detail": "locator.scrollIntoViewIfNeeded: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('[data-place=\"lab\"]')\n    - locator resolved to visible <button data-place=\"lab\" class=\"landmark\">…</button>\n\n    at click (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:16:51)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:23:28"
+    },
+    {
+      "name": "320 journey completed",
+      "pass": false,
+      "detail": "page.waitForFunction: Timeout 30000ms exceeded.\n    at ready (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:14:18)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:20:29"
+    },
+    {
+      "name": "390 journey completed",
+      "pass": false,
+      "detail": "locator.scrollIntoViewIfNeeded: Timeout 3330.9770000000135ms exceeded.\nCall log:\n  - attempting scroll into view action\n    - waiting for element to be stable\n\n    at click (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:16:51)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:23:28"
+    },
+    {
+      "name": "430 journey completed",
+      "pass": false,
+      "detail": "locator.scrollIntoViewIfNeeded: Timeout 11353.380999999994ms exceeded.\nCall log:\n  - attempting scroll into view action\n    - waiting for element to be stable\n\n    at click (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:16:51)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:23:28"
+    },
+    {
+      "name": "844 journey completed",
+      "pass": false,
+      "detail": "locator.scrollIntoViewIfNeeded: Timeout 13864.09500000003ms exceeded.\nCall log:\n  - attempting scroll into view action\n    - waiting for element to be stable\n\n    at click (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:16:51)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:23:28"
+    },
+    {
+      "name": "768 journey completed",
+      "pass": false,
+      "detail": "locator.scrollIntoViewIfNeeded: Timeout 7186.981000000029ms exceeded.\nCall log:\n  - attempting scroll into view action\n    - waiting for element to be stable\n\n    at click (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:16:51)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/verify-fidelity.cjs:23:28"
+    }
+  ]
+}

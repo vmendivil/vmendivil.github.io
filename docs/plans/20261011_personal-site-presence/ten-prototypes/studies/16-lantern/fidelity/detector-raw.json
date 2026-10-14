@@ -1,0 +1,12 @@
+[
+  {
+    "antipattern": "border-accent-on-rounded",
+    "name": "Border accent on rounded element",
+    "description": "Thick accent border on a rounded card — the border clashes with the rounded corners. Remove the border or the border-radius.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/style.css",
+    "line": 1,
+    "snippet": "border-bottom:8px solid"
+  }
+]

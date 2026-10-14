@@ -1,0 +1,235 @@
+[
+  {
+    "number": 1,
+    "slug": "01-bruno-world",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "index.html",
+      "world.js"
+    ]
+  },
+  {
+    "number": 2,
+    "slug": "02-joshua-island",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "style.css",
+      "index.html",
+      "world.js"
+    ]
+  },
+  {
+    "number": 3,
+    "slug": "03-henry-workshop",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "room.js",
+      "index.html"
+    ]
+  },
+  {
+    "number": 4,
+    "slug": "04-bilal-theater",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": []
+  },
+  {
+    "number": 5,
+    "slug": "05-thibault-expedition",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": []
+  },
+  {
+    "number": 6,
+    "slug": "06-ameen-garden",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": []
+  },
+  {
+    "number": 7,
+    "slug": "07-rohit-future",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "style.css",
+      "index.html",
+      "scene.js"
+    ]
+  },
+  {
+    "number": 8,
+    "slug": "08-joseph-depth",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "app.js"
+    ]
+  },
+  {
+    "number": 9,
+    "slug": "09-natalie-organic",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "style.css",
+      "gallery.js",
+      "index.html"
+    ]
+  },
+  {
+    "number": 10,
+    "slug": "10-peter-dioramas",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "fidelity.css",
+      "worlds.js",
+      "index.html"
+    ]
+  },
+  {
+    "number": 11,
+    "slug": "11-felix",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "fidelity.css",
+      "main.js",
+      "index.html"
+    ]
+  },
+  {
+    "number": 12,
+    "slug": "12-vectrfl",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "fidelity.css",
+      "index.html",
+      "scene.js"
+    ]
+  },
+  {
+    "number": 13,
+    "slug": "13-arthur",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "fidelity.js",
+      "fidelity.css",
+      "index.html",
+      "scene.js"
+    ]
+  },
+  {
+    "number": 14,
+    "slug": "14-alex",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "fidelity.js",
+      "fidelity.css",
+      "index.html"
+    ]
+  },
+  {
+    "number": 15,
+    "slug": "15-preymaker",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "fidelity.js",
+      "fidelity.css",
+      "index.html"
+    ]
+  },
+  {
+    "number": 16,
+    "slug": "16-lantern",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "room-camera.js",
+      "main.js",
+      "experience.css",
+      "index.html"
+    ]
+  },
+  {
+    "number": 17,
+    "slug": "17-eddyos",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "workbench-tools.js",
+      "experience.css",
+      "index.html"
+    ]
+  },
+  {
+    "number": 18,
+    "slug": "18-artisans",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "style.css",
+      "main.js",
+      "experience.css",
+      "index.html"
+    ]
+  },
+  {
+    "number": 19,
+    "slug": "19-rokumaruichi",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "app.js",
+      "fidelity.css",
+      "index.html",
+      "scene.js"
+    ]
+  },
+  {
+    "number": 20,
+    "slug": "20-alphamark",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "ai-judgment.html",
+      "fidelity.css",
+      "after-hours.html",
+      "workable-system.html",
+      "main.js",
+      "index.html"
+    ]
+  },
+  {
+    "number": 21,
+    "slug": "21-artemii",
+    "publicReady": true,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "fidelity.css",
+      "main.js",
+      "index.html"
+    ]
+  },
+  {
+    "number": 22,
+    "slug": "22-nickho",
+    "publicReady": false,
+    "hasFidelityReport": true,
+    "unservedRuntimeChanges": [
+      "app.js",
+      "style.css",
+      "index.html"
+    ]
+  }
+]

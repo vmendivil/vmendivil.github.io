@@ -1,0 +1,6 @@
+/* The camera owns the crop; preserve the accepted illustration. */
+.js.is-reading .scene svg{transform:none;transition:filter .5s ease-out}
+.scene svg [id^="bay-"]{transition:filter .45s ease-out}
+.js.is-reading .wall{border-bottom-color:#c79160}
+#room-index a[aria-current]{text-decoration-thickness:2px;text-underline-offset:8px}
+@media(prefers-reduced-motion:reduce){.scene svg,.scene svg [id^="bay-"]{transition:none}}

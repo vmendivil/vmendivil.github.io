@@ -1,0 +1,16 @@
+{
+  "url": "http://127.0.0.1:9622/",
+  "matches": {
+    "index.html": true,
+    "style.css": true,
+    "app.js": true,
+    "assets/Anton-Regular.ttf": true,
+    "assets/Anton-OFL.txt": true,
+    "assets/portrait.jpg": true,
+    "assets/portrait-depth.svg": true,
+    "assets/fold.svg": true,
+    "assets/homelab.svg": true,
+    "assets/process.svg": true,
+    "assets/web.svg": true
+  }
+}

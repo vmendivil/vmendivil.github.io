@@ -1,0 +1,294 @@
+{
+  "engine": "Chromium SwiftShader; trusted emulated touch/keyboard, no physical-device certification",
+  "externalLink": "intercepted fixture; literal URL checked; no claim of live LinkedIn response",
+  "checks": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "name": "body copy >=16px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "name": "navigation targets >=44px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "name": "approach toggles by touch",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "name": "literal contact URL + new-tab safety",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "name": "real Tab reaches contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "name": "native Enter opens supplied contact (intercepted fixture)",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "name": "body copy >=16px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "name": "navigation targets >=44px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "name": "approach toggles by touch",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "name": "literal contact URL + new-tab safety",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "name": "real Tab reaches contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "name": "native Enter opens supplied contact (intercepted fixture)",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "name": "body copy >=16px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "name": "navigation targets >=44px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "name": "approach toggles by touch",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "name": "literal contact URL + new-tab safety",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "name": "real Tab reaches contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "name": "native Enter opens supplied contact (intercepted fixture)",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "name": "body copy >=16px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "name": "navigation targets >=44px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "name": "approach toggles by touch",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "name": "literal contact URL + new-tab safety",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "name": "real Tab reaches contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "name": "native Enter opens supplied contact (intercepted fixture)",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "name": "body copy >=16px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "name": "navigation targets >=44px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "name": "approach toggles by touch",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "name": "literal contact URL + new-tab safety",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "name": "real Tab reaches contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "name": "native Enter opens supplied contact (intercepted fixture)",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "name": "body copy >=16px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "name": "navigation targets >=44px",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "name": "approach toggles by touch",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "name": "literal contact URL + new-tab safety",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "name": "real Tab reaches contact",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "name": "native Enter opens supplied contact (intercepted fixture)",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Preserve licensed/vendored bytes and historical raw evidence exactly.
+**/assets/** -text -whitespace
+**/fonts/** -text -whitespace
+**/vendor/** -text -whitespace
+**/tools/three.module.js -text -whitespace
+**/OFL.txt -text -whitespace
+**/references-expansion/** -text -whitespace
+**/*stdout.txt -text -whitespace
+# Existing Markdown often intentionally ends with an empty paragraph.
+*.md whitespace=-blank-at-eof

@@ -1,0 +1,8 @@
+html{scrollbar-color:#94b8a6 #111512}
+.light-controls{position:absolute;z-index:2;left:8vw;bottom:145px;max-width:84vw;color:#edf3ed;background:#17231de8;padding:10px 12px}
+.light-controls>div{display:flex;gap:12px;flex-wrap:wrap}.light-controls button{font:14px Manrope,sans-serif;min-height:44px;padding:8px 12px;border:1px solid #94b8a6;background:transparent;color:inherit;cursor:pointer}.light-controls button:hover,.light-controls button[aria-pressed=true]{background:#cef0dd;color:#17372b}.light-controls button:disabled{opacity:.7;cursor:default}.light-controls label{display:flex;align-items:center;gap:15px;min-height:44px;font-size:13px}.light-controls input{width:150px;min-width:70px;min-height:44px;accent-color:#cef0dd;cursor:pointer;flex:1}
+.scene:not(.live).illuminated .poster{filter:brightness(1.18) saturate(1.08)}.poster{transition:filter .3s}
+.reading{position:relative}.reading::before{content:'';position:absolute;left:3vw;top:0;bottom:0;width:1px;background:linear-gradient(#eddaaa,#cef0dd);opacity:.45}.curiosity::before{background:#83eced}.contact::before{background:#547566}.scene:not(.live) .light-controls label::after{content:'Still view';font-size:11px}.scene:not(.live) .light-controls input{display:none}
+@media(max-width:700px){.light-controls{left:7vw;bottom:142px;max-width:86vw;padding:8px}.light-controls>div{gap:8px}.light-controls button{font-size:12px;padding:8px 10px}.light-controls label{font-size:12px}.reading::before{left:3vw}}
+@media(max-width:700px){.threshold .light-controls{bottom:172px}.threshold .continue{bottom:106px}}
+@media(prefers-reduced-motion:reduce){.poster{transition:none}.scene.illuminated .poster{filter:brightness(1.18) saturate(1.08)}}

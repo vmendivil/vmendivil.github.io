@@ -1,0 +1,1328 @@
+{
+  "study": 21,
+  "engine": "Chromium emulation; trusted Playwright input; not physical GPU/Safari certification",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "js",
+      "animations": 0,
+      "metrics": {
+        "transitions": 1,
+        "selectionChanges": 0
+      }
+    },
+    {
+      "label": "320x740 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 opening images",
+      "pass": true
+    },
+    {
+      "label": "320x740 filter actual inventory",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "filtered",
+      "hash": "#preview-homelab",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 577,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 2,
+        "selectionChanges": 1
+      }
+    },
+    {
+      "label": "320x740 filtered overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 filtered images",
+      "pass": true
+    },
+    {
+      "label": "320x740 complete note erp",
+      "pass": true
+    },
+    {
+      "label": "320x740 restore erp",
+      "pass": true
+    },
+    {
+      "label": "320x740 complete note delivery",
+      "pass": true
+    },
+    {
+      "label": "320x740 restore delivery",
+      "pass": true
+    },
+    {
+      "label": "320x740 complete note homelab",
+      "pass": true
+    },
+    {
+      "label": "320x740 restore homelab",
+      "pass": true
+    },
+    {
+      "label": "320x740 complete note ai",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "reading-ai",
+      "hash": "#note-ai",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1544,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 10,
+        "selectionChanges": 13
+      }
+    },
+    {
+      "label": "320x740 reading-ai overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 reading-ai images",
+      "pass": true
+    },
+    {
+      "label": "320x740 restore ai",
+      "pass": true
+    },
+    {
+      "label": "320x740 complete note person",
+      "pass": true
+    },
+    {
+      "label": "320x740 restore person",
+      "pass": true
+    },
+    {
+      "label": "320x740 complete note availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "reading-availability",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1347,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 14,
+        "selectionChanges": 19
+      }
+    },
+    {
+      "label": "320x740 reading-availability overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 reading-availability images",
+      "pass": true
+    },
+    {
+      "label": "320x740 restore availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "reversal",
+      "hash": "#preview-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2880,
+      "active": "open-note",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 20
+      }
+    },
+    {
+      "label": "320x740 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 reversal images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "reduced",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 21
+      }
+    },
+    {
+      "label": "320x740 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 reduced images",
+      "pass": true
+    },
+    {
+      "label": "320x740 reduced no animations",
+      "pass": true
+    },
+    {
+      "label": "320x740 real Tab",
+      "pass": false
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "js",
+      "animations": 0,
+      "metrics": {
+        "transitions": 1,
+        "selectionChanges": 0
+      }
+    },
+    {
+      "label": "390x844 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 opening images",
+      "pass": true
+    },
+    {
+      "label": "390x844 filter actual inventory",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "filtered",
+      "hash": "#preview-homelab",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 515,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 2,
+        "selectionChanges": 1
+      }
+    },
+    {
+      "label": "390x844 filtered overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 filtered images",
+      "pass": true
+    },
+    {
+      "label": "390x844 complete note erp",
+      "pass": true
+    },
+    {
+      "label": "390x844 restore erp",
+      "pass": true
+    },
+    {
+      "label": "390x844 complete note delivery",
+      "pass": true
+    },
+    {
+      "label": "390x844 restore delivery",
+      "pass": true
+    },
+    {
+      "label": "390x844 complete note homelab",
+      "pass": true
+    },
+    {
+      "label": "390x844 restore homelab",
+      "pass": true
+    },
+    {
+      "label": "390x844 complete note ai",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "reading-ai",
+      "hash": "#note-ai",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1229,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 10,
+        "selectionChanges": 13
+      }
+    },
+    {
+      "label": "390x844 reading-ai overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 reading-ai images",
+      "pass": true
+    },
+    {
+      "label": "390x844 restore ai",
+      "pass": true
+    },
+    {
+      "label": "390x844 complete note person",
+      "pass": true
+    },
+    {
+      "label": "390x844 restore person",
+      "pass": true
+    },
+    {
+      "label": "390x844 complete note availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "reading-availability",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1062,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 14,
+        "selectionChanges": 19
+      }
+    },
+    {
+      "label": "390x844 reading-availability overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 reading-availability images",
+      "pass": true
+    },
+    {
+      "label": "390x844 restore availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "reversal",
+      "hash": "#preview-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2891,
+      "active": "open-note",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 20
+      }
+    },
+    {
+      "label": "390x844 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 reversal images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "reduced",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 21
+      }
+    },
+    {
+      "label": "390x844 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 reduced images",
+      "pass": true
+    },
+    {
+      "label": "390x844 reduced no animations",
+      "pass": true
+    },
+    {
+      "label": "390x844 real Tab",
+      "pass": false
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "js",
+      "animations": 0,
+      "metrics": {
+        "transitions": 1,
+        "selectionChanges": 0
+      }
+    },
+    {
+      "label": "430x932 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 opening images",
+      "pass": true
+    },
+    {
+      "label": "430x932 filter actual inventory",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "filtered",
+      "hash": "#preview-homelab",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 515,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 2,
+        "selectionChanges": 1
+      }
+    },
+    {
+      "label": "430x932 filtered overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 filtered images",
+      "pass": true
+    },
+    {
+      "label": "430x932 complete note erp",
+      "pass": true
+    },
+    {
+      "label": "430x932 restore erp",
+      "pass": true
+    },
+    {
+      "label": "430x932 complete note delivery",
+      "pass": true
+    },
+    {
+      "label": "430x932 restore delivery",
+      "pass": true
+    },
+    {
+      "label": "430x932 complete note homelab",
+      "pass": true
+    },
+    {
+      "label": "430x932 restore homelab",
+      "pass": true
+    },
+    {
+      "label": "430x932 complete note ai",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "reading-ai",
+      "hash": "#note-ai",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1063,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 10,
+        "selectionChanges": 13
+      }
+    },
+    {
+      "label": "430x932 reading-ai overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 reading-ai images",
+      "pass": true
+    },
+    {
+      "label": "430x932 restore ai",
+      "pass": true
+    },
+    {
+      "label": "430x932 complete note person",
+      "pass": true
+    },
+    {
+      "label": "430x932 restore person",
+      "pass": true
+    },
+    {
+      "label": "430x932 complete note availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "reading-availability",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 876,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 14,
+        "selectionChanges": 19
+      }
+    },
+    {
+      "label": "430x932 reading-availability overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 reading-availability images",
+      "pass": true
+    },
+    {
+      "label": "430x932 restore availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "reversal",
+      "hash": "#preview-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2947,
+      "active": "open-note",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 20
+      }
+    },
+    {
+      "label": "430x932 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 reversal images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "reduced",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 21
+      }
+    },
+    {
+      "label": "430x932 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 reduced images",
+      "pass": true
+    },
+    {
+      "label": "430x932 reduced no animations",
+      "pass": true
+    },
+    {
+      "label": "430x932 real Tab",
+      "pass": false
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "js",
+      "animations": 0,
+      "metrics": {
+        "transitions": 1,
+        "selectionChanges": 0
+      }
+    },
+    {
+      "label": "844x390 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 opening images",
+      "pass": true
+    },
+    {
+      "label": "844x390 filter actual inventory",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "filtered",
+      "hash": "#preview-homelab",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 515,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 2,
+        "selectionChanges": 1
+      }
+    },
+    {
+      "label": "844x390 filtered overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 filtered images",
+      "pass": true
+    },
+    {
+      "label": "844x390 complete note erp",
+      "pass": true
+    },
+    {
+      "label": "844x390 restore erp",
+      "pass": true
+    },
+    {
+      "label": "844x390 complete note delivery",
+      "pass": true
+    },
+    {
+      "label": "844x390 restore delivery",
+      "pass": true
+    },
+    {
+      "label": "844x390 complete note homelab",
+      "pass": true
+    },
+    {
+      "label": "844x390 restore homelab",
+      "pass": true
+    },
+    {
+      "label": "844x390 complete note ai",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "reading-ai",
+      "hash": "#note-ai",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1516,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 10,
+        "selectionChanges": 13
+      }
+    },
+    {
+      "label": "844x390 reading-ai overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 reading-ai images",
+      "pass": true
+    },
+    {
+      "label": "844x390 restore ai",
+      "pass": true
+    },
+    {
+      "label": "844x390 complete note person",
+      "pass": true
+    },
+    {
+      "label": "844x390 restore person",
+      "pass": true
+    },
+    {
+      "label": "844x390 complete note availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "reading-availability",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1037,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 14,
+        "selectionChanges": 19
+      }
+    },
+    {
+      "label": "844x390 reading-availability overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 reading-availability images",
+      "pass": true
+    },
+    {
+      "label": "844x390 restore availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "reversal",
+      "hash": "#preview-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 5169,
+      "active": "open-note",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 20
+      }
+    },
+    {
+      "label": "844x390 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 reversal images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "reduced",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 21
+      }
+    },
+    {
+      "label": "844x390 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 reduced images",
+      "pass": true
+    },
+    {
+      "label": "844x390 reduced no animations",
+      "pass": true
+    },
+    {
+      "label": "844x390 real Tab",
+      "pass": false
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "js",
+      "animations": 0,
+      "metrics": {
+        "transitions": 1,
+        "selectionChanges": 0
+      }
+    },
+    {
+      "label": "768x1024 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 opening images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 filter actual inventory",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "filtered",
+      "hash": "#preview-homelab",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 515,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 2,
+        "selectionChanges": 1
+      }
+    },
+    {
+      "label": "768x1024 filtered overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 filtered images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 complete note erp",
+      "pass": true
+    },
+    {
+      "label": "768x1024 restore erp",
+      "pass": true
+    },
+    {
+      "label": "768x1024 complete note delivery",
+      "pass": true
+    },
+    {
+      "label": "768x1024 restore delivery",
+      "pass": true
+    },
+    {
+      "label": "768x1024 complete note homelab",
+      "pass": true
+    },
+    {
+      "label": "768x1024 restore homelab",
+      "pass": true
+    },
+    {
+      "label": "768x1024 complete note ai",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "reading-ai",
+      "hash": "#note-ai",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 828,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 10,
+        "selectionChanges": 15
+      }
+    },
+    {
+      "label": "768x1024 reading-ai overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reading-ai images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 restore ai",
+      "pass": true
+    },
+    {
+      "label": "768x1024 complete note person",
+      "pass": true
+    },
+    {
+      "label": "768x1024 restore person",
+      "pass": true
+    },
+    {
+      "label": "768x1024 complete note availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "reading-availability",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 403,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 14,
+        "selectionChanges": 21
+      }
+    },
+    {
+      "label": "768x1024 reading-availability overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reading-availability images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 restore availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "reversal",
+      "hash": "#preview-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 4208,
+      "active": "open-note",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 22
+      }
+    },
+    {
+      "label": "768x1024 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reversal images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "reduced",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 23
+      }
+    },
+    {
+      "label": "768x1024 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reduced images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reduced no animations",
+      "pass": true
+    },
+    {
+      "label": "768x1024 real Tab",
+      "pass": false
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "js",
+      "animations": 0,
+      "metrics": {
+        "transitions": 1,
+        "selectionChanges": 0
+      }
+    },
+    {
+      "label": "1440x900 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 opening images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 filter actual inventory",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "filtered",
+      "hash": "#preview-homelab",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 33,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 2,
+        "selectionChanges": 1
+      }
+    },
+    {
+      "label": "1440x900 filtered overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 filtered images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 complete note erp",
+      "pass": true
+    },
+    {
+      "label": "1440x900 restore erp",
+      "pass": true
+    },
+    {
+      "label": "1440x900 complete note delivery",
+      "pass": true
+    },
+    {
+      "label": "1440x900 restore delivery",
+      "pass": true
+    },
+    {
+      "label": "1440x900 complete note homelab",
+      "pass": true
+    },
+    {
+      "label": "1440x900 restore homelab",
+      "pass": true
+    },
+    {
+      "label": "1440x900 complete note ai",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "reading-ai",
+      "hash": "#note-ai",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 987,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 10,
+        "selectionChanges": 13
+      }
+    },
+    {
+      "label": "1440x900 reading-ai overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reading-ai images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 restore ai",
+      "pass": true
+    },
+    {
+      "label": "1440x900 complete note person",
+      "pass": true
+    },
+    {
+      "label": "1440x900 restore person",
+      "pass": true
+    },
+    {
+      "label": "1440x900 complete note availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "reading-availability",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 507,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 14,
+        "selectionChanges": 19
+      }
+    },
+    {
+      "label": "1440x900 reading-availability overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reading-availability images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 restore availability",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "reversal",
+      "hash": "#preview-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 3965,
+      "active": "open-note",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 20
+      }
+    },
+    {
+      "label": "1440x900 reversal overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reversal images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "reduced",
+      "hash": "#note-availability",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": {
+        "transitions": 15,
+        "selectionChanges": 21
+      }
+    },
+    {
+      "label": "1440x900 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reduced images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reduced no animations",
+      "pass": true
+    },
+    {
+      "label": "1440x900 real Tab",
+      "pass": false
+    },
+    {
+      "label": "noJS facts visible",
+      "pass": true
+    },
+    {
+      "label": "noJS genuine contact",
+      "pass": true
+    },
+    {
+      "label": "renderer/image fallback independent heading",
+      "pass": true
+    }
+  ],
+  "errors": [
+    "Transition was aborted because of invalid state. Snapshot capture failed",
+    "Transition was aborted because of invalid state. Snapshot capture failed",
+    "Transition was aborted because of invalid state. Snapshot capture failed",
+    "Transition was aborted because of invalid state. Snapshot capture failed",
+    "Transition was aborted because of invalid state. Snapshot capture failed",
+    "Transition was aborted because of invalid state. Snapshot capture failed"
+  ],
+  "hashes": {
+    "fidelity.css": "03307a97f02610ac82348dad17c6a49213cdfdef766f799580f9f43f02b835a9",
+    "index.html": "d12dcefa70a75049d1f3b46c5a09af06b5b6b85e19bfe0c75e5ff282b20bd480",
+    "main.js": "4f6ee8da686d634c07cabff0865e610bba32752a50272e9ac6cf1a8288674d0a",
+    "style.css": "8cc2dc257e6348c9e9711b2acd94a7f8d19fc788170d5935c690a222e647b535"
+  }
+}

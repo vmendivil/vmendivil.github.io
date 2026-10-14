@@ -1,0 +1,112 @@
+[
+  {
+    "variant": "interruption",
+    "states": [
+      {
+        "name": "latest-quarter-turn",
+        "state": {
+          "draws": 39,
+          "frame": 0,
+          "current": 0,
+          "angle": 1.4507963267948965,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "pass": true
+      },
+      {
+        "name": "reversed-front",
+        "state": {
+          "draws": 48,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "pass": true
+      },
+      {
+        "name": "contact",
+        "pass": true
+      },
+      {
+        "name": "return",
+        "pass": true
+      }
+    ],
+    "overflow": false,
+    "pass": true
+  },
+  {
+    "variant": "reduced",
+    "states": [
+      {
+        "name": "reduced-visible-turn",
+        "state": {
+          "draws": 5,
+          "frame": 0,
+          "current": 0,
+          "angle": 1.4507963267948965,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "pass": true
+      },
+      {
+        "name": "contact",
+        "pass": true
+      },
+      {
+        "name": "return",
+        "pass": true
+      }
+    ],
+    "overflow": false,
+    "pass": true
+  },
+  {
+    "variant": "fallback",
+    "states": [
+      {
+        "name": "still-browse",
+        "image": {
+          "loaded": true,
+          "src": "assets/world-2.png"
+        },
+        "pass": true
+      },
+      {
+        "name": "contact",
+        "pass": true
+      },
+      {
+        "name": "return",
+        "pass": true
+      }
+    ],
+    "overflow": false,
+    "pass": true
+  },
+  {
+    "variant": "no-js",
+    "states": [
+      {
+        "name": "contact",
+        "pass": true
+      },
+      {
+        "name": "return",
+        "pass": true
+      }
+    ],
+    "overflow": false,
+    "pass": true
+  }
+]

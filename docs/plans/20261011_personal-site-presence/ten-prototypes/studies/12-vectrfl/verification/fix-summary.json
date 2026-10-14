@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "asset": "assets/landscape.png",
+      "embeddedProvenance": true,
+      "crcValid": true,
+      "hashMatches": true
+    },
+    {
+      "asset": "assets/chapter-requirements.png",
+      "embeddedProvenance": true,
+      "crcValid": true,
+      "hashMatches": true
+    },
+    {
+      "asset": "assets/chapter-design.png",
+      "embeddedProvenance": true,
+      "crcValid": true,
+      "hashMatches": true
+    },
+    {
+      "asset": "assets/chapter-delivery.png",
+      "embeddedProvenance": true,
+      "crcValid": true,
+      "hashMatches": true
+    },
+    {
+      "asset": "assets/chapter-support.png",
+      "embeddedProvenance": true,
+      "crcValid": true,
+      "hashMatches": true
+    }
+  ],
+  "viewports": 6,
+  "chapterPaths": 24,
+  "faqRows": 30,
+  "touchTargets44": true,
+  "networkErrors": 0,
+  "variants": [
+    "reduced",
+    "fallback",
+    "no-js"
+  ],
+  "freshMobileCropSource": "fix-full-mobile.png"
+}

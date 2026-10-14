@@ -1,0 +1,22 @@
+{
+  "keyboard": {
+    "tabReachedSummary": true,
+    "enterWithNativeTextOpens": true,
+    "spaceCloses": true,
+    "note": "CDP Enter without text did not activate; native Enter with carriage-return text did."
+  },
+  "desktop": {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "noOverflow": true,
+    "fonts": "loaded",
+    "closed": true
+  },
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "noOverflow": true,
+    "fonts": "loaded",
+    "closed": true
+  }
+}

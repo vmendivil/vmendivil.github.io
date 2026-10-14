@@ -1,0 +1,47 @@
+# Reproducible source, planning context and evidence belong in this branch.
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+**/*browser-profile*/
+**/*visibility-profile*/
+**/SingletonCookie
+**/SingletonLock
+**/SingletonSocket
+**/*authority
+# Generated historical captures stay local by explicit user choice.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.avif
+*.mp4
+*.webm
+*.zip
+# Retain actual runtime assets and the already assembled gallery.
+!**/assets/*.png
+!**/assets/**/*.png
+!**/assets/*.jpg
+!**/assets/**/*.jpg
+!**/assets/*.jpeg
+!**/assets/**/*.jpeg
+!**/assets/*.webp
+!**/assets/**/*.webp
+!**/assets/*.avif
+!**/assets/**/*.avif
+!**/assets/*.mp4
+!**/assets/**/*.mp4
+!**/assets/*.webm
+!**/assets/**/*.webm
+!**/preview/**
+# Desktop review images are assembler inputs, not optional history.
+!**/.impeccable/review/desktop.png
+# Assembly scratch and old release copies are reconstructible/local history.
+**/.assembly-stage/
+**/.assembly-backup/
+**/.preview-releases/
+# Explicitly denied private raster: keep the approved served counterpart.
+/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/18-artisans/assets/cyan-portrait.png

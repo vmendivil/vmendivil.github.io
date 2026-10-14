@@ -1,0 +1,1431 @@
+{
+  "phase": "repair-confirmation",
+  "engine": "Chromium Playwright; SwiftShader software emulation; physical Safari not tested",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 108738,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 5,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.12,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "01-turn-start",
+          "scroll": 11,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 7,
+            "frame": 4,
+            "current": 0,
+            "angle": 0.130380982218916,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "02-turned",
+          "scroll": 468,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 34,
+            "frame": 0,
+            "current": 0,
+            "angle": 1.4507963267948965,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "03-detail-light",
+          "scroll": 273,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 45,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1.27,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-0",
+          "scroll": 273,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n2 / 3\nImagin",
+          "state": {
+            "draws": 55,
+            "frame": 0,
+            "current": 1,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-1",
+          "scroll": 273,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n3 / 3\nImagin",
+          "state": {
+            "draws": 61,
+            "frame": 0,
+            "current": 2,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-2",
+          "scroll": 273,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 68,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 1075,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 68,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 1854,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 70,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 72,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "idle": {
+          "draws": 72,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "paused": {
+          "draws": 73,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "pausedAfter": {
+          "draws": 73,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "off": {
+          "draws": 75,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "offAfter": {
+          "draws": 75,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "restored": {
+          "draws": 77,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 173459,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 5,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.12,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "01-turn-start",
+          "scroll": 39,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 33,
+            "frame": 0,
+            "current": 0,
+            "angle": 1.4507963267948965,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "02-turned",
+          "scroll": 39,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 33,
+            "frame": 0,
+            "current": 0,
+            "angle": 1.4507963267948965,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "03-detail-light",
+          "scroll": 275,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 68,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1.27,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-0",
+          "scroll": 275,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n2 / 3\nImagin",
+          "state": {
+            "draws": 97,
+            "frame": 0,
+            "current": 1,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-1",
+          "scroll": 275,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n3 / 3\nImagin",
+          "state": {
+            "draws": 128,
+            "frame": 0,
+            "current": 2,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-2",
+          "scroll": 275,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 158,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 1033,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 158,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 1549,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 160,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 162,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "idle": {
+          "draws": 162,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "paused": {
+          "draws": 163,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "pausedAfter": {
+          "draws": 163,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "off": {
+          "draws": 165,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "offAfter": {
+          "draws": 165,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "restored": {
+          "draws": 167,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 77313,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 5,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.12,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "01-turn-start",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 5,
+            "frame": 2,
+            "current": 0,
+            "angle": -0.12,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "02-turned",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 34,
+            "frame": 0,
+            "current": 0,
+            "angle": 1.4507963267948965,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "03-detail-light",
+          "scroll": 282,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 44,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1.27,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-0",
+          "scroll": 282,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n2 / 3\nImagin",
+          "state": {
+            "draws": 54,
+            "frame": 0,
+            "current": 1,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-1",
+          "scroll": 282,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n3 / 3\nImagin",
+          "state": {
+            "draws": 60,
+            "frame": 0,
+            "current": 2,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-2",
+          "scroll": 282,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 66,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 1075,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 66,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 1518,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 68,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 70,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "idle": {
+          "draws": 70,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "paused": {
+          "draws": 71,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "pausedAfter": {
+          "draws": 71,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "off": {
+          "draws": 73,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "offAfter": {
+          "draws": 73,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "restored": {
+          "draws": 75,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 66220,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 5,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.12,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "01-turn-start",
+          "scroll": 2,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 6,
+            "frame": 3,
+            "current": 0,
+            "angle": -0.10861746791089096,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "02-turned",
+          "scroll": 449,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 35,
+            "frame": 0,
+            "current": 0,
+            "angle": 1.4507963267948965,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "03-detail-light",
+          "scroll": 102,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 46,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1.27,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-0",
+          "scroll": 102,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n2 / 3\nImagin",
+          "state": {
+            "draws": 56,
+            "frame": 0,
+            "current": 1,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-1",
+          "scroll": 102,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n3 / 3\nImagin",
+          "state": {
+            "draws": 62,
+            "frame": 0,
+            "current": 2,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-2",
+          "scroll": 102,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 68,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 761,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 68,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 1365,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 70,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 72,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "idle": {
+          "draws": 72,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "paused": {
+          "draws": 73,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "pausedAfter": {
+          "draws": 73,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "off": {
+          "draws": 75,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "offAfter": {
+          "draws": 75,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "restored": {
+          "draws": 77,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 69601,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 5,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.12,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "01-turn-start",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 5,
+            "frame": 2,
+            "current": 0,
+            "angle": -0.12,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "02-turned",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 34,
+            "frame": 0,
+            "current": 0,
+            "angle": 1.4507963267948965,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "03-detail-light",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 46,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1.27,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-0",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n2 / 3\nImagin",
+          "state": {
+            "draws": 56,
+            "frame": 0,
+            "current": 1,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-1",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n3 / 3\nImagin",
+          "state": {
+            "draws": 62,
+            "frame": 0,
+            "current": 2,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-2",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 68,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 961,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 68,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 1241,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 70,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 72,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "idle": {
+          "draws": 72,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "paused": {
+          "draws": 73,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "pausedAfter": {
+          "draws": 73,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "off": {
+          "draws": 75,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "offAfter": {
+          "draws": 75,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "restored": {
+          "draws": 77,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 148177,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 5,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.12,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "01-turn-start",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 33,
+            "frame": 0,
+            "current": 0,
+            "angle": 1.4507963267948965,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "02-turned",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 33,
+            "frame": 0,
+            "current": 0,
+            "angle": 1.4507963267948965,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "03-detail-light",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 68,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1.27,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-0",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n2 / 3\nImagin",
+          "state": {
+            "draws": 99,
+            "frame": 0,
+            "current": 1,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-1",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n3 / 3\nImagin",
+          "state": {
+            "draws": 130,
+            "frame": 0,
+            "current": 2,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "miniature-2",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 161,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": true,
+            "hidden": false
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 937,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 161,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 1311,
+          "overflow": false,
+          "body": "Skip to collection\nVictor Mendivil\nSoftware developer & curious maker\nA little about me\nLet’s talk\nSmall worlds.\nBig curiosity.\n\nA few imagined places for the things I like figuring out.\n\n1 / 3\nImagin",
+          "state": {
+            "draws": 163,
+            "frame": 0,
+            "current": 0,
+            "angle": -0.1200000000000001,
+            "zoom": 1,
+            "paused": false,
+            "visible": false,
+            "hidden": false
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 165,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "idle": {
+          "draws": 165,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        },
+        "paused": {
+          "draws": 166,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "pausedAfter": {
+          "draws": 166,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": true,
+          "visible": true,
+          "hidden": false
+        },
+        "off": {
+          "draws": 168,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "offAfter": {
+          "draws": 168,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": false,
+          "hidden": false
+        },
+        "restored": {
+          "draws": 170,
+          "frame": 0,
+          "current": 0,
+          "angle": -0.1200000000000001,
+          "zoom": 1,
+          "paused": false,
+          "visible": true,
+          "hidden": false
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "variant": "reduced",
+      "reduced": true,
+      "changed": {
+        "draws": 5,
+        "frame": 0,
+        "current": 0,
+        "angle": 1.4507963267948965,
+        "zoom": 1,
+        "paused": false,
+        "visible": true,
+        "hidden": false
+      },
+      "contact": 1,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "variant": "fallback",
+      "reduced": false,
+      "changed": null,
+      "contact": 1,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "variant": "no-js",
+      "reduced": false,
+      "changed": null,
+      "contact": 1,
+      "overflow": false,
+      "errors": []
+    }
+  ]
+}

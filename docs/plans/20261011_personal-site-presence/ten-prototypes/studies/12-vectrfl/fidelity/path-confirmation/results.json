@@ -1,0 +1,2013 @@
+{
+  "phase": "path-confirmation",
+  "engine": "Chromium Playwright; SwiftShader software emulation; physical Safari not tested",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 16388,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 33,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 1476,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 56,
+            "frame": 0,
+            "currentX": -10,
+            "targetX": -10,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 0,
+            "transfer": [
+              -7,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 2732,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 60,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 4047,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 64,
+            "frame": 0,
+            "currentX": 9,
+            "targetX": 9,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 2,
+            "transfer": [
+              12,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 5357,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 68,
+            "frame": 0,
+            "currentX": 18,
+            "targetX": 18,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 3,
+            "transfer": [
+              21,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 6175,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 86,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "curiosity",
+          "scroll": 6549,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 103,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "faq",
+          "scroll": 8520,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 103,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 10578,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 118,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 119,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "idle": {
+          "draws": 119,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "paused": {
+          "draws": 120,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "pausedAfter": {
+          "draws": 120,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "off": {
+          "draws": 122,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "offAfter": {
+          "draws": 122,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "restored": {
+          "draws": 123,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 25786,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 30,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 1251,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 60,
+            "frame": 0,
+            "currentX": -10,
+            "targetX": -10,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 0,
+            "transfer": [
+              -7,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 2425,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 79,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 3641,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 83,
+            "frame": 0,
+            "currentX": 9,
+            "targetX": 9,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 2,
+            "transfer": [
+              12,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 4860,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 87,
+            "frame": 0,
+            "currentX": 18,
+            "targetX": 18,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 3,
+            "transfer": [
+              21,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 5802,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 104,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "curiosity",
+          "scroll": 7317,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 120,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "faq",
+          "scroll": 7823,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 120,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 9649,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 136,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 137,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "idle": {
+          "draws": 137,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "paused": {
+          "draws": 139,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "pausedAfter": {
+          "draws": 139,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "off": {
+          "draws": 141,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "offAfter": {
+          "draws": 141,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "restored": {
+          "draws": 142,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 16778,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 32,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 1081,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 65,
+            "frame": 0,
+            "currentX": -10,
+            "targetX": -10,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 0,
+            "transfer": [
+              -7,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 2226,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 80,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 3400,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 84,
+            "frame": 0,
+            "currentX": 9,
+            "targetX": 9,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 2,
+            "transfer": [
+              12,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 4589,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 88,
+            "frame": 0,
+            "currentX": 18,
+            "targetX": 18,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 3,
+            "transfer": [
+              21,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 5618,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 106,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "curiosity",
+          "scroll": 6022,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 122,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "faq",
+          "scroll": 7142,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 122,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 9234,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 138,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 139,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "idle": {
+          "draws": 139,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "paused": {
+          "draws": 140,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "pausedAfter": {
+          "draws": 140,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "off": {
+          "draws": 142,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "offAfter": {
+          "draws": 142,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        },
+        "restored": {
+          "draws": 143,
+          "frame": 0,
+          "currentX": 3,
+          "targetX": 3,
+          "currentSize": 37,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            6,
+            0.28,
+            1.45
+          ]
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 25192,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 776,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 32,
+            "frame": 0,
+            "currentX": -7.413566739606127,
+            "targetX": -7.413566739606127,
+            "currentSize": 46.70984682713348,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -4.413566739606127,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 1518,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 40,
+            "frame": 0,
+            "currentX": -0.9190371991247268,
+            "targetX": -0.9190371991247268,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              2.080962800875273,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 2259,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 46,
+            "frame": 0,
+            "currentX": 5.566739606126914,
+            "targetX": 5.566739606126914,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              8.566739606126914,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 3061,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 54,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 3915,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 64,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "curiosity",
+          "scroll": 4785,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 95,
+            "frame": 0,
+            "currentX": 11.461281143607133,
+            "targetX": 12,
+            "currentSize": 37.17610035996923,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "faq",
+          "scroll": 5806,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 95,
+            "frame": 0,
+            "currentX": 11.461281143607133,
+            "targetX": 12,
+            "currentSize": 37.17610035996923,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 7487,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 123,
+            "frame": 0,
+            "currentX": 8.785135490322713,
+            "targetX": 12,
+            "currentSize": 38.07742063387698,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 156,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "idle": {
+          "draws": 156,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "paused": {
+          "draws": 157,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "pausedAfter": {
+          "draws": 157,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "off": {
+          "draws": 159,
+          "frame": 0,
+          "currentX": 11.959890435372376,
+          "targetX": 12,
+          "currentSize": 37.02206026054519,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            15,
+            0.28,
+            1.45
+          ]
+        },
+        "offAfter": {
+          "draws": 159,
+          "frame": 0,
+          "currentX": 11.959890435372376,
+          "targetX": 12,
+          "currentSize": 37.02206026054519,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            15,
+            0.28,
+            1.45
+          ]
+        },
+        "restored": {
+          "draws": 160,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 36966,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 1046,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 32,
+            "frame": 0,
+            "currentX": -5.5,
+            "targetX": -5.5,
+            "currentSize": 42.5,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -2.5,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 2070,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 36,
+            "frame": 0,
+            "currentX": 1.166666666666666,
+            "targetX": 1.166666666666666,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              4.166666666666666,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 3094,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 42,
+            "frame": 0,
+            "currentX": 7.833333333333332,
+            "targetX": 7.833333333333332,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              10.833333333333332,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 4073,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 46,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 5166,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 52,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "curiosity",
+          "scroll": 6669,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 81,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "faq",
+          "scroll": 6670,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 81,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 8872,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 110,
+            "frame": 0,
+            "currentX": 11.314550300569074,
+            "targetX": 12,
+            "currentSize": 37.20372675895966,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 139,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "idle": {
+          "draws": 139,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "paused": {
+          "draws": 140,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "pausedAfter": {
+          "draws": 140,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "off": {
+          "draws": 142,
+          "frame": 0,
+          "currentX": 11.95989043537238,
+          "targetX": 12,
+          "currentSize": 37.02206026054519,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            15,
+            0.28,
+            1.45
+          ]
+        },
+        "offAfter": {
+          "draws": 142,
+          "frame": 0,
+          "currentX": 11.95989043537238,
+          "targetX": 12,
+          "currentSize": 37.02206026054519,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            15,
+            0.28,
+            1.45
+          ]
+        },
+        "restored": {
+          "draws": 143,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 103797,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 922,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 31,
+            "frame": 0,
+            "currentX": -5.614814814814815,
+            "targetX": -5.614814814814815,
+            "currentSize": 42.75259259259259,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -2.6148148148148147,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 1822,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 60,
+            "frame": 0,
+            "currentX": 1.0518518518518523,
+            "targetX": 1.0518518518518523,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              4.051851851851852,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 2722,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 89,
+            "frame": 0,
+            "currentX": 7.718518518518518,
+            "targetX": 7.718518518518518,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              10.718518518518518,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 3622,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 117,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "about",
+          "scroll": 4546,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 147,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "curiosity",
+          "scroll": 5621,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 177,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "faq",
+          "scroll": 5621,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 177,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "contact",
+          "scroll": 7187,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 204,
+            "frame": 0,
+            "currentX": 11.158285701830803,
+            "targetX": 12,
+            "currentSize": 37.25247017506668,
+            "paused": false,
+            "visible": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "draws": 233,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "idle": {
+          "draws": 233,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "paused": {
+          "draws": 234,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "pausedAfter": {
+          "draws": 234,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": true,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        },
+        "off": {
+          "draws": 236,
+          "frame": 0,
+          "currentX": 11.95990064378043,
+          "targetX": 12,
+          "currentSize": 37.02205464592076,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            15,
+            0.28,
+            1.45
+          ]
+        },
+        "offAfter": {
+          "draws": 236,
+          "frame": 0,
+          "currentX": 11.95990064378043,
+          "targetX": 12,
+          "currentSize": 37.02205464592076,
+          "paused": false,
+          "visible": false,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            15,
+            0.28,
+            1.45
+          ]
+        },
+        "restored": {
+          "draws": 237,
+          "frame": 0,
+          "currentX": -8,
+          "targetX": -8,
+          "currentSize": 48,
+          "paused": false,
+          "visible": true,
+          "hidden": false,
+          "focusPart": -1,
+          "transfer": [
+            -5,
+            0.28,
+            1.45
+          ]
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "variant": "reduced",
+      "reduced": true,
+      "changed": {
+        "draws": 2,
+        "frame": 5,
+        "currentX": -1,
+        "targetX": -1,
+        "currentSize": 18,
+        "paused": false,
+        "visible": true,
+        "hidden": false,
+        "focusPart": 1,
+        "transfer": [
+          2,
+          0.28,
+          1.45
+        ]
+      },
+      "contact": 1,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "variant": "fallback",
+      "reduced": false,
+      "changed": null,
+      "contact": 1,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "variant": "no-js",
+      "reduced": false,
+      "changed": null,
+      "contact": 1,
+      "overflow": false,
+      "errors": []
+    }
+  ]
+}

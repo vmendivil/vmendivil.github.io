@@ -1,0 +1,17 @@
+10-peter-dioramas 320 FATAL page.waitForFunction: Timeout 20000ms exceeded.
+10-peter-dioramas 390 FATAL cdpSession.send: Target page, context or browser has been closed
+browserContext.close: Target page, context or browser has been closed
+Browser logs:
+
+<launching> /home/trex/.cache/ms-playwright/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --use-angle=swiftshader --enable-unsafe-swiftshader --user-data-dir=/home/trex/.hermes/profiles/dev/cache/scratch/playwright_chromiumdev_profile-i1mNbP --remote-debugging-pipe --no-startup-window
+<launched> pid=1662036
+[pid=1662036][err] [1012/215024.133451:WARNING:media/gpu/vaapi/vaapi_wrapper.cc:1660] drmGetDevices2() has not found any devices
+[pid=1662036][err] [1012/215024.136398:WARNING:sandbox/policy/linux/sandbox_linux.cc:405] InitializeSandbox() called with multiple threads in process gpu-process.
+[pid=1662036][err] [1012/215140.737096:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:254] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[pid=1662036][err] [1012/215400.323032:WARNING:content/common/zygote/zygote_communication_linux.cc:301] Error reading message from zygote: Connection reset by peer (104)
+[pid=1662036] <gracefully close start>
+[pid=1662036][err] [1012/215400.366813:ERROR:content/common/zygote/zygote_communication_linux.cc:291] Failed to send GetTerminationStatus message to zygote
+[pid=1662036][err] [1012/215400.366826:WARNING:content/common/zygote/zygote_communication_linux.cc:303] Socket closed prematurely.
+    at async /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/10-peter-dioramas/fidelity/verify.cjs:9:1569 {
+  log: []
+}

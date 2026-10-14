@@ -1,0 +1,11 @@
+{
+  "comparedTo": "currently retained public preview files (read only)",
+  "factualCopyIdentical": true,
+  "runtimeHashes": {
+    "fidelity.css": "4b736439f8be4a71221a331014b5a5105bef19444123ee595b7c963cd026e91e",
+    "style.css": "5f90d95dd03aeb169060e7ee0e7d0083bd490c915950517deca649c740804ca4",
+    "index.html": "6b2483bf21de2c0bec1e7e009549e9f7208250056db6dbe2bb0c166f3255ab91",
+    "scene.js": "bd4b26da71870ceee293afea3b252497591e89b099ed283479ee29f8fe7220f3",
+    "assets/landscape-fidelity.png": "12aec614462e0a5426218cc65097394e46cad919fe1660b281b4e52209758d76"
+  }
+}

@@ -1,0 +1,701 @@
+{
+  "engine": "Playwright Chromium",
+  "url": "http://127.0.0.1:9011/",
+  "states": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "id": "welcome",
+      "panel": {
+        "x": 1006,
+        "y": 160,
+        "width": 410,
+        "height": 716,
+        "bottom": 876,
+        "right": 1416
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 732,
+      "clientHeight": 716,
+      "copy": "I’m a software developer and problem solver. I like taking something tangled, understanding how it fits together, and making it workable.\n\nMy grounding is in Dynamics 365 Finance & Operations and ERP. That means thinking beyond a single screen: requirements, people, processes, and what happens after the code ships.\n\nA little off the main road\n\nAt home, I’m curious about Raspberry Pi servers, AI-assisted work, and useful web apps. This coast is an imaginary map of those interests—not a map of client projects."
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "id": "craft",
+      "panel": {
+        "x": 1006,
+        "y": 160,
+        "width": 410,
+        "height": 716,
+        "bottom": 876,
+        "right": 1416
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 815,
+      "clientHeight": 716,
+      "copy": "Good software starts with understanding what someone actually needs. I work through requirements and technical design, then implementation, testing, deployment and support.\n\nMy working rhythm\nClarify the requirement and its edges.\nMake the design understandable.\nBuild, test, and coordinate across teams.\nStay attentive when it reaches real users.\n\nDynamics 365 F&O / ERP is my professional foundation. I’m interested in growing toward senior and technical-lead roles."
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "id": "homelab",
+      "panel": {
+        "x": 1006,
+        "y": 160,
+        "width": 410,
+        "height": 716,
+        "bottom": 876,
+        "right": 1416
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 753,
+      "clientHeight": 716,
+      "copy": "I’m interested in Raspberry Pi homelabs and servers: a small place to explore how software lives beyond my own laptop.\n\nThere’s something satisfying about following a request through the layers—an app, a service, a machine, a network—and understanding where things fit.\n\nThe greenhouse idea\n\nThe miniature racks here are an illustration of that curiosity. They aren’t an inventory, a published tutorial, or a claim about production infrastructure."
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "id": "curiosity",
+      "panel": {
+        "x": 1006,
+        "y": 160,
+        "width": 410,
+        "height": 716,
+        "bottom": 876,
+        "right": 1416
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 727,
+      "clientHeight": 716,
+      "copy": "I’m exploring AI-assisted work processes and AI-assisted web apps. What interests me is the useful part: helping turn an idea into something you can inspect, test, and improve.\n\nCurious, not uncritical\n\nI want to understand where assistance makes work clearer—and where careful human judgement still matters. An answer isn’t finished just because it sounds confident.\n\nThis observatory is a playful illustration, not a product demo or evidence of client outcomes."
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "id": "contact",
+      "panel": {
+        "x": 1006,
+        "y": 160,
+        "width": 410,
+        "height": 716,
+        "bottom": 876,
+        "right": 1416
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 717,
+      "clientHeight": 716,
+      "copy": "Have a contained problem or a small idea that needs a developer? I’m open to a conversation.\n\nI’m employed full-time. Freelance work needs to fit remote, evening, or asynchronous collaboration, with a clear and manageable scope.\n\nFind me on LinkedIn\n↗\n\nLinkedIn opens in a new tab. This is a local design preview; there is no enquiry form, message delivery, or stored submission here."
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "id": "welcome",
+      "panel": {
+        "x": 0,
+        "y": 333,
+        "width": 320,
+        "height": 407,
+        "bottom": 740,
+        "right": 320
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 797,
+      "clientHeight": 406,
+      "copy": "I’m a software developer and problem solver. I like taking something tangled, understanding how it fits together, and making it workable.\n\nMy grounding is in Dynamics 365 Finance & Operations and ERP. That means thinking beyond a single screen: requirements, people, processes, and what happens after the code ships.\n\nA little off the main road\n\nAt home, I’m curious about Raspberry Pi servers, AI-assisted work, and useful web apps. This coast is an imaginary map of those interests—not a map of client projects."
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "id": "craft",
+      "panel": {
+        "x": 0,
+        "y": 333,
+        "width": 320,
+        "height": 407,
+        "bottom": 740,
+        "right": 320
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 968,
+      "clientHeight": 406,
+      "copy": "Good software starts with understanding what someone actually needs. I work through requirements and technical design, then implementation, testing, deployment and support.\n\nMy working rhythm\nClarify the requirement and its edges.\nMake the design understandable.\nBuild, test, and coordinate across teams.\nStay attentive when it reaches real users.\n\nDynamics 365 F&O / ERP is my professional foundation. I’m interested in growing toward senior and technical-lead roles."
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "id": "homelab",
+      "panel": {
+        "x": 0,
+        "y": 333,
+        "width": 320,
+        "height": 407,
+        "bottom": 740,
+        "right": 320
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 812,
+      "clientHeight": 406,
+      "copy": "I’m interested in Raspberry Pi homelabs and servers: a small place to explore how software lives beyond my own laptop.\n\nThere’s something satisfying about following a request through the layers—an app, a service, a machine, a network—and understanding where things fit.\n\nThe greenhouse idea\n\nThe miniature racks here are an illustration of that curiosity. They aren’t an inventory, a published tutorial, or a claim about production infrastructure."
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "id": "curiosity",
+      "panel": {
+        "x": 0,
+        "y": 333,
+        "width": 320,
+        "height": 407,
+        "bottom": 740,
+        "right": 320
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 786,
+      "clientHeight": 406,
+      "copy": "I’m exploring AI-assisted work processes and AI-assisted web apps. What interests me is the useful part: helping turn an idea into something you can inspect, test, and improve.\n\nCurious, not uncritical\n\nI want to understand where assistance makes work clearer—and where careful human judgement still matters. An answer isn’t finished just because it sounds confident.\n\nThis observatory is a playful illustration, not a product demo or evidence of client outcomes."
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "id": "contact",
+      "panel": {
+        "x": 0,
+        "y": 333,
+        "width": 320,
+        "height": 407,
+        "bottom": 740,
+        "right": 320
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 747,
+      "clientHeight": 406,
+      "copy": "Have a contained problem or a small idea that needs a developer? I’m open to a conversation.\n\nI’m employed full-time. Freelance work needs to fit remote, evening, or asynchronous collaboration, with a clear and manageable scope.\n\nFind me on LinkedIn\n↗\n\nLinkedIn opens in a new tab. This is a local design preview; there is no enquiry form, message delivery, or stored submission here."
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "id": "welcome",
+      "panel": {
+        "x": 0,
+        "y": 379.796875,
+        "width": 390,
+        "height": 464.203125,
+        "bottom": 844,
+        "right": 390
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 718,
+      "clientHeight": 463,
+      "copy": "I’m a software developer and problem solver. I like taking something tangled, understanding how it fits together, and making it workable.\n\nMy grounding is in Dynamics 365 Finance & Operations and ERP. That means thinking beyond a single screen: requirements, people, processes, and what happens after the code ships.\n\nA little off the main road\n\nAt home, I’m curious about Raspberry Pi servers, AI-assisted work, and useful web apps. This coast is an imaginary map of those interests—not a map of client projects."
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "id": "craft",
+      "panel": {
+        "x": 0,
+        "y": 379.796875,
+        "width": 390,
+        "height": 464.203125,
+        "bottom": 844,
+        "right": 390
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 794,
+      "clientHeight": 463,
+      "copy": "Good software starts with understanding what someone actually needs. I work through requirements and technical design, then implementation, testing, deployment and support.\n\nMy working rhythm\nClarify the requirement and its edges.\nMake the design understandable.\nBuild, test, and coordinate across teams.\nStay attentive when it reaches real users.\n\nDynamics 365 F&O / ERP is my professional foundation. I’m interested in growing toward senior and technical-lead roles."
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "id": "homelab",
+      "panel": {
+        "x": 0,
+        "y": 379.796875,
+        "width": 390,
+        "height": 464.203125,
+        "bottom": 844,
+        "right": 390
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 733,
+      "clientHeight": 463,
+      "copy": "I’m interested in Raspberry Pi homelabs and servers: a small place to explore how software lives beyond my own laptop.\n\nThere’s something satisfying about following a request through the layers—an app, a service, a machine, a network—and understanding where things fit.\n\nThe greenhouse idea\n\nThe miniature racks here are an illustration of that curiosity. They aren’t an inventory, a published tutorial, or a claim about production infrastructure."
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "id": "curiosity",
+      "panel": {
+        "x": 0,
+        "y": 379.796875,
+        "width": 390,
+        "height": 464.203125,
+        "bottom": 844,
+        "right": 390
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 707,
+      "clientHeight": 463,
+      "copy": "I’m exploring AI-assisted work processes and AI-assisted web apps. What interests me is the useful part: helping turn an idea into something you can inspect, test, and improve.\n\nCurious, not uncritical\n\nI want to understand where assistance makes work clearer—and where careful human judgement still matters. An answer isn’t finished just because it sounds confident.\n\nThis observatory is a playful illustration, not a product demo or evidence of client outcomes."
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "id": "contact",
+      "panel": {
+        "x": 0,
+        "y": 379.796875,
+        "width": 390,
+        "height": 464.203125,
+        "bottom": 844,
+        "right": 390
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 696,
+      "clientHeight": 463,
+      "copy": "Have a contained problem or a small idea that needs a developer? I’m open to a conversation.\n\nI’m employed full-time. Freelance work needs to fit remote, evening, or asynchronous collaboration, with a clear and manageable scope.\n\nFind me on LinkedIn\n↗\n\nLinkedIn opens in a new tab. This is a local design preview; there is no enquiry form, message delivery, or stored submission here."
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "id": "welcome",
+      "panel": {
+        "x": 0,
+        "y": 419.390625,
+        "width": 430,
+        "height": 512.609375,
+        "bottom": 932,
+        "right": 430
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 691,
+      "clientHeight": 512,
+      "copy": "I’m a software developer and problem solver. I like taking something tangled, understanding how it fits together, and making it workable.\n\nMy grounding is in Dynamics 365 Finance & Operations and ERP. That means thinking beyond a single screen: requirements, people, processes, and what happens after the code ships.\n\nA little off the main road\n\nAt home, I’m curious about Raspberry Pi servers, AI-assisted work, and useful web apps. This coast is an imaginary map of those interests—not a map of client projects."
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "id": "craft",
+      "panel": {
+        "x": 0,
+        "y": 419.390625,
+        "width": 430,
+        "height": 512.609375,
+        "bottom": 932,
+        "right": 430
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 768,
+      "clientHeight": 512,
+      "copy": "Good software starts with understanding what someone actually needs. I work through requirements and technical design, then implementation, testing, deployment and support.\n\nMy working rhythm\nClarify the requirement and its edges.\nMake the design understandable.\nBuild, test, and coordinate across teams.\nStay attentive when it reaches real users.\n\nDynamics 365 F&O / ERP is my professional foundation. I’m interested in growing toward senior and technical-lead roles."
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "id": "homelab",
+      "panel": {
+        "x": 0,
+        "y": 419.390625,
+        "width": 430,
+        "height": 512.609375,
+        "bottom": 932,
+        "right": 430
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 707,
+      "clientHeight": 512,
+      "copy": "I’m interested in Raspberry Pi homelabs and servers: a small place to explore how software lives beyond my own laptop.\n\nThere’s something satisfying about following a request through the layers—an app, a service, a machine, a network—and understanding where things fit.\n\nThe greenhouse idea\n\nThe miniature racks here are an illustration of that curiosity. They aren’t an inventory, a published tutorial, or a claim about production infrastructure."
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "id": "curiosity",
+      "panel": {
+        "x": 0,
+        "y": 419.390625,
+        "width": 430,
+        "height": 512.609375,
+        "bottom": 932,
+        "right": 430
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 707,
+      "clientHeight": 512,
+      "copy": "I’m exploring AI-assisted work processes and AI-assisted web apps. What interests me is the useful part: helping turn an idea into something you can inspect, test, and improve.\n\nCurious, not uncritical\n\nI want to understand where assistance makes work clearer—and where careful human judgement still matters. An answer isn’t finished just because it sounds confident.\n\nThis observatory is a playful illustration, not a product demo or evidence of client outcomes."
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "id": "contact",
+      "panel": {
+        "x": 0,
+        "y": 419.390625,
+        "width": 430,
+        "height": 512.609375,
+        "bottom": 932,
+        "right": 430
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 670,
+      "clientHeight": 512,
+      "copy": "Have a contained problem or a small idea that needs a developer? I’m open to a conversation.\n\nI’m employed full-time. Freelance work needs to fit remote, evening, or asynchronous collaboration, with a clear and manageable scope.\n\nFind me on LinkedIn\n↗\n\nLinkedIn opens in a new tab. This is a local design preview; there is no enquiry form, message delivery, or stored submission here."
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "id": "welcome",
+      "panel": {
+        "x": 434,
+        "y": 74,
+        "width": 390,
+        "height": 304,
+        "bottom": 378,
+        "right": 824
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 715,
+      "clientHeight": 304,
+      "copy": "I’m a software developer and problem solver. I like taking something tangled, understanding how it fits together, and making it workable.\n\nMy grounding is in Dynamics 365 Finance & Operations and ERP. That means thinking beyond a single screen: requirements, people, processes, and what happens after the code ships.\n\nA little off the main road\n\nAt home, I’m curious about Raspberry Pi servers, AI-assisted work, and useful web apps. This coast is an imaginary map of those interests—not a map of client projects."
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "id": "craft",
+      "panel": {
+        "x": 434,
+        "y": 74,
+        "width": 390,
+        "height": 304,
+        "bottom": 378,
+        "right": 824
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 787,
+      "clientHeight": 304,
+      "copy": "Good software starts with understanding what someone actually needs. I work through requirements and technical design, then implementation, testing, deployment and support.\n\nMy working rhythm\nClarify the requirement and its edges.\nMake the design understandable.\nBuild, test, and coordinate across teams.\nStay attentive when it reaches real users.\n\nDynamics 365 F&O / ERP is my professional foundation. I’m interested in growing toward senior and technical-lead roles."
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "id": "homelab",
+      "panel": {
+        "x": 434,
+        "y": 74,
+        "width": 390,
+        "height": 304,
+        "bottom": 378,
+        "right": 824
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 726,
+      "clientHeight": 304,
+      "copy": "I’m interested in Raspberry Pi homelabs and servers: a small place to explore how software lives beyond my own laptop.\n\nThere’s something satisfying about following a request through the layers—an app, a service, a machine, a network—and understanding where things fit.\n\nThe greenhouse idea\n\nThe miniature racks here are an illustration of that curiosity. They aren’t an inventory, a published tutorial, or a claim about production infrastructure."
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "id": "curiosity",
+      "panel": {
+        "x": 434,
+        "y": 74,
+        "width": 390,
+        "height": 304,
+        "bottom": 378,
+        "right": 824
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 699,
+      "clientHeight": 304,
+      "copy": "I’m exploring AI-assisted work processes and AI-assisted web apps. What interests me is the useful part: helping turn an idea into something you can inspect, test, and improve.\n\nCurious, not uncritical\n\nI want to understand where assistance makes work clearer—and where careful human judgement still matters. An answer isn’t finished just because it sounds confident.\n\nThis observatory is a playful illustration, not a product demo or evidence of client outcomes."
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "id": "contact",
+      "panel": {
+        "x": 434,
+        "y": 74,
+        "width": 390,
+        "height": 304,
+        "bottom": 378,
+        "right": 824
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 689,
+      "clientHeight": 304,
+      "copy": "Have a contained problem or a small idea that needs a developer? I’m open to a conversation.\n\nI’m employed full-time. Freelance work needs to fit remote, evening, or asynchronous collaboration, with a clear and manageable scope.\n\nFind me on LinkedIn\n↗\n\nLinkedIn opens in a new tab. This is a local design preview; there is no enquiry form, message delivery, or stored submission here."
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "id": "welcome",
+      "panel": {
+        "x": 338,
+        "y": 160,
+        "width": 410,
+        "height": 840,
+        "bottom": 1000,
+        "right": 748
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 840,
+      "clientHeight": 840,
+      "copy": "I’m a software developer and problem solver. I like taking something tangled, understanding how it fits together, and making it workable.\n\nMy grounding is in Dynamics 365 Finance & Operations and ERP. That means thinking beyond a single screen: requirements, people, processes, and what happens after the code ships.\n\nA little off the main road\n\nAt home, I’m curious about Raspberry Pi servers, AI-assisted work, and useful web apps. This coast is an imaginary map of those interests—not a map of client projects."
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "id": "craft",
+      "panel": {
+        "x": 338,
+        "y": 160,
+        "width": 410,
+        "height": 840,
+        "bottom": 1000,
+        "right": 748
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 840,
+      "clientHeight": 840,
+      "copy": "Good software starts with understanding what someone actually needs. I work through requirements and technical design, then implementation, testing, deployment and support.\n\nMy working rhythm\nClarify the requirement and its edges.\nMake the design understandable.\nBuild, test, and coordinate across teams.\nStay attentive when it reaches real users.\n\nDynamics 365 F&O / ERP is my professional foundation. I’m interested in growing toward senior and technical-lead roles."
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "id": "homelab",
+      "panel": {
+        "x": 338,
+        "y": 160,
+        "width": 410,
+        "height": 840,
+        "bottom": 1000,
+        "right": 748
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 840,
+      "clientHeight": 840,
+      "copy": "I’m interested in Raspberry Pi homelabs and servers: a small place to explore how software lives beyond my own laptop.\n\nThere’s something satisfying about following a request through the layers—an app, a service, a machine, a network—and understanding where things fit.\n\nThe greenhouse idea\n\nThe miniature racks here are an illustration of that curiosity. They aren’t an inventory, a published tutorial, or a claim about production infrastructure."
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "id": "curiosity",
+      "panel": {
+        "x": 338,
+        "y": 160,
+        "width": 410,
+        "height": 840,
+        "bottom": 1000,
+        "right": 748
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 840,
+      "clientHeight": 840,
+      "copy": "I’m exploring AI-assisted work processes and AI-assisted web apps. What interests me is the useful part: helping turn an idea into something you can inspect, test, and improve.\n\nCurious, not uncritical\n\nI want to understand where assistance makes work clearer—and where careful human judgement still matters. An answer isn’t finished just because it sounds confident.\n\nThis observatory is a playful illustration, not a product demo or evidence of client outcomes."
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "id": "contact",
+      "panel": {
+        "x": 338,
+        "y": 160,
+        "width": 410,
+        "height": 840,
+        "bottom": 1000,
+        "right": 748
+      },
+      "close": {
+        "width": 44,
+        "height": 44
+      },
+      "font": "17px",
+      "scrollHeight": 840,
+      "clientHeight": 840,
+      "copy": "Have a contained problem or a small idea that needs a developer? I’m open to a conversation.\n\nI’m employed full-time. Freelance work needs to fit remote, evening, or asynchronous collaboration, with a clear and manageable scope.\n\nFind me on LinkedIn\n↗\n\nLinkedIn opens in a new tab. This is a local design preview; there is no enquiry form, message delivery, or stored submission here."
+    }
+  ],
+  "errors": [],
+  "limits": "Emulated viewports and trusted browser touch; not physical iPhone/Safari certification.",
+  "touchDriving": true,
+  "keyboard": "Tab / Enter / Space / Escape passed",
+  "reducedMotion": true
+}

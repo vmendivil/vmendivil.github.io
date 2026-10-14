@@ -1,0 +1,60 @@
+import * as THREE from './assets/three.module.js';
+// Original parametric mineral membranes. No reference geometry or shader reused.
+const canvas=document.querySelector('#scene');
+const isWide=()=>matchMedia('(min-width:1050px) and (min-height:500px)').matches;
+let renderer,scene,camera,folds,light,shot=0,clock=0,targetShot=0,reveal=.35,targetReveal=.35,frame=0,last=0;
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+window.thresholdMetrics={draws:0,renderMs:[],shot:0,reveal:.35};
+const chapters=[...document.querySelectorAll('[data-shot]')];
+function noise(x,y,z){return Math.sin(x*3.1+y*1.7+z*2.9)*.47+Math.sin(x*7.9-y*5.2+z*3.7)*.22+Math.sin(x*19.2+y*11.4-z*9.7)*.09;}
+function rockGeometry(seed,scale){const g=new THREE.SphereGeometry(1,scale[0]<1?16:64,scale[0]<1?12:48),p=g.attributes.position;for(let i=0;i<p.count;i++){const x=p.getX(i),y=p.getY(i),z=p.getZ(i);const broad=noise(x*.9+seed,y*1.3,z*1.1),seam=Math.sin(y*13+x*2+noise(x+seed,y,z)*2);const r=1+broad*.20+Math.tanh(seam*3)*.025+noise(x*7+seed,y*7,z*7)*.018;p.setXYZ(i,x*r*scale[0],y*r*scale[1],z*r*scale[2]);}g.computeVertexNormals();return g;}
+function membrane(k){const vertices=[],uvs=[],indices=[],nx=88,ny=125;for(let j=0;j<=ny;j++){const v=j/ny;for(let i=0;i<=nx;i++){const u=i/nx;let y=(v-.5)*(4.8-k*.22)+.35*Math.sin(k*.9);let torn=.10*Math.sin(v*29+k)+.04*Math.sin(v*83+k*3);let taper=Math.sin(Math.PI*v)**.7;let x=(u-.5)*(.12+2.3*taper)+.65*Math.sin(v*4.2+k*.48)+torn*(u-.5)+y*.20;let z=.43*Math.sin(u*9+v*8+k*.7)+.17*Math.sin(u*20-v*11)+.4*Math.cos(v*4+k*.3);x+=k*.34;z+=k*.22;vertices.push(x,y,z);uvs.push(u,v);if(i<nx&&j<ny){const a=j*(nx+1)+i;indices.push(a,a+1,a+nx+1,a+1,a+nx+2,a+nx+1);}}}const g=new THREE.BufferGeometry();g.setAttribute('position',new THREE.Float32BufferAttribute(vertices,3));g.setAttribute('uv',new THREE.Float32BufferAttribute(uvs,2));g.setIndex(indices);g.computeVertexNormals();return g;}
+function init(){renderer=new THREE.WebGLRenderer({canvas,antialias:true,alpha:false,preserveDrawingBuffer:true,powerPreference:'low-power'});renderer.setPixelRatio(1);renderer.setClearColor('#08110e');renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.35;scene=new THREE.Scene();scene.fog=new THREE.FogExp2('#08110e',.043);camera=new THREE.PerspectiveCamera(37,1,.1,80);
+// An original painted radiance map supplies real optical reflections and transmission.
+const envCanvas=document.createElement('canvas');envCanvas.width=1024;envCanvas.height=512;const ctx=envCanvas.getContext('2d');ctx.fillStyle='#233c32';ctx.fillRect(0,0,1024,512);let glow=ctx.createRadialGradient(720,180,0,720,180,240);glow.addColorStop(0,'#efffff');glow.addColorStop(.22,'#9edfff');glow.addColorStop(1,'#233c32');ctx.fillStyle=glow;ctx.fillRect(0,0,1024,512);ctx.fillStyle='#768c5c';ctx.fillRect(40,210,150,25);ctx.fillStyle='#d9eacb';ctx.fillRect(400,50,12,250);const env=new THREE.CanvasTexture(envCanvas);env.mapping=THREE.EquirectangularReflectionMapping;scene.environment=env;
+scene.add(new THREE.AmbientLight('#6a9278',1.4));let key=new THREE.DirectionalLight('#d5e5ad',3);key.position.set(-3,8,5);scene.add(key);light=new THREE.PointLight('#92dfff',65,14,2);light.position.set(3,1,-1);scene.add(light);let rim=new THREE.DirectionalLight('#d5f8ff',4.5);rim.position.set(6,3,-4);scene.add(rim);
+folds=new THREE.Group();folds.position.set(2.2,.15,0);folds.rotation.set(.12,-.43,-.24);for(let k=0;k<7;k++){let mat=new THREE.MeshPhysicalMaterial({color:new THREE.Color().setHSL(.55+k*.012,.23,.78),metalness:0,roughness:.15,transmission:.94,thickness:.28,ior:1.36,iridescence:.7,iridescenceIOR:1.36,iridescenceThicknessRange:[140,480],transparent:true,opacity:.68,side:THREE.DoubleSide,depthWrite:false,emissive:'#369cc4',emissiveIntensity:.34});const g=membrane(k);const m=new THREE.Mesh(g,mat);m.position.x=-.6;m.rotation.y=k*.07;folds.add(m);
+// Jagged exposed seams follow the actual sheet boundary, never a circular portal.
+for(const edge of [0,88]){let points=[];let p=g.attributes.position;for(let j=0;j<=125;j++){let idx=j*89+edge;points.push(new THREE.Vector3(p.getX(idx),p.getY(idx),p.getZ(idx)));}const line=new THREE.Line(new THREE.BufferGeometry().setFromPoints(points),new THREE.LineBasicMaterial({color:k%2?'#9ecfe1':'#d9f5f0',transparent:true,opacity:.36}));m.add(line);}}
+scene.add(folds);
+// Continuous eroded masses, world-space nonperiodic stone and a settled scree bed.
+const stone=new THREE.MeshStandardMaterial({color:'#687568',roughness:.93,metalness:.025});
+stone.onBeforeCompile=s=>{
+ s.vertexShader='varying vec3 vMineral;\n'+s.vertexShader;
+ s.vertexShader=s.vertexShader.replace('#include <begin_vertex>','#include <begin_vertex>\nvMineral=(modelMatrix*vec4(position,1.)).xyz;');
+ s.fragmentShader=`varying vec3 vMineral;
+ float hashM(vec3 p){p=fract(p*.3183099+vec3(.17,.31,.53));p*=19.;return fract(p.x*p.y*p.z*(p.x+p.y+p.z));}
+ float mineralNoise(vec3 p){vec3 i=floor(p),f=fract(p);f=f*f*(3.-2.*f);return mix(mix(mix(hashM(i),hashM(i+vec3(1,0,0)),f.x),mix(hashM(i+vec3(0,1,0)),hashM(i+vec3(1,1,0)),f.x),f.y),mix(mix(hashM(i+vec3(0,0,1)),hashM(i+vec3(1,0,1)),f.x),mix(hashM(i+vec3(0,1,1)),hashM(i+vec3(1,1,1)),f.x),f.y),f.z);}
+ float fbmM(vec3 p){return mineralNoise(p)*.55+mineralNoise(p*2.13)*.27+mineralNoise(p*4.71)*.12+mineralNoise(p*9.33)*.06;}
+ `+s.fragmentShader;
+ s.fragmentShader=s.fragmentShader.replace('#include <color_fragment>',`#include <color_fragment>
+ float broad=fbmM(vMineral*1.35);float grain=mineralNoise(vMineral*38.);
+ float strata=abs(sin(vMineral.y*15.+vMineral.x*1.7+broad*6.));
+ float seam=1.-smoothstep(.04,.19,strata);
+ float moss=smoothstep(.51,.72,fbmM(vMineral*2.7+vec3(2.,0.,4.)))*smoothstep(.27,.68,broad);
+ vec3 mineral=mix(vec3(.12,.16,.15),vec3(.32,.35,.29),broad);
+ mineral*=.78+grain*.35;mineral*=1.-seam*.32;
+ mineral=mix(mineral,vec3(.19,.25,.09)*(.7+grain*.6),moss*.7);
+ diffuseColor.rgb=mineral;`);
+ s.fragmentShader=s.fragmentShader.replace('#include <normal_fragment_maps>','#include <normal_fragment_maps>\nnormal=normalize(normal+vec3(dFdx(grain-seam*.1),dFdy(grain-seam*.1),0.)*.24);');
+};
+const masses=[[-5.7,-.55,-5.3,2.25,4.1,2.1,11],[-6.9,-2.9,-3.4,3.0,1.0,2.3,18],[5.8,-2.25,-3.3,2.5,1.85,2.15,23],[7.1,-.9,-6.8,2.1,3.2,2.5,29],[-1.7,-3.7,-12,6.0,1.1,3.2,35]];
+for(const [x,y,z,sx,sy,sz,seed] of masses){const r=new THREE.Mesh(rockGeometry(seed,[sx,sy,sz]),stone);r.position.set(x,y,z);r.rotation.y=seed*.17;r.castShadow=true;r.receiveShadow=true;scene.add(r);}
+// Talus rests against the masses, not as isolated identical islands across the floor.
+for(let i=0;i<76;i++){const side=i%2?1:-1,t=(i*.61803398875)%1,size=.055+((i*17)%13)/55;const r=new THREE.Mesh(rockGeometry(40+i,[size*1.7,size*.62,size]),stone);r.position.set(side*(3.9+t*3.7),-3.49+Math.pow(t,3)*.28,-5+Math.sin(i*7.3)*3.4);r.rotation.y=i*2.4;r.receiveShadow=true;r.castShadow=true;scene.add(r);}
+const terrain=new THREE.PlaneGeometry(60,60,150,150),tp=terrain.attributes.position;
+for(let i=0;i<tp.count;i++){const x=tp.getX(i),z=-tp.getY(i);const bank=Math.exp(-Math.pow((Math.abs(x)-6)/2.1,2))*Math.exp(-Math.pow((z+4)/7,2));tp.setZ(i,bank*.32+noise(x*.7,z*.7,8)*.035);}
+terrain.computeVertexNormals();
+const ground=new THREE.Mesh(terrain,stone);ground.rotation.x=-Math.PI/2;ground.position.y=-3.55;ground.receiveShadow=true;scene.add(ground);
+renderer.shadowMap.enabled=true;renderer.shadowMap.type=THREE.PCFSoftShadowMap;key.castShadow=true;key.shadow.mapSize.set(1024,1024);Object.assign(key.shadow.camera,{left:-12,right:12,top:12,bottom:-12,near:.1,far:40});key.shadow.bias=-.0004;key.shadow.normalBias=.035;
+// Suspended mineral dust; static deterministic points, not technical HUD decoration.
+const dust=[];for(let i=0;i<250;i++){dust.push(Math.sin(i*37)*9,Math.cos(i*17)*5,Math.sin(i*11)*6-4);}let particles=new THREE.Points(new THREE.BufferGeometry().setAttribute('position',new THREE.Float32BufferAttribute(dust,3)),new THREE.PointsMaterial({color:'#9ebba0',size:.018,transparent:true,opacity:.45}));scene.add(particles);
+// Spatial translucent light shafts use a depth-softened custom material.
+const shaft=new THREE.ShaderMaterial({transparent:true,depthWrite:false,side:THREE.DoubleSide,blending:THREE.AdditiveBlending,vertexShader:'varying vec2 vUv; void main(){vUv=uv;gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}',fragmentShader:'varying vec2 vUv;void main(){float edge=pow(sin(vUv.x*3.14159),4.);float a=edge*(1.-vUv.y)*.055;gl_FragColor=vec4(.44,.62,.53,a);}'});for(let i=0;i<5;i++){let beam=new THREE.Mesh(new THREE.PlaneGeometry(.25+i*.04,13),shaft);beam.position.set(4+i*.45,2,-2-i*.3);beam.rotation.z=-.5;scene.add(beam);}resize();document.body.classList.add('webgl');window.thresholdScene={renderer,scene,camera,setShot:renderShot};}
+function resize(){if(!renderer)return;const w=innerWidth,h=innerHeight,scale=Math.min(1,960/w);renderer.setSize(w*scale,h*scale,false);camera.aspect=w/h;camera.updateProjectionMatrix();wake();}
+function renderShot(n,portrait=false){shot=n;camera.aspect=portrait?390/540:1440/900;renderer.setSize(portrait?780:1440,portrait?1080:900,false);camera.updateProjectionMatrix();draw(portrait);return renderer.domElement.toDataURL('image/jpeg',.94);}
+function draw(portrait=false){if(!renderer)return;const n=shot;camera.position.set(-.3+n*.85, .3+n*.16,portrait?11.7:11.8-n*.3);camera.lookAt(portrait?2.8:-.1+n*.4,0,0);folds.rotation.y=-.43+n*.26+(reveal-.35)*.24;folds.rotation.z=-.24+n*.09;folds.children.forEach((m,k)=>{m.position.x=-.6+(k-3)*(reveal-.35)*.25;m.position.z=(k-3)*(reveal-.35)*.38;m.material.emissiveIntensity=.20+reveal*.32;});light.position.set(3+n*.5+reveal*.8,1,-1);light.intensity=45+reveal*55+(window.thresholdPaused?0:Math.sin(clock)*5);const t=performance.now();renderer.render(scene,camera);window.thresholdMetrics.draws++;window.thresholdMetrics.renderMs.push(performance.now()-t);if(window.thresholdMetrics.renderMs.length>120)window.thresholdMetrics.renderMs.shift();window.thresholdMetrics.shot=shot;window.thresholdMetrics.reveal=reveal;}
+function wake(){if(!frame&&renderer&&!document.hidden&&isWide()&&document.body.classList.contains('webgl'))frame=setTimeout(()=>tick(performance.now()),120);}
+function tick(now){frame=0;if(!renderer||document.hidden||!isWide()||!document.body.classList.contains('webgl'))return;const moving=Math.abs(targetShot-shot)>.002||Math.abs(targetReveal-reveal)>.002;if(now-last<50){if(moving||!window.thresholdPaused)wake();return;}const blend=1-Math.exp(-Math.min(1000,now-last)/170);last=now;if(reduced.matches){shot=targetShot;reveal=targetReveal;}else{shot+=(targetShot-shot)*blend;reveal+=(targetReveal-reveal)*blend;}clock+=.045;draw();if(moving||!window.thresholdPaused)wake();}
+function scroll(){if(!renderer||!isWide())return;const positions=chapters.map(c=>c.offsetTop),y=scrollY+innerHeight*.18;let index=0;while(index<3&&y>=positions[index+1])index++;targetShot=index===3?3:index+Math.max(0,Math.min(1,(y-positions[index])/(positions[index+1]-positions[index])));if(reduced.matches)shot=targetShot;wake();}
+try{if(!new URLSearchParams(location.search).has('fallback')&&(isWide()||new URLSearchParams(location.search).has('render-assets'))){init();renderer.shadowMap.autoUpdate=false;renderer.shadowMap.needsUpdate=true;wake();addEventListener('resize',resize);addEventListener('scroll',scroll,{passive:true});addEventListener('threshold-render',wake);addEventListener('threshold-reveal',e=>{targetReveal=e.detail;if(reduced.matches)reveal=targetReveal;wake();});document.addEventListener('visibilitychange',()=>{if(document.hidden){clearTimeout(frame);frame=0;}else wake();});canvas.addEventListener('webglcontextlost',e=>{e.preventDefault();clearTimeout(frame);frame=0;document.body.classList.remove('webgl');document.querySelector('#motion').disabled=true;document.querySelector('#motion').textContent='Static light';});}}catch(error){document.body.classList.remove('webgl');document.querySelector('#motion').disabled=true;document.querySelector('#motion').textContent='Static light';console.info('Static artwork is active; WebGL unavailable.');}

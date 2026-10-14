@@ -1,0 +1,16 @@
+{
+  "number": 1,
+  "checks": 193,
+  "failed": [
+    {
+      "name": "1440 paused settled render delta",
+      "pass": false,
+      "delta": 1
+    },
+    {
+      "name": "390 paused settled render delta",
+      "pass": false,
+      "delta": 2
+    }
+  ]
+}

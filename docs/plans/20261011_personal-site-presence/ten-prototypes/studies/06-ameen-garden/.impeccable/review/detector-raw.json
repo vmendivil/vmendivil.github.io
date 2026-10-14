@@ -1,0 +1,42 @@
+[
+  {
+    "antipattern": "low-contrast",
+    "name": "Low contrast text",
+    "description": "Text does not meet WCAG AA contrast requirements (4.5:1 for body, 3:1 for large text). Increase the contrast between text and background.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/06-ameen-garden/index.html",
+    "line": 0,
+    "snippet": "1.4:1 (need 3:1) — text #a8c4b4 on #d9e5d6"
+  },
+  {
+    "antipattern": "cramped-padding",
+    "name": "Cramped padding",
+    "description": "Text is too close to the edge of its container. Two shapes: (1) an element with its own text where the space between the rendered text and the border box is too small for the font size, and (2) a wrapper whose children's text lands flush against a visible boundary (border, outline, or non-transparent background) with nothing to inset it. Add at least 8px (ideally 12–16px) of space inside bordered, outlined, or colored containers.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/06-ameen-garden/index.html",
+    "line": 0,
+    "snippet": "<section> \"practice\": children flush against bg on right/left (no inset)"
+  },
+  {
+    "antipattern": "cramped-padding",
+    "name": "Cramped padding",
+    "description": "Text is too close to the edge of its container. Two shapes: (1) an element with its own text where the space between the rendered text and the border box is too small for the font size, and (2) a wrapper whose children's text lands flush against a visible boundary (border, outline, or non-transparent background) with nothing to inset it. Add at least 8px (ideally 12–16px) of space inside bordered, outlined, or colored containers.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/06-ameen-garden/index.html",
+    "line": 0,
+    "snippet": "<section> \"interests\": children flush against bg on right/left (no inset)"
+  },
+  {
+    "antipattern": "cramped-padding",
+    "name": "Cramped padding",
+    "description": "Text is too close to the edge of its container. Two shapes: (1) an element with its own text where the space between the rendered text and the border box is too small for the font size, and (2) a wrapper whose children's text lands flush against a visible boundary (border, outline, or non-transparent background) with nothing to inset it. Add at least 8px (ideally 12–16px) of space inside bordered, outlined, or colored containers.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/06-ameen-garden/index.html",
+    "line": 0,
+    "snippet": "<section> \"contact\": children flush against bg on right/left (no inset)"
+  }
+]

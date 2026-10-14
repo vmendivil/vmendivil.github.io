@@ -1,0 +1,67 @@
+{
+  "session": "pending-13-15",
+  "verdict": "READY_SOURCE",
+  "runtimeAllowlist": [
+    "index.html",
+    "style.css",
+    "fidelity.css",
+    "fidelity.js",
+    "main.js",
+    "assets/public-sans-OFL.txt",
+    "assets/public-sans.ttf"
+  ],
+  "shippingSHA256": {
+    "index.html": "975551cd0787b0745def3605ec9ae111897418b613e386e6b20ca5a83283ac35",
+    "style.css": "5dffec17e74f3c7e3247e1237922fa4d31dc6ee046819d8a31fca210c4ac5604",
+    "fidelity.css": "fc5ab617a97d56a5010d7a529c0fba8f7f66e9504024cd65c3a82c649e366bb9",
+    "fidelity.js": "5b33dfe2617aa020e80bf75fb60191ac4901fa838260aa02f4afa7dd5f225f50",
+    "main.js": "babe27a7cf3862bb058d358698470725bcbc6d29fe78fdbc44c6fb9ca6573975",
+    "assets/public-sans-OFL.txt": "157a9e77f7580246e97c769490e2e977ae94399f9d30f4556015c41fe8c28bac",
+    "assets/public-sans.ttf": "d75a7dc1a27eb9e336d5b33f55489d2ecb5621bf694d5c43b2415bce2ca830a8"
+  },
+  "changedAgainstPriorFidelity": {},
+  "sourceEvidenceSHA256": {
+    "group-a/14-alex-resume-desktop.png": "9776bdaf347f9e01d22cc6ae244a816c484659c87acb35b09506d11941bbe175",
+    "group-a/14-alex-resume-reading.png": "bc6275d1aeafde7490d2e15b290e47c9ade641f492f05d4771b24bb8c0342504",
+    "group-a/14-alex-resume-mobile.png": "4b7c581e793f3b3c69aaf32d4b4eee15d9ddb09d4d2ad748332647f84ecab9a9"
+  },
+  "sourceEvidenceMatchesRecorded": true,
+  "freshResults": "fidelity-evidence/parent-confirmation/parent-confirmation-results.json",
+  "freshPasses": 64,
+  "freshErrors": [],
+  "freshCaptureSHA256": {
+    "fidelity-evidence/parent-confirmation/1440-main.png": "48a3a710fa03f771b04eb90af2821cdb50709f06d478ab3ef9112628fa22bf54",
+    "fidelity-evidence/parent-confirmation/1440-practice-reading.png": "37d4889bfbd36bf02809a307462005863a2c1429feefd370ba63b7f9e49de87b",
+    "fidelity-evidence/parent-confirmation/1440-contact.png": "2f0edecfd8be1750c95658d191cf319b0dc8ec9fb89396c8ab2bb4dbaa941646",
+    "fidelity-evidence/parent-confirmation/1440-stage-three.png": "af74d93368d656f7ba236097d609367c48f779228831d60ddc003093ab89d905",
+    "fidelity-evidence/parent-confirmation/1440-contact-final.png": "4077340b3848e0dbc1b31a752e45da3f75592ec25d5e587816233d3fd31f9ba3",
+    "fidelity-evidence/parent-confirmation/390-main.png": "02a13073409940f16f032360cdddc5b23d18192621c40b0f4fd061f6cd645b9c",
+    "fidelity-evidence/parent-confirmation/390-practice-reading.png": "a8f6d69a496ab7b4ed4dba396d90b69b07f250f94bd27b2ce10f139f21b807c1",
+    "fidelity-evidence/parent-confirmation/390-contact.png": "26a0c29c3f9885e53498775c4386d79e117dab25556ec0ff71dbb133b630f749",
+    "fidelity-evidence/parent-confirmation/390-stage-three.png": "b1ebb82daa8a5899bc17fd41520d5c2c965fe2074a29b344e2f626ce4430aa76",
+    "fidelity-evidence/parent-confirmation/390-contact-final.png": "3a6be74ac294109685db4824ff76d52c5172fb26a4cfae2c5407b7eb0407e1bc",
+    "fidelity-evidence/parent-confirmation/844-main.png": "c3203bec185ceefbc99ddbb09197a9d920de8407304d3187225259d688e7ab85",
+    "fidelity-evidence/parent-confirmation/844-practice-reading.png": "aeeefaf958814cba331ed37731a9b84435f175f429a4023181cc884bc0e45729",
+    "fidelity-evidence/parent-confirmation/844-contact.png": "cfc6467da95bb632086d65a60a06a21e8e9509f5102c46abb0bb475298397d02",
+    "fidelity-evidence/parent-confirmation/844-stage-three.png": "f6bcc712abeee17b93c27503231b0b4f11906d6714030cf43ba03037cb461c2a",
+    "fidelity-evidence/parent-confirmation/844-contact-final.png": "121e0380cb5f2f55374053eeb1f929f7d86e6e2e9fb9fb34551552e4df41ac59",
+    "fidelity-evidence/parent-confirmation/sequence-00-overview.png": "062c05aa69d82427b4631acf46a877ae3e8bb41de261c81459b532761e8a388e",
+    "fidelity-evidence/parent-confirmation/sequence-01-expanding.png": "dfd6a17d75d382c47af7e3d726a1217c014572b35f83e9b53a2ee14979953943",
+    "fidelity-evidence/parent-confirmation/sequence-02-expanded.png": "37d4889bfbd36bf02809a307462005863a2c1429feefd370ba63b7f9e49de87b",
+    "fidelity-evidence/parent-confirmation/sequence-03-overview.png": "062c05aa69d82427b4631acf46a877ae3e8bb41de261c81459b532761e8a388e",
+    "fidelity-evidence/parent-confirmation/reduced-contact.png": "79d51dfbcddf4b4df7e5df999b1869bf49db6633c5e72c36688f20a7f4024032",
+    "fidelity-evidence/parent-confirmation/nojs-contact.png": "8b80cc176c117f5b14d0d540be040e34e49be3cda520f1291f20ff015b3ee071",
+    "fidelity-evidence/parent-confirmation/fallback-contact.png": "26a0c29c3f9885e53498775c4386d79e117dab25556ec0ff71dbb133b630f749"
+  },
+  "priorMatrix": {
+    "path": "fidelity-evidence/confirmation/confirmation-results.json",
+    "passed": 73,
+    "errors": [],
+    "interpretation": "Entire runtime hash matched, six-size evidence remains current"
+  },
+  "limits": [
+    "Loopback source only; parent owns runtime assembly and actual LAN/source links",
+    "No physical Safari/device or physical background-tab certification",
+    "Historical detector preserved, not rerun"
+  ]
+}

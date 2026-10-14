@@ -1,0 +1,68 @@
+{
+  "desktop": {
+    "width": 1440,
+    "documentWidth": 1425,
+    "ready": "true",
+    "fonts": true
+  },
+  "firstTab": "skip",
+  "keyboardNavigation": {
+    "hash": "#about",
+    "top": 30
+  },
+  "pausedPixelsStable": true,
+  "pauseLabel": "Resume the water",
+  "ambientPixelsChange": true,
+  "pointerNavigation": true,
+  "contact": {
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "target": "_blank",
+    "forms": 0
+  },
+  "mobile": {
+    "width": 390,
+    "documentWidth": 390,
+    "sections": [
+      "home",
+      "about",
+      "practice",
+      "interests",
+      "contact"
+    ],
+    "padding": "27.2969px"
+  },
+  "touchNavigation": true,
+  "reducedMotion": {
+    "matches": true,
+    "label": "Still water \u00b7 reduced motion",
+    "disabled": true,
+    "motion": "paused",
+    "scroll": "auto",
+    "pixelsStable": true
+  },
+  "errors": [],
+  "assets": [
+    {
+      "url": "style.css",
+      "status": 200
+    },
+    {
+      "url": "garden.js",
+      "status": 200
+    },
+    {
+      "url": "assets/karla.ttf",
+      "status": 200
+    },
+    {
+      "url": "assets/bellefair.ttf",
+      "status": 200
+    },
+    {
+      "url": "assets/leaf.svg",
+      "status": 200
+    }
+  ],
+  "escape": "No modal, trap, or dismissible overlay exists; Escape is not applicable.",
+  "status": "passed"
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "width": 390,
+    "variant": "fallback",
+    "loaded": {
+      "loaded": true,
+      "url": "assets/landscape-fidelity.png"
+    },
+    "faq": true,
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "variant": "no-js",
+    "loaded": {
+      "loaded": true,
+      "url": "assets/landscape-fidelity.png"
+    },
+    "faq": true,
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "variant": "fallback",
+    "loaded": {
+      "loaded": true,
+      "url": "assets/landscape-fidelity.png"
+    },
+    "faq": true,
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "variant": "no-js",
+    "loaded": {
+      "loaded": true,
+      "url": "assets/landscape-fidelity.png"
+    },
+    "faq": true,
+    "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "overflow": false
+  }
+]

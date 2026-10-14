@@ -1,0 +1,83 @@
+{
+  "scope": "Fallback/reduced/noJS completion only; does not close normal-motion desktop capture blocker",
+  "checks": [
+    {
+      "name": "fallback-desktop practice final action",
+      "pass": true
+    },
+    {
+      "name": "fallback-desktop curiosity final action",
+      "pass": true
+    },
+    {
+      "name": "fallback-desktop contact final action",
+      "pass": true
+    },
+    {
+      "name": "reduced visible reveal",
+      "pass": true
+    },
+    {
+      "name": "reduced practice final action",
+      "pass": true
+    },
+    {
+      "name": "reduced curiosity final action",
+      "pass": true
+    },
+    {
+      "name": "reduced contact final action",
+      "pass": true
+    },
+    {
+      "name": "nojs practice final action",
+      "pass": true
+    },
+    {
+      "name": "nojs curiosity final action",
+      "pass": true
+    },
+    {
+      "name": "nojs contact final action",
+      "pass": true
+    }
+  ],
+  "captures": [
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/fallback-completion/fallback-desktop-practice.png",
+      "sha256": "6d96c4b6da5c0139fae817456b2cdd1fe0e84f4c0bf349b55ae2cd89940c5bb4"
+    },
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/fallback-completion/fallback-desktop-curiosity.png",
+      "sha256": "8f9ad41d535869a3c36b1f718b699af58e4d75ed5461520dd6aee68ef15aac30"
+    },
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/fallback-completion/fallback-desktop-contact.png",
+      "sha256": "f53ed137f20e372f24ffa024cdb8666ded87a3a01db6bd51a648805ac3bac864"
+    },
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/fallback-completion/reduced-practice.png",
+      "sha256": "926747653398384a1b7c699aea5728e91ff8a994ab3d4e10cd0346302482de8a"
+    },
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/fallback-completion/reduced-curiosity.png",
+      "sha256": "4bb4e7263d3a4e508c8556e129eb126ec06250c87e3067b40e6b5df83525123e"
+    },
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/fallback-completion/reduced-contact.png",
+      "sha256": "5e9f325c1d5cb1953cd104f8d087a0a5a4c8b128c8406d4bf1a47cc6d80ee06b"
+    },
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/fallback-completion/nojs-practice.png",
+      "sha256": "f4a64d869f3d509ec171fe1c8117dd1b324d335bf316cd852e465486c52171b8"
+    },
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/fallback-completion/nojs-curiosity.png",
+      "sha256": "5fbbc8b77836a78d46624c6232e469fd3196867dbadde1186f56bf0556ddef14"
+    },
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/fallback-completion/nojs-contact.png",
+      "sha256": "fc63a089176e03e9786db44f272f6e021900fd0a6f5da754df86b057427360fa"
+    }
+  ]
+}

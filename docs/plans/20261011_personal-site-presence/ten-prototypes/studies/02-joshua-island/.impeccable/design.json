@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T00:20:06.468224+00:00",
+  "title": "Design System: Curiosity Archipelago",
+  "extensions": {
+    "shadows": [
+      {
+        "name": "landmark-elevation",
+        "value": "0 6px 18px #00000034",
+        "purpose": "Offset plaque elevation"
+      }
+    ],
+    "motion": [
+      {
+        "name": "camera-travel",
+        "value": "position lerp 0.075, maximum 20fps",
+        "purpose": "Region selection travel; immediate under reduced motion"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "portrait",
+        "value": "700px"
+      },
+      {
+        "name": "tablet",
+        "value": "1000px"
+      },
+      {
+        "name": "short-landscape",
+        "value": "max-height:500px and min-width:701px"
+      }
+    ],
+    "typographyMeta": {
+      "display": {
+        "displayName": "Gloock",
+        "purpose": "Personal scene titles"
+      },
+      "body": {
+        "displayName": "Figtree",
+        "purpose": "Readable personal notes"
+      }
+    },
+    "reading": {
+      "ground": "sea, no card background or shadow",
+      "marginWidth": "400px desktop / 340px tablet / auto portrait",
+      "insets": "44px desktop / 24px portrait",
+      "lead": "24px Gloock / 1.4 / #ffcfb7",
+      "body": "16px Figtree / 1.65",
+      "rules": "1px coral",
+      "return": "sticky, 44px minimum",
+      "scroll": "independent desktop and landscape; document portrait"
+    },
+    "experienceFidelity": {
+      "focal": "Shore discovery",
+      "behavior": "Visitors can drag the diorama horizontally, swipe with trusted touch, turn through keyboard arrows or use West/East buttons. The bounded orbit changes how the islands overlap and reveals shore depth. Island geometry is raycast-selectable; existing region approaches, atlas margins, next-shore and contact reading remain. Phone shore controls moved into open water after the inspection found title overlap. Offscreen atlas stops rendering.",
+      "reducedMotion": "immediate visible state",
+      "noJS": "complete factual reading with contact",
+      "verification": "fidelity/results.json; performance-confirmation.json; keyboard-confirmation.json",
+      "limits": "The source original stayed on LOADING during live revisit; drag instructions and retained archived imagery informed this interpretation, not a claimed successful live gesture test. No source-level populated character performance, day/night system or horizontal narrative world. Camera travel is frame-based and slows substantially in software rendering (4 desktop / 13 phone renders per second observed). A 2.5-second pause snapshot had four remaining approach frames; longer diagnostic reached zero. A 390px offscreen probe left a 15px scenic strip visible and therefore continued rendering; a truly offscreen 320px probe showed zero delta. Hidden-tab behavior could not be certified because the headless browser kept document.hidden false."
+    }
+  },
+  "components": [
+    {
+      "name": "Landmark",
+      "kind": "button",
+      "refersTo": "landmark",
+      "description": "Region selection plaque",
+      "html": "<button class=\"ds-landmark\">Pi harbour</button>",
+      "css": ".ds-landmark{font:14px Figtree,sans-serif;background:#292663ec;color:#fff3e8;border:0;border-bottom:1px solid #ffffff80;border-radius:5px 5px 0 0;padding:10px 15px;box-shadow:0 6px 18px #00000034;cursor:pointer}.ds-landmark:hover{background:#493b79}.ds-landmark:focus-visible{outline:3px solid #ffcfb7;outline-offset:5px}"
+    },
+    {
+      "name": "Whole archipelago",
+      "kind": "button",
+      "description": "Return from a field note",
+      "html": "<div class=\"note-tools\"><button class=\"back\"><svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M12 8H4m4-4L4 8l4 4\"/></svg> Whole archipelago</button></div>",
+      "css": ".note-tools{position:sticky;top:0;background:#292663;border-bottom:1px solid #fa8c84}.back{display:inline-flex;align-items:center;gap:9px;min-height:44px;background:none;border:0;color:#a5e6d5;font:14px Figtree,sans-serif}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Curiosity Archipelago",
+    "overview": "The accepted archipelago remains unchanged. Distinct atlas-margin reading uses the sea ground, coral annotation rules and peach Gloock lead, with a map-first portrait composition and accessible next-shore navigation.",
+    "keyCharacteristics": [
+      "Authored coastal diorama",
+      "Selectable neighborhoods",
+      "Honest personal notes"
+    ],
+    "rules": [
+      {
+        "name": "No scene dependency",
+        "body": "Every story is available through native controls even if WebGL fails.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "Keep all scene material original.",
+      "Keep personal facts grounded in BUILD_BRIEF."
+    ],
+    "donts": [
+      "Do not copy reference assets.",
+      "Do not claim artistic acceptance from technical tests."
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "label": "active",
+    "scrollY": 0,
+    "hidden": false,
+    "controls": [
+      {
+        "paused": false,
+        "route": 0
+      },
+      {
+        "paused": false,
+        "route": 0
+      },
+      {
+        "paused": false,
+        "route": 0
+      }
+    ],
+    "instances": [
+      {
+        "visible": true,
+        "draws": 18
+      },
+      {
+        "visible": false,
+        "draws": 1
+      },
+      {
+        "visible": false,
+        "draws": 1
+      }
+    ],
+    "running": true
+  },
+  {
+    "label": "paused",
+    "scrollY": 0,
+    "hidden": false,
+    "controls": [
+      {
+        "paused": true,
+        "route": 0
+      },
+      {
+        "paused": false,
+        "route": 0
+      },
+      {
+        "paused": false,
+        "route": 0
+      }
+    ],
+    "instances": [
+      {
+        "visible": true,
+        "draws": 20
+      },
+      {
+        "visible": false,
+        "draws": 1
+      },
+      {
+        "visible": false,
+        "draws": 1
+      }
+    ],
+    "running": false
+  },
+  {
+    "label": "touch",
+    "scrollY": 0,
+    "hidden": false,
+    "controls": [
+      {
+        "paused": true,
+        "route": 0.84
+      },
+      {
+        "paused": false,
+        "route": 0
+      },
+      {
+        "paused": false,
+        "route": 0
+      }
+    ],
+    "instances": [
+      {
+        "visible": true,
+        "draws": 24
+      },
+      {
+        "visible": false,
+        "draws": 1
+      },
+      {
+        "visible": false,
+        "draws": 1
+      }
+    ],
+    "running": false
+  },
+  {
+    "label": "resume",
+    "scrollY": 0,
+    "hidden": false,
+    "controls": [
+      {
+        "paused": false,
+        "route": 0
+      },
+      {
+        "paused": false,
+        "route": 0
+      },
+      {
+        "paused": false,
+        "route": 0
+      }
+    ],
+    "instances": [
+      {
+        "visible": true,
+        "draws": 28
+      },
+      {
+        "visible": false,
+        "draws": 1
+      },
+      {
+        "visible": false,
+        "draws": 1
+      }
+    ],
+    "running": true
+  }
+]

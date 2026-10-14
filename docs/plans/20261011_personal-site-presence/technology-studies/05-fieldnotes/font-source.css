@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqqFA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqqFA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2qFA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/literata/v40/or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbBG_F_Y.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/literata/v40/or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbCO_F_Y.ttf) format('truetype');
+}

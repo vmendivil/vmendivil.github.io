@@ -1,0 +1,118 @@
+{
+  "checks": {
+    "playbackRendersIn1100ms": 4,
+    "pausedRenders": 0,
+    "readingRenders": 0,
+    "actualDocumentHidden": false,
+    "backgroundRenders": 2,
+    "syntheticHiddenHandlerRenders": 0,
+    "settledAnimations": 0,
+    "computed": {
+      "background": "rgba(0, 0, 0, 0)",
+      "bodyFont": "16px",
+      "paragraphFonts": []
+    }
+  },
+  "evidence": [
+    {
+      "frame": 1,
+      "label": "building",
+      "url": "http://127.0.0.1:9619/",
+      "time": 1791894130231,
+      "metrics": {
+        "renders": 3,
+        "frames": 1,
+        "active": false,
+        "camera": {
+          "floorY": 0,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "frame": 2,
+      "label": "floor-travel",
+      "url": "http://127.0.0.1:9619/#3f",
+      "time": 1791894132475,
+      "metrics": {
+        "renders": 7,
+        "frames": 5,
+        "active": false,
+        "camera": {
+          "floorY": 14,
+          "zoom": 0
+        }
+      }
+    },
+    {
+      "frame": 3,
+      "label": "screen-entry",
+      "url": "http://127.0.0.1:9619/#3f/screen",
+      "time": 1791894134500,
+      "metrics": {
+        "renders": 10,
+        "frames": 8,
+        "active": false,
+        "camera": {
+          "floorY": 14,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "frame": 4,
+      "label": "screen-rest",
+      "url": "http://127.0.0.1:9619/#3f/screen",
+      "time": 1791894135358,
+      "metrics": {
+        "renders": 10,
+        "frames": 8,
+        "active": false,
+        "camera": {
+          "floorY": 14,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "frame": 5,
+      "label": "light-scan",
+      "url": "http://127.0.0.1:9619/#3f/screen",
+      "time": 1791894138625,
+      "metrics": {
+        "renders": 21,
+        "frames": 19,
+        "active": true,
+        "camera": {
+          "floorY": 14,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "frame": 6,
+      "label": "building-return",
+      "url": "http://127.0.0.1:9619/#3f",
+      "time": 1791894157691,
+      "metrics": {
+        "renders": 60,
+        "frames": 58,
+        "active": false,
+        "camera": {
+          "floorY": 14,
+          "zoom": 0
+        }
+      }
+    }
+  ],
+  "log": [
+    {
+      "name": "pagereveal",
+      "time": 58.299999952316284,
+      "animations": [],
+      "transition": false
+    }
+  ],
+  "renderer": "Headless Chromium software-rendered emulation; not physical-device FPS",
+  "hiddenEvidence": "Actual tab visibility recorded; if browser keeps pages visible, synthetic visibility-handler coverage explicitly separated"
+}

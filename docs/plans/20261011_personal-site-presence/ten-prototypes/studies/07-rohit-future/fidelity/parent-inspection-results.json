@@ -1,0 +1,1328 @@
+{
+  "engine": "Chromium / SwiftShader software WebGL",
+  "input": "real Playwright keyboard and trusted emulated touch; wheel scroll; not physical-device/Safari certification",
+  "pass": "parent-inspection",
+  "viewports": [
+    [
+      1440,
+      900
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      844,
+      390
+    ]
+  ],
+  "checks": [
+    {
+      "name": "1440x900 trusted touch and Space pause",
+      "pass": true
+    },
+    {
+      "name": "1440x900 overview bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 overview assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 keyboard skip",
+      "pass": true
+    },
+    {
+      "name": "1440x900 skip enters About",
+      "pass": true
+    },
+    {
+      "name": "1440x900 about reading",
+      "pass": true
+    },
+    {
+      "name": "1440x900 about bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 about assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 approach reading",
+      "pass": true
+    },
+    {
+      "name": "1440x900 approach bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 approach assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 interests reading",
+      "pass": true
+    },
+    {
+      "name": "1440x900 interests bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 interests assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 contact reading",
+      "pass": true
+    },
+    {
+      "name": "1440x900 contact bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 contact assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 truthful contact",
+      "pass": true
+    },
+    {
+      "name": "1440x900 no fake form",
+      "pass": true
+    },
+    {
+      "name": "1440x900 paused GPU idle",
+      "pass": true,
+      "detail": {
+        "a": {
+          "draws": 31,
+          "renderMs": 3.100000023841858,
+          "progress": 0,
+          "paused": true,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        },
+        "b": {
+          "draws": 31,
+          "renderMs": 3.100000023841858,
+          "progress": 0,
+          "paused": true,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "1440x900 resumed draws",
+      "pass": true,
+      "detail": {
+        "b": {
+          "draws": 31,
+          "renderMs": 3.100000023841858,
+          "progress": 0,
+          "paused": true,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        },
+        "c": {
+          "draws": 35,
+          "renderMs": 0.40000009536743164,
+          "progress": 0,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "1440x900 simulated hidden draw idle",
+      "pass": true,
+      "detail": {
+        "a": {
+          "draws": 50,
+          "renderMs": 0.5999999046325684,
+          "progress": 0,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        },
+        "b": {
+          "draws": 50,
+          "renderMs": 0.5999999046325684,
+          "progress": 0,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "1440x900 visibility resume",
+      "pass": true,
+      "detail": {
+        "b": {
+          "draws": 50,
+          "renderMs": 0.5999999046325684,
+          "progress": 0,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        },
+        "c": {
+          "draws": 51,
+          "renderMs": 0.40000009536743164,
+          "progress": 0,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "1440x900 reduced media",
+      "pass": true
+    },
+    {
+      "name": "1440x900 reduced truthful control",
+      "pass": true
+    },
+    {
+      "name": "390x844 trusted touch and Space pause",
+      "pass": true
+    },
+    {
+      "name": "390x844 overview bounds",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 overview assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 keyboard skip",
+      "pass": true
+    },
+    {
+      "name": "390x844 skip enters About",
+      "pass": true
+    },
+    {
+      "name": "390x844 about reading",
+      "pass": true
+    },
+    {
+      "name": "390x844 about bounds",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 about assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 approach reading",
+      "pass": true
+    },
+    {
+      "name": "390x844 approach bounds",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 approach assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 interests reading",
+      "pass": true
+    },
+    {
+      "name": "390x844 interests bounds",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 interests assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 contact reading",
+      "pass": true
+    },
+    {
+      "name": "390x844 contact bounds",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 contact assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 truthful contact",
+      "pass": true
+    },
+    {
+      "name": "390x844 no fake form",
+      "pass": true
+    },
+    {
+      "name": "390x844 paused GPU idle",
+      "pass": true,
+      "detail": {
+        "a": {
+          "draws": 33,
+          "renderMs": 2,
+          "progress": 0,
+          "paused": true,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        },
+        "b": {
+          "draws": 33,
+          "renderMs": 2,
+          "progress": 0,
+          "paused": true,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "390x844 resumed draws",
+      "pass": true,
+      "detail": {
+        "b": {
+          "draws": 33,
+          "renderMs": 2,
+          "progress": 0,
+          "paused": true,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        },
+        "c": {
+          "draws": 36,
+          "renderMs": 0.3999999761581421,
+          "progress": 0,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "390x844 simulated hidden draw idle",
+      "pass": true,
+      "detail": {
+        "a": {
+          "draws": 51,
+          "renderMs": 0.7000000476837158,
+          "progress": 0,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        },
+        "b": {
+          "draws": 51,
+          "renderMs": 0.7000000476837158,
+          "progress": 0,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "390x844 visibility resume",
+      "pass": true,
+      "detail": {
+        "b": {
+          "draws": 51,
+          "renderMs": 0.7000000476837158,
+          "progress": 0,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        },
+        "c": {
+          "draws": 52,
+          "renderMs": 0.5,
+          "progress": 0,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "390x844 reduced media",
+      "pass": true
+    },
+    {
+      "name": "390x844 reduced truthful control",
+      "pass": true
+    },
+    {
+      "name": "844x390 trusted touch and Space pause",
+      "pass": true
+    },
+    {
+      "name": "844x390 overview bounds",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 overview assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 keyboard skip",
+      "pass": true
+    },
+    {
+      "name": "844x390 skip enters About",
+      "pass": true
+    },
+    {
+      "name": "844x390 about reading",
+      "pass": true
+    },
+    {
+      "name": "844x390 about bounds",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 about assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 approach reading",
+      "pass": true
+    },
+    {
+      "name": "844x390 approach bounds",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 approach assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 interests reading",
+      "pass": true
+    },
+    {
+      "name": "844x390 interests bounds",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 interests assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 contact reading",
+      "pass": true
+    },
+    {
+      "name": "844x390 contact bounds",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 contact assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 truthful contact",
+      "pass": true
+    },
+    {
+      "name": "844x390 no fake form",
+      "pass": true
+    },
+    {
+      "name": "844x390 paused GPU idle",
+      "pass": true,
+      "detail": {
+        "a": {
+          "draws": 35,
+          "renderMs": 1.5,
+          "progress": 1,
+          "paused": true,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            8.3
+          ]
+        },
+        "b": {
+          "draws": 35,
+          "renderMs": 1.5,
+          "progress": 1,
+          "paused": true,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            8.3
+          ]
+        }
+      }
+    },
+    {
+      "name": "844x390 resumed draws",
+      "pass": true,
+      "detail": {
+        "b": {
+          "draws": 35,
+          "renderMs": 1.5,
+          "progress": 1,
+          "paused": true,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            8.3
+          ]
+        },
+        "c": {
+          "draws": 37,
+          "renderMs": 0.30000007152557373,
+          "progress": 1,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            8.3
+          ]
+        }
+      }
+    },
+    {
+      "name": "844x390 simulated hidden draw idle",
+      "pass": true,
+      "detail": {
+        "a": {
+          "draws": 53,
+          "renderMs": 0.2999999523162842,
+          "progress": 1,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            8.3
+          ]
+        },
+        "b": {
+          "draws": 53,
+          "renderMs": 0.2999999523162842,
+          "progress": 1,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            8.3
+          ]
+        }
+      }
+    },
+    {
+      "name": "844x390 visibility resume",
+      "pass": true,
+      "detail": {
+        "b": {
+          "draws": 53,
+          "renderMs": 0.2999999523162842,
+          "progress": 1,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            8.3
+          ]
+        },
+        "c": {
+          "draws": 54,
+          "renderMs": 0.2999999523162842,
+          "progress": 1,
+          "paused": false,
+          "reduced": false,
+          "entrance": 1,
+          "camera": [
+            0,
+            0,
+            8.3
+          ]
+        }
+      }
+    },
+    {
+      "name": "844x390 reduced media",
+      "pass": true
+    },
+    {
+      "name": "844x390 reduced truthful control",
+      "pass": true
+    },
+    {
+      "name": "no-js About and Contact remain",
+      "pass": true
+    },
+    {
+      "name": "webgl-failure About and Contact remain",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "frames": [
+    {
+      "file": "parent-inspection-1440x900-overview.png",
+      "state": "overview",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893646567
+    },
+    {
+      "file": "parent-inspection-1440x900-about.png",
+      "state": "about",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893649501
+    },
+    {
+      "file": "parent-inspection-1440x900-approach.png",
+      "state": "approach",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893650437
+    },
+    {
+      "file": "parent-inspection-1440x900-interests.png",
+      "state": "interests",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893651350
+    },
+    {
+      "file": "parent-inspection-1440x900-contact.png",
+      "state": "contact",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893652245
+    },
+    {
+      "file": "parent-inspection-1440x900-contact.png",
+      "state": "contact",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893652961
+    },
+    {
+      "file": "parent-inspection-1440x900-return.png",
+      "state": "return",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893654824
+    },
+    {
+      "file": "parent-inspection-1440x900-focal-before.png",
+      "state": "focal-before",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893672265,
+      "renderer": {
+        "draws": 45,
+        "renderMs": 0.2999999523162842,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-1440x900-focal-mid.png",
+      "state": "focal-mid",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893673831,
+      "renderer": {
+        "draws": 46,
+        "renderMs": 0.2999999523162842,
+        "progress": 0.4375,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          9.308544921875
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-1440x900-focal-after.png",
+      "state": "focal-after",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893675439,
+      "renderer": {
+        "draws": 47,
+        "renderMs": 0.3999999761581421,
+        "progress": 0.9,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          8.3476
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-1440x900-focal-reversal.png",
+      "state": "focal-reversal",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893676674,
+      "renderer": {
+        "draws": 48,
+        "renderMs": 0.5,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-1440x900-reduced.png",
+      "state": "reduced",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791893686635
+    },
+    {
+      "file": "parent-inspection-390x844-overview.png",
+      "state": "overview",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893703718
+    },
+    {
+      "file": "parent-inspection-390x844-about.png",
+      "state": "about",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893705373
+    },
+    {
+      "file": "parent-inspection-390x844-approach.png",
+      "state": "approach",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893706226
+    },
+    {
+      "file": "parent-inspection-390x844-interests.png",
+      "state": "interests",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893707125
+    },
+    {
+      "file": "parent-inspection-390x844-contact.png",
+      "state": "contact",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893708044
+    },
+    {
+      "file": "parent-inspection-390x844-contact.png",
+      "state": "contact",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893708784
+    },
+    {
+      "file": "parent-inspection-390x844-return.png",
+      "state": "return",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893711698
+    },
+    {
+      "file": "parent-inspection-390x844-focal-before.png",
+      "state": "focal-before",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893731100,
+      "renderer": {
+        "draws": 46,
+        "renderMs": 0.30000007152557373,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-390x844-focal-mid.png",
+      "state": "focal-mid",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893732478,
+      "renderer": {
+        "draws": 47,
+        "renderMs": 0.3999999761581421,
+        "progress": 0.3495260663507109,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          9.52212441901319
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-390x844-focal-after.png",
+      "state": "focal-after",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893733449,
+      "renderer": {
+        "draws": 47,
+        "renderMs": 0.3999999761581421,
+        "progress": 0.3495260663507109,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          9.52212441901319
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-390x844-focal-reversal.png",
+      "state": "focal-reversal",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893734404,
+      "renderer": {
+        "draws": 48,
+        "renderMs": 0.2999999523162842,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-390x844-reduced.png",
+      "state": "reduced",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791893739031
+    },
+    {
+      "file": "parent-inspection-844x390-overview.png",
+      "state": "overview",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893757888
+    },
+    {
+      "file": "parent-inspection-844x390-about.png",
+      "state": "about",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893760386
+    },
+    {
+      "file": "parent-inspection-844x390-approach.png",
+      "state": "approach",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893761267
+    },
+    {
+      "file": "parent-inspection-844x390-interests.png",
+      "state": "interests",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893762150
+    },
+    {
+      "file": "parent-inspection-844x390-contact.png",
+      "state": "contact",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893763009
+    },
+    {
+      "file": "parent-inspection-844x390-contact.png",
+      "state": "contact",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893763694
+    },
+    {
+      "file": "parent-inspection-844x390-return.png",
+      "state": "return",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893765461
+    },
+    {
+      "file": "parent-inspection-844x390-focal-before.png",
+      "state": "focal-before",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893786262,
+      "renderer": {
+        "draws": 47,
+        "renderMs": 0.2999999523162842,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-844x390-focal-mid.png",
+      "state": "focal-mid",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893787937,
+      "renderer": {
+        "draws": 48,
+        "renderMs": 0.2999999523162842,
+        "progress": 0.5074074074074074,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          9.131112493014276
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-844x390-focal-after.png",
+      "state": "focal-after",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893789180,
+      "renderer": {
+        "draws": 49,
+        "renderMs": 0.6000000238418579,
+        "progress": 1,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          8.3
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-844x390-focal-reversal.png",
+      "state": "focal-reversal",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893790955,
+      "renderer": {
+        "draws": 50,
+        "renderMs": 0.30000007152557373,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-inspection-844x390-reduced.png",
+      "state": "reduced",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791893800036
+    }
+  ]
+}

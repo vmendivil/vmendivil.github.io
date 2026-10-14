@@ -1,0 +1,78 @@
+{
+  "phase": "inspection",
+  "engine": "Chromium Playwright; SwiftShader software emulation; physical Safari not tested",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "fatal": "page.waitForFunction: Timeout 20000ms exceeded.",
+      "errors": [
+        "Identifier 'svg' has already been declared"
+      ],
+      "failed": [],
+      "states": []
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "fatal": "page.waitForFunction: Timeout 20000ms exceeded.",
+      "errors": [
+        "Identifier 'svg' has already been declared"
+      ],
+      "failed": [],
+      "states": []
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "fatal": "page.waitForFunction: Timeout 20000ms exceeded.",
+      "errors": [
+        "Identifier 'svg' has already been declared"
+      ],
+      "failed": [],
+      "states": []
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "fatal": "page.waitForFunction: Timeout 20000ms exceeded.",
+      "errors": [
+        "Identifier 'svg' has already been declared"
+      ],
+      "failed": [],
+      "states": []
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "fatal": "page.waitForFunction: Timeout 20000ms exceeded.",
+      "errors": [
+        "Identifier 'svg' has already been declared"
+      ],
+      "failed": [],
+      "states": []
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "fatal": "page.waitForFunction: Timeout 20000ms exceeded.",
+      "errors": [
+        "Identifier 'svg' has already been declared"
+      ],
+      "failed": [],
+      "states": []
+    }
+  ]
+}

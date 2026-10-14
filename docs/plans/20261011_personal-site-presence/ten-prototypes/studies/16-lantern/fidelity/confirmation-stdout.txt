@@ -1,0 +1,1 @@
+PASS six viewports, four rooms each, native keys, touch, reduced motion, no-JS and fetch-failure fallback

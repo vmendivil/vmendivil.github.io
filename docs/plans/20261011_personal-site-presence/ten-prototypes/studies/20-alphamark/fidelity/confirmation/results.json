@@ -1,0 +1,1855 @@
+{
+  "study": 20,
+  "engine": "Chromium emulation; trusted Playwright input; not physical GPU/Safari certification",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 opening images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "plate-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 206,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 plate-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 plate-workable-system.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "reading-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 reading-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 reading-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "320x740 full essay workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "contact-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 3271,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 contact-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 contact-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "320x740 return focus workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "plate-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 866,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 plate-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 plate-after-hours.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "reading-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 reading-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 reading-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "320x740 full essay after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "contact-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2678,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 contact-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 contact-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "320x740 return focus after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "plate-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1278,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 plate-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 plate-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "reading-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 reading-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 reading-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "320x740 full essay ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "contact-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2236,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 contact-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 contact-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "320x740 return focus ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "menu",
+      "hash": "#editions",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 5,
+      "active": "menu-close",
+      "animations": 4,
+      "metrics": null
+    },
+    {
+      "label": "320x740 menu overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 menu images",
+      "pass": true
+    },
+    {
+      "label": "320x740 menu first wrap",
+      "pass": true
+    },
+    {
+      "label": "320x740 menu last wrap",
+      "pass": true
+    },
+    {
+      "label": "320x740 reduced menu",
+      "pass": true
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "state": "reduced",
+      "hash": "#editions",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "menu-toggle",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "320x740 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "320x740 reduced images",
+      "pass": true
+    },
+    {
+      "label": "320x740 real Tab",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 opening images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "plate-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 175,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 plate-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 plate-workable-system.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "reading-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 reading-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 reading-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "390x844 full essay workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "contact-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2909,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 contact-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 contact-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "390x844 return focus workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "plate-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 915,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 plate-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 plate-after-hours.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "reading-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 reading-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 reading-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "390x844 full essay after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "contact-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2326,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 contact-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 contact-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "390x844 return focus after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "plate-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1386,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 plate-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 plate-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "reading-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 reading-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 reading-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "390x844 full essay ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "contact-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1987,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 contact-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 contact-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "390x844 return focus ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "menu",
+      "hash": "#editions",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 15,
+      "active": "menu-close",
+      "animations": 4,
+      "metrics": null
+    },
+    {
+      "label": "390x844 menu overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 menu images",
+      "pass": true
+    },
+    {
+      "label": "390x844 menu first wrap",
+      "pass": true
+    },
+    {
+      "label": "390x844 menu last wrap",
+      "pass": true
+    },
+    {
+      "label": "390x844 reduced menu",
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "state": "reduced",
+      "hash": "#editions",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "menu-toggle",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "390x844 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "390x844 reduced images",
+      "pass": true
+    },
+    {
+      "label": "390x844 real Tab",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 opening images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "plate-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 150,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 plate-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 plate-workable-system.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "reading-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 reading-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 reading-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "430x932 full essay workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "contact-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2638,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 contact-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 contact-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "430x932 return focus workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "plate-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 952,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 plate-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 plate-after-hours.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "reading-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 reading-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 reading-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "430x932 full essay after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "contact-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2231,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 contact-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 contact-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "430x932 return focus after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "plate-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1442,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 plate-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 plate-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "reading-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 reading-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 reading-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "430x932 full essay ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "contact-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1813,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 contact-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 contact-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "430x932 return focus ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "menu",
+      "hash": "#editions",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 19,
+      "active": "menu-close",
+      "animations": 4,
+      "metrics": null
+    },
+    {
+      "label": "430x932 menu overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 menu images",
+      "pass": true
+    },
+    {
+      "label": "430x932 menu first wrap",
+      "pass": true
+    },
+    {
+      "label": "430x932 menu last wrap",
+      "pass": true
+    },
+    {
+      "label": "430x932 reduced menu",
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "state": "reduced",
+      "hash": "#editions",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "menu-toggle",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "430x932 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "430x932 reduced images",
+      "pass": true
+    },
+    {
+      "label": "430x932 real Tab",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 opening images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "plate-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 339,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 plate-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 plate-workable-system.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "reading-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 reading-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 reading-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "844x390 full essay workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "contact-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 3165,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 contact-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 contact-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "844x390 return focus workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "plate-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1137,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 plate-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 plate-after-hours.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "reading-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 reading-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 reading-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "844x390 full essay after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "contact-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2822,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 contact-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 contact-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "844x390 return focus after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "plate-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1137,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 plate-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 plate-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "reading-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 reading-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 reading-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "844x390 full essay ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "contact-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1917,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 contact-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 contact-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "844x390 return focus ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "menu",
+      "hash": "#editions",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 3,
+      "active": "menu-close",
+      "animations": 4,
+      "metrics": null
+    },
+    {
+      "label": "844x390 menu overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 menu images",
+      "pass": true
+    },
+    {
+      "label": "844x390 menu first wrap",
+      "pass": true
+    },
+    {
+      "label": "844x390 menu last wrap",
+      "pass": true
+    },
+    {
+      "label": "844x390 reduced menu",
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "state": "reduced",
+      "hash": "#editions",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "menu-toggle",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "844x390 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "844x390 reduced images",
+      "pass": true
+    },
+    {
+      "label": "844x390 real Tab",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 opening images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "plate-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 plate-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 plate-workable-system.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "reading-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 reading-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reading-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 full essay workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "contact-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2749,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 contact-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 contact-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 return focus workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "plate-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 800,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 plate-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 plate-after-hours.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "reading-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 6,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 reading-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reading-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 full essay after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "contact-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2350,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 contact-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 contact-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 return focus after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "plate-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 800,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 plate-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 plate-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "reading-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 reading-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reading-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 full essay ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "contact-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1500,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 contact-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 contact-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 return focus ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "state": "reduced",
+      "hash": "#editions",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 800,
+      "active": "edition second",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "768x1024 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "768x1024 reduced images",
+      "pass": true
+    },
+    {
+      "label": "768x1024 real Tab",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "opening",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 opening overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 opening images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "plate-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 373,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 plate-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 plate-workable-system.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "reading-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 6,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 reading-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reading-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 full essay workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "contact-workable-system.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2936,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 contact-workable-system.html overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 contact-workable-system.html images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 return focus workable-system.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "plate-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1339,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 plate-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 plate-after-hours.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "reading-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 reading-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reading-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 full essay after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "contact-after-hours.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 2784,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 contact-after-hours.html overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 contact-after-hours.html images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 return focus after-hours.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "plate-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1339,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 plate-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 plate-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "reading-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 0,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 reading-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reading-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 full essay ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "contact-ai-judgment.html",
+      "hash": "",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1777,
+      "active": "",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 contact-ai-judgment.html overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 contact-ai-judgment.html images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 return focus ai-judgment.html",
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "state": "reduced",
+      "hash": "#editions",
+      "overflow": false,
+      "images": true,
+      "fonts": "loaded",
+      "scroll": 1339,
+      "active": "edition second",
+      "animations": 0,
+      "metrics": null
+    },
+    {
+      "label": "1440x900 reduced overflow",
+      "pass": true
+    },
+    {
+      "label": "1440x900 reduced images",
+      "pass": true
+    },
+    {
+      "label": "1440x900 real Tab",
+      "pass": true
+    },
+    {
+      "label": "noJS facts visible",
+      "pass": true
+    },
+    {
+      "label": "noJS genuine contact",
+      "pass": true
+    },
+    {
+      "label": "renderer/image fallback independent heading",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "hashes": {
+    "after-hours.html": "0175583d0f1efa8ab3fcb5b16c329504f60cb3f990dcb40fa556e82848efaefd",
+    "ai-judgment.html": "729c0bab73cd5895063d306aba0f2e60f3c296ac5b55733ae20da210e51c39ed",
+    "fallback.css": "db1917ccca066c419aff3f6dedc9062e7380046d85e2633acf9931d580867566",
+    "fidelity.css": "330930f432a283867de204f363b233afae27ba7b8fa59f1b0edd6afb74f56441",
+    "index.html": "fbd42953aa74a6ad1e1ae0204278d387f730d8a08c5885ac695da74333ddfe69",
+    "main.js": "0b9f77cb78483654223c485c9160d74bb98581e97c363021899d747f81fbcf2e",
+    "style.css": "7ccb93d8c1007b537c53d95742fc90c123c5329629a409b1cbf010b00d7ace68",
+    "workable-system.html": "c74a38aa86624a94c4959922df736df311af5649d3ba2f6c92cf8dc8ceab981d"
+  }
+}

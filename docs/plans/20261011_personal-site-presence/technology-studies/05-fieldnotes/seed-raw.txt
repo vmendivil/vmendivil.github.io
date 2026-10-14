@@ -1,0 +1,150 @@
+DIRECTION CONCEPT SEED (key: 626ae4d6; mode: read; source: api; approved pool: c3b204a1eed6; 306/564 human-approved; rerun with --scope direction --mode read --from 626ae4d6 --candidate-count 7 to reproduce this roll against this catalog revision)
+ASSIGNED INDEX: 3
+  After ordering the grounded directions by resonance, build candidate
+  3 of your own grounded list; the assignment never points at a
+  challenger. The assignment is the roll, not a suggestion: your top-ranked
+  direction is what every run would ship, so the script decides which grounded
+  direction gets built. Each direction joins a durable visual system to a
+  concrete expression for the requested first surface, decided as one. It must
+  survive the current task plus navigation, quiet and dense content,
+  interaction and state, and a substantially different future surface. In an
+  attended run, present the assigned direction fully committed and offer
+  re-roll. You may add ONE card for your top-ranked grounded candidate when
+  it is not the assigned direction, kicker IMPECCABLE’S PICK, with an honest risk line
+  naming its familiarity; one pick card, never a ranked lineup, and the pick
+  never takes the lead position. When the assignment IS your top candidate,
+  there is no pick card. Re-roll yourself only
+  on named factual grounds, when the assignment cannot carry the product's
+  truth or task; taste is never grounds.
+  The assignment exists to refuse the model's ranking rut, never to outrank
+  the user or the brief. Never expose assignment metadata in user-facing labels.
+CHALLENGERS:
+  1. a hand-drawn technical zine on the web, where marker lettering, doodle arrows, and mascots teach a hard concept the way a friend sketches it on a napkin
+     SOURCE ID: hand-drawn-zine-explainer
+     CREATIVE SPARK: A cheerful marker headline sits above a doodled diagram, hand-drawn arrows looping from a wide-eyed mascot to a boxed code snippet, highlighter swipes marking the one line that matters as you step through the comic panels.
+     SYSTEM GRAMMAR:
+       - Palette/material: cream paper ground, black marker ink, two or three flat highlighter accents in yellow, pink, and teal
+       - Type/composition: a hand-lettered marker face for headings paired with a clean readable sans for body
+       - Topology/navigation: Move by stepping through numbered comic panels, by clicking mascot-guided call-outs, and by a sketched table-of-contents sidebar.
+       - Controls/state: Hovering a doodle reveals its explanation; highlighter swipes animate across the active line; a mascot changes expression to mark done, warning, and gotcha states.
+       - Responsive/motion: draw-on animation traces arrows in on scroll, and reduced-motion renders them already drawn.
+     WEB LEVERAGE: Author diagrams as inline SVG with hand-drawn paths and animate the doodle arrows via stroke-dashoffset draw-on tied to scroll position.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/hand-drawn-zine-explainer.webp · hero https://impeccable.style/worlds/cards/hand-drawn-zine-explainer-hero.webp
+  2. A film cutting bench flattened into a sheet: a perforated select rail crossing a grain-orange field, each step a punched frame held between two pins, the place you stopped marked by a folded tape flag, and everything set aside still hanging on pins below the rail.
+     SOURCE ID: operate-a-cutting-bench-select-rail
+     CREATIVE SPARK: A work print strung between two pins under a bench lamp, white grease crosses struck across three frames, a folded orange tape flag doubled over the perforation where the editor stopped, and a dozen trims hanging on pins in the bin below.
+     SYSTEM GRAMMAR:
+       - Palette/material: one ink, flag orange in coarse film grain on true black; orange holds a third of any screen. Running copy and foreign images sit only in punched white windows.
+       - Type/composition: one size of condensed grotesk throughout, caps for labels; rank is cell count not size, a window may span twelve frame cells while edge ticks stay hairline.
+       - Topology/navigation: a perforated rail crosses every sheet at a fixed height; sections string along it as frames, and anything set aside hangs below on pins in an open bin.
+       - Controls/state: state is a mark, not a hue: grease cross done, punched corner unavailable, tape band committed, folded flag where you stopped, hung on a pin deferred.
+       - Responsive/motion: the strip scrubs with inertia and settles on perforation pitch, never between frames; hung trims swing and damp. Narrow screens drop frame count, not size.
+     WEB LEVERAGE: The rail is one virtual strip whose scrub snaps to a fixed frame pitch; the frame you left is persisted and re-flagged on return, and every discarded frame stays reachable on a pin below the rail.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/operate-a-cutting-bench-select-rail.webp · hero https://impeccable.style/worlds/cards/operate-a-cutting-bench-select-rail-hero.webp
+  3. a book bound with its structure showing, chain-stitch links running exposed down the spine between wooden boards, the sewing pattern itself serving as the only ornament the binding gets
+     SOURCE ID: craft-making-coptic-exposed-binding
+     CREATIVE SPARK: Nothing is hidden. The thread that holds the book together runs down the outside of the spine in a chain, and that chain is the only decoration it was ever given.
+     SYSTEM GRAMMAR:
+       - Palette/material: undyed linen thread against wooden boards and unbleached rag paper, with blind tooling as the only surface decoration
+       - Type/composition: chain-stitch links running the full spine in a visible repeating pattern, sections aligned so every link sits on a shared axis
+       - Topology/navigation: the binding lies fully flat so navigation opens any section completely rather than fighting a curved gutter
+       - Controls/state: controls are sections, the active one opens flat, and the stitch pattern shows exactly how many sections remain
+       - Responsive/motion: link count scales with section count and the spine grows visibly, and motion is a book opening completely flat
+     WEB LEVERAGE: an svg chain-stitch spine generated from live section count, flat-open section state, and a growth animation as sections are added
+     QUALITY BAR: board https://impeccable.style/worlds/cards/craft-making-coptic-exposed-binding.webp · hero https://impeccable.style/worlds/cards/craft-making-coptic-exposed-binding-hero.webp
+  4. a tensegrity column of carbon rods and red cord, where opposing forces make a rigid body appear to inhale and lengthen
+     SOURCE ID: kinetic-sculpture-automata-tensegrity-breathing-column
+     CREATIVE SPARK: The cords tighten in sequence; black rods float apart without touching, and the column rises as if drawing a slow breath.
+     SYSTEM GRAMMAR:
+       - Palette/material: matte carbon-black rods on a pale concrete ground, red cord as the tension accent, slack members dropping to ash gray
+       - Type/composition: engineering monospaced labels with force values, annotations pinned to nodes on leader lines, layout obeys the strut network not a page grid
+       - Topology/navigation: Expose a network of tension and compression paths, letting users trace any load to its counterforce.
+       - Controls/state: Pull, release, lock, and compare members while slack, balanced, stressed, and failed states are distinct.
+       - Responsive/motion: Flatten the column into a force diagram on compact screens and substitute before-after poses for continuous breathing.
+     WEB LEVERAGE: A constraint graph can drive both spatial geometry and a semantic force diagram from the same underlying state.
+     QUALITY BAR: board https://impeccable.style/worlds/cards/kinetic-sculpture-automata-tensegrity-breathing-column.webp · hero https://impeccable.style/worlds/cards/kinetic-sculpture-automata-tensegrity-breathing-column-hero.webp
+  5. a postwar crime film one-sheet worked in two inks, a figure thrown as a long hard shadow across a painted street, the title set in condensed caps and the billing block ruled tight beneath
+     SOURCE ID: posters-covers-sleeves-noir-one-sheet-duotone
+     CREATIVE SPARK: the man is small and the shadow he throws is four times his size and going the wrong way up a wall, and the title sits in condensed caps like a charge being read out.
+     SYSTEM GRAMMAR:
+       - Palette/material: a hard duotone of ink black and one sour amber on cream stock, all modeling done by shadow shape rather than by tone
+       - Type/composition: condensed caps for the title, a figure placed small against a large shadow, and a ruled billing block locked to the foot
+       - Topology/navigation: the shadow points, so navigation follows the direction a cast shadow throws rather than a menu order
+       - Controls/state: controls are billing lines, the active one takes the amber, and spent ones recede into the black
+       - Responsive/motion: the shadow re-casts to any aspect and the figure holds scale, and motion is a light source swinging the shadow across
+     WEB LEVERAGE: css and svg cast shadows recomputed responsive, a light-source animation swinging the shadow, and billing state in amber
+     QUALITY BAR: board https://impeccable.style/worlds/cards/posters-covers-sleeves-noir-one-sheet-duotone.webp · hero https://impeccable.style/worlds/cards/posters-covers-sleeves-noir-one-sheet-duotone-hero.webp
+  6. a mid-century magazine identity built around one abstract silhouette mark, the mark hidden somewhere on every cover and the interior held by a strict two-column grid with commissioned modern illustration
+     SOURCE ID: brand-identity-canon-art-paul-magazine-program
+     CREATIVE SPARK: a strict serif grid, one spot color an issue, and a little abstract silhouette tucked into a lamp or a cufflink on every single cover, waiting for whoever is patient enough to keep looking.
+     SYSTEM GRAMMAR:
+       - Palette/material: black, white, and one editorial spot per issue on coated stock, with full-bleed commissioned artwork as the only imagery
+       - Type/composition: a serif masthead over a two-column grid, long interviews opened by an oversized drop initial and a heavy rule above the question
+       - Topology/navigation: the issue is the unit, sections repeat in fixed order, and the mark appears once per view as a small found landmark
+       - Controls/state: controls are rules and initials, the active section carries the issue spot color, and read items lose their rule weight
+       - Responsive/motion: two columns fold to one and the drop initial holds its scale, while motion is a page turn that reveals the mark last
+     WEB LEVERAGE: css grid columns folding responsive, a search state that reveals the hidden mark, and per-issue spot color as a custom property
+     QUALITY BAR: board https://impeccable.style/worlds/cards/brand-identity-canon-art-paul-magazine-program.webp · hero https://impeccable.style/worlds/cards/brand-identity-canon-art-paul-magazine-program-hero.webp
+Fuse each challenger before judging it: the challenger supplies the form
+  and its system grammar, the product supplies every fact, and clarity wins
+  conflicts. Weigh the fused result against the assigned direction on exactly
+  two axes, audience identification and product clarity. Losing to strong
+  grounded material is a valid outcome; beating a thin or tool-monoculture
+  list is the point. A fused challenger that wins both axes becomes the build.
+  Close the weighing with a verdict per challenger, decided before any
+  borrowing is considered: wins (beats the assigned direction on both axes),
+  competitive (holds one axis), or declined (loses both). A declined
+  challenger is not spent: name the one discipline of its system the assigned
+  direction lacks, and raise the assigned direction to match before
+  presenting it. A donation transfers ambition and system discipline, never
+  the challenger's clothes. A component treatment, such as a button's shadow
+  or a display face, is clothes, not discipline; one world owns the page.
+  Write each raise as its own named line on the presented direction, and
+  carry every verdict, kept line, and raise into the decision page payload.
+When you can view images, open the QUALITY BAR board and hero for any
+challenger you weigh seriously and for the world you build. They exist as a
+craft bar, the finish level and commitment the build is expected to reach,
+never as a mockup to copy; your surface serves this product, not that render.
+PRODUCT.md and explicit incumbent brand commitments constrain every direction.
+The seed never chooses exact colors, fonts, tokens, or a user preference, and
+it never permits the world and first surface to be selected independently.
+The CREATIVE SPARK is a complete visual system, not a theme or decorative
+reference. Translate every supplied system rule into the product: palette and
+material, type and composition, topology, controls and states, and adaptation.
+Keep the source's visible character, scale, rhythm, and interaction instead of
+reducing vivid grammar to generic nouns. Keep a literal carrier only when it
+becomes functional.
+Ambitious motion, spatial media, or interaction is welcome when it strengthens
+the product without weakening semantics, performance, or fallback behavior.
+MODE RULES (read, from /home/trex/.hermes/profiles/dev/skills/impeccable/reference/mode-read.md). They govern this surface's directions and every comp you write or judge for it, the decision comps included; where shared guidance conflicts, these win.
+DIRECTIONS
+The reader's question leads, and comprehension and wayfinding stay intact at every step. Documentation reads as documentation, a guide as a guide, an article as an article, a changelog as a changelog. The world owns the frame and serves the column. The frame is the masthead, the navigation rail, the ground, the title and section openers, and the way code, tables, and callouts are set: there the world's palette, type, and signature move commit fully, so the page could belong to no other product. The reading column inside it stays calm: a reading face, real contrast, a real measure, nothing performing behind the text. The world never supplies the reading order or replaces the navigation with something a reader has to learn. Documentation still reads as documentation, a guide as a guide, an article as an article.
+
+Candidates from the world's own publishing traditions transfer best: reference books, type specimens, timetables, field guides, technical manuals, scholarly apparatus, a newspaper's wayfinding. A tool, instrument, or fictional interface from the audience's world comes back as a costume on a page meant for reading: take from it only what transfers as type, palette, density, and a signature move, or replace it from your list. When a catalog world's source is itself an interface language, the same limit holds: it lends type, density, palette, and one signature move, while navigation and controls stay the standard ones for the platform.
+
+Write each direction's first viewport as the document's shell first: the navigation and where the reader stands in it, the title and the opening that answers or frames the reader's question, the reading column, and the way forward (contents, section headings, next and previous). Then name where the world owns the frame and where the signature move lives: a masthead, a coloured rail, a running head, a margin system, a numbering scheme, a way of setting code or tables. When you weigh fused challengers, product clarity includes how fast a reader finds and understands the answer.
+COMPS
+The comp is the document as the reader meets it: a frame the world owns, in the direction's committed palette and type, around a calm reading column at a real measure (on the web about 60 to 75 characters with body text near 16px; in a native app, the platform's body text style and its readable width), with headings in a clear hierarchy and the wayfinding that carries the reader through. Body text is set in a reading face with real contrast against its ground; a monospace face is for code, parameters, and small labels, never the running text or the headings by default. Code, tables, notes, and figures sit in the standard forms readers already know, set in the world's type and palette. The signature move is one system used where it earns its place, never a frame repeated around every element. The world never supplies the page's reading order, so a document never reads as a poster, a magazine cover, or a book photographed open.
+
+Prompt with the real material: the actual title, a real opening paragraph, real section names, and one example of the hardest content the surface holds (a code sample, a reference table, a diagram), never filler text.
+
+Comps two and three vary the reading structure and how the frame carries the world, never the column: the navigation model (sidebar tree, top tabs, inline contents), the column and margin system, how densely the reference material sits, and where the signature move appears. Each must be recognisably different from the first at thumbnail size; a variant only its prompt can tell apart adds no choice. A variant that pushes world material into the reading column makes reading harder and goes the wrong way.
+
+Self-check every render: can a reader tell where they are and where to go next, and read the body comfortably? Then cover the name: could this be any other product's documentation? If so, the frame has not taken the world; push the masthead, rail, ground, and openers further into it. If the render reads as an artifact of the world before it reads as a document, the world has reached the column; pull it back to the frame.
+TELEMETRY: after the user's choice resolves, rerun this script once with
+  --kind <assigned|pick|challenger|canon> --from 626ae4d6 --scope direction --mode read,
+  adding --chosen <challenger-id> when a dealt challenger won and keeping
+  --register <safer|bolder> when the resolved round came from a steered hand.
+  One ping per resolved attended round. The ping is anonymous, the card kind
+  plus the catalog id when one won; your grounded candidates' names never
+  leave the machine, and the ping is skipped automatically when DO_NOT_TRACK
+  or IMPECCABLE_NO_TELEMETRY is set.
+A user- or brief-pinned decision beats the roll, always.
+ASSIGNED INDEX (restated for truncated readers): 3. Build candidate
+3 of your own grounded list; seed key 626ae4d6.
+PRESENTATION (the decision round, condensed from new-work.md; follow it even when your read of that file came back cut):
+- Present this hand on the decision page: write the options payload (`/home/trex/.hermes/profiles/dev/skills/impeccable/scripts/impeccable serve-question --schema` prints its shape), run `/home/trex/.hermes/profiles/dev/skills/impeccable/scripts/impeccable serve-question --start --payload <file>`, and open the URL it prints for the user.
+- Code-led round: every card but the declined challengers carries an HTML sketch: one self-contained file of the first viewport only (1440 x 900 for a desktop surface; a phone or native surface sketches the device's first screen and declares it as htmlFrame, e.g. "390x844"; fixed height, overflow hidden) at .impeccable/mocks/decision/<card id>.html, declared as the card's html, with real content from the product, inline CSS, no JavaScript, nothing fetched but Google Fonts, under 200 lines. Serve first, then write the sketches, in parallel subagents where your harness has them; the page draws each as a skeleton as it lands. With image generation, every card still declares a comp path under .impeccable/mocks/decision/ as a flip reserve, canon included, declined challengers excepted. Generate those comps only when --wait prints BUILD PATH FLIPPED, in reading order, each with its prompt sidecar (a.png gets a.png.json).
+- After the last sketch lands, hold `/home/trex/.hermes/profiles/dev/skills/impeccable/scripts/impeccable serve-question --wait --key <key>`. If your shell hands back a session before --wait exits, keep polling that session until it exits; rerun --wait only after it exits 3 with no answer.
+- Build path: code-led. A surface in read mode builds in code whatever the project records. With image generation, put "buildPath": {"value": "code", "toggle": true} in the payload, so the user can still flip this one round to comp; without it there is no toggle. Never ask the user about the build path, and never offer to record a flip made on this surface.
+- The structured question tool is the fallback, never the first channel: take it when --start exits 2, when --wait exits 4 after the page closed unanswered, or when your harness cannot hold a blocking --wait at all (say so in your first reply). It carries the same options and asks nothing about the build path.

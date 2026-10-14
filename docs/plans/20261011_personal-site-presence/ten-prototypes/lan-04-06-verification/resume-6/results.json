@@ -1,0 +1,597 @@
+{
+  "base": "http://192.168.30.25:8788/",
+  "engine": "Chromium / software WebGL / trusted emulated touch; not physical-device or second-device network certification",
+  "checks": [
+    {
+      "name": "selected destinations match requested subset",
+      "pass": true
+    },
+    {
+      "name": "6-1440 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "6-1440 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "6-1440 actual petal response",
+      "pass": true
+    },
+    {
+      "name": "6-1440 botanical about",
+      "pass": true
+    },
+    {
+      "name": "6-1440 botanical practice",
+      "pass": true
+    },
+    {
+      "name": "6-1440 botanical interests",
+      "pass": true
+    },
+    {
+      "name": "6-1440 botanical contact",
+      "pass": true
+    },
+    {
+      "name": "6-1440 contact",
+      "pass": true
+    },
+    {
+      "name": "6-1440 return garden",
+      "pass": true
+    },
+    {
+      "name": "6-1440 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "6-1440 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "6-1440 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 660,
+        "top": 844,
+        "right": 780,
+        "bottom": 888,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "6-1440 native source popup",
+      "pass": true
+    },
+    {
+      "name": "6-1440 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "doc": 1440,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "6-320 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "6-320 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "6-320 actual petal response",
+      "pass": true
+    },
+    {
+      "name": "6-320 invitation clear of phone petal",
+      "pass": true,
+      "detail": {
+        "left": 99.609375,
+        "xy": {
+          "x": 32.58359185164618,
+          "y": 663.6957044260341
+        }
+      }
+    },
+    {
+      "name": "6-320 botanical about",
+      "pass": true
+    },
+    {
+      "name": "6-320 botanical practice",
+      "pass": true
+    },
+    {
+      "name": "6-320 botanical interests",
+      "pass": true
+    },
+    {
+      "name": "6-320 botanical contact",
+      "pass": true
+    },
+    {
+      "name": "6-320 contact",
+      "pass": true
+    },
+    {
+      "name": "6-320 return garden",
+      "pass": true
+    },
+    {
+      "name": "6-320 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "6-320 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "6-320 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 188,
+        "top": 572,
+        "right": 308,
+        "bottom": 616,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "6-320 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 320,
+        "doc": 320,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "6-390 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "6-390 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "6-390 actual petal response",
+      "pass": true
+    },
+    {
+      "name": "6-390 invitation clear of phone petal",
+      "pass": true,
+      "detail": {
+        "left": 164.703125,
+        "xy": {
+          "x": 39.91565366868685,
+          "y": 756.962168691267
+        }
+      }
+    },
+    {
+      "name": "6-390 botanical about",
+      "pass": true
+    },
+    {
+      "name": "6-390 botanical practice",
+      "pass": true
+    },
+    {
+      "name": "6-390 botanical interests",
+      "pass": true
+    },
+    {
+      "name": "6-390 botanical contact",
+      "pass": true
+    },
+    {
+      "name": "6-390 contact",
+      "pass": true
+    },
+    {
+      "name": "6-390 return garden",
+      "pass": true
+    },
+    {
+      "name": "6-390 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "6-390 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "6-390 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 258,
+        "top": 12,
+        "right": 378,
+        "bottom": 56,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "6-390 native source popup",
+      "pass": true
+    },
+    {
+      "name": "6-390 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "doc": 390,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "6-430 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "6-430 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "6-430 actual petal response",
+      "pass": true
+    },
+    {
+      "name": "6-430 invitation clear of phone petal",
+      "pass": true,
+      "detail": {
+        "left": 201.90625,
+        "xy": {
+          "x": 44.00447485913562,
+          "y": 835.8845828698871
+        }
+      }
+    },
+    {
+      "name": "6-430 botanical about",
+      "pass": true
+    },
+    {
+      "name": "6-430 botanical practice",
+      "pass": true
+    },
+    {
+      "name": "6-430 botanical interests",
+      "pass": true
+    },
+    {
+      "name": "6-430 botanical contact",
+      "pass": true
+    },
+    {
+      "name": "6-430 contact",
+      "pass": true
+    },
+    {
+      "name": "6-430 return garden",
+      "pass": true
+    },
+    {
+      "name": "6-430 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "6-430 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "6-430 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 298,
+        "top": 12,
+        "right": 418,
+        "bottom": 56,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "6-430 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 430,
+        "doc": 430,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "6-844 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "6-844 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "6-844 actual petal response",
+      "pass": true
+    },
+    {
+      "name": "6-844 botanical about",
+      "pass": true
+    },
+    {
+      "name": "6-844 botanical practice",
+      "pass": true
+    },
+    {
+      "name": "6-844 botanical interests",
+      "pass": true
+    },
+    {
+      "name": "6-844 botanical contact",
+      "pass": true
+    },
+    {
+      "name": "6-844 contact",
+      "pass": true
+    },
+    {
+      "name": "6-844 return garden",
+      "pass": true
+    },
+    {
+      "name": "6-844 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "6-844 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "6-844 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 362,
+        "top": 334,
+        "right": 482,
+        "bottom": 378,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "6-844 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "doc": 844,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "6-768 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "6-768 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "6-768 actual petal response",
+      "pass": true
+    },
+    {
+      "name": "6-768 botanical about",
+      "pass": true
+    },
+    {
+      "name": "6-768 botanical practice",
+      "pass": true
+    },
+    {
+      "name": "6-768 botanical interests",
+      "pass": true
+    },
+    {
+      "name": "6-768 botanical contact",
+      "pass": true
+    },
+    {
+      "name": "6-768 contact",
+      "pass": true
+    },
+    {
+      "name": "6-768 return garden",
+      "pass": true
+    },
+    {
+      "name": "6-768 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "6-768 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "6-768 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 324,
+        "top": 912,
+        "right": 444,
+        "bottom": 956,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "6-768 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 768,
+        "doc": 768,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "1440 selector count",
+      "pass": true
+    },
+    {
+      "name": "1440 ready links",
+      "pass": true
+    },
+    {
+      "name": "1440 gallery filter explore",
+      "pass": true
+    },
+    {
+      "name": "1440 gallery filter browse",
+      "pass": true
+    },
+    {
+      "name": "1440 gallery filter new",
+      "pass": true
+    },
+    {
+      "name": "1440 gallery filter all",
+      "pass": true
+    },
+    {
+      "name": "1440 actual selector navigation",
+      "pass": true
+    },
+    {
+      "name": "1440 browser Back selector",
+      "pass": true
+    },
+    {
+      "name": "390 selector count",
+      "pass": true
+    },
+    {
+      "name": "390 ready links",
+      "pass": true
+    },
+    {
+      "name": "390 gallery filter explore",
+      "pass": true
+    },
+    {
+      "name": "390 gallery filter browse",
+      "pass": true
+    },
+    {
+      "name": "390 gallery filter new",
+      "pass": true
+    },
+    {
+      "name": "390 gallery filter all",
+      "pass": true
+    },
+    {
+      "name": "390 actual selector navigation",
+      "pass": true
+    },
+    {
+      "name": "390 browser Back selector",
+      "pass": true
+    },
+    {
+      "name": "all selected served viewport journeys",
+      "pass": true,
+      "detail": {
+        "count": 6
+      }
+    },
+    {
+      "name": "no page errors",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "no failed runtime requests",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "states": [
+    {
+      "slug": "06-ameen-garden",
+      "width": 1440,
+      "height": 900,
+      "completed": true
+    },
+    {
+      "slug": "06-ameen-garden",
+      "width": 320,
+      "height": 740,
+      "completed": true
+    },
+    {
+      "slug": "06-ameen-garden",
+      "width": 390,
+      "height": 844,
+      "completed": true
+    },
+    {
+      "slug": "06-ameen-garden",
+      "width": 430,
+      "height": 932,
+      "completed": true
+    },
+    {
+      "slug": "06-ameen-garden",
+      "width": 844,
+      "height": 390,
+      "completed": true
+    },
+    {
+      "slug": "06-ameen-garden",
+      "width": 768,
+      "height": 1024,
+      "completed": true
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "captures": [
+    "6-1440-overview.png",
+    "6-1440-petal.png",
+    "6-1440-contact.png",
+    "6-320-overview.png",
+    "6-320-petal.png",
+    "6-320-contact.png",
+    "6-390-overview.png",
+    "6-390-petal.png",
+    "6-390-contact.png",
+    "6-430-overview.png",
+    "6-430-petal.png",
+    "6-430-contact.png",
+    "6-844-overview.png",
+    "6-844-petal.png",
+    "6-844-contact.png",
+    "6-768-overview.png",
+    "6-768-petal.png",
+    "6-768-contact.png"
+  ],
+  "total": 103,
+  "passed": 103,
+  "failed": []
+}

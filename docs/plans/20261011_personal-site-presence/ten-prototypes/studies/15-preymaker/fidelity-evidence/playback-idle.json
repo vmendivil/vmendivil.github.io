@@ -1,0 +1,26 @@
+{
+  "active": {
+    "label": "Pause sequence",
+    "animations": [
+      {
+        "id": "",
+        "state": "running"
+      },
+      {
+        "id": "shot-travel",
+        "state": "running"
+      }
+    ]
+  },
+  "offscreen": {
+    "label": "Play sequence",
+    "heroBottom": -3306,
+    "animations": [
+      {
+        "id": "shot-travel",
+        "state": "paused"
+      }
+    ]
+  },
+  "pass": true
+}

@@ -1,0 +1,34 @@
+{
+  "desktop": {
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "overflow": false,
+    "errors": [],
+    "pause_stops_steps": true,
+    "range_arrow_updates": true,
+    "tab_to_pause": true,
+    "space_resumes": true,
+    "text": "Balanced current: three environments share one flowing system. Synthetic demonstration.",
+    "font_loaded": true
+  },
+  "mobile": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "overflow": false,
+    "errors": [],
+    "pause_stops_steps": true,
+    "range_arrow_updates": true,
+    "tab_to_pause": true,
+    "space_resumes": true,
+    "text": "Balanced current: three environments share one flowing system. Synthetic demonstration.",
+    "font_loaded": true
+  },
+  "reduced_motion": {
+    "static_steps": true,
+    "button": "Resume flow"
+  }
+}

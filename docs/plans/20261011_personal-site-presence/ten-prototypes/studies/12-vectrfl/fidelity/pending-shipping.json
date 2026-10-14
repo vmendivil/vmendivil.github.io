@@ -1,0 +1,72 @@
+{
+  "study": "12-vectrfl",
+  "verdict": "READY",
+  "boundary": "source-only readiness; assembled LAN copy and independent source comparison remain parent-owned",
+  "generatedAt": "2026-10-13T12:55:56.472360+00:00",
+  "runtimeAllowlist": [
+    "assets/chapter-delivery.png",
+    "assets/chapter-design.png",
+    "assets/chapter-requirements.png",
+    "assets/chapter-support.png",
+    "assets/fonts/OFL.txt",
+    "assets/fonts/barlow-extrabold.ttf",
+    "assets/fonts/barlow-regular.ttf",
+    "assets/landscape-fidelity.png",
+    "assets/vendor/LICENSE.txt",
+    "assets/vendor/three.module.js",
+    "fidelity.css",
+    "index.html",
+    "scene.js",
+    "style.css"
+  ],
+  "shippingFileCount": 14,
+  "sha256": {
+    "assets/chapter-delivery.png": "740ec7942dbd2283d002709601ad21d1b5edb02419c9221dbd201d06d7e3d9b1",
+    "assets/chapter-design.png": "6983b8201ee843867fcff1f0db3e832a762a7c9d4e96f1ef36cbe08e9324c9bc",
+    "assets/chapter-requirements.png": "08c0644ce05e467ec9bf0ba71fdf7097e831343e48c2c04c8e8c664af1b1c9ac",
+    "assets/chapter-support.png": "44e7b3c829c772af7ed44827daadbcd14f62b82eee58ae1d7dd1c1ef5ca9f30b",
+    "assets/fonts/OFL.txt": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+    "assets/fonts/barlow-extrabold.ttf": "3f25dda39ecf9f2519a703b217629fbdfc54fb5e5725bf4aa2b9234e78a2fc04",
+    "assets/fonts/barlow-regular.ttf": "a35caa4687f434d66453c1fe423d7074cfa9fd7ab80c19b0780f3862887d2fc9",
+    "assets/landscape-fidelity.png": "12aec614462e0a5426218cc65097394e46cad919fe1660b281b4e52209758d76",
+    "assets/vendor/LICENSE.txt": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "assets/vendor/three.module.js": "0a3368c165eea773490aec7b77c22de70e3eac288503409256fdbf4d12578416",
+    "fidelity.css": "4b736439f8be4a71221a331014b5a5105bef19444123ee595b7c963cd026e91e",
+    "index.html": "6b2483bf21de2c0bec1e7e009549e9f7208250056db6dbe2bb0c166f3255ab91",
+    "scene.js": "0a00517865fe299ebae93543a5daaadb947945ad169e905739e97e626d094ae4",
+    "style.css": "5f90d95dd03aeb169060e7ee0e7d0083bd490c915950517deca649c740804ca4"
+  },
+  "priorRecordedHashMatches": {
+    "fidelity.css": true,
+    "style.css": true,
+    "index.html": true,
+    "scene.js": false,
+    "assets/landscape-fidelity.png": true
+  },
+  "counts": {
+    "freshNormalPaths": 3,
+    "freshVariants": 3,
+    "freshNormalStateObservations": 27,
+    "freshHiddenSessions": 1,
+    "freshDefectPaths": 6,
+    "freshDefectStateAssertions": 21,
+    "freshSettledNormalContacts": 3
+  },
+  "verifiedAbsoluteEvidencePaths": [
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/12-vectrfl/fidelity/pending-repair-confirmation/results.json",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/12-vectrfl/fidelity/pending-hidden-results.json",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/12-vectrfl/fidelity/pending-defect-confirmation/defects.json",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/12-vectrfl/fidelity/pending-repair-confirmation/contact-results.json"
+  ],
+  "sourceUnchangedInThisPass": false,
+  "privateDirectoriesNeverShip": [
+    "fidelity",
+    ".impeccable",
+    "verification"
+  ],
+  "limits": [
+    "Chromium SwiftShader software-rendered viewport emulation, not physical-device Safari/GPU certification",
+    "Prior six-size scenes/readings are retained historical evidence, not new-fix certification; targeted fixes tested fresh at all six sizes",
+    "Live source revisit not performed in this closure; retained original source evidence and chronological frames inspected"
+  ]
+}

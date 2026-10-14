@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T03:51:15.269983+00:00",
+  "title": "Design System: Open Register",
+  "extensions": {
+    "breakpoints": [
+      {
+        "name": "stacked inventory",
+        "value": "950px"
+      },
+      {
+        "name": "narrow colophon",
+        "value": "350px"
+      }
+    ],
+    "motion": [
+      {
+        "name": "selection replacement",
+        "value": "same-document shared plate 420ms; instant reduced motion",
+        "purpose": "Filtered inventory and scroll-synchronized selection; full note retains selected plate, filter and exact origin on return"
+      }
+    ],
+    "shadows": []
+  },
+  "components": [
+    {
+      "name": "Selected topic",
+      "kind": "nav",
+      "refersTo": "active-topic",
+      "description": "Inverted active row in the inventory.",
+      "html": "<a class=\"ds-topic\" href=\"#preview-erp\">Practice / ERP, in context</a>",
+      "css": ".ds-topic{display:flex;align-items:center;min-height:48px;background:#eae9e2;color:#0c0e11;padding:6px 10px;font:13px/1.5 monospace;text-decoration:none}.ds-topic:hover{text-decoration:underline}.ds-topic:focus-visible{outline:2px solid #aebddf;outline-offset:4px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Open Register",
+    "overview": "A cool-black image inventory with a bone-white identity colophon.",
+    "keyCharacteristics": [
+      "Distinct complete reading and contact surfaces",
+      "No inherited sibling CSS"
+    ],
+    "rules": [],
+    "dos": [
+      "Do preserve readable essays and genuine contact."
+    ],
+    "donts": [
+      "Do not invent professional proof."
+    ]
+  }
+}

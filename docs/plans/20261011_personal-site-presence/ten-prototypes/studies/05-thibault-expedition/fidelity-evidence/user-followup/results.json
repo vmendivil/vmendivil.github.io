@@ -1,0 +1,120 @@
+{
+  "study": 5,
+  "checks": [
+    {
+      "name": "320 hit target erp",
+      "pass": true,
+      "detail": {
+        "hit": "erp",
+        "box": {
+          "x": 189,
+          "y": 311.109375,
+          "width": 123,
+          "height": 57
+        }
+      }
+    },
+    {
+      "name": "320 hit target ai",
+      "pass": true,
+      "detail": {
+        "hit": "ai",
+        "box": {
+          "x": 129.515625,
+          "y": 466.46875,
+          "width": 124,
+          "height": 57
+        }
+      }
+    },
+    {
+      "name": "320 rapid touch last destination",
+      "pass": true,
+      "detail": {
+        "selected": "ai",
+        "pos": {
+          "x": 5,
+          "z": 6.000000000000001
+        }
+      }
+    },
+    {
+      "name": "320 arrival read button works",
+      "pass": true
+    },
+    {
+      "name": "320 contact reachable",
+      "pass": true
+    },
+    {
+      "name": "320 Escape returns",
+      "pass": true
+    },
+    {
+      "name": "390 hit target erp",
+      "pass": true,
+      "detail": {
+        "hit": "erp",
+        "box": {
+          "x": 259,
+          "y": 363.046875,
+          "width": 123,
+          "height": 57
+        }
+      }
+    },
+    {
+      "name": "390 hit target ai",
+      "pass": true,
+      "detail": {
+        "hit": "ai",
+        "box": {
+          "x": 168.9375,
+          "y": 525.84375,
+          "width": 124,
+          "height": 57
+        }
+      }
+    },
+    {
+      "name": "390 rapid touch last destination",
+      "pass": true,
+      "detail": {
+        "selected": "ai",
+        "pos": {
+          "x": 5,
+          "z": 6.000000000000001
+        }
+      }
+    },
+    {
+      "name": "390 arrival read button works",
+      "pass": true
+    },
+    {
+      "name": "390 contact reachable",
+      "pass": true
+    },
+    {
+      "name": "390 Escape returns",
+      "pass": true
+    },
+    {
+      "name": "no page errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "captures": [
+    "320-overview.png",
+    "320-arrival.png",
+    "320-contact.png",
+    "390-overview.png",
+    "390-arrival.png",
+    "390-contact.png"
+  ],
+  "total": 13,
+  "passed": 13,
+  "failed": []
+}

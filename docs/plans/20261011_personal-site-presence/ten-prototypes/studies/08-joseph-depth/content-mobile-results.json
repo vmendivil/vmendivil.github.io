@@ -1,0 +1,1969 @@
+{
+  "engine": "Chromium / Playwright emulation, not physical Safari",
+  "viewports": [
+    {
+      "width": 320,
+      "height": 740,
+      "chapters": [
+        {
+          "id": "top",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Below thesurface.",
+              "left": 24,
+              "right": 296,
+              "font": 65
+            },
+            {
+              "text": "The useful questions are oftenone layer deeper.",
+              "left": 24,
+              "right": 296,
+              "font": 19
+            },
+            {
+              "text": "Scroll to look closer",
+              "left": 24,
+              "right": 199,
+              "font": 15
+            },
+            {
+              "text": "An imagined place.A real way of working.",
+              "left": 0,
+              "right": 0,
+              "font": 14
+            }
+          ],
+          "scroll": 0,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": 712,
+          "pauseTop": 668
+        },
+        {
+          "id": "about",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "A person behindthe systems.",
+              "left": 45,
+              "right": 296,
+              "font": 35
+            },
+            {
+              "text": "I’m Victor. I’m a software developer who likes getting beneath the first description of a problem—until the moving parts start to make sense.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            },
+            {
+              "text": "My experience is grounded in Dynamics 365 Finance & Operations and ERP work. I move between requirements, technical design, implementation, testing, deployment and support, with cross-team coordination along the way.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            },
+            {
+              "text": "I’m interested in senior and technical-lead roles where that whole-picture perspective matters.",
+              "left": 45,
+              "right": 296,
+              "font": 17
+            }
+          ],
+          "scroll": 740,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.02199375,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -28,
+          "pauseTop": -72
+        },
+        {
+          "id": "approach",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Understand deeply.Build practically.",
+              "left": 45,
+              "right": 296,
+              "font": 35
+            },
+            {
+              "text": "I don’t see the first request as the whole problem. I want to understand the people, the constraints, and what needs to happen next.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            },
+            {
+              "text": "Find the real question.",
+              "left": 45,
+              "right": 296,
+              "font": 28
+            },
+            {
+              "text": "Work through requirements, clarify what is needed, and look for the dependencies underneath.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            },
+            {
+              "text": "Make it workable.",
+              "left": 45,
+              "right": 296,
+              "font": 28
+            },
+            {
+              "text": "Turn that understanding into a technical design, then implement and test the details.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            },
+            {
+              "text": "Stay with the work.",
+              "left": 45,
+              "right": 296,
+              "font": 28
+            },
+            {
+              "text": "Deployment is part of the process. So are support, coordination, and making the next step clearer.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            }
+          ],
+          "scroll": 1637,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.05330259984374999,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -925,
+          "pauseTop": -969
+        },
+        {
+          "id": "curiosities",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Still lookinga little deeper.",
+              "left": 45,
+              "right": 296,
+              "font": 35
+            },
+            {
+              "text": "Outside my day-to-day work, I keep coming back to things I can build, run, and understand for myself.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            },
+            {
+              "text": "Small hardware. Big questions.",
+              "left": 45,
+              "right": 296,
+              "font": 25
+            },
+            {
+              "text": "Raspberry Pi homelab and server experiments.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            },
+            {
+              "text": "A different way to work.",
+              "left": 45,
+              "right": 296,
+              "font": 25
+            },
+            {
+              "text": "Exploring AI-assisted work processes.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            },
+            {
+              "text": "Ideas made tangible.",
+              "left": 45,
+              "right": 296,
+              "font": 25
+            },
+            {
+              "text": "AI-assisted web applications.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            },
+            {
+              "text": "These are interests and explorations, not client case studies.",
+              "left": 45,
+              "right": 296,
+              "font": 17
+            }
+          ],
+          "scroll": 2817,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.10385080362249609,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -2105,
+          "pauseTop": -2149
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Let’s bring itinto the light.",
+              "left": 45,
+              "right": 296,
+              "font": 35
+            },
+            {
+              "text": "Have a contained problem that could use a closer look? I’m open to discussing remote, evening or asynchronous freelance work for individuals and small businesses, alongside my full-time role.",
+              "left": 45,
+              "right": 296,
+              "font": 18
+            },
+            {
+              "text": "Connect on LinkedIn (opens in a new tab)",
+              "left": 45,
+              "right": 296,
+              "font": 22
+            },
+            {
+              "text": "Local design preview. LinkedIn is the contact route; this site does not send or store messages.",
+              "left": 45,
+              "right": 296,
+              "font": 16
+            },
+            {
+              "text": "Return to the threshold",
+              "left": 24,
+              "right": 195,
+              "font": 16
+            }
+          ],
+          "scroll": 3779,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.20920821911098567,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -3067,
+          "pauseTop": -3111
+        }
+      ],
+      "targets": [
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Approach",
+          "width": 60,
+          "height": 44
+        },
+        {
+          "text": "Curiosities",
+          "width": 68,
+          "height": 44
+        },
+        {
+          "text": "Contact",
+          "width": 50,
+          "height": 44
+        },
+        {
+          "text": "Scroll to look closer",
+          "width": 175,
+          "height": 44
+        },
+        {
+          "text": "Connect on LinkedIn (opens in a new tab)",
+          "width": 251,
+          "height": 71.09375
+        },
+        {
+          "text": "Return to the threshold",
+          "width": 171,
+          "height": 44
+        },
+        {
+          "text": "Pause atmosphere",
+          "width": 149,
+          "height": 44
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "chapters": [
+        {
+          "id": "top",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Below thesurface.",
+              "left": 24,
+              "right": 311.53125,
+              "font": 65
+            },
+            {
+              "text": "The useful questions are oftenone layer deeper.",
+              "left": 24,
+              "right": 311.53125,
+              "font": 19
+            },
+            {
+              "text": "Scroll to look closer",
+              "left": 24,
+              "right": 199,
+              "font": 15
+            },
+            {
+              "text": "An imagined place.A real way of working.",
+              "left": 0,
+              "right": 0,
+              "font": 14
+            }
+          ],
+          "scroll": 0,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": 816,
+          "pauseTop": 772
+        },
+        {
+          "id": "about",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "A person behindthe systems.",
+              "left": 45,
+              "right": 366,
+              "font": 40.95
+            },
+            {
+              "text": "I’m Victor. I’m a software developer who likes getting beneath the first description of a problem—until the moving parts start to make sense.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            },
+            {
+              "text": "My experience is grounded in Dynamics 365 Finance & Operations and ERP work. I move between requirements, technical design, implementation, testing, deployment and support, with cross-team coordination along the way.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            },
+            {
+              "text": "I’m interested in senior and technical-lead roles where that whole-picture perspective matters.",
+              "left": 45,
+              "right": 366,
+              "font": 17
+            }
+          ],
+          "scroll": 844,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.02199375,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -28,
+          "pauseTop": -72
+        },
+        {
+          "id": "approach",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Understand deeply.Build practically.",
+              "left": 45,
+              "right": 366,
+              "font": 40.95
+            },
+            {
+              "text": "I don’t see the first request as the whole problem. I want to understand the people, the constraints, and what needs to happen next.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            },
+            {
+              "text": "Find the real question.",
+              "left": 45,
+              "right": 300,
+              "font": 28
+            },
+            {
+              "text": "Work through requirements, clarify what is needed, and look for the dependencies underneath.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            },
+            {
+              "text": "Make it workable.",
+              "left": 45,
+              "right": 300,
+              "font": 28
+            },
+            {
+              "text": "Turn that understanding into a technical design, then implement and test the details.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            },
+            {
+              "text": "Stay with the work.",
+              "left": 45,
+              "right": 300,
+              "font": 28
+            },
+            {
+              "text": "Deployment is part of the process. So are support, coordination, and making the next step clearer.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            }
+          ],
+          "scroll": 1688,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.10349841753447633,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -872,
+          "pauseTop": -916
+        },
+        {
+          "id": "curiosities",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Still lookinga little deeper.",
+              "left": 45,
+              "right": 366,
+              "font": 40.95
+            },
+            {
+              "text": "Outside my day-to-day work, I keep coming back to things I can build, run, and understand for myself.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            },
+            {
+              "text": "Small hardware. Big questions.",
+              "left": 45,
+              "right": 366,
+              "font": 25
+            },
+            {
+              "text": "Raspberry Pi homelab and server experiments.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            },
+            {
+              "text": "A different way to work.",
+              "left": 45,
+              "right": 366,
+              "font": 25
+            },
+            {
+              "text": "Exploring AI-assisted work processes.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            },
+            {
+              "text": "Ideas made tangible.",
+              "left": 45,
+              "right": 366,
+              "font": 25
+            },
+            {
+              "text": "AI-assisted web applications.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            },
+            {
+              "text": "These are interests and explorations, not client case studies.",
+              "left": 45,
+              "right": 366,
+              "font": 17
+            }
+          ],
+          "scroll": 2736,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.26000944807740023,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -1920,
+          "pauseTop": -1964
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Let’s bring itinto the light.",
+              "left": 45,
+              "right": 366,
+              "font": 40.95
+            },
+            {
+              "text": "Have a contained problem that could use a closer look? I’m open to discussing remote, evening or asynchronous freelance work for individuals and small businesses, alongside my full-time role.",
+              "left": 45,
+              "right": 366,
+              "font": 18
+            },
+            {
+              "text": "Connect on LinkedIn (opens in a new tab)",
+              "left": 45,
+              "right": 366,
+              "font": 22
+            },
+            {
+              "text": "Local design preview. LinkedIn is the contact route; this site does not send or store messages.",
+              "left": 45,
+              "right": 366,
+              "font": 16
+            },
+            {
+              "text": "Return to the threshold",
+              "left": 134,
+              "right": 305,
+              "font": 16
+            }
+          ],
+          "scroll": 3596,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.4482375826326891,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -2780,
+          "pauseTop": -2824
+        }
+      ],
+      "targets": [
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Approach",
+          "width": 60,
+          "height": 44
+        },
+        {
+          "text": "Curiosities",
+          "width": 68,
+          "height": 44
+        },
+        {
+          "text": "Contact",
+          "width": 50,
+          "height": 44
+        },
+        {
+          "text": "Scroll to look closer",
+          "width": 175,
+          "height": 44
+        },
+        {
+          "text": "Connect on LinkedIn (opens in a new tab)",
+          "width": 321,
+          "height": 71.09375
+        },
+        {
+          "text": "Return to the threshold",
+          "width": 171,
+          "height": 44
+        },
+        {
+          "text": "Pause atmosphere",
+          "width": 149,
+          "height": 44
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "chapters": [
+        {
+          "id": "top",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Below thesurface.",
+              "left": 24,
+              "right": 311.53125,
+              "font": 65
+            },
+            {
+              "text": "The useful questions are oftenone layer deeper.",
+              "left": 24,
+              "right": 311.53125,
+              "font": 19
+            },
+            {
+              "text": "Scroll to look closer",
+              "left": 24,
+              "right": 199,
+              "font": 15
+            },
+            {
+              "text": "An imagined place.A real way of working.",
+              "left": 0,
+              "right": 0,
+              "font": 14
+            }
+          ],
+          "scroll": 0,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": 904,
+          "pauseTop": 860
+        },
+        {
+          "id": "about",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "A person behindthe systems.",
+              "left": 45,
+              "right": 406,
+              "font": 45
+            },
+            {
+              "text": "I’m Victor. I’m a software developer who likes getting beneath the first description of a problem—until the moving parts start to make sense.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            },
+            {
+              "text": "My experience is grounded in Dynamics 365 Finance & Operations and ERP work. I move between requirements, technical design, implementation, testing, deployment and support, with cross-team coordination along the way.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            },
+            {
+              "text": "I’m interested in senior and technical-lead roles where that whole-picture perspective matters.",
+              "left": 45,
+              "right": 406,
+              "font": 17
+            }
+          ],
+          "scroll": 932,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.02199375,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -28,
+          "pauseTop": -72
+        },
+        {
+          "id": "approach",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Understand deeply.Build practically.",
+              "left": 45,
+              "right": 406,
+              "font": 45
+            },
+            {
+              "text": "I don’t see the first request as the whole problem. I want to understand the people, the constraints, and what needs to happen next.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            },
+            {
+              "text": "Find the real question.",
+              "left": 45,
+              "right": 300,
+              "font": 28
+            },
+            {
+              "text": "Work through requirements, clarify what is needed, and look for the dependencies underneath.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            },
+            {
+              "text": "Make it workable.",
+              "left": 45,
+              "right": 300,
+              "font": 28
+            },
+            {
+              "text": "Turn that understanding into a technical design, then implement and test the details.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            },
+            {
+              "text": "Stay with the work.",
+              "left": 45,
+              "right": 300,
+              "font": 28
+            },
+            {
+              "text": "Deployment is part of the process. So are support, coordination, and making the next step clearer.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            }
+          ],
+          "scroll": 1864,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.07340398285078124,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -960,
+          "pauseTop": -1004
+        },
+        {
+          "id": "curiosities",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Still lookinga little deeper.",
+              "left": 45,
+              "right": 406,
+              "font": 45
+            },
+            {
+              "text": "Outside my day-to-day work, I keep coming back to things I can build, run, and understand for myself.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            },
+            {
+              "text": "Small hardware. Big questions.",
+              "left": 45,
+              "right": 406,
+              "font": 25
+            },
+            {
+              "text": "Raspberry Pi homelab and server experiments.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            },
+            {
+              "text": "A different way to work.",
+              "left": 45,
+              "right": 406,
+              "font": 25
+            },
+            {
+              "text": "Exploring AI-assisted work processes.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            },
+            {
+              "text": "Ideas made tangible.",
+              "left": 45,
+              "right": 406,
+              "font": 25
+            },
+            {
+              "text": "AI-assisted web applications.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            },
+            {
+              "text": "These are interests and explorations, not client case studies.",
+              "left": 45,
+              "right": 406,
+              "font": 17
+            }
+          ],
+          "scroll": 2925,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.12218376745948377,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -2021,
+          "pauseTop": -2065
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Let’s bring itinto the light.",
+              "left": 45,
+              "right": 406,
+              "font": 45
+            },
+            {
+              "text": "Have a contained problem that could use a closer look? I’m open to discussing remote, evening or asynchronous freelance work for individuals and small businesses, alongside my full-time role.",
+              "left": 45,
+              "right": 406,
+              "font": 18
+            },
+            {
+              "text": "Connect on LinkedIn (opens in a new tab)",
+              "left": 45,
+              "right": 406,
+              "font": 22
+            },
+            {
+              "text": "Local design preview. LinkedIn is the contact route; this site does not send or store messages.",
+              "left": 45,
+              "right": 406,
+              "font": 16
+            },
+            {
+              "text": "Return to the threshold",
+              "left": 134,
+              "right": 305,
+              "font": 16
+            }
+          ],
+          "scroll": 3857,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.2600430179192319,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -2953,
+          "pauseTop": -2997
+        }
+      ],
+      "targets": [
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Approach",
+          "width": 60,
+          "height": 44
+        },
+        {
+          "text": "Curiosities",
+          "width": 68,
+          "height": 44
+        },
+        {
+          "text": "Contact",
+          "width": 50,
+          "height": 44
+        },
+        {
+          "text": "Scroll to look closer",
+          "width": 175,
+          "height": 44
+        },
+        {
+          "text": "Connect on LinkedIn (opens in a new tab)",
+          "width": 361,
+          "height": 71.09375
+        },
+        {
+          "text": "Return to the threshold",
+          "width": 171,
+          "height": 44
+        },
+        {
+          "text": "Pause atmosphere",
+          "width": 149,
+          "height": 44
+        }
+      ]
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "chapters": [
+        {
+          "id": "top",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Below thesurface.",
+              "left": 46.40625,
+              "right": 293.40625,
+              "font": 52
+            },
+            {
+              "text": "The useful questions are oftenone layer deeper.",
+              "left": 46.40625,
+              "right": 293.40625,
+              "font": 18
+            },
+            {
+              "text": "Scroll to look closer",
+              "left": 46.40625,
+              "right": 221.40625,
+              "font": 15
+            },
+            {
+              "text": "An imagined place.A real way of working.",
+              "left": 0,
+              "right": 0,
+              "font": 14
+            }
+          ],
+          "scroll": 0,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": 372,
+          "pauseTop": 328
+        },
+        {
+          "id": "about",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "A person behindthe systems.",
+              "left": 220.59375,
+              "right": 797.59375,
+              "font": 44
+            },
+            {
+              "text": "I’m Victor. I’m a software developer who likes getting beneath the first description of a problem—until the moving parts start to make sense.",
+              "left": 220.59375,
+              "right": 797.59375,
+              "font": 19
+            },
+            {
+              "text": "My experience is grounded in Dynamics 365 Finance & Operations and ERP work. I move between requirements, technical design, implementation, testing, deployment and support, with cross-team coordination along the way.",
+              "left": 220.59375,
+              "right": 797.59375,
+              "font": 19
+            },
+            {
+              "text": "I’m interested in senior and technical-lead roles where that whole-picture perspective matters.",
+              "left": 220.59375,
+              "right": 797.59375,
+              "font": 18
+            }
+          ],
+          "scroll": 410,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.032254031249999995,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -38,
+          "pauseTop": -82
+        },
+        {
+          "id": "approach",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Understand deeply.Build practically.",
+              "left": 46.40625,
+              "right": 756.40625,
+              "font": 44
+            },
+            {
+              "text": "I don’t see the first request as the whole problem. I want to understand the people, the constraints, and what needs to happen next.",
+              "left": 46.40625,
+              "right": 574.40625,
+              "font": 19
+            },
+            {
+              "text": "Find the real question.",
+              "left": 69.40625,
+              "right": 261.40625,
+              "font": 26
+            },
+            {
+              "text": "Work through requirements, clarify what is needed, and look for the dependencies underneath.",
+              "left": 69.40625,
+              "right": 278.125,
+              "font": 18
+            },
+            {
+              "text": "Make it workable.",
+              "left": 329.125,
+              "right": 521.125,
+              "font": 26
+            },
+            {
+              "text": "Turn that understanding into a technical design, then implement and test the details.",
+              "left": 329.125,
+              "right": 537.859375,
+              "font": 18
+            },
+            {
+              "text": "Stay with the work.",
+              "left": 588.859375,
+              "right": 780.859375,
+              "font": 26
+            },
+            {
+              "text": "Deployment is part of the process. So are support, coordination, and making the next step clearer.",
+              "left": 588.859375,
+              "right": 797.59375,
+              "font": 18
+            }
+          ],
+          "scroll": 1009,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.12812036300188076,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -637,
+          "pauseTop": -681
+        },
+        {
+          "id": "curiosities",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Still lookinga little deeper.",
+              "left": 79.40625,
+              "right": 656.40625,
+              "font": 44
+            },
+            {
+              "text": "Outside my day-to-day work, I keep coming back to things I can build, run, and understand for myself.",
+              "left": 79.40625,
+              "right": 656.40625,
+              "font": 19
+            },
+            {
+              "text": "Small hardware. Big questions.",
+              "left": 79.40625,
+              "right": 375.1875,
+              "font": 25
+            },
+            {
+              "text": "Raspberry Pi homelab and server experiments.",
+              "left": 399.1875,
+              "right": 656.390625,
+              "font": 19
+            },
+            {
+              "text": "A different way to work.",
+              "left": 79.40625,
+              "right": 375.1875,
+              "font": 25
+            },
+            {
+              "text": "Exploring AI-assisted work processes.",
+              "left": 399.1875,
+              "right": 656.390625,
+              "font": 19
+            },
+            {
+              "text": "Ideas made tangible.",
+              "left": 79.40625,
+              "right": 375.1875,
+              "font": 25
+            },
+            {
+              "text": "AI-assisted web applications.",
+              "left": 399.1875,
+              "right": 656.390625,
+              "font": 19
+            },
+            {
+              "text": "These are interests and explorations, not client case studies.",
+              "left": 79.40625,
+              "right": 656.40625,
+              "font": 18
+            }
+          ],
+          "scroll": 1741,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.27627814278258506,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -1369,
+          "pauseTop": -1413
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Let’s bring itinto the light.",
+              "left": 105,
+              "right": 772,
+              "font": 44
+            },
+            {
+              "text": "Have a contained problem that could use a closer look? I’m open to discussing remote, evening or asynchronous freelance work for individuals and small businesses, alongside my full-time role.",
+              "left": 105,
+              "right": 772,
+              "font": 19
+            },
+            {
+              "text": "Connect on LinkedIn (opens in a new tab)",
+              "left": 105,
+              "right": 772,
+              "font": 27
+            },
+            {
+              "text": "Local design preview. LinkedIn is the contact route; this site does not send or store messages.",
+              "left": 105,
+              "right": 685,
+              "font": 16
+            },
+            {
+              "text": "Return to the threshold",
+              "left": 626.59375,
+              "right": 797.59375,
+              "font": 16
+            }
+          ],
+          "scroll": 2447,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.4589869536667893,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -2075,
+          "pauseTop": -2119
+        }
+      ],
+      "targets": [
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Approach",
+          "width": 60,
+          "height": 44
+        },
+        {
+          "text": "Curiosities",
+          "width": 68,
+          "height": 44
+        },
+        {
+          "text": "Contact",
+          "width": 50,
+          "height": 44
+        },
+        {
+          "text": "Scroll to look closer",
+          "width": 175,
+          "height": 44
+        },
+        {
+          "text": "Connect on LinkedIn (opens in a new tab)",
+          "width": 667,
+          "height": 78.84375
+        },
+        {
+          "text": "Return to the threshold",
+          "width": 171,
+          "height": 44
+        },
+        {
+          "text": "Pause atmosphere",
+          "width": 149,
+          "height": 44
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "chapters": [
+        {
+          "id": "top",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Below thesurface.",
+              "left": 42.234375,
+              "right": 344.234375,
+              "font": 65
+            },
+            {
+              "text": "The useful questions are oftenone layer deeper.",
+              "left": 42.234375,
+              "right": 344.234375,
+              "font": 22
+            },
+            {
+              "text": "Scroll to look closer",
+              "left": 42.234375,
+              "right": 217.234375,
+              "font": 15
+            },
+            {
+              "text": "An imagined place.A real way of working.",
+              "left": 589.765625,
+              "right": 725.765625,
+              "font": 14
+            }
+          ],
+          "scroll": 0,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": 142,
+          "pauseTop": 98
+        },
+        {
+          "id": "about",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "A person behindthe systems.",
+              "left": 148.765625,
+              "right": 725.765625,
+              "font": 42
+            },
+            {
+              "text": "I’m Victor. I’m a software developer who likes getting beneath the first description of a problem—until the moving parts start to make sense.",
+              "left": 148.765625,
+              "right": 725.765625,
+              "font": 19
+            },
+            {
+              "text": "My experience is grounded in Dynamics 365 Finance & Operations and ERP work. I move between requirements, technical design, implementation, testing, deployment and support, with cross-team coordination along the way.",
+              "left": 148.765625,
+              "right": 725.765625,
+              "font": 19
+            },
+            {
+              "text": "I’m interested in senior and technical-lead roles where that whole-picture perspective matters.",
+              "left": 148.765625,
+              "right": 725.765625,
+              "font": 18
+            }
+          ],
+          "scroll": 1024,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.032254031249999995,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -882,
+          "pauseTop": -926
+        },
+        {
+          "id": "approach",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Understand deeply.Build practically.",
+              "left": 42.234375,
+              "right": 725.765625,
+              "font": 42
+            },
+            {
+              "text": "I don’t see the first request as the whole problem. I want to understand the people, the constraints, and what needs to happen next.",
+              "left": 42.234375,
+              "right": 570.234375,
+              "font": 19
+            },
+            {
+              "text": "Find the real question.",
+              "left": 65.234375,
+              "right": 251.40625,
+              "font": 26
+            },
+            {
+              "text": "Work through requirements, clarify what is needed, and look for the dependencies underneath.",
+              "left": 65.234375,
+              "right": 251.40625,
+              "font": 18
+            },
+            {
+              "text": "Make it workable.",
+              "left": 302.40625,
+              "right": 488.578125,
+              "font": 26
+            },
+            {
+              "text": "Turn that understanding into a technical design, then implement and test the details.",
+              "left": 302.40625,
+              "right": 488.578125,
+              "font": 18
+            },
+            {
+              "text": "Stay with the work.",
+              "left": 539.578125,
+              "right": 725.75,
+              "font": 26
+            },
+            {
+              "text": "Deployment is part of the process. So are support, coordination, and making the next step clearer.",
+              "left": 539.578125,
+              "right": 725.75,
+              "font": 18
+            }
+          ],
+          "scroll": 2150,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.11908411491677574,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -2008,
+          "pauseTop": -2052
+        },
+        {
+          "id": "curiosities",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Still lookinga little deeper.",
+              "left": 75.234375,
+              "right": 652.234375,
+              "font": 42
+            },
+            {
+              "text": "Outside my day-to-day work, I keep coming back to things I can build, run, and understand for myself.",
+              "left": 75.234375,
+              "right": 652.234375,
+              "font": 19
+            },
+            {
+              "text": "Small hardware. Big questions.",
+              "left": 75.234375,
+              "right": 371.015625,
+              "font": 25
+            },
+            {
+              "text": "Raspberry Pi homelab and server experiments.",
+              "left": 395.015625,
+              "right": 652.21875,
+              "font": 19
+            },
+            {
+              "text": "A different way to work.",
+              "left": 75.234375,
+              "right": 371.015625,
+              "font": 25
+            },
+            {
+              "text": "Exploring AI-assisted work processes.",
+              "left": 395.015625,
+              "right": 652.21875,
+              "font": 19
+            },
+            {
+              "text": "Ideas made tangible.",
+              "left": 75.234375,
+              "right": 371.015625,
+              "font": 25
+            },
+            {
+              "text": "AI-assisted web applications.",
+              "left": 395.015625,
+              "right": 652.21875,
+              "font": 19
+            },
+            {
+              "text": "These are interests and explorations, not client case studies.",
+              "left": 75.234375,
+              "right": 652.234375,
+              "font": 18
+            }
+          ],
+          "scroll": 3277,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.2154121593249065,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -3135,
+          "pauseTop": -3179
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Let’s bring itinto the light.",
+              "left": 75.234375,
+              "right": 725.765625,
+              "font": 42
+            },
+            {
+              "text": "Have a contained problem that could use a closer look? I’m open to discussing remote, evening or asynchronous freelance work for individuals and small businesses, alongside my full-time role.",
+              "left": 75.234375,
+              "right": 725.765625,
+              "font": 19
+            },
+            {
+              "text": "Connect on LinkedIn (opens in a new tab)",
+              "left": 75.234375,
+              "right": 725.765625,
+              "font": 27
+            },
+            {
+              "text": "Local design preview. LinkedIn is the contact route; this site does not send or store messages.",
+              "left": 75.234375,
+              "right": 655.234375,
+              "font": 16
+            },
+            {
+              "text": "Return to the threshold",
+              "left": 554.765625,
+              "right": 725.765625,
+              "font": 16
+            }
+          ],
+          "scroll": 4403,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.36739790064186817,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -4261,
+          "pauseTop": -4305
+        }
+      ],
+      "targets": [
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Approach",
+          "width": 65,
+          "height": 44
+        },
+        {
+          "text": "Curiosities",
+          "width": 73,
+          "height": 44
+        },
+        {
+          "text": "Contact",
+          "width": 54,
+          "height": 44
+        },
+        {
+          "text": "Scroll to look closer",
+          "width": 175,
+          "height": 44
+        },
+        {
+          "text": "Connect on LinkedIn (opens in a new tab)",
+          "width": 650.53125,
+          "height": 78.84375
+        },
+        {
+          "text": "Return to the threshold",
+          "width": 171,
+          "height": 44
+        },
+        {
+          "text": "Pause atmosphere",
+          "width": 149,
+          "height": 44
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "chapters": [
+        {
+          "id": "top",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Below thesurface.",
+              "left": 79.1875,
+              "right": 504.953125,
+              "font": 96
+            },
+            {
+              "text": "The useful questions are oftenone layer deeper.",
+              "left": 79.1875,
+              "right": 504.953125,
+              "font": 22
+            },
+            {
+              "text": "Scroll to look closer",
+              "left": 79.1875,
+              "right": 254.1875,
+              "font": 15
+            },
+            {
+              "text": "An imagined place.A real way of working.",
+              "left": 1224.8125,
+              "right": 1360.8125,
+              "font": 14
+            }
+          ],
+          "scroll": 0,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": 142,
+          "pauseTop": 98
+        },
+        {
+          "id": "about",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "A person behindthe systems.",
+              "left": 726.21875,
+              "right": 1303.21875,
+              "font": 66
+            },
+            {
+              "text": "I’m Victor. I’m a software developer who likes getting beneath the first description of a problem—until the moving parts start to make sense.",
+              "left": 726.21875,
+              "right": 1303.21875,
+              "font": 19
+            },
+            {
+              "text": "My experience is grounded in Dynamics 365 Finance & Operations and ERP work. I move between requirements, technical design, implementation, testing, deployment and support, with cross-team coordination along the way.",
+              "left": 726.21875,
+              "right": 1303.21875,
+              "font": 19
+            },
+            {
+              "text": "I’m interested in senior and technical-lead roles where that whole-picture perspective matters.",
+              "left": 726.21875,
+              "right": 1303.21875,
+              "font": 18
+            }
+          ],
+          "scroll": 900,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.02199375,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -758,
+          "pauseTop": -802
+        },
+        {
+          "id": "approach",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Understand deeply.Build practically.",
+              "left": 79.1875,
+              "right": 789.1875,
+              "font": 66
+            },
+            {
+              "text": "I don’t see the first request as the whole problem. I want to understand the people, the constraints, and what needs to happen next.",
+              "left": 79.1875,
+              "right": 607.1875,
+              "font": 19
+            },
+            {
+              "text": "Find the real question.",
+              "left": 279.8125,
+              "right": 495.8125,
+              "font": 30
+            },
+            {
+              "text": "Work through requirements, clarify what is needed, and look for the dependencies underneath.",
+              "left": 279.8125,
+              "right": 588.8125,
+              "font": 18
+            },
+            {
+              "text": "Make it workable.",
+              "left": 665.8125,
+              "right": 881.8125,
+              "font": 30
+            },
+            {
+              "text": "Turn that understanding into a technical design, then implement and test the details.",
+              "left": 665.8125,
+              "right": 974.8125,
+              "font": 18
+            },
+            {
+              "text": "Stay with the work.",
+              "left": 1051.8125,
+              "right": 1267.8125,
+              "font": 30
+            },
+            {
+              "text": "Deployment is part of the process. So are support, coordination, and making the next step clearer.",
+              "left": 1051.8125,
+              "right": 1360.8125,
+              "font": 18
+            }
+          ],
+          "scroll": 1890,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.1213409887454249,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -1748,
+          "pauseTop": -1792
+        },
+        {
+          "id": "curiosities",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Still lookinga little deeper.",
+              "left": 112.1875,
+              "right": 689.1875,
+              "font": 66
+            },
+            {
+              "text": "Outside my day-to-day work, I keep coming back to things I can build, run, and understand for myself.",
+              "left": 112.1875,
+              "right": 689.1875,
+              "font": 19
+            },
+            {
+              "text": "Small hardware. Big questions.",
+              "left": 112.1875,
+              "right": 407.96875,
+              "font": 25
+            },
+            {
+              "text": "Raspberry Pi homelab and server experiments.",
+              "left": 431.96875,
+              "right": 689.171875,
+              "font": 19
+            },
+            {
+              "text": "A different way to work.",
+              "left": 112.1875,
+              "right": 407.96875,
+              "font": 25
+            },
+            {
+              "text": "Exploring AI-assisted work processes.",
+              "left": 431.96875,
+              "right": 689.171875,
+              "font": 19
+            },
+            {
+              "text": "Ideas made tangible.",
+              "left": 112.1875,
+              "right": 407.96875,
+              "font": 25
+            },
+            {
+              "text": "AI-assisted web applications.",
+              "left": 431.96875,
+              "right": 689.171875,
+              "font": 19
+            },
+            {
+              "text": "These are interests and explorations, not client case studies.",
+              "left": 112.1875,
+              "right": 689.1875,
+              "font": 18
+            }
+          ],
+          "scroll": 2880,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.2717987416639172,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -2738,
+          "pauseTop": -2782
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "texts": [
+            {
+              "text": "Let’s bring itinto the light.",
+              "left": 403,
+              "right": 1070,
+              "font": 66
+            },
+            {
+              "text": "Have a contained problem that could use a closer look? I’m open to discussing remote, evening or asynchronous freelance work for individuals and small businesses, alongside my full-time role.",
+              "left": 403,
+              "right": 1070,
+              "font": 19
+            },
+            {
+              "text": "Connect on LinkedIn (opens in a new tab)",
+              "left": 403,
+              "right": 1070,
+              "font": 27
+            },
+            {
+              "text": "Local design preview. LinkedIn is the contact route; this site does not send or store messages.",
+              "left": 403,
+              "right": 983,
+              "font": 16
+            },
+            {
+              "text": "Return to the threshold",
+              "left": 1189.8125,
+              "right": 1360.8125,
+              "font": 16
+            }
+          ],
+          "scroll": 3870,
+          "scene": {
+            "ready": true,
+            "webgl": true,
+            "reduced": false,
+            "paused": false,
+            "progress": 0.4560272359077622,
+            "drawCalls": 17,
+            "triangles": 209104
+          },
+          "pauseBottom": -3728,
+          "pauseTop": -3772
+        }
+      ],
+      "targets": [
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Approach",
+          "width": 65,
+          "height": 44
+        },
+        {
+          "text": "Curiosities",
+          "width": 73,
+          "height": 44
+        },
+        {
+          "text": "Contact",
+          "width": 54,
+          "height": 44
+        },
+        {
+          "text": "Scroll to look closer",
+          "width": 175,
+          "height": 44
+        },
+        {
+          "text": "Connect on LinkedIn (opens in a new tab)",
+          "width": 667,
+          "height": 78.84375
+        },
+        {
+          "text": "Return to the threshold",
+          "width": 171,
+          "height": 44
+        },
+        {
+          "text": "Pause atmosphere",
+          "width": 149,
+          "height": 44
+        }
+      ]
+    }
+  ],
+  "interactions": {
+    "keyboard": {
+      "tabs": [
+        "Skip to about Victor",
+        "Victor MendivilSoftware developer / problem solver",
+        "About"
+      ],
+      "enterHash": "#about"
+    },
+    "space": {
+      "tabs": 10,
+      "paused": true,
+      "cameraBefore": 0.11018957345971564,
+      "cameraAfter": 0.25829383886255924
+    },
+    "escape": {
+      "nonModal": true,
+      "pausedUnchanged": true
+    },
+    "touch": {
+      "anchor": "#approach",
+      "before": 1688,
+      "after": 2073
+    },
+    "reduced": {
+      "before": {
+        "ready": true,
+        "webgl": true,
+        "reduced": true,
+        "paused": false,
+        "progress": 0.41322147411321675,
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "after": {
+        "ready": true,
+        "webgl": true,
+        "reduced": true,
+        "paused": false,
+        "progress": 0.41322147411321675,
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "button": "Motion reduced"
+    },
+    "fallback": {
+      "state": {
+        "ready": false,
+        "fallback": true
+      },
+      "contactHit": true,
+      "href": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+    }
+  },
+  "errors": [],
+  "pass": true
+}

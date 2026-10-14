@@ -1,0 +1,36 @@
+[
+  {
+    "antipattern": "design-system-color",
+    "name": "Color outside DESIGN.md",
+    "description": "A literal color is outside the DESIGN.md palette and sidecar tonal ramps. This may be legitimate, but it should be an intentional design-system addition rather than drift.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/19-rokumaruichi/index.html",
+    "line": 0,
+    "snippet": "text color rgb(221, 213, 177) on p \"Original light studiesFour chapters of a\" is outside DESIGN.md colors",
+    "advisory": true,
+    "ignoreValue": "rgb(221, 213, 177)"
+  },
+  {
+    "antipattern": "design-system-color",
+    "name": "Color outside DESIGN.md",
+    "description": "A literal color is outside the DESIGN.md palette and sidecar tonal ramps. This may be legitimate, but it should be an intentional design-system addition rather than drift.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/19-rokumaruichi/index.html",
+    "line": 0,
+    "snippet": "border-bottom rgb(185, 177, 138) on a \"Enter reading\" is outside DESIGN.md colors",
+    "advisory": true,
+    "ignoreValue": "rgb(185, 177, 138)"
+  },
+  {
+    "antipattern": "overused-font",
+    "name": "Overused font",
+    "description": "Inter, Roboto, Fraunces, Geist, Plus Jakarta Sans, and Space Grotesk are used on so many sites they no longer feel distinctive. Each new wave of AI-generated UIs converges on the same handful of faces. Choose a face that gives your interface personality.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/19-rokumaruichi/index.html",
+    "line": 0,
+    "snippet": "Primary font: arial"
+  }
+]

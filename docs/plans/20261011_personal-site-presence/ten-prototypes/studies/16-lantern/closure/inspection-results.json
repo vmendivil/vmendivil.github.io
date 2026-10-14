@@ -1,0 +1,79 @@
+{
+  "method": "independent Chromium real input; software WebGL; no physical device",
+  "contexts": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "interrupt selects different crop",
+        "about complete reading"
+      ],
+      "passed": false,
+      "failure": "AssertionError [ERR_ASSERTION]: whole-house return about\n    at check (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:7:694)\n    at main (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:8:915)"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "interrupt selects different crop",
+        "about complete reading",
+        "whole-house return about",
+        "practice complete reading",
+        "whole-house return practice",
+        "curiosity complete reading",
+        "whole-house return curiosity",
+        "contact complete reading",
+        "whole-house return contact"
+      ],
+      "passed": false,
+      "failure": "AssertionError [ERR_ASSERTION]: keyboard reading focus\n    at check (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:7:694)\n    at main (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:9:142)"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "interrupt selects different crop",
+        "about complete reading",
+        "whole-house return about",
+        "practice complete reading"
+      ],
+      "passed": false,
+      "failure": "AssertionError [ERR_ASSERTION]: whole-house return practice\n    at check (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:7:694)\n    at main (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:8:915)"
+    }
+  ],
+  "failures": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "error": "whole-house return about"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "error": "keyboard reading focus"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "error": "whole-house return practice"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "study": 4,
+  "checks": [
+    {
+      "name": "1440 physical cue settles",
+      "pass": true
+    },
+    {
+      "name": "1440 printed contact reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 no overflow",
+      "pass": true
+    },
+    {
+      "name": "390 physical cue settles",
+      "pass": true
+    },
+    {
+      "name": "390 printed contact reachable",
+      "pass": true
+    },
+    {
+      "name": "390 no overflow",
+      "pass": true
+    },
+    {
+      "name": "320 physical cue settles",
+      "pass": true
+    },
+    {
+      "name": "320 printed contact reachable",
+      "pass": true
+    },
+    {
+      "name": "320 no overflow",
+      "pass": true
+    },
+    {
+      "name": "430 physical cue settles",
+      "pass": true
+    },
+    {
+      "name": "430 printed contact reachable",
+      "pass": true
+    },
+    {
+      "name": "430 no overflow",
+      "pass": true
+    },
+    {
+      "name": "844 physical cue settles",
+      "pass": true
+    },
+    {
+      "name": "844 printed contact reachable",
+      "pass": true
+    },
+    {
+      "name": "844 no overflow",
+      "pass": true
+    },
+    {
+      "name": "768 physical cue settles",
+      "pass": true
+    },
+    {
+      "name": "768 printed contact reachable",
+      "pass": true
+    },
+    {
+      "name": "768 no overflow",
+      "pass": true
+    },
+    {
+      "name": "no page errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "captures": [
+    "1440-overview.png",
+    "1440-changed.png",
+    "1440-reversed.png",
+    "1440-contact.png",
+    "390-overview.png",
+    "390-changed.png",
+    "390-reversed.png",
+    "390-contact.png"
+  ],
+  "errors": [],
+  "total": 19,
+  "passed": 19
+}

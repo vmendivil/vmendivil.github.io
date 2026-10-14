@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "mode": "experience",
+  "direction": "user-pinned Night Pavilion ref16",
+  "tokens": {
+    "color": {
+      "ground": "#111526",
+      "wall": "#2d2536",
+      "text": "#dde1ec",
+      "secondary": "#bec4d4",
+      "light": "#ffdfa8"
+    },
+    "typography": {
+      "family": "Karla",
+      "bodyPx": 17,
+      "lineHeight": 1.6,
+      "displayMaxPx": 62
+    },
+    "shape": {
+      "radius": 0,
+      "tapMinimumPx": 44
+    }
+  },
+  "surfaces": [
+    "original vector front facade",
+    "localized eave occlusion and room-specific transmitted light",
+    "selective cool glazing reflections and timber seams",
+    "foreground shore / terraced base / distant hills",
+    "independent upright-fan and swept-crown trees",
+    "architectural wall heading",
+    "open prose",
+    "threshold docket"
+  ],
+  "motion": {
+    "durationMs": 680,
+    "camera": "room-specific reversible SVG viewBox approach; no idle loop",
+    "reducedMotion": "disabled transitions, static perceptible lighting change"
+  }
+}

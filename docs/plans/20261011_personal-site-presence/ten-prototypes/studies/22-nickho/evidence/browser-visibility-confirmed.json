@@ -1,0 +1,110 @@
+[
+  {
+    "url": "http://127.0.0.1:9622/",
+    "hidden": false,
+    "state": "visible",
+    "stats": {
+      "frames": 3,
+      "depthFrames": 4,
+      "fanFrames": 2,
+      "active": true,
+      "visible": true,
+      "paused": false,
+      "reduced": false,
+      "renderer": "webgl-depth",
+      "selected": 0,
+      "hidden": false
+    },
+    "tag": "actual-pointer-active"
+  },
+  {
+    "url": "http://127.0.0.1:9622/",
+    "hidden": true,
+    "state": "hidden",
+    "stats": {
+      "frames": 4,
+      "depthFrames": 5,
+      "fanFrames": 2,
+      "active": false,
+      "visible": true,
+      "paused": false,
+      "reduced": false,
+      "renderer": "webgl-depth",
+      "selected": 0,
+      "hidden": true
+    },
+    "tag": "minimized"
+  },
+  {
+    "url": "http://127.0.0.1:9622/",
+    "hidden": true,
+    "state": "hidden",
+    "stats": {
+      "frames": 4,
+      "depthFrames": 5,
+      "fanFrames": 2,
+      "active": false,
+      "visible": true,
+      "paused": false,
+      "reduced": false,
+      "renderer": "webgl-depth",
+      "selected": 0,
+      "hidden": true
+    },
+    "tag": "hidden-idle"
+  },
+  {
+    "url": "http://127.0.0.1:9622/",
+    "hidden": false,
+    "state": "visible",
+    "stats": {
+      "frames": 5,
+      "depthFrames": 6,
+      "fanFrames": 2,
+      "active": true,
+      "visible": true,
+      "paused": false,
+      "reduced": false,
+      "renderer": "webgl-depth",
+      "selected": 0,
+      "hidden": false
+    },
+    "tag": "visible-resume"
+  },
+  {
+    "url": "http://127.0.0.1:9622/",
+    "hidden": false,
+    "state": "visible",
+    "stats": {
+      "frames": 34,
+      "depthFrames": 35,
+      "fanFrames": 2,
+      "active": false,
+      "visible": true,
+      "paused": false,
+      "reduced": false,
+      "renderer": "webgl-depth",
+      "selected": 0,
+      "hidden": false
+    },
+    "tag": "visible-settled"
+  },
+  {
+    "url": "http://127.0.0.1:9622/",
+    "hidden": false,
+    "state": "visible",
+    "stats": {
+      "frames": 34,
+      "depthFrames": 35,
+      "fanFrames": 2,
+      "active": false,
+      "visible": true,
+      "paused": false,
+      "reduced": false,
+      "renderer": "webgl-depth",
+      "selected": 0,
+      "hidden": false
+    },
+    "tag": "visible-idle"
+  }
+]

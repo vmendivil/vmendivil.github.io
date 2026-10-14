@@ -1,0 +1,46 @@
+[
+  {
+    "antipattern": "numbered-section-labels",
+    "name": "Tiny numbered section labels",
+    "description": "Small numeric index labels riding next to section headings, repeated section after section, are AI editorial scaffolding — a page numbering its own chapters instead of earning structure. Let hierarchy, content, and rhythm carry the sequence.",
+    "severity": "advisory",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/12-vectrfl/index.html",
+    "line": 0,
+    "snippet": "tiny numbered label \"01 / REQUIREMENTS\" beside h2 \"First, understandthe work.\" (4 on page)",
+    "advisory": true
+  },
+  {
+    "antipattern": "numbered-section-labels",
+    "name": "Tiny numbered section labels",
+    "description": "Small numeric index labels riding next to section headings, repeated section after section, are AI editorial scaffolding — a page numbering its own chapters instead of earning structure. Let hierarchy, content, and rhythm carry the sequence.",
+    "severity": "advisory",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/12-vectrfl/index.html",
+    "line": 0,
+    "snippet": "tiny numbered label \"02 / TECHNICAL DESIGN\" beside h2 \"Give the ideaa workable shape.\" (4 on page)",
+    "advisory": true
+  },
+  {
+    "antipattern": "numbered-section-labels",
+    "name": "Tiny numbered section labels",
+    "description": "Small numeric index labels riding next to section headings, repeated section after section, are AI editorial scaffolding — a page numbering its own chapters instead of earning structure. Let hierarchy, content, and rhythm carry the sequence.",
+    "severity": "advisory",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/12-vectrfl/index.html",
+    "line": 0,
+    "snippet": "tiny numbered label \"03 / IMPLEMENTATION & DE\" beside h2 \"Build it.Check it. Put it to use.\" (4 on page)",
+    "advisory": true
+  },
+  {
+    "antipattern": "numbered-section-labels",
+    "name": "Tiny numbered section labels",
+    "description": "Small numeric index labels riding next to section headings, repeated section after section, are AI editorial scaffolding — a page numbering its own chapters instead of earning structure. Let hierarchy, content, and rhythm carry the sequence.",
+    "severity": "advisory",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/12-vectrfl/index.html",
+    "line": 0,
+    "snippet": "tiny numbered label \"04 / SUPPORT\" beside h2 \"The work doesn’tend at release.\" (4 on page)",
+    "advisory": true
+  }
+]

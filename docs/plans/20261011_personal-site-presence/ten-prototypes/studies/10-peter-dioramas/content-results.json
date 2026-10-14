@@ -1,0 +1,1763 @@
+{
+  "url": "http://127.0.0.1:9020/",
+  "engine": "Chromium / trusted Playwright input, not physical-device certification",
+  "viewports": [
+    {
+      "name": "small",
+      "width": 320,
+      "height": 740,
+      "main": {
+        "width": 320,
+        "documentWidth": 320,
+        "scroll": 0,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 22,
+            "y": 0,
+            "width": 276,
+            "height": 134.78125,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 22,
+            "y": 159.78125,
+            "width": 276,
+            "height": 72.3125,
+            "font": "32px"
+          },
+          ".artwork": {
+            "x": 0,
+            "y": 296.875,
+            "width": 320,
+            "height": 300,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 22,
+            "y": 681.875,
+            "width": 276,
+            "height": 121.671875,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 190,
+            "y": 615.875,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 250,
+            "y": 615.875,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 22,
+            "y": 929.140625,
+            "width": 276,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".catalogue-plate": {
+            "x": 22,
+            "y": 1030.953125,
+            "width": 276,
+            "height": 132.96875,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 22,
+            "y": 1191.921875,
+            "width": 276,
+            "height": 430.3125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 22,
+            "y": 1650.234375,
+            "width": 276,
+            "height": 134.96875,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 22,
+            "y": 1865.203125,
+            "width": 276,
+            "height": 115.21875,
+            "font": "34px"
+          },
+          ".contact-link": {
+            "x": 22,
+            "y": 2156.390625,
+            "width": 243,
+            "height": 52.796875,
+            "font": "23px"
+          }
+        }
+      },
+      "about": {
+        "width": 320,
+        "documentWidth": 320,
+        "scroll": 869,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 22,
+            "y": -869,
+            "width": 276,
+            "height": 134.78125,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 22,
+            "y": -709.21875,
+            "width": 276,
+            "height": 72.3125,
+            "font": "32px"
+          },
+          ".artwork": {
+            "x": 0,
+            "y": -572.125,
+            "width": 320,
+            "height": 300,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 22,
+            "y": -187.125,
+            "width": 276,
+            "height": 121.671875,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 190,
+            "y": -253.125,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 250,
+            "y": -253.125,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 22,
+            "y": 60.140625,
+            "width": 276,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".catalogue-plate": {
+            "x": 22,
+            "y": 161.953125,
+            "width": 276,
+            "height": 132.96875,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 22,
+            "y": 322.921875,
+            "width": 276,
+            "height": 430.3125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 22,
+            "y": 781.234375,
+            "width": 276,
+            "height": 134.96875,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 22,
+            "y": 996.203125,
+            "width": 276,
+            "height": 115.21875,
+            "font": "34px"
+          },
+          ".contact-link": {
+            "x": 22,
+            "y": 1287.390625,
+            "width": 243,
+            "height": 52.796875,
+            "font": "23px"
+          }
+        }
+      },
+      "contact": {
+        "width": 320,
+        "documentWidth": 320,
+        "scroll": 1648,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 22,
+            "y": -1648,
+            "width": 276,
+            "height": 134.78125,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 22,
+            "y": -1488.21875,
+            "width": 276,
+            "height": 72.3125,
+            "font": "32px"
+          },
+          ".artwork": {
+            "x": 0,
+            "y": -1351.125,
+            "width": 320,
+            "height": 300,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 22,
+            "y": -966.125,
+            "width": 276,
+            "height": 121.671875,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 190,
+            "y": -1032.125,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 250,
+            "y": -1032.125,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 22,
+            "y": -718.859375,
+            "width": 276,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".catalogue-plate": {
+            "x": 22,
+            "y": -617.046875,
+            "width": 276,
+            "height": 132.96875,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 22,
+            "y": -456.078125,
+            "width": 276,
+            "height": 430.3125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 22,
+            "y": 2.234375,
+            "width": 276,
+            "height": 134.96875,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 22,
+            "y": 217.203125,
+            "width": 276,
+            "height": 115.21875,
+            "font": "34px"
+          },
+          ".contact-link": {
+            "x": 22,
+            "y": 508.390625,
+            "width": 243,
+            "height": 52.796875,
+            "font": "23px"
+          }
+        }
+      },
+      "touch": "next, previous, About, Contact"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "main": {
+        "width": 390,
+        "documentWidth": 390,
+        "scroll": 0,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 22,
+            "y": 0,
+            "width": 346,
+            "height": 134.78125,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 22,
+            "y": 159.78125,
+            "width": 346,
+            "height": 74.03125,
+            "font": "32.76px"
+          },
+          ".artwork": {
+            "x": 0,
+            "y": 298.59375,
+            "width": 390,
+            "height": 335.390625,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 22,
+            "y": 718.984375,
+            "width": 346,
+            "height": 95.28125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 260,
+            "y": 652.984375,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 320,
+            "y": 652.984375,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 22,
+            "y": 939.859375,
+            "width": 336,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".catalogue-plate": {
+            "x": 22,
+            "y": 1041.671875,
+            "width": 346,
+            "height": 140,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 22,
+            "y": 1209.671875,
+            "width": 346,
+            "height": 353.53125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 22,
+            "y": 1591.203125,
+            "width": 346,
+            "height": 109.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 22,
+            "y": 1780.578125,
+            "width": 346,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".contact-link": {
+            "x": 22,
+            "y": 2007.765625,
+            "width": 243,
+            "height": 52.796875,
+            "font": "23px"
+          }
+        }
+      },
+      "about": {
+        "width": 390,
+        "documentWidth": 390,
+        "scroll": 880,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 22,
+            "y": -880,
+            "width": 346,
+            "height": 134.78125,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 22,
+            "y": -720.21875,
+            "width": 346,
+            "height": 74.03125,
+            "font": "32.76px"
+          },
+          ".artwork": {
+            "x": 0,
+            "y": -581.40625,
+            "width": 390,
+            "height": 335.390625,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 22,
+            "y": -161.015625,
+            "width": 346,
+            "height": 95.28125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 260,
+            "y": -227.015625,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 320,
+            "y": -227.015625,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 22,
+            "y": 59.859375,
+            "width": 336,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".catalogue-plate": {
+            "x": 22,
+            "y": 161.671875,
+            "width": 346,
+            "height": 140,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 22,
+            "y": 329.671875,
+            "width": 346,
+            "height": 353.53125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 22,
+            "y": 711.203125,
+            "width": 346,
+            "height": 109.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 22,
+            "y": 900.578125,
+            "width": 346,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".contact-link": {
+            "x": 22,
+            "y": 1127.765625,
+            "width": 243,
+            "height": 52.796875,
+            "font": "23px"
+          }
+        }
+      },
+      "contact": {
+        "width": 390,
+        "documentWidth": 390,
+        "scroll": 1395,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 22,
+            "y": -1395,
+            "width": 346,
+            "height": 134.78125,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 22,
+            "y": -1235.21875,
+            "width": 346,
+            "height": 74.03125,
+            "font": "32.76px"
+          },
+          ".artwork": {
+            "x": 0,
+            "y": -1096.40625,
+            "width": 390,
+            "height": 335.390625,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 22,
+            "y": -676.015625,
+            "width": 346,
+            "height": 95.28125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 260,
+            "y": -742.015625,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 320,
+            "y": -742.015625,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 22,
+            "y": -455.140625,
+            "width": 336,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".catalogue-plate": {
+            "x": 22,
+            "y": -353.328125,
+            "width": 346,
+            "height": 140,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 22,
+            "y": -185.328125,
+            "width": 346,
+            "height": 353.53125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 22,
+            "y": 196.203125,
+            "width": 346,
+            "height": 109.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 22,
+            "y": 385.578125,
+            "width": 346,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".contact-link": {
+            "x": 22,
+            "y": 612.765625,
+            "width": 243,
+            "height": 52.796875,
+            "font": "23px"
+          }
+        }
+      },
+      "touch": "next, previous, About, Contact"
+    },
+    {
+      "name": "large-mobile",
+      "width": 430,
+      "height": 932,
+      "main": {
+        "width": 430,
+        "documentWidth": 430,
+        "scroll": 0,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 22,
+            "y": 0,
+            "width": 386,
+            "height": 134.78125,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 22,
+            "y": 159.78125,
+            "width": 386,
+            "height": 81.625,
+            "font": "36.12px"
+          },
+          ".artwork": {
+            "x": 0,
+            "y": 306.1875,
+            "width": 430,
+            "height": 369.796875,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 22,
+            "y": 760.984375,
+            "width": 386,
+            "height": 95.28125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 300,
+            "y": 694.984375,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 360,
+            "y": 694.984375,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 22,
+            "y": 981.859375,
+            "width": 368,
+            "height": 84.53125,
+            "font": "37.41px"
+          },
+          ".catalogue-plate": {
+            "x": 22,
+            "y": 1091.390625,
+            "width": 386,
+            "height": 140,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 22,
+            "y": 1259.390625,
+            "width": 386,
+            "height": 353.53125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 22,
+            "y": 1640.921875,
+            "width": 386,
+            "height": 109.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 22,
+            "y": 1830.296875,
+            "width": 386,
+            "height": 84.53125,
+            "font": "37.41px"
+          },
+          ".contact-link": {
+            "x": 22,
+            "y": 2065.203125,
+            "width": 243,
+            "height": 52.796875,
+            "font": "23px"
+          }
+        }
+      },
+      "about": {
+        "width": 430,
+        "documentWidth": 430,
+        "scroll": 922,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 22,
+            "y": -922,
+            "width": 386,
+            "height": 134.78125,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 22,
+            "y": -762.21875,
+            "width": 386,
+            "height": 81.625,
+            "font": "36.12px"
+          },
+          ".artwork": {
+            "x": 0,
+            "y": -615.8125,
+            "width": 430,
+            "height": 369.796875,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 22,
+            "y": -161.015625,
+            "width": 386,
+            "height": 95.28125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 300,
+            "y": -227.015625,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 360,
+            "y": -227.015625,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 22,
+            "y": 59.859375,
+            "width": 368,
+            "height": 84.53125,
+            "font": "37.41px"
+          },
+          ".catalogue-plate": {
+            "x": 22,
+            "y": 169.390625,
+            "width": 386,
+            "height": 140,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 22,
+            "y": 337.390625,
+            "width": 386,
+            "height": 353.53125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 22,
+            "y": 718.921875,
+            "width": 386,
+            "height": 109.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 22,
+            "y": 908.296875,
+            "width": 386,
+            "height": 84.53125,
+            "font": "37.41px"
+          },
+          ".contact-link": {
+            "x": 22,
+            "y": 1143.203125,
+            "width": 243,
+            "height": 52.796875,
+            "font": "23px"
+          }
+        }
+      },
+      "contact": {
+        "width": 430,
+        "documentWidth": 430,
+        "scroll": 1365,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 22,
+            "y": -1365,
+            "width": 386,
+            "height": 134.78125,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 22,
+            "y": -1205.21875,
+            "width": 386,
+            "height": 81.625,
+            "font": "36.12px"
+          },
+          ".artwork": {
+            "x": 0,
+            "y": -1058.8125,
+            "width": 430,
+            "height": 369.796875,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 22,
+            "y": -604.015625,
+            "width": 386,
+            "height": 95.28125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 300,
+            "y": -670.015625,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 360,
+            "y": -670.015625,
+            "width": 48,
+            "height": 48,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 22,
+            "y": -383.140625,
+            "width": 368,
+            "height": 84.53125,
+            "font": "37.41px"
+          },
+          ".catalogue-plate": {
+            "x": 22,
+            "y": -273.609375,
+            "width": 386,
+            "height": 140,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 22,
+            "y": -105.609375,
+            "width": 386,
+            "height": 353.53125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 22,
+            "y": 275.921875,
+            "width": 386,
+            "height": 109.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 22,
+            "y": 465.296875,
+            "width": 386,
+            "height": 84.53125,
+            "font": "37.41px"
+          },
+          ".contact-link": {
+            "x": 22,
+            "y": 700.203125,
+            "width": 243,
+            "height": 52.796875,
+            "font": "23px"
+          }
+        }
+      },
+      "touch": "next, previous, About, Contact"
+    },
+    {
+      "name": "landscape",
+      "width": 844,
+      "height": 390,
+      "main": {
+        "width": 844,
+        "documentWidth": 844,
+        "scroll": 0,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 42.1875,
+            "y": 0,
+            "width": 759.625,
+            "height": 102.1875,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 42.1875,
+            "y": 126.1875,
+            "width": 220,
+            "height": 72.3125,
+            "font": "32px"
+          },
+          ".artwork": {
+            "x": -0.046875,
+            "y": 102.1875,
+            "width": 844.09375,
+            "height": 390,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 265.390625,
+            "y": 517.1875,
+            "width": 398.421875,
+            "height": 91.078125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 687.8125,
+            "y": 536.71875,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 749.8125,
+            "y": 536.71875,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 42.1875,
+            "y": 719.0625,
+            "width": 759.625,
+            "height": 47.453125,
+            "font": "42px"
+          },
+          ".catalogue-plate": {
+            "x": 42.1875,
+            "y": 796.515625,
+            "width": 268.828125,
+            "height": 308.78125,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 344.765625,
+            "y": 796.515625,
+            "width": 457.046875,
+            "height": 267.9375,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 344.765625,
+            "y": 1139.046875,
+            "width": 457.046875,
+            "height": 107.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 42.1875,
+            "y": 1322.421875,
+            "width": 546,
+            "height": 94.90625,
+            "font": "42px"
+          },
+          ".contact-link": {
+            "x": 348.703125,
+            "y": 1556.109375,
+            "width": 230,
+            "height": 52,
+            "font": "21px"
+          }
+        }
+      },
+      "about": {
+        "width": 844,
+        "documentWidth": 844,
+        "scroll": 659,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 42.1875,
+            "y": -659,
+            "width": 759.625,
+            "height": 102.1875,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 42.1875,
+            "y": -532.8125,
+            "width": 220,
+            "height": 72.3125,
+            "font": "32px"
+          },
+          ".artwork": {
+            "x": -0.046875,
+            "y": -556.8125,
+            "width": 844.09375,
+            "height": 390,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 265.390625,
+            "y": -141.8125,
+            "width": 398.421875,
+            "height": 91.078125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 687.8125,
+            "y": -122.28125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 749.8125,
+            "y": -122.28125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 42.1875,
+            "y": 60.0625,
+            "width": 759.625,
+            "height": 47.453125,
+            "font": "42px"
+          },
+          ".catalogue-plate": {
+            "x": 42.1875,
+            "y": 137.515625,
+            "width": 268.828125,
+            "height": 308.78125,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 344.765625,
+            "y": 137.515625,
+            "width": 457.046875,
+            "height": 267.9375,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 344.765625,
+            "y": 480.046875,
+            "width": 457.046875,
+            "height": 107.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 42.1875,
+            "y": 663.421875,
+            "width": 546,
+            "height": 94.90625,
+            "font": "42px"
+          },
+          ".contact-link": {
+            "x": 348.703125,
+            "y": 897.109375,
+            "width": 230,
+            "height": 52,
+            "font": "21px"
+          }
+        }
+      },
+      "contact": {
+        "width": 844,
+        "documentWidth": 844,
+        "scroll": 1262,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 42.1875,
+            "y": -1262,
+            "width": 759.625,
+            "height": 102.1875,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 42.1875,
+            "y": -1135.8125,
+            "width": 220,
+            "height": 72.3125,
+            "font": "32px"
+          },
+          ".artwork": {
+            "x": -0.046875,
+            "y": -1159.8125,
+            "width": 844.09375,
+            "height": 390,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 265.390625,
+            "y": -744.8125,
+            "width": 398.421875,
+            "height": 91.078125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 687.8125,
+            "y": -725.28125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 749.8125,
+            "y": -725.28125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 42.1875,
+            "y": -542.9375,
+            "width": 759.625,
+            "height": 47.453125,
+            "font": "42px"
+          },
+          ".catalogue-plate": {
+            "x": 42.1875,
+            "y": -465.484375,
+            "width": 268.828125,
+            "height": 308.78125,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 344.765625,
+            "y": -465.484375,
+            "width": 457.046875,
+            "height": 267.9375,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 344.765625,
+            "y": -122.953125,
+            "width": 457.046875,
+            "height": 107.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 42.1875,
+            "y": 60.421875,
+            "width": 546,
+            "height": 94.90625,
+            "font": "42px"
+          },
+          ".contact-link": {
+            "x": 348.703125,
+            "y": 294.109375,
+            "width": 230,
+            "height": 52,
+            "font": "21px"
+          }
+        }
+      },
+      "touch": "next, previous, About, Contact"
+    },
+    {
+      "name": "tablet",
+      "width": 768,
+      "height": 1024,
+      "main": {
+        "width": 768,
+        "documentWidth": 768,
+        "scroll": 0,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 38.390625,
+            "y": 0,
+            "width": 691.21875,
+            "height": 102.1875,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 38.390625,
+            "y": 140.1875,
+            "width": 260,
+            "height": 72.3125,
+            "font": "32px"
+          },
+          ".artwork": {
+            "x": -0.03125,
+            "y": 102.1875,
+            "width": 768.0625,
+            "height": 590,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 238.796875,
+            "y": 717.1875,
+            "width": 352.8125,
+            "height": 91.078125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 615.609375,
+            "y": 736.71875,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 677.609375,
+            "y": 736.71875,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 38.390625,
+            "y": 947.0625,
+            "width": 357,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".catalogue-plate": {
+            "x": 38.390625,
+            "y": 1067.875,
+            "width": 244.625,
+            "height": 308.78125,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 313.734375,
+            "y": 1067.875,
+            "width": 415.875,
+            "height": 319.125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 313.734375,
+            "y": 1417.71875,
+            "width": 415.875,
+            "height": 107.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 38.390625,
+            "y": 1667.09375,
+            "width": 441,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".contact-link": {
+            "x": 319.578125,
+            "y": 1908.28125,
+            "width": 230,
+            "height": 52,
+            "font": "21px"
+          }
+        }
+      },
+      "about": {
+        "width": 768,
+        "documentWidth": 768,
+        "scroll": 859,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 38.390625,
+            "y": -859,
+            "width": 691.21875,
+            "height": 102.1875,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 38.390625,
+            "y": -718.8125,
+            "width": 260,
+            "height": 72.3125,
+            "font": "32px"
+          },
+          ".artwork": {
+            "x": -0.03125,
+            "y": -756.8125,
+            "width": 768.0625,
+            "height": 590,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 238.796875,
+            "y": -141.8125,
+            "width": 352.8125,
+            "height": 91.078125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 615.609375,
+            "y": -122.28125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 677.609375,
+            "y": -122.28125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 38.390625,
+            "y": 88.0625,
+            "width": 357,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".catalogue-plate": {
+            "x": 38.390625,
+            "y": 208.875,
+            "width": 244.625,
+            "height": 308.78125,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 313.734375,
+            "y": 208.875,
+            "width": 415.875,
+            "height": 319.125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 313.734375,
+            "y": 558.71875,
+            "width": 415.875,
+            "height": 107.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 38.390625,
+            "y": 808.09375,
+            "width": 441,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".contact-link": {
+            "x": 319.578125,
+            "y": 1049.28125,
+            "width": 230,
+            "height": 52,
+            "font": "21px"
+          }
+        }
+      },
+      "contact": {
+        "width": 768,
+        "documentWidth": 768,
+        "scroll": 1139,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 38.390625,
+            "y": -1139,
+            "width": 691.21875,
+            "height": 102.1875,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 38.390625,
+            "y": -998.8125,
+            "width": 260,
+            "height": 72.3125,
+            "font": "32px"
+          },
+          ".artwork": {
+            "x": -0.03125,
+            "y": -1036.8125,
+            "width": 768.0625,
+            "height": 590,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 238.796875,
+            "y": -421.8125,
+            "width": 352.8125,
+            "height": 91.078125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 615.609375,
+            "y": -402.28125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 677.609375,
+            "y": -402.28125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 38.390625,
+            "y": -191.9375,
+            "width": 357,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".catalogue-plate": {
+            "x": 38.390625,
+            "y": -71.125,
+            "width": 244.625,
+            "height": 308.78125,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 313.734375,
+            "y": -71.125,
+            "width": 415.875,
+            "height": 319.125,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 313.734375,
+            "y": 278.71875,
+            "width": 415.875,
+            "height": 107.375,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 38.390625,
+            "y": 528.09375,
+            "width": 441,
+            "height": 76.8125,
+            "font": "34px"
+          },
+          ".contact-link": {
+            "x": 319.578125,
+            "y": 769.28125,
+            "width": 230,
+            "height": 52,
+            "font": "21px"
+          }
+        }
+      },
+      "touch": "next, previous, About, Contact"
+    },
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900,
+      "main": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "scroll": 0,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 72,
+            "y": 0,
+            "width": 1296,
+            "height": 102.1875,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 72,
+            "y": 140.1875,
+            "width": 260.046875,
+            "height": 104.125,
+            "font": "46.08px"
+          },
+          ".artwork": {
+            "x": -0.046875,
+            "y": 102.1875,
+            "width": 1440.09375,
+            "height": 590,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 474,
+            "y": 717.1875,
+            "width": 756,
+            "height": 97.578125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 1254,
+            "y": 739.96875,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 1316,
+            "y": 739.96875,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 72,
+            "y": 953.5625,
+            "width": 663,
+            "height": 139.9375,
+            "font": "61.92px"
+          },
+          ".catalogue-plate": {
+            "x": 72,
+            "y": 1137.5,
+            "width": 347.296875,
+            "height": 343.78125,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 476.890625,
+            "y": 1137.5,
+            "width": 573.03125,
+            "height": 287.5625,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 1107.515625,
+            "y": 1137.5,
+            "width": 260.46875,
+            "height": 132.96875,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 72,
+            "y": 1623.28125,
+            "width": 819,
+            "height": 139.9375,
+            "font": "61.92px"
+          },
+          ".contact-link": {
+            "x": 530.65625,
+            "y": 1876.40625,
+            "width": 301,
+            "height": 60.796875,
+            "font": "28px"
+          }
+        }
+      },
+      "about": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "scroll": 866,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 72,
+            "y": -866,
+            "width": 1296,
+            "height": 102.1875,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 72,
+            "y": -725.8125,
+            "width": 260.046875,
+            "height": 104.125,
+            "font": "46.08px"
+          },
+          ".artwork": {
+            "x": -0.046875,
+            "y": -763.8125,
+            "width": 1440.09375,
+            "height": 590,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 474,
+            "y": -148.8125,
+            "width": 756,
+            "height": 97.578125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 1254,
+            "y": -126.03125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 1316,
+            "y": -126.03125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 72,
+            "y": 87.5625,
+            "width": 663,
+            "height": 139.9375,
+            "font": "61.92px"
+          },
+          ".catalogue-plate": {
+            "x": 72,
+            "y": 271.5,
+            "width": 347.296875,
+            "height": 343.78125,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 476.890625,
+            "y": 271.5,
+            "width": 573.03125,
+            "height": 287.5625,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 1107.515625,
+            "y": 271.5,
+            "width": 260.46875,
+            "height": 132.96875,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 72,
+            "y": 757.28125,
+            "width": 819,
+            "height": 139.9375,
+            "font": "61.92px"
+          },
+          ".contact-link": {
+            "x": 530.65625,
+            "y": 1010.40625,
+            "width": 301,
+            "height": 60.796875,
+            "font": "28px"
+          }
+        }
+      },
+      "contact": {
+        "width": 1440,
+        "documentWidth": 1440,
+        "scroll": 1240,
+        "bodyOverflow": "visible",
+        "fonts": true,
+        "rects": {
+          "header": {
+            "x": 72,
+            "y": -1240,
+            "width": 1296,
+            "height": 102.1875,
+            "font": "16px"
+          },
+          "#collection-title": {
+            "x": 72,
+            "y": -1099.8125,
+            "width": 260.046875,
+            "height": 104.125,
+            "font": "46.08px"
+          },
+          ".artwork": {
+            "x": -0.046875,
+            "y": -1137.8125,
+            "width": 1440.09375,
+            "height": 590,
+            "font": "16px"
+          },
+          ".caption-text": {
+            "x": 474,
+            "y": -522.8125,
+            "width": 756,
+            "height": 97.578125,
+            "font": "16px"
+          },
+          "#previous": {
+            "x": 1254,
+            "y": -500.03125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#next": {
+            "x": 1316,
+            "y": -500.03125,
+            "width": 52,
+            "height": 52,
+            "font": "16px"
+          },
+          "#about-title": {
+            "x": 72,
+            "y": -286.4375,
+            "width": 663,
+            "height": 139.9375,
+            "font": "61.92px"
+          },
+          ".catalogue-plate": {
+            "x": 72,
+            "y": -102.5,
+            "width": 347.296875,
+            "height": 343.78125,
+            "font": "16px"
+          },
+          ".about-body": {
+            "x": 476.890625,
+            "y": -102.5,
+            "width": 573.03125,
+            "height": 287.5625,
+            "font": "16px"
+          },
+          ".working": {
+            "x": 1107.515625,
+            "y": -102.5,
+            "width": 260.46875,
+            "height": 132.96875,
+            "font": "16px"
+          },
+          "#contact-title": {
+            "x": 72,
+            "y": 383.28125,
+            "width": 819,
+            "height": 139.9375,
+            "font": "61.92px"
+          },
+          ".contact-link": {
+            "x": 530.65625,
+            "y": 636.40625,
+            "width": 301,
+            "height": 60.796875,
+            "font": "28px"
+          }
+        }
+      },
+      "touch": "next, previous, About, Contact"
+    }
+  ],
+  "errors": [],
+  "checks": {
+    "keyboard": {
+      "focus": [
+        {
+          "id": "",
+          "text": "Skip to collection",
+          "outline": "solid"
+        },
+        {
+          "id": "",
+          "text": "Victor MendivilSoftware developer & curious maker",
+          "outline": "solid"
+        },
+        {
+          "id": "",
+          "text": "A little about me",
+          "outline": "solid"
+        },
+        {
+          "id": "",
+          "text": "Let’s talk",
+          "outline": "solid"
+        },
+        {
+          "id": "previous",
+          "text": "",
+          "outline": "solid"
+        },
+        {
+          "id": "next",
+          "text": "",
+          "outline": "solid"
+        }
+      ],
+      "enter": true,
+      "space": true,
+      "escape": "nonmodal; no state change"
+    },
+    "keyboardContact": true,
+    "reducedMotion": {
+      "staticByDesign": true,
+      "perceptibleSceneChange": "2",
+      "scroll": "auto"
+    },
+    "contextLossFallback": true
+  }
+}

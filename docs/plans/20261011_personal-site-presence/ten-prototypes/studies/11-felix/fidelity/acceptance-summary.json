@@ -1,0 +1,107 @@
+{
+  "phase": "repair-confirmation",
+  "normalPaths": 6,
+  "variants": 3,
+  "stateTransitions": 84,
+  "keyboardTouchReversal": true,
+  "overflowErrorsBrokenImages": 0,
+  "hiddenRestoreVerified": true,
+  "activity": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": [
+        {
+          "state": "paused",
+          "time": 15582.847000092976
+        }
+      ]
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": [
+        {
+          "state": "paused",
+          "time": 61781.05000024839
+        }
+      ]
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": [
+        {
+          "state": "paused",
+          "time": 14299.482999969214
+        }
+      ]
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": [
+        {
+          "state": "paused",
+          "time": 13849.43600000702
+        }
+      ]
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": [
+        {
+          "state": "paused",
+          "time": 15116.07899993582
+        }
+      ]
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": [
+        {
+          "state": "paused",
+          "time": 114712.26500020968
+        }
+      ]
+    }
+  ]
+}

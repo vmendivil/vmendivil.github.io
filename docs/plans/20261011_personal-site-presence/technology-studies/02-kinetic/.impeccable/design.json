@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-11T19:41:51+00:00",
+  "title": "Design System: Kinetic coordination",
+  "extensions": {
+    "layout": {"poster": "flex column; min-height: max(900px,100svh); controls in document flow", "controlSeparation": "margin-top: auto; padding-top: 32px", "phone": "min-height: max(780px,100svh); 22px insets"},
+    "typographyMeta": {"display": {"fontSize": "clamp(100px, 11.4vw, 195px)", "displayName": "Variable poster lettering", "purpose": "Meaningful near-full-screen words; user-pinned scale exceeds ordinary display floor."}},
+    "shadows": [],
+    "motion": [{"name": "scrubbed-composition", "value": "shift = (100 - value) / 100", "purpose": "One direct input changes word offset, rotation and software width; no automatic motion."}, {"name": "reduced-motion", "value": "--shift: 0 !important; transform: none !important; native controls disabled", "purpose": "Still composition / Movement off / Movement disabled: no changing alignment announcement; controls skip Tab and react to live preference changes."}],
+    "breakpoints": [{"name": "phone", "value": "600px"}, {"name": "intermediate", "value": "1000px"}, {"name": "wide", "value": "1600px"}]
+  },
+  "components": [
+    {"name": "Typographic action", "kind": "button", "refersTo": "type-action", "description": "Unboxed underline action for aligning the words.", "html": "<button class=\"ds-action\">Align the words</button>", "css": ".ds-action{background:transparent;color:var(--peach,#ffe4d1);font:600 18px Manrope,sans-serif;border:0;border-bottom:2px solid var(--coral,#ff8b86);border-radius:0;min-height:48px;padding:8px 12px;cursor:pointer}.ds-action:hover{color:var(--coral,#ff8b86)}.ds-action:active{color:var(--lilac,#c5abff)}.ds-action:focus-visible{outline:3px solid var(--peach,#ffe4d1);outline-offset:6px}"},
+    {"name": "Composition scrubber", "kind": "input", "description": "Native keyboard-safe range, 0 to 100.", "html": "<label class=\"ds-range-label\">Bring it into sync <input class=\"ds-range\" type=\"range\" min=\"0\" max=\"100\" value=\"65\"></label>", "css": ".ds-range-label{font:600 16px Manrope,sans-serif;color:var(--peach,#ffe4d1)}.ds-range{display:block;width:100%;min-height:44px;accent-color:var(--coral,#ff8b86);cursor:ew-resize}.ds-range:hover{accent-color:var(--peach,#ffe4d1)}.ds-range:focus-visible{outline:3px solid var(--peach,#ffe4d1);outline-offset:6px}"}
+  ],
+  "narrative": {
+    "northStar": "The phase-alignment type specimen",
+    "overview": "The words are the material: a drenched two-tone violet field gives readable technological ideas almost architectural scale. One controlled typographic movement makes coordination tangible without a tool console, diagram or invented work sample.",
+    "keyCharacteristics": ["Asymmetric letterforms, not boxes.", "Literal software, process and people language.", "A single user-controlled kinetic moment."],
+    "rules": [{"name": "The Readable Motion Rule", "body": "Every word remains complete at both scrubber extremes; the slider changes composition, never the factual words.", "section": "typography"}],
+    "dos": ["Do let meaningful words own the surface.", "Do retain legibility at every input value.", "Do keep factual scope separate from commercial proof."],
+    "donts": ["Don't add portrait, cards, diagram or console chrome to this study.", "Don't carry this composition into sibling concepts as a template."]
+  }
+}

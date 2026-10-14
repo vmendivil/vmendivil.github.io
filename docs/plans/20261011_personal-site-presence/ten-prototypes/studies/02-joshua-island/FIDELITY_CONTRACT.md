@@ -1,0 +1,11 @@
+# Fidelity contract
+
+Source: https://joshuas.world/?ref=landing.love and https://www.landing.love/sites/joshuas-world/. Live original stalled at LOADING with DRAG TO EXPLORE instructions. Archived joshua.png visibly shows an explorable illustrated diorama; archive labels Horizontal Scroll. Gap: visitors only select fixed views. Focal implementation: bounded horizontal shore orbit through pointer drag, touch swipe and keyboard/buttons, plus actual island raycast selection. Existing editorial atlas reading and region camera approaches remain. Mobile swipes preserve vertical scrolling. Reduced motion uses immediate authored viewpoint changes. Three.js retained, 20fps, <=1.7 DPR. No claim of full original live interaction observation or source-level populated character animation.
+
+Preserve all factual copy and LinkedIn. Add complete no-JS reading rather than controls-only fallback. Planned contract precedes runtime edits. Evidence: fidelity/ reference observations and retained original captures (copied for durable private evidence only).
+
+## Implemented outcome
+Visitors can drag the diorama horizontally, swipe with trusted touch, turn through keyboard arrows or use West/East buttons. The bounded orbit changes how the islands overlap and reveals shore depth. Island geometry is raycast-selectable; existing region approaches, atlas margins, next-shore and contact reading remain. Phone shore controls moved into open water after the inspection found title overlap. Offscreen atlas stops rendering.
+
+## Material limits
+The source original stayed on LOADING during live revisit; drag instructions and retained archived imagery informed this interpretation, not a claimed successful live gesture test. No source-level populated character performance, day/night system or horizontal narrative world. Camera travel is frame-based and slows substantially in software rendering (4 desktop / 13 phone renders per second observed). A 2.5-second pause snapshot had four remaining approach frames; longer diagnostic reached zero. A 390px offscreen probe left a 15px scenic strip visible and therefore continued rendering; a truly offscreen 320px probe showed zero delta. Hidden-tab behavior could not be certified because the headless browser kept document.hidden false.

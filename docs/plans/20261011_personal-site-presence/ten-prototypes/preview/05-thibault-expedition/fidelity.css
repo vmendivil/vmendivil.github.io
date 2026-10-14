@@ -1,0 +1,6 @@
+/* The arrival invitation belongs to the expedition, not the journal. */
+.arrival{pointer-events:none;position:absolute;bottom:106px;left:40px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;max-width:440px;color:#fff9eb}.arrival[hidden]{display:none}.arrival span{width:100%;font-size:16px}.arrival button{pointer-events:auto;min-height:44px;font-size:14px;padding:10px 15px;background:#fff9eb;color:#18367b}.arrival button:disabled{background:#a8c4df;cursor:default}.reading .arrival{visibility:hidden}.landmark[aria-pressed=true]{background:#fff9eb;color:#18367b;border-color:#fff9eb}
+@media(max-width:650px){.arrival{left:20px;right:20px;bottom:136px;max-width:none;gap:8px}.arrival span{font-size:14px}.arrival button{font-size:13px}}
+@media(max-height:500px) and (min-width:651px){.arrival{left:24px;bottom:92px;max-width:310px}.arrival span{font-size:14px}}
+
+.landmark[aria-pressed=true] small{color:#365791}

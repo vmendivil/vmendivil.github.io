@@ -1,0 +1,27 @@
+## User follow-up — prior residual repaired
+The phone invitation now has its own right-aligned intrinsic hit area and a palette-native light backing. It no longer covers the petal landing strip or steals water input in that blank area. The caption foreground/background contrast is10.90:1; 320/390/430 portrait and844 landscape checks pass. The petal remains naturally small; source-level optical approval is separate.
+Executed `LP_NUM_THREADS=2 node verify-followup.cjs`: **21/21** focused browser assertions, no page errors. Current normal recordings/captures and raw results are under `fidelity-evidence/user-followup/`. Previous failures/overlap screenshots below remain historical and are superseded for these exact cases, not erased. Shared preview assembly and served-version/LAN verification remain outside this worker's write boundary. Existing detector output remains historical; no detector rerun.
+
+# Quiet Current / Experience
+## Direction contract
+THESIS: A personal visit beside reflective water. Refuse game navigation, robotic technical diagrams and repeated card layouts.
+OWN-WORLD: Original world-space branching trees, curved petal and leaf meshes, gravel shoreline, warm directional light and deep-teal reflected foliage. Bellefair display lettering and Karla readable voice. Receding links and generous irregular reading rhythm.
+STORY: Enter a quiet garden, meet Victor on the bank, read the concrete way he works, discover personal technical interests, then reach a direct professional conversation.
+FIRST VIEWPORT: Full-bleed luminous landscape with fine foliage around a right-hand tree, left open water, wide reflective foreground, a modest upper-left name and large lower-left welcome. Three native navigation links at top. Scroll invitation and ambient pause remain visible.
+FORM: User-pinned Ameen scenic browsing direction; seed exemption user-pinned. Code-led original native WebGL world. Curved tapered bark tubes, instanced folded botanical surfaces, eroded mesh bank, textured stone and gravel, shadow maps, mirrored-camera reflection and depth-tinted rippling water. No WebGPU requirement. Reference describes rendered depth and luminosity, not asset permission.
+FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance
+## Review scope
+Own browser/evidence verification; fresh comparative finish review delegated to parent. No subagent spawning tools available in this worker. No shipping raster images; runtime bark and gravel CanvasTextures are deterministically authored. Scenic rebuild supersedes the Canvas2D implementation and its old evidence. The scene is now user-accepted and must not be rebuilt. The current review is parent-owned comparative content/mobile review, not a renewed fidelity ceiling. Avoid sibling gallery, diorama rooms, future-tech cinema and explorable islands.
+
+## Accepted-garden content/mobile refinement
+The visitor reads a continuous bank-side essay: broad introduction with a small leaf marginal note, winding practice prose with inline Bellefair lead-ins beside an original stem, indented interest definitions and an open sage closing. No paragraph cards, repeated article separators, modal, or fake form. Existing factual copy and LinkedIn route are retained. The accepted WebGL renderer is untouched.
+Portrait keeps the name/navigation, large welcome, garden below, and reachable bottom controls. Shallow landscape uses an explicit compact wide composition instead of a 720px hero. Phone copy remains 18px (disclosures at least 16px), native hit areas at least 44px, safe-area-aware padding, 30px anchors and unclipped final CTA/footer. Chromium emulation is not physical Safari certification. See content-results.json and content-mobile-fixes.md.
+
+
+## Current all-21 fidelity pass — Water response
+The accepted grove and continuous botanical essay remain. Folded foliage now bends in a soft shader breeze, original curved petal meshes descend and float, and landing rings distort the real mirrored reflection. Let a petal drift is a quiet native button; a low-water-area tap provides the same gesture. Near-bank camera movement follows only the first small scroll interval; ordinary reading remains dominant. Pause freezes the environment, reduced motion gives an actual landed petal and still ripple accent, and offscreen/hidden/paused states cancel the RAF chain. ~12fps budget, capped reflection target, DPR1.5, cached1024px shadows. Dynamic foliage shadow silhouettes remain cached (documented tradeoff); source-level cinematic optics not claimed.
+This supersedes earlier motion/renderer constraints in this document, not its accepted art direction or factual reading grammar. Verification/evidence is tracked in FIDELITY_REPORT.md and fidelity-evidence/. Earlier detector and results remain historical.
+
+
+### Named repair closure
+The phone petal button ray-projects a landing into visible foreground water instead of using an off-frame desktop coordinate. Desktop landing is deliberately between existing lotus pads, not inside a flower. The single drifting petal uses the grove’s existing muted-rose pigment. Rings use a defined smoothstep envelope; stronger local reflection disturbance remains bounded and decays. No-JS hides the dormant ambient/petal controls, while the complete botanical essay/contact stays visible.

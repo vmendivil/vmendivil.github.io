@@ -1,0 +1,20 @@
+{
+  "runtime": {
+    "index.html": "6fd7b81ec92562f7a59d182abe730250105b8431bca072fe015dab971b8748ec",
+    "style.css": "3d5da2649c708d81165905a267449f6203279789596b032fba08e85bcbf77c5e",
+    "main.js": "a2d428ee815bea78990cf0b5fe12ce025c3fbca679a0ea4ccd0b26e105571d3a",
+    "experience.css": "4a91958144d344dbe52b19e316be968332445a69506c22021e8376c5108d5667",
+    "room-camera.js": "0a4fa8fba3f743366e8dc2493e0fd6f7aeda50e622908e14c3266acd05aab812"
+  },
+  "referenceEvidence": {
+    "source-observations.json": "de7f4f51e94550041acf1ac3ccec22119039ce50411b4b7b405592853ecf3bc4",
+    "source-live.png": "b70b5b3aed7c4f0981ea1998aab0809d67d0ba998e79b6dc312340447643ac43",
+    "source-gallery.png": "34a37e4d58f98821159feb37363538e2a080a845599549335cdd9cedc13433a7"
+  },
+  "verification": {
+    "legacyContexts": 6,
+    "focalContexts": 6,
+    "focalFallbackContexts": 8,
+    "normalPageErrors": 0
+  }
+}

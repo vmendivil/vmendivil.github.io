@@ -1,0 +1,1019 @@
+{
+  "base": "http://192.168.30.25:8788/",
+  "engine": "Chromium / software WebGL / trusted emulated touch; not physical-device or second-device network certification",
+  "checks": [
+    {
+      "name": "exactly three selected destinations",
+      "pass": true
+    },
+    {
+      "name": "4-1440 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "4-1440 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "4-1440 normal physical cue",
+      "pass": true
+    },
+    {
+      "name": "4-1440 printed chapter 0",
+      "pass": true
+    },
+    {
+      "name": "4-1440 printed chapter 1",
+      "pass": true
+    },
+    {
+      "name": "4-1440 printed chapter 2",
+      "pass": true
+    },
+    {
+      "name": "4-1440 printed chapter 3",
+      "pass": true
+    },
+    {
+      "name": "4-1440 contact",
+      "pass": true
+    },
+    {
+      "name": "4-1440 return stage",
+      "pass": true
+    },
+    {
+      "name": "4-1440 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "4-1440 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "4-1440 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 1308,
+        "top": 844,
+        "right": 1428,
+        "bottom": 888,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "4-1440 native source popup",
+      "pass": true
+    },
+    {
+      "name": "4-1440 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "doc": 1440,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "4-320 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "4-320 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "4-320 normal physical cue",
+      "pass": true
+    },
+    {
+      "name": "4-320 printed chapter 0",
+      "pass": true
+    },
+    {
+      "name": "4-320 printed chapter 1",
+      "pass": true
+    },
+    {
+      "name": "4-320 printed chapter 2",
+      "pass": true
+    },
+    {
+      "name": "4-320 printed chapter 3",
+      "pass": true
+    },
+    {
+      "name": "4-320 contact",
+      "pass": true
+    },
+    {
+      "name": "4-320 return stage",
+      "pass": true
+    },
+    {
+      "name": "4-320 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "4-320 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "4-320 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 188,
+        "top": 516,
+        "right": 308,
+        "bottom": 560,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "4-320 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 320,
+        "doc": 320,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "4-390 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "4-390 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "4-390 normal physical cue",
+      "pass": true
+    },
+    {
+      "name": "4-390 printed chapter 0",
+      "pass": true
+    },
+    {
+      "name": "4-390 printed chapter 1",
+      "pass": true
+    },
+    {
+      "name": "4-390 printed chapter 2",
+      "pass": true
+    },
+    {
+      "name": "4-390 printed chapter 3",
+      "pass": true
+    },
+    {
+      "name": "4-390 contact",
+      "pass": true
+    },
+    {
+      "name": "4-390 return stage",
+      "pass": true
+    },
+    {
+      "name": "4-390 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "4-390 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "4-390 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 258,
+        "top": 788,
+        "right": 378,
+        "bottom": 832,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "4-390 native source popup",
+      "pass": true
+    },
+    {
+      "name": "4-390 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "doc": 390,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "4-430 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "4-430 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "4-430 normal physical cue",
+      "pass": true
+    },
+    {
+      "name": "4-430 printed chapter 0",
+      "pass": true
+    },
+    {
+      "name": "4-430 printed chapter 1",
+      "pass": true
+    },
+    {
+      "name": "4-430 printed chapter 2",
+      "pass": true
+    },
+    {
+      "name": "4-430 printed chapter 3",
+      "pass": true
+    },
+    {
+      "name": "4-430 contact",
+      "pass": true
+    },
+    {
+      "name": "4-430 return stage",
+      "pass": true
+    },
+    {
+      "name": "4-430 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "4-430 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "4-430 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 298,
+        "top": 764,
+        "right": 418,
+        "bottom": 808,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "4-430 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 430,
+        "doc": 430,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "4-844 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "4-844 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "4-844 normal physical cue",
+      "pass": true
+    },
+    {
+      "name": "4-844 printed chapter 0",
+      "pass": true
+    },
+    {
+      "name": "4-844 printed chapter 1",
+      "pass": true
+    },
+    {
+      "name": "4-844 printed chapter 2",
+      "pass": true
+    },
+    {
+      "name": "4-844 printed chapter 3",
+      "pass": true
+    },
+    {
+      "name": "4-844 contact",
+      "pass": true
+    },
+    {
+      "name": "4-844 return stage",
+      "pass": true
+    },
+    {
+      "name": "4-844 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "4-844 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "4-844 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 712,
+        "top": 334,
+        "right": 832,
+        "bottom": 378,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "4-844 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "doc": 844,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "4-768 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "4-768 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "4-768 normal physical cue",
+      "pass": true
+    },
+    {
+      "name": "4-768 printed chapter 0",
+      "pass": true
+    },
+    {
+      "name": "4-768 printed chapter 1",
+      "pass": true
+    },
+    {
+      "name": "4-768 printed chapter 2",
+      "pass": true
+    },
+    {
+      "name": "4-768 printed chapter 3",
+      "pass": true
+    },
+    {
+      "name": "4-768 contact",
+      "pass": true
+    },
+    {
+      "name": "4-768 return stage",
+      "pass": true
+    },
+    {
+      "name": "4-768 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "4-768 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "4-768 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 636,
+        "top": 968,
+        "right": 756,
+        "bottom": 1012,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "4-768 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 768,
+        "doc": 768,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "5-1440 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "5-1440 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "5-1440 trusted landmark hit erp",
+      "pass": true
+    },
+    {
+      "name": "5-1440 trusted landmark hit ai",
+      "pass": true
+    },
+    {
+      "name": "5-1440 corrected interrupted route",
+      "pass": true
+    },
+    {
+      "name": "5-1440 journal about",
+      "pass": true
+    },
+    {
+      "name": "5-1440 journal erp",
+      "pass": true
+    },
+    {
+      "name": "5-1440 journal lab",
+      "pass": true
+    },
+    {
+      "name": "5-1440 journal ai",
+      "pass": true
+    },
+    {
+      "name": "5-1440 journal contact",
+      "pass": true
+    },
+    {
+      "name": "5-1440 contact",
+      "pass": true
+    },
+    {
+      "name": "5-1440 Escape return",
+      "pass": true
+    },
+    {
+      "name": "5-1440 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "5-1440 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "5-1440 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 660,
+        "top": 12,
+        "right": 780,
+        "bottom": 56,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "5-1440 native source popup",
+      "pass": true
+    },
+    {
+      "name": "5-1440 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "doc": 1440,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "5-320 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "5-320 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "5-320 trusted landmark hit erp",
+      "pass": true
+    },
+    {
+      "name": "5-320 trusted landmark hit ai",
+      "pass": true
+    },
+    {
+      "name": "5-320 corrected interrupted route",
+      "pass": true
+    },
+    {
+      "name": "5-320 journal about",
+      "pass": true
+    },
+    {
+      "name": "5-320 journal erp",
+      "pass": true
+    },
+    {
+      "name": "5-320 journal lab",
+      "pass": true
+    },
+    {
+      "name": "5-320 journal ai",
+      "pass": true
+    },
+    {
+      "name": "5-320 journal contact",
+      "pass": true
+    },
+    {
+      "name": "5-320 contact",
+      "pass": true
+    },
+    {
+      "name": "5-320 Escape return",
+      "pass": true
+    },
+    {
+      "name": "5-320 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "5-320 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "5-320 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 188,
+        "top": 404,
+        "right": 308,
+        "bottom": 448,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "5-320 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 320,
+        "doc": 320,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "5-390 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "5-390 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "5-390 trusted landmark hit erp",
+      "pass": true
+    },
+    {
+      "name": "5-390 trusted landmark hit ai",
+      "pass": true
+    },
+    {
+      "name": "5-390 corrected interrupted route",
+      "pass": true
+    },
+    {
+      "name": "5-390 journal about",
+      "pass": true
+    },
+    {
+      "name": "5-390 journal erp",
+      "pass": true
+    },
+    {
+      "name": "5-390 journal lab",
+      "pass": true
+    },
+    {
+      "name": "5-390 journal ai",
+      "pass": true
+    },
+    {
+      "name": "5-390 journal contact",
+      "pass": true
+    },
+    {
+      "name": "5-390 contact",
+      "pass": true
+    },
+    {
+      "name": "5-390 Escape return",
+      "pass": true
+    },
+    {
+      "name": "5-390 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "5-390 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "5-390 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 258,
+        "top": 788,
+        "right": 378,
+        "bottom": 832,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "5-390 native source popup",
+      "pass": true
+    },
+    {
+      "name": "5-390 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "doc": 390,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "5-430 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "5-430 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "5-430 trusted landmark hit erp",
+      "pass": true
+    },
+    {
+      "name": "5-430 trusted landmark hit ai",
+      "pass": true
+    },
+    {
+      "name": "5-430 corrected interrupted route",
+      "pass": true
+    },
+    {
+      "name": "5-430 journal about",
+      "pass": true
+    },
+    {
+      "name": "5-430 journal erp",
+      "pass": true
+    },
+    {
+      "name": "5-430 journal lab",
+      "pass": true
+    },
+    {
+      "name": "5-430 journal ai",
+      "pass": true
+    },
+    {
+      "name": "5-430 journal contact",
+      "pass": true
+    },
+    {
+      "name": "5-430 contact",
+      "pass": true
+    },
+    {
+      "name": "5-430 Escape return",
+      "pass": true
+    },
+    {
+      "name": "5-430 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "5-430 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "5-430 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 298,
+        "top": 876,
+        "right": 418,
+        "bottom": 920,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "5-430 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 430,
+        "doc": 430,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "5-844 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "5-844 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "5-844 trusted landmark hit erp",
+      "pass": true
+    },
+    {
+      "name": "5-844 trusted landmark hit ai",
+      "pass": true
+    },
+    {
+      "name": "5-844 corrected interrupted route",
+      "pass": true
+    },
+    {
+      "name": "5-844 journal about",
+      "pass": true
+    },
+    {
+      "name": "5-844 journal erp",
+      "pass": true
+    },
+    {
+      "name": "5-844 journal lab",
+      "pass": true
+    },
+    {
+      "name": "5-844 journal ai",
+      "pass": true
+    },
+    {
+      "name": "5-844 journal contact",
+      "pass": true
+    },
+    {
+      "name": "5-844 contact",
+      "pass": true
+    },
+    {
+      "name": "5-844 Escape return",
+      "pass": true
+    },
+    {
+      "name": "5-844 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "5-844 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "5-844 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 362,
+        "top": 334,
+        "right": 482,
+        "bottom": 378,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "5-844 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "doc": 844,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "5-768 fidelity override delivered",
+      "pass": true
+    },
+    {
+      "name": "5-768 actual Tab focus",
+      "pass": true
+    },
+    {
+      "name": "5-768 trusted landmark hit erp",
+      "pass": true
+    },
+    {
+      "name": "5-768 trusted landmark hit ai",
+      "pass": true
+    },
+    {
+      "name": "5-768 corrected interrupted route",
+      "pass": true
+    },
+    {
+      "name": "5-768 journal about",
+      "pass": true
+    },
+    {
+      "name": "5-768 journal erp",
+      "pass": true
+    },
+    {
+      "name": "5-768 journal lab",
+      "pass": true
+    },
+    {
+      "name": "5-768 journal ai",
+      "pass": true
+    },
+    {
+      "name": "5-768 journal contact",
+      "pass": true
+    },
+    {
+      "name": "5-768 contact",
+      "pass": true
+    },
+    {
+      "name": "5-768 Escape return",
+      "pass": true
+    },
+    {
+      "name": "5-768 literal source preserved",
+      "pass": true
+    },
+    {
+      "name": "5-768 source safe new tab",
+      "pass": true
+    },
+    {
+      "name": "5-768 source visible hit target",
+      "pass": true,
+      "detail": {
+        "left": 636,
+        "top": 856,
+        "right": 756,
+        "bottom": 900,
+        "height": 44,
+        "hit": true,
+        "controlOverlap": "0"
+      }
+    },
+    {
+      "name": "5-768 assets and bounds",
+      "pass": true,
+      "detail": {
+        "width": 768,
+        "doc": 768,
+        "fonts": "loaded",
+        "images": 0
+      }
+    },
+    {
+      "name": "6-1440 complete served path",
+      "pass": false,
+      "detail": "page.screenshot: Target page, context or browser has been closed\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n\n    at shot (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/verify_lan_04_06.cjs:3:1469)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/verify_lan_04_06.cjs:3:1542"
+    }
+  ],
+  "states": [
+    {
+      "slug": "04-bilal-theater",
+      "width": 1440,
+      "height": 900,
+      "completed": true
+    },
+    {
+      "slug": "04-bilal-theater",
+      "width": 320,
+      "height": 740,
+      "completed": true
+    },
+    {
+      "slug": "04-bilal-theater",
+      "width": 390,
+      "height": 844,
+      "completed": true
+    },
+    {
+      "slug": "04-bilal-theater",
+      "width": 430,
+      "height": 932,
+      "completed": true
+    },
+    {
+      "slug": "04-bilal-theater",
+      "width": 844,
+      "height": 390,
+      "completed": true
+    },
+    {
+      "slug": "04-bilal-theater",
+      "width": 768,
+      "height": 1024,
+      "completed": true
+    },
+    {
+      "slug": "05-thibault-expedition",
+      "width": 1440,
+      "height": 900,
+      "completed": true
+    },
+    {
+      "slug": "05-thibault-expedition",
+      "width": 320,
+      "height": 740,
+      "completed": true
+    },
+    {
+      "slug": "05-thibault-expedition",
+      "width": 390,
+      "height": 844,
+      "completed": true
+    },
+    {
+      "slug": "05-thibault-expedition",
+      "width": 430,
+      "height": 932,
+      "completed": true
+    },
+    {
+      "slug": "05-thibault-expedition",
+      "width": 844,
+      "height": 390,
+      "completed": true
+    },
+    {
+      "slug": "05-thibault-expedition",
+      "width": 768,
+      "height": 1024,
+      "completed": true
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "captures": [
+    "4-1440-overview.png",
+    "4-1440-contact.png",
+    "4-320-overview.png",
+    "4-320-contact.png",
+    "4-390-overview.png",
+    "4-390-contact.png",
+    "4-430-overview.png",
+    "4-430-contact.png",
+    "4-844-overview.png",
+    "4-844-contact.png",
+    "4-768-overview.png",
+    "4-768-contact.png",
+    "5-1440-overview.png",
+    "5-1440-contact.png",
+    "5-320-overview.png",
+    "5-320-contact.png",
+    "5-390-overview.png",
+    "5-390-contact.png",
+    "5-430-overview.png",
+    "5-430-contact.png",
+    "5-844-overview.png",
+    "5-844-contact.png",
+    "5-768-overview.png",
+    "5-768-contact.png"
+  ],
+  "fatal": "browserContext.close: Target page, context or browser has been closed\n    at async /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/verify_lan_04_06.cjs:7:439",
+  "total": 180,
+  "passed": 179,
+  "failed": [
+    {
+      "name": "6-1440 complete served path",
+      "pass": false,
+      "detail": "page.screenshot: Target page, context or browser has been closed\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n\n    at shot (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/verify_lan_04_06.cjs:3:1469)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/verify_lan_04_06.cjs:3:1542"
+    }
+  ]
+}

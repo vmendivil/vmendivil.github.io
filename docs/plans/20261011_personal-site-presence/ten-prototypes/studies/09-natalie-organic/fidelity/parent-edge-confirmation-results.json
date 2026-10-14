@@ -1,0 +1,66 @@
+{
+  "engine": "Chromium SwiftShader; real keyboard and trusted CDP touch; context-loss and partial-renderer injection",
+  "checks": [
+    {
+      "name": "1440 interrupted flight removed",
+      "pass": true
+    },
+    {
+      "name": "1440 interrupted return focus",
+      "pass": true
+    },
+    {
+      "name": "1440 Tab reaches contact",
+      "pass": true
+    },
+    {
+      "name": "1440 native contact activation",
+      "pass": true
+    },
+    {
+      "name": "390 interrupted flight removed",
+      "pass": true
+    },
+    {
+      "name": "390 interrupted return focus",
+      "pass": true
+    },
+    {
+      "name": "trusted touch swipe scroll",
+      "pass": true
+    },
+    {
+      "name": "390 Tab reaches contact",
+      "pass": true
+    },
+    {
+      "name": "390 native contact activation",
+      "pass": true
+    },
+    {
+      "name": "844 interrupted flight removed",
+      "pass": true
+    },
+    {
+      "name": "844 interrupted return focus",
+      "pass": true
+    },
+    {
+      "name": "844 Tab reaches contact",
+      "pass": true
+    },
+    {
+      "name": "844 native contact activation",
+      "pass": true
+    },
+    {
+      "name": "partial failure paging disables perspective",
+      "pass": true
+    },
+    {
+      "name": "successful artwork paging restores perspective",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

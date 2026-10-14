@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-11T19:40:42.280029+00:00",
+  "title": "Design System: Computation \u2014 Victor Mendivil",
+  "extensions": {
+    "colorMeta": {
+      "forest": {
+        "role": "neutral",
+        "displayName": "Forest",
+        "tonalRamp": [
+          "hsl(140.00 25.00% 15%)",
+          "hsl(140.00 25.00% 26%)",
+          "hsl(140.00 25.00% 37%)",
+          "hsl(140.00 25.00% 49%)",
+          "hsl(140.00 25.00% 60%)",
+          "hsl(140.00 25.00% 72%)",
+          "hsl(140.00 25.00% 83%)",
+          "hsl(140.00 25.00% 95%)"
+        ]
+      },
+      "moss": {
+        "role": "neutral",
+        "displayName": "Moss",
+        "tonalRamp": [
+          "hsl(113.33 21.60% 15%)",
+          "hsl(113.33 21.60% 26%)",
+          "hsl(113.33 21.60% 37%)",
+          "hsl(113.33 21.60% 49%)",
+          "hsl(113.33 21.60% 60%)",
+          "hsl(113.33 21.60% 72%)",
+          "hsl(113.33 21.60% 83%)",
+          "hsl(113.33 21.60% 95%)"
+        ]
+      },
+      "sulfur": {
+        "role": "primary",
+        "displayName": "Sulfur",
+        "tonalRamp": [
+          "hsl(61.96 65.71% 15%)",
+          "hsl(61.96 65.71% 26%)",
+          "hsl(61.96 65.71% 37%)",
+          "hsl(61.96 65.71% 49%)",
+          "hsl(61.96 65.71% 60%)",
+          "hsl(61.96 65.71% 72%)",
+          "hsl(61.96 65.71% 83%)",
+          "hsl(61.96 65.71% 95%)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "hsl(66.00 43.48% 15%)",
+          "hsl(66.00 43.48% 26%)",
+          "hsl(66.00 43.48% 37%)",
+          "hsl(66.00 43.48% 49%)",
+          "hsl(66.00 43.48% 60%)",
+          "hsl(66.00 43.48% 72%)",
+          "hsl(66.00 43.48% 83%)",
+          "hsl(66.00 43.48% 95%)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "hsl(90.00 22.22% 15%)",
+          "hsl(90.00 22.22% 26%)",
+          "hsl(90.00 22.22% 37%)",
+          "hsl(90.00 22.22% 49%)",
+          "hsl(90.00 22.22% 60%)",
+          "hsl(90.00 22.22% 72%)",
+          "hsl(90.00 22.22% 83%)",
+          "hsl(90.00 22.22% 95%)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "hsl(95.12 16.21% 15%)",
+          "hsl(95.12 16.21% 26%)",
+          "hsl(95.12 16.21% 37%)",
+          "hsl(95.12 16.21% 49%)",
+          "hsl(95.12 16.21% 60%)",
+          "hsl(95.12 16.21% 72%)",
+          "hsl(95.12 16.21% 83%)",
+          "hsl(95.12 16.21% 95%)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Manrope statement",
+        "purpose": "Functional first-screen thesis"
+      },
+      "data": {
+        "displayName": "Tuple identifiers",
+        "purpose": "Actual synthetic data only"
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "transit",
+        "value": "650ms linear infinite",
+        "purpose": "Moving route dashes only during processing; disabled under reduced motion"
+      },
+      {
+        "name": "run-duration",
+        "value": "1250ms",
+        "purpose": "Normal-mode illustrative processing sequence"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact",
+        "value": "700px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Run transformation",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Runs or replays the local synthetic transformation.",
+      "html": "<button class=\"ds-run\">Run the transformation</button>",
+      "css": ".ds-run{background:var(--sulfur);color:var(--forest);font:600 16px Manrope,sans-serif;border:0;border-radius:0;padding:14px 18px;cursor:pointer}.ds-run:hover{background:var(--ink)}.ds-run:focus-visible{outline:3px solid var(--ink);outline-offset:6px}.ds-run:disabled{background:var(--muted);cursor:wait}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Information finds its next step.",
+    "overview": "Transit-map topology carries labeled synthetic records through normalization and approval routing. Broad forest and moss fields replace detached cards.",
+    "keyCharacteristics": [
+      "Broad colored ground, no detached cards.",
+      "Humanist functional lettering, measured tuples.",
+      "One action and one shared processing clock."
+    ],
+    "rules": [
+      {
+        "name": "The Field Rule",
+        "body": "Color occupies whole regions; it is not a theme sprinkled on neutral cards.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do label synthetic examples explicitly.",
+      "Do keep textual state beside moving paths.",
+      "Do reserve monospace for actual data and notation."
+    ],
+    "donts": [
+      "Don\u2019t add terminal chrome, glow, portraits or proof claims.",
+      "Don\u2019t treat independent authorship or behavior checks as comparative aesthetic approval."
+    ]
+  }
+}

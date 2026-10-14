@@ -1,0 +1,74 @@
+{
+  "engine": "Chromium SwiftShader emulation",
+  "mechanism": "actual CDP Page.setWebLifecycleState frozen -> active and Page.bringToFront; visibility events retained, not synthetic DOM events",
+  "before": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 2933.193999957651
+      },
+      {
+        "state": "running",
+        "time": 2933.193999957651
+      }
+    ]
+  },
+  "after": {
+    "state": {
+      "selected": "about",
+      "reading": false,
+      "signalCount": 0,
+      "paused": false,
+      "roomVisible": true,
+      "hidden": false,
+      "animations": [
+        {
+          "state": "running",
+          "time": 3633.165999957651
+        },
+        {
+          "state": "running",
+          "time": 3633.165999957651
+        }
+      ]
+    },
+    "events": [],
+    "visibility": "visible"
+  },
+  "resumed": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 4349.849999957651
+      },
+      {
+        "state": "running",
+        "time": 4349.849999957651
+      }
+    ]
+  },
+  "reduced": {
+    "matches": true,
+    "changed": {
+      "selected": "curiosity",
+      "reading": false,
+      "signalCount": 1,
+      "paused": false,
+      "roomVisible": true,
+      "hidden": false,
+      "animations": []
+    }
+  }
+}

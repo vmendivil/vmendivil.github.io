@@ -1,0 +1,54 @@
+{
+  "number": 3,
+  "checks": 112,
+  "failed": [
+    {
+      "name": "1440 about selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 lab selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 approach selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 contact selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 about selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 lab selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 approach selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 contact selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 about selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 lab selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 approach selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 contact selected semantics cleared",
+      "pass": false
+    }
+  ]
+}

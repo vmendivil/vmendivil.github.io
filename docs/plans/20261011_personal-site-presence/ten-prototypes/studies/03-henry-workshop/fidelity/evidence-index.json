@@ -1,0 +1,47 @@
+{
+  "root": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/03-henry-workshop/fidelity",
+  "viewports": [
+    [
+      1440,
+      900
+    ],
+    [
+      320,
+      740
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      430,
+      932
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      768,
+      1024
+    ]
+  ],
+  "runtimeHashes": {
+    "index.html": "5360b46befea2d7f1fe413707dbb72706b99465d1fb888f452e75f920a12fc7b",
+    "style.css": "0dac550d8458a35a94859f8511849b495adef9ebe2a21ab6c0f69eb0e022dd02",
+    "room.js": "1450f885c6f34b5753217a2435c8914d4623d32e68a829b457bff869477e2c93"
+  },
+  "normalMotion": [
+    "1440-motion-sequence.json",
+    "390-motion-sequence.json"
+  ],
+  "rawResults": [
+    "results.json",
+    "performance-confirmation.json",
+    "keyboard-confirmation.json",
+    "detector-raw.json"
+  ],
+  "limits": "Not a functional retro OS/browser or source-grade photorealistic texture reconstruction. Paper movement is a rigid page, not simulated paper deformation. Rendering measured 4 desktop / 8 phone renders per second under concurrent software emulation; this does not certify hardware smoothness. Pause snapshot had one remaining return frame; settled diagnostic showed zero. Existing bottom correspondence edge triggers a thick-border detector warning despite square contact corners, documented as inherited material design. Headless hidden-tab behavior was not certified.",
+  "referenceCaptureSHA256": "21ea488d4d363826f964975bfb13847b50c63027d9d01266ddb7526ec14968e5",
+  "hashVerification": "All current runtime SHA256 values read back and matched results.json after implementation; six-size destination coverage aggregated programmatically."
+}

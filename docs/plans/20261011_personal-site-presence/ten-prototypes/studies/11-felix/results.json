@@ -1,0 +1,495 @@
+{
+  "session": "build11",
+  "url": "http://127.0.0.1:9111/",
+  "round": "final",
+  "engine": "Chromium via existing Playwright",
+  "reports": [
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740,
+        "name": "narrow"
+      },
+      "practiceReading": {
+        "overflow": false,
+        "bodySize": 18,
+        "buttons": [
+          {
+            "width": 59.59375,
+            "height": 44
+          },
+          {
+            "width": 71.796875,
+            "height": 44
+          },
+          {
+            "width": 79.03125,
+            "height": 44
+          },
+          {
+            "width": 64.578125,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 17,
+        "heading": "From a request to working software.",
+        "channel": "practice",
+        "screen": [
+          "practice"
+        ]
+      },
+      "contact": {
+        "overflow": false,
+        "bodySize": 18,
+        "buttons": [
+          {
+            "width": 59.59375,
+            "height": 44
+          },
+          {
+            "width": 71.796875,
+            "height": 44
+          },
+          {
+            "width": 79.03125,
+            "height": 44
+          },
+          {
+            "width": 64.578125,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 17,
+        "heading": "A small, clear next step.",
+        "channel": "contact",
+        "screen": [
+          "contact"
+        ]
+      },
+      "tabEnterSpace": true,
+      "escapeRestore": true,
+      "explicitClose": true,
+      "allChannelIllustrations": true,
+      "contactReachable": true,
+      "input": "Playwright trusted emulated touch + keyboard"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "name": "mobile"
+      },
+      "practiceReading": {
+        "overflow": false,
+        "bodySize": 18,
+        "buttons": [
+          {
+            "width": 86.25,
+            "height": 44
+          },
+          {
+            "width": 86.25,
+            "height": 44
+          },
+          {
+            "width": 86.25,
+            "height": 44
+          },
+          {
+            "width": 86.25,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 17,
+        "heading": "From a request to working software.",
+        "channel": "practice",
+        "screen": [
+          "practice"
+        ]
+      },
+      "contact": {
+        "overflow": false,
+        "bodySize": 18,
+        "buttons": [
+          {
+            "width": 86.25,
+            "height": 44
+          },
+          {
+            "width": 86.25,
+            "height": 44
+          },
+          {
+            "width": 86.25,
+            "height": 44
+          },
+          {
+            "width": 86.25,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 17,
+        "heading": "A small, clear next step.",
+        "channel": "contact",
+        "screen": [
+          "contact"
+        ]
+      },
+      "tabEnterSpace": true,
+      "escapeRestore": true,
+      "explicitClose": true,
+      "allChannelIllustrations": true,
+      "contactReachable": true,
+      "input": "Playwright trusted emulated touch + keyboard"
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932,
+        "name": "wide-mobile"
+      },
+      "practiceReading": {
+        "overflow": false,
+        "bodySize": 18,
+        "buttons": [
+          {
+            "width": 96.25,
+            "height": 44
+          },
+          {
+            "width": 96.25,
+            "height": 44
+          },
+          {
+            "width": 96.25,
+            "height": 44
+          },
+          {
+            "width": 96.25,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 17,
+        "heading": "From a request to working software.",
+        "channel": "practice",
+        "screen": [
+          "practice"
+        ]
+      },
+      "contact": {
+        "overflow": false,
+        "bodySize": 18,
+        "buttons": [
+          {
+            "width": 96.25,
+            "height": 44
+          },
+          {
+            "width": 96.25,
+            "height": 44
+          },
+          {
+            "width": 96.25,
+            "height": 44
+          },
+          {
+            "width": 96.25,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 17,
+        "heading": "A small, clear next step.",
+        "channel": "contact",
+        "screen": [
+          "contact"
+        ]
+      },
+      "tabEnterSpace": true,
+      "escapeRestore": true,
+      "explicitClose": true,
+      "allChannelIllustrations": true,
+      "contactReachable": true,
+      "input": "Playwright trusted emulated touch + keyboard"
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390,
+        "name": "landscape"
+      },
+      "practiceReading": {
+        "overflow": false,
+        "bodySize": 19,
+        "buttons": [
+          {
+            "width": 64.15625,
+            "height": 44
+          },
+          {
+            "width": 89.4375,
+            "height": 44
+          },
+          {
+            "width": 97.859375,
+            "height": 44
+          },
+          {
+            "width": 81.015625,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 18,
+        "heading": "From a request to working software.",
+        "channel": "practice",
+        "screen": [
+          "practice"
+        ]
+      },
+      "contact": {
+        "overflow": false,
+        "bodySize": 19,
+        "buttons": [
+          {
+            "width": 64.15625,
+            "height": 44
+          },
+          {
+            "width": 89.4375,
+            "height": 44
+          },
+          {
+            "width": 97.859375,
+            "height": 44
+          },
+          {
+            "width": 81.015625,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 18,
+        "heading": "A small, clear next step.",
+        "channel": "contact",
+        "screen": [
+          "contact"
+        ]
+      },
+      "tabEnterSpace": true,
+      "escapeRestore": true,
+      "explicitClose": true,
+      "allChannelIllustrations": true,
+      "contactReachable": true,
+      "input": "Playwright trusted emulated touch + keyboard"
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024,
+        "name": "tablet"
+      },
+      "practiceReading": {
+        "overflow": false,
+        "bodySize": 19,
+        "buttons": [
+          {
+            "width": 64.15625,
+            "height": 44
+          },
+          {
+            "width": 89.4375,
+            "height": 44
+          },
+          {
+            "width": 97.859375,
+            "height": 44
+          },
+          {
+            "width": 81.015625,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 18,
+        "heading": "From a request to working software.",
+        "channel": "practice",
+        "screen": [
+          "practice"
+        ]
+      },
+      "contact": {
+        "overflow": false,
+        "bodySize": 19,
+        "buttons": [
+          {
+            "width": 64.15625,
+            "height": 44
+          },
+          {
+            "width": 89.4375,
+            "height": 44
+          },
+          {
+            "width": 97.859375,
+            "height": 44
+          },
+          {
+            "width": 81.015625,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 18,
+        "heading": "A small, clear next step.",
+        "channel": "contact",
+        "screen": [
+          "contact"
+        ]
+      },
+      "tabEnterSpace": true,
+      "escapeRestore": true,
+      "explicitClose": true,
+      "allChannelIllustrations": true,
+      "contactReachable": true,
+      "input": "Playwright trusted emulated touch + keyboard"
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900,
+        "name": "desktop"
+      },
+      "practiceReading": {
+        "overflow": false,
+        "bodySize": 19,
+        "buttons": [
+          {
+            "width": 76.15625,
+            "height": 44
+          },
+          {
+            "width": 101.4375,
+            "height": 44
+          },
+          {
+            "width": 109.859375,
+            "height": 44
+          },
+          {
+            "width": 93.015625,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 18,
+        "heading": "From a request to working software.",
+        "channel": "practice",
+        "screen": [
+          "practice"
+        ]
+      },
+      "contact": {
+        "overflow": false,
+        "bodySize": 19,
+        "buttons": [
+          {
+            "width": 76.15625,
+            "height": 44
+          },
+          {
+            "width": 101.4375,
+            "height": 44
+          },
+          {
+            "width": 109.859375,
+            "height": 44
+          },
+          {
+            "width": 93.015625,
+            "height": 44
+          }
+        ],
+        "readVisible": true,
+        "paragraphSize": 18,
+        "heading": "A small, clear next step.",
+        "channel": "contact",
+        "screen": [
+          "contact"
+        ]
+      },
+      "tabEnterSpace": true,
+      "escapeRestore": true,
+      "explicitClose": true,
+      "allChannelIllustrations": true,
+      "contactReachable": true,
+      "input": "Playwright pointer + keyboard"
+    },
+    {
+      "reducedMotion": true,
+      "nonMovingIllustrationSwap": true
+    },
+    {
+      "fetchFallback": true,
+      "stillImage": true,
+      "textNavigation": true
+    },
+    {
+      "noJavaScript": true,
+      "essentialInformationAndContact": true
+    }
+  ],
+  "captures": [
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/narrow.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/content-narrow.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-end-narrow.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-narrow.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/content-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/about-screen-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/about-reading-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/curiosity-screen-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/curiosity-reading-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/practice-screen-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/practice-reading-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-end-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-screen-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/wide-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/content-wide-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-end-wide-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-wide-mobile.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/landscape.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/content-landscape.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-end-landscape.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-landscape.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/tablet.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/content-tablet.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-end-tablet.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-tablet.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/content-desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/about-screen-desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/about-reading-desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/curiosity-screen-desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/curiosity-reading-desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/practice-screen-desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/practice-reading-desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-end-desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/contact-screen-desktop.png",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/reduced-motion.png"
+  ],
+  "errors": [],
+  "pass": true,
+  "limits": [
+    "No physical iPhone/Safari testing",
+    "No independent ensemble visual approval",
+    "No external LinkedIn navigation/submission performed"
+  ]
+}

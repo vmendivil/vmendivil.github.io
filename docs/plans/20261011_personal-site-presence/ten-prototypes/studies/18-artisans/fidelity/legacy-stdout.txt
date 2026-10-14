@@ -1,0 +1,14 @@
+page.screenshot: Timeout 30000ms exceeded.
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/18-artisans/fidelity-legacy.cjs:21:279 {
+  log: [
+    '  - taking page screenshot',
+    '  - waiting for fonts to load...',
+    '  - fonts loaded'
+  ],
+  name: 'TimeoutError'
+}

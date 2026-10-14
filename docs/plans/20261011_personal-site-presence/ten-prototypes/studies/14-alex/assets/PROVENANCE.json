@@ -1,0 +1,13 @@
+{
+  "font": {
+    "file": "public-sans.ttf",
+    "origin": "Google Fonts / Public Sans",
+    "license": "SIL OFL; bundled public-sans-OFL.txt"
+  },
+  "sketches": {
+    "origin": "Original inline SVG line drawings authored for this publication",
+    "location": "Curiosities section",
+    "classification": "Illustrative, not a hardware or delivery claim"
+  },
+  "shippingRasters": []
+}

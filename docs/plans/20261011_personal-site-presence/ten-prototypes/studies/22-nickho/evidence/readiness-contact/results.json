@@ -1,0 +1,130 @@
+{
+  "results": [
+    {
+      "name": "desktop real contact action in viewport",
+      "pass": true,
+      "detail": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "target": "_blank",
+        "top": 459.78125,
+        "bottom": 543.25,
+        "width": 504.84375,
+        "height": 83.46875,
+        "viewport": 900
+      }
+    },
+    {
+      "name": "desktop final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "desktop native return after scroll completion",
+      "pass": true
+    },
+    {
+      "name": "narrow real contact action in viewport",
+      "pass": true,
+      "detail": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "target": "_blank",
+        "top": 364.90625,
+        "bottom": 435.703125,
+        "width": 272,
+        "height": 70.796875,
+        "viewport": 740
+      }
+    },
+    {
+      "name": "narrow final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "narrow native return after scroll completion",
+      "pass": true
+    },
+    {
+      "name": "mobile real contact action in viewport",
+      "pass": true,
+      "detail": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "target": "_blank",
+        "top": 416.953125,
+        "bottom": 487.75,
+        "width": 342,
+        "height": 70.796875,
+        "viewport": 844
+      }
+    },
+    {
+      "name": "mobile final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "mobile native return after scroll completion",
+      "pass": true
+    },
+    {
+      "name": "wide real contact action in viewport",
+      "pass": true,
+      "detail": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "target": "_blank",
+        "top": 492.4375,
+        "bottom": 563.234375,
+        "width": 382,
+        "height": 70.796875,
+        "viewport": 932
+      }
+    },
+    {
+      "name": "wide final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "wide native return after scroll completion",
+      "pass": true
+    },
+    {
+      "name": "landscape real contact action in viewport",
+      "pass": true,
+      "detail": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "target": "_blank",
+        "top": 189.796875,
+        "bottom": 260.59375,
+        "width": 650,
+        "height": 70.796875,
+        "viewport": 390
+      }
+    },
+    {
+      "name": "landscape final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "landscape native return after scroll completion",
+      "pass": true
+    },
+    {
+      "name": "tablet real contact action in viewport",
+      "pass": true,
+      "detail": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "target": "_blank",
+        "top": 626.03125,
+        "bottom": 696.828125,
+        "width": 650,
+        "height": 70.796875,
+        "viewport": 1024
+      }
+    },
+    {
+      "name": "tablet final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "tablet native return after scroll completion",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "phase": "repair-confirmation",
+  "normalPaths": 6,
+  "variants": 3,
+  "stateTransitions": 54,
+  "keyboardTouchReversal": true,
+  "overflowErrorsBrokenImages": 0,
+  "hiddenRestoreVerified": true,
+  "activity": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": null
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": null
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": null
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": null
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": null
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "idleDrawDelta": 0,
+      "pausedDrawDelta": 0,
+      "offscreenDrawDelta": 0,
+      "offscreen": false,
+      "pausedAnimations": null
+    }
+  ]
+}

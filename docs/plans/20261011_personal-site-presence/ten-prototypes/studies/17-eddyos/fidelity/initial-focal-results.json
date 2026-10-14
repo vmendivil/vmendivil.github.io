@@ -1,0 +1,105 @@
+{
+  "engine": "Chromium / SwiftShader emulation",
+  "physicalDevice": false,
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "errors": [],
+      "failed": [],
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\nnull !== 'contact'\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:6:644"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "failed": [],
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\nnull !== 'contact'\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:6:644"
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "errors": [],
+      "failed": [],
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\nnull !== 'contact'\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:6:644"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "failed": [],
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\nnull !== 'contact'\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:6:644"
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "errors": [],
+      "failed": [],
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\nnull !== 'contact'\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:6:644"
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "failed": [],
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\nnull !== 'contact'\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:6:644"
+    }
+  ],
+  "fallback": [],
+  "failures": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "error": "Expected values to be strictly equal:\n\nnull !== 'contact'\n"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "error": "Expected values to be strictly equal:\n\nnull !== 'contact'\n"
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "error": "Expected values to be strictly equal:\n\nnull !== 'contact'\n"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "error": "Expected values to be strictly equal:\n\nnull !== 'contact'\n"
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "error": "Expected values to be strictly equal:\n\nnull !== 'contact'\n"
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "error": "Expected values to be strictly equal:\n\nnull !== 'contact'\n"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "antipattern": "undersized-ui-text",
+    "name": "Undersized functional text",
+    "description": "Interactive and content-bearing UI text (links, buttons, nav items, labels, table cells, meta rows, timecodes) below 11px is a legibility failure, not a style choice. WCAG sets no absolute pixel floor, but functional text under 11px is a defensible quality bar: it fails on high-DPI and small viewports and it degrades tap and read targets. The 11px floor holds even inside a footer; only non-interactive legal smallprint gets the softer 10px floor. Being ON the DESIGN.md size ramp does not exempt a value here: adding 8px to the ramp launders the token but not the legibility problem, and that is exactly the escape hatch this rule closes. Exempts sup/sub, visually-hidden (sr-only) text, and code/terminal contexts. Decorative letterspaced micro-labels are still functional and stay in scope.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/04-bilal-theater/index.html",
+    "line": 0,
+    "snippet": "10px functional text \"Pull a thread. See where it leads.\" (below 11px floor)"
+  },
+  {
+    "antipattern": "undersized-ui-text",
+    "name": "Undersized functional text",
+    "description": "Interactive and content-bearing UI text (links, buttons, nav items, labels, table cells, meta rows, timecodes) below 11px is a legibility failure, not a style choice. WCAG sets no absolute pixel floor, but functional text under 11px is a defensible quality bar: it fails on high-DPI and small viewports and it degrades tap and read targets. The 11px floor holds even inside a footer; only non-interactive legal smallprint gets the softer 10px floor. Being ON the DESIGN.md size ramp does not exempt a value here: adding 8px to the ramp launders the token but not the legibility problem, and that is exactly the escape hatch this rule closes. Exempts sup/sub, visually-hidden (sr-only) text, and code/terminal contexts. Decorative letterspaced micro-labels are still functional and stay in scope.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/04-bilal-theater/index.html",
+    "line": 0,
+    "snippet": "10px functional text \"Pause stage\" (below 11px floor)"
+  },
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/04-bilal-theater/index.html",
+    "line": 0,
+    "snippet": "11px body text"
+  },
+  {
+    "antipattern": "cream-palette",
+    "name": "Cream / beige palette",
+    "description": "A warm cream or beige page background has become the default \"tasteful\" AI surface, reached for by reflex. Choose a background that comes from a deliberate palette, not the safe warm off-white.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/04-bilal-theater/index.html",
+    "line": 0,
+    "snippet": "cream/beige page background rgb(244, 237, 221)"
+  },
+  {
+    "antipattern": "border-accent-on-rounded",
+    "name": "Border accent on rounded element",
+    "description": "Thick accent border on a rounded card — the border clashes with the rounded corners. Remove the border or the border-radius.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/04-bilal-theater/style.css",
+    "line": 1,
+    "snippet": "border-bottom:7px solid"
+  }
+]

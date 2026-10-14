@@ -1,0 +1,601 @@
+{
+  "slug": "15-preymaker",
+  "engine": "Chromium software ANGLE/SwiftShader; not physical GPU/Safari",
+  "pass": "parent-confirmation",
+  "checks": [
+    {
+      "name": "1440 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "1440 shot keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "1440 detailed shot",
+      "pass": true
+    },
+    {
+      "name": "1440 notes shot",
+      "pass": true
+    },
+    {
+      "name": "1440 shot reversal",
+      "pass": true
+    },
+    {
+      "name": "1440 menu first boundary",
+      "pass": true
+    },
+    {
+      "name": "1440 menu last boundary",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape restores menu trigger",
+      "pass": true
+    },
+    {
+      "name": "1440 approach bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "1440 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "1440 final contact reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 about substantive content",
+      "pass": true
+    },
+    {
+      "name": "1440 full path about bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "1440 approach substantive content",
+      "pass": true
+    },
+    {
+      "name": "1440 full path approach bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "1440 curiosity substantive content",
+      "pass": true
+    },
+    {
+      "name": "1440 full path curiosity bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "1440 contact substantive content",
+      "pass": true
+    },
+    {
+      "name": "1440 full path contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "1440 contact last action visible",
+      "pass": true
+    },
+    {
+      "name": "1440 return opening",
+      "pass": true
+    },
+    {
+      "name": "1440 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "390 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 shot keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "390 detailed shot",
+      "pass": true
+    },
+    {
+      "name": "390 notes shot",
+      "pass": true
+    },
+    {
+      "name": "390 shot reversal",
+      "pass": true
+    },
+    {
+      "name": "trusted film touch",
+      "pass": true
+    },
+    {
+      "name": "390 menu first boundary",
+      "pass": true
+    },
+    {
+      "name": "390 menu last boundary",
+      "pass": true
+    },
+    {
+      "name": "390 Escape restores menu trigger",
+      "pass": true
+    },
+    {
+      "name": "390 approach bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 final contact reachable",
+      "pass": true
+    },
+    {
+      "name": "390 about substantive content",
+      "pass": true
+    },
+    {
+      "name": "390 full path about bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 approach substantive content",
+      "pass": true
+    },
+    {
+      "name": "390 full path approach bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 curiosity substantive content",
+      "pass": true
+    },
+    {
+      "name": "390 full path curiosity bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 contact substantive content",
+      "pass": true
+    },
+    {
+      "name": "390 full path contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 contact last action visible",
+      "pass": true
+    },
+    {
+      "name": "390 return opening",
+      "pass": true
+    },
+    {
+      "name": "390 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "844 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 shot keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "844 detailed shot",
+      "pass": true
+    },
+    {
+      "name": "844 notes shot",
+      "pass": true
+    },
+    {
+      "name": "844 shot reversal",
+      "pass": true
+    },
+    {
+      "name": "844 menu first boundary",
+      "pass": true
+    },
+    {
+      "name": "844 menu last boundary",
+      "pass": true
+    },
+    {
+      "name": "844 Escape restores menu trigger",
+      "pass": true
+    },
+    {
+      "name": "844 approach bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 final contact reachable",
+      "pass": true
+    },
+    {
+      "name": "844 about substantive content",
+      "pass": true
+    },
+    {
+      "name": "844 full path about bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 approach substantive content",
+      "pass": true
+    },
+    {
+      "name": "844 full path approach bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 curiosity substantive content",
+      "pass": true
+    },
+    {
+      "name": "844 full path curiosity bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 contact substantive content",
+      "pass": true
+    },
+    {
+      "name": "844 full path contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 contact last action visible",
+      "pass": true
+    },
+    {
+      "name": "844 return opening",
+      "pass": true
+    },
+    {
+      "name": "844 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "opt-in sequence advances",
+      "pass": true
+    },
+    {
+      "name": "pause prevents advancing",
+      "pass": true
+    },
+    {
+      "name": "interrupted film resolves",
+      "pass": true
+    },
+    {
+      "name": "hidden film lifecycle (emulated document)",
+      "pass": true
+    },
+    {
+      "name": "offscreen visible state and loop stop",
+      "pass": true,
+      "detail": {
+        "label": "Play sequence",
+        "state": {
+          "shot": 1,
+          "playing": false,
+          "changes": 9
+        },
+        "animations": [
+          {
+            "id": "shot-travel",
+            "state": "paused"
+          }
+        ]
+      }
+    },
+    {
+      "name": "reduced media actual",
+      "pass": true
+    },
+    {
+      "name": "reduced film visible result",
+      "pass": true
+    },
+    {
+      "name": "reduced no autoplay",
+      "pass": true
+    },
+    {
+      "name": "reduced contact readable",
+      "pass": true
+    },
+    {
+      "name": "nojs contact readable",
+      "pass": true
+    },
+    {
+      "name": "fallback contact readable",
+      "pass": true
+    }
+  ],
+  "captures": [
+    {
+      "name": "1440-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/1440-main.png",
+      "sha256": "d5a4c6c040b126a216f1f22b68212fa7f3311fdac511971cd7f26c8bee49fcf9"
+    },
+    {
+      "name": "1440-detail-shot",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/1440-detail-shot.png",
+      "sha256": "3a812af92ef09ddc2e18c99ae03f1f9fad32c435d07a0118cccc457c3176bf88"
+    },
+    {
+      "name": "1440-notes-shot",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/1440-notes-shot.png",
+      "sha256": "f37b56718ff4e43b125e883ba01483b440847325c2692f7c2a543f86137b4eae"
+    },
+    {
+      "name": "1440-approach-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/1440-approach-reading.png",
+      "sha256": "1a1e598a0c169420bfeab3c0e7aca4cd9599086f4c909bb916eb7e583c7d39ce"
+    },
+    {
+      "name": "1440-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/1440-contact.png",
+      "sha256": "5d624eb7ebf54937ef8022960e8131c799532a418967d3c179eb4838a9f65ee6"
+    },
+    {
+      "name": "1440-contact-final",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/1440-contact-final.png",
+      "sha256": "9e4fd2a54e227940cb5f384173c4a6cbca631828abde3b91163905d324380853"
+    },
+    {
+      "name": "390-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/390-main.png",
+      "sha256": "80eaf6c0ee81d2209982aa5391f1127a0cc939bbb9accf1bee9193faa13bd9bb"
+    },
+    {
+      "name": "390-detail-shot",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/390-detail-shot.png",
+      "sha256": "9af7fbbf38873990fddccac57565dacf1a4158461b253d1f2e68d9fc45b35305"
+    },
+    {
+      "name": "390-notes-shot",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/390-notes-shot.png",
+      "sha256": "ba246b646a00dded2430218f8fcf1337d5c20ef1a7aa6b0cae0d00695423ebbb"
+    },
+    {
+      "name": "390-approach-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/390-approach-reading.png",
+      "sha256": "1259f5fa714c55ed9f635eaa1a5f7cd53a68c5ef9756c94eb047dccc4aef4328"
+    },
+    {
+      "name": "390-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/390-contact.png",
+      "sha256": "33c9a5b5abeaba0b571b53a9aed434211765ae0ceeacb024ca76bdde6884b7ef"
+    },
+    {
+      "name": "390-contact-final",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/390-contact-final.png",
+      "sha256": "fba6630c2fdfebdb59edfc3845de4dec899c14da8639ecd0e38a0b0bb6d49430"
+    },
+    {
+      "name": "844-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/844-main.png",
+      "sha256": "9f4bc2af0c48850d7345a4fff777bbf40dff1d28d73c48f7ace13aca75c56c72"
+    },
+    {
+      "name": "844-detail-shot",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/844-detail-shot.png",
+      "sha256": "79032b0a53fb1e3f1b52e80ebd01d96bde7daa6fea05a1bafba4f461f16f62d2"
+    },
+    {
+      "name": "844-notes-shot",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/844-notes-shot.png",
+      "sha256": "024efe054401d3b9a4551bc1b9e2f5ce196d7b6f19613139afa34d1f637ef891"
+    },
+    {
+      "name": "844-approach-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/844-approach-reading.png",
+      "sha256": "b778dcc5363fad9b44931418e16efd6334132be497b37ee7253a0a72166119df"
+    },
+    {
+      "name": "844-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/844-contact.png",
+      "sha256": "a78a03e8b2a4cfbd95316e0824735d1b9e2e6d2b918e220d4e8294c433980694"
+    },
+    {
+      "name": "844-contact-final",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/844-contact-final.png",
+      "sha256": "6df834f06994fa8351d5642ded5b87ca8cd8a07677ddc79520eee63f6b6d7a8b"
+    },
+    {
+      "name": "sequence-00-establish",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/sequence-00-establish.png",
+      "sha256": "1d619b8d384ad869dc60e6b7e9f02f4a5069df09536e6fe5b860c2da8645dcf8"
+    },
+    {
+      "name": "sequence-01-shutter",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/sequence-01-shutter.png",
+      "sha256": "36ffe1bcee07cc49e3032f1367a523e87bc6721f765f81b45a68b6b164a7f6bc"
+    },
+    {
+      "name": "sequence-02-detail",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/sequence-02-detail.png",
+      "sha256": "26620f657fc4c272be6964d939a05cd7b40feb425a6305283405de06e9ceecda"
+    },
+    {
+      "name": "sequence-03-notes",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/sequence-03-notes.png",
+      "sha256": "a680720bff7be75a7cf32cf97c27659f0b37c6ac92438fd9744a3840c1b03f3b"
+    },
+    {
+      "name": "sequence-04-reversal",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/sequence-04-reversal.png",
+      "sha256": "70257864171c2a0414059ac316abd625e756aa0bb7cd22046702d380532ee934"
+    },
+    {
+      "name": "reduced-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/reduced-contact.png",
+      "sha256": "fba6630c2fdfebdb59edfc3845de4dec899c14da8639ecd0e38a0b0bb6d49430"
+    },
+    {
+      "name": "nojs-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/nojs-contact.png",
+      "sha256": "374429cc571f91b35a09d77c9efc4c212465b3a1b941ac4e848ea1056d5cd9fb"
+    },
+    {
+      "name": "fallback-contact",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/fidelity-evidence/parent-confirmation/fallback-contact.png",
+      "sha256": "fba6630c2fdfebdb59edfc3845de4dec899c14da8639ecd0e38a0b0bb6d49430"
+    }
+  ],
+  "errors": [],
+  "runtimeHashes": {
+    "index.html": "b303f262883eb0ba45915feb97f9c6cae40785fb63c039ba0c7cc8d6a428639c",
+    "style.css": "04e0d779a6c2ed625cf30ef05d12e2449ae9cbaa858870be0e7cc7b2f57ea367",
+    "fidelity.css": "b3f36f683388b20a9dfd20600bebc74c3869140c8f769ada74197514d7434de9",
+    "fidelity.js": "af20656dfb812bf17696c4a078f2b2fab14135c83ba96d2cbd603934abb97d58",
+    "app.js": "f5288fca89729cade2baafec46163869f5044957b08a0e5997cd0f29d954325a"
+  },
+  "passed": 78,
+  "failed": []
+}

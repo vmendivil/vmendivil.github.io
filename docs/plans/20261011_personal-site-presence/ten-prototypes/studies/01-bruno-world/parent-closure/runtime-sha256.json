@@ -1,0 +1,28 @@
+{
+  "allowlist": [
+    "index.html",
+    "style.css",
+    "world.js",
+    "assets/BufferGeometryUtils.js",
+    "assets/OFL-Barlow.txt",
+    "assets/OFL-BarlowCondensed.txt",
+    "assets/THREE-LICENSE.txt",
+    "assets/barlow-condensed.ttf",
+    "assets/barlow.ttf",
+    "assets/coast.svg",
+    "assets/three.module.js"
+  ],
+  "sha256": {
+    "index.html": "73daada471244f4c356ce422a154819044be1953629d6f3bcd128107e1da8531",
+    "style.css": "f41393b04a507037ed6d032d61fb64b0392efa0581dbee1895214d504104836a",
+    "world.js": "709ab7698fea28a6c4bbb7a2c9ca466727311277d854058856ec2b53f0f7a33c",
+    "assets/BufferGeometryUtils.js": "3de832095679e56578beddf70f3e90846a47ec8a886fa8eb21c973cdaef88922",
+    "assets/OFL-Barlow.txt": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+    "assets/OFL-BarlowCondensed.txt": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+    "assets/THREE-LICENSE.txt": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "assets/barlow-condensed.ttf": "0d85af813fc3ed87db0c6265515689b2eef5cbaf7aab17922528dfc95a2cd73f",
+    "assets/barlow.ttf": "a35caa4687f434d66453c1fe423d7074cfa9fd7ab80c19b0780f3862887d2fc9",
+    "assets/coast.svg": "a5f2b948cbb5b6e5b77947ecf7140b44dbbc939f0eb9ed49026297d2bb4f995e",
+    "assets/three.module.js": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb"
+  }
+}

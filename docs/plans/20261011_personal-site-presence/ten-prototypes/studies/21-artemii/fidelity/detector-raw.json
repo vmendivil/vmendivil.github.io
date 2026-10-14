@@ -1,0 +1,48 @@
+[
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/21-artemii/index.html",
+    "line": 0,
+    "snippet": "11px body text"
+  },
+  {
+    "antipattern": "design-system-color",
+    "name": "Color outside DESIGN.md",
+    "description": "A literal color is outside the DESIGN.md palette and sidecar tonal ramps. This may be legitimate, but it should be an intentional design-system addition rather than drift.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/21-artemii/index.html",
+    "line": 0,
+    "snippet": "text color rgb(77, 80, 81) on p \"Software developerDynamics 365 F&O / ERP\" is outside DESIGN.md colors",
+    "advisory": true,
+    "ignoreValue": "rgb(77, 80, 81)"
+  },
+  {
+    "antipattern": "design-system-color",
+    "name": "Color outside DESIGN.md",
+    "description": "A literal color is outside the DESIGN.md palette and sidecar tonal ramps. This may be legitimate, but it should be an intentional design-system addition rather than drift.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/21-artemii/index.html",
+    "line": 0,
+    "snippet": "border-top rgb(174, 177, 173) on div \"Open RegisterPractice & curiosity\" is outside DESIGN.md colors",
+    "advisory": true,
+    "ignoreValue": "rgb(174, 177, 173)"
+  },
+  {
+    "antipattern": "design-system-color",
+    "name": "Color outside DESIGN.md",
+    "description": "A literal color is outside the DESIGN.md palette and sidecar tonal ramps. This may be legitimate, but it should be an intentional design-system addition rather than drift.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/21-artemii/fidelity.css",
+    "line": 1,
+    "snippet": "Undocumented color #aebddf is outside DESIGN.md colors",
+    "advisory": true,
+    "ignoreValue": "#aebddf"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "antipattern": "tiny-text",
+    "name": "Tiny body text",
+    "description": "Body text below 12px is hard to read, especially on high-DPI screens. Use at least 14px for body content, 16px is ideal.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/technology-studies/03-ecology/index.html",
+    "line": 0,
+    "snippet": "10px body text"
+  }
+]

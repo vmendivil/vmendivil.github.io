@@ -1,0 +1,51 @@
+{
+  "engine": "Chromium SwiftShader emulation",
+  "mechanism": "actual CDP Page.setWebLifecycleState frozen -> active and Page.bringToFront; visibility events retained, not synthetic DOM events",
+  "before": {
+    "draws": 5,
+    "frame": 0,
+    "current": 0,
+    "angle": -0.12,
+    "zoom": 1,
+    "paused": false,
+    "visible": true,
+    "hidden": false
+  },
+  "after": {
+    "state": {
+      "draws": 5,
+      "frame": 0,
+      "current": 0,
+      "angle": -0.12,
+      "zoom": 1,
+      "paused": false,
+      "visible": true,
+      "hidden": false
+    },
+    "events": [],
+    "visibility": "visible"
+  },
+  "resumed": {
+    "draws": 5,
+    "frame": 0,
+    "current": 0,
+    "angle": -0.12,
+    "zoom": 1,
+    "paused": false,
+    "visible": true,
+    "hidden": false
+  },
+  "reduced": {
+    "matches": true,
+    "changed": {
+      "draws": 7,
+      "frame": 0,
+      "current": 0,
+      "angle": 1.4507963267948965,
+      "zoom": 1,
+      "paused": false,
+      "visible": true,
+      "hidden": false
+    }
+  }
+}

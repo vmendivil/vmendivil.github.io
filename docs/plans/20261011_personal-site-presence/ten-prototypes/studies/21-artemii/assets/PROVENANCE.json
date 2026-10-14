@@ -1,0 +1,35 @@
+{
+  "plates": [
+    {
+      "file": "plate-0.svg",
+      "origin": "Original code-authored mathematical line artwork by Hermes for this local prototype",
+      "classification": "Illustrative exploration; not client work, equipment, portrait or shipped-product evidence"
+    },
+    {
+      "file": "plate-1.svg",
+      "origin": "Original code-authored mathematical line artwork by Hermes for this local prototype",
+      "classification": "Illustrative exploration; not client work, equipment, portrait or shipped-product evidence"
+    },
+    {
+      "file": "plate-2.svg",
+      "origin": "Original code-authored mathematical line artwork by Hermes for this local prototype",
+      "classification": "Illustrative exploration; not client work, equipment, portrait or shipped-product evidence"
+    },
+    {
+      "file": "plate-3.svg",
+      "origin": "Original code-authored mathematical line artwork by Hermes for this local prototype",
+      "classification": "Illustrative exploration; not client work, equipment, portrait or shipped-product evidence"
+    },
+    {
+      "file": "plate-4.svg",
+      "origin": "Original code-authored mathematical line artwork by Hermes for this local prototype",
+      "classification": "Illustrative exploration; not client work, equipment, portrait or shipped-product evidence"
+    },
+    {
+      "file": "plate-5.svg",
+      "origin": "Original code-authored mathematical line artwork by Hermes for this local prototype",
+      "classification": "Illustrative exploration; not client work, equipment, portrait or shipped-product evidence"
+    }
+  ],
+  "font": "Chivo, Google Fonts, SIL OFL; bundled license chivo-OFL.txt"
+}

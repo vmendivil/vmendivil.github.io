@@ -1,0 +1,9 @@
+{
+  "foreground_on_midnight": {
+    "#edf6fc": 17.089375210771433,
+    "#b0c8da": 10.79403652994262,
+    "#668aa5": 5.115243923148552
+  },
+  "method": "WCAG sRGB relative luminance",
+  "photographic_labels": "opaque contrast backing"
+}

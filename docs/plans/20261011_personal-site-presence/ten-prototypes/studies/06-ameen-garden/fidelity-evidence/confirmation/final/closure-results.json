@@ -1,0 +1,41 @@
+{
+  "study": 6,
+  "checks": [
+    {
+      "name": "1440 landed petal projected inside viewport",
+      "pass": true,
+      "xy": {
+        "x": 384.80829950188274,
+        "y": 819.5569525924656
+      }
+    },
+    {
+      "name": "1440 stationary keyboard response",
+      "pass": true
+    },
+    {
+      "name": "390 landed petal projected inside viewport",
+      "pass": true,
+      "xy": {
+        "x": 39.921246242365115,
+        "y": 757.713661401264
+      }
+    },
+    {
+      "name": "390 stationary keyboard response",
+      "pass": true
+    }
+  ],
+  "captures": [
+    "1440-overview.png",
+    "1440-drifting.png",
+    "1440-landed.png",
+    "1440-still-response.png",
+    "1440-contact.png",
+    "390-overview.png",
+    "390-drifting.png",
+    "390-landed.png",
+    "390-still-response.png",
+    "390-contact.png"
+  ]
+}

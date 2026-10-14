@@ -1,0 +1,1392 @@
+{
+  "study": 6,
+  "session": "fidelity-06",
+  "engine": "Playwright Chromium / software WebGL; trusted emulated touch, not physical Safari/GPU certification",
+  "checks": [
+    {
+      "name": "1440 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 14,
+          "active": true,
+          "time": 3.25
+        },
+        "b": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 15,
+          "active": true,
+          "time": 3.5
+        }
+      }
+    },
+    {
+      "name": "1440 petal lands",
+      "pass": true,
+      "detail": {
+        "drops": 1,
+        "landed": 1,
+        "frames": 45,
+        "active": true,
+        "time": 10.75
+      }
+    },
+    {
+      "name": "1440 repeated petal",
+      "pass": true
+    },
+    {
+      "name": "1440 reading about",
+      "pass": true
+    },
+    {
+      "name": "1440 reading practice",
+      "pass": true
+    },
+    {
+      "name": "1440 reading interests",
+      "pass": true
+    },
+    {
+      "name": "1440 reading contact",
+      "pass": true
+    },
+    {
+      "name": "1440 contact route",
+      "pass": true
+    },
+    {
+      "name": "1440 offscreen stops render",
+      "pass": true
+    },
+    {
+      "name": "1440 return garden",
+      "pass": true
+    },
+    {
+      "name": "1440 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 108,
+          "active": false,
+          "time": 26.099600000047676
+        },
+        "b": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 108,
+          "active": false,
+          "time": 26.099600000047676
+        }
+      }
+    },
+    {
+      "name": "1440 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 1440,
+        "scrollWidth": 1440,
+        "fonts": "loaded",
+        "bodySizes": [
+          23,
+          19,
+          17,
+          17,
+          17,
+          20,
+          20,
+          20,
+          23,
+          16,
+          19,
+          19
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Let a petal drift",
+            "h": 44,
+            "w": 135
+          },
+          {
+            "text": "Resume the water",
+            "h": 44,
+            "w": 152
+          }
+        ]
+      }
+    },
+    {
+      "name": "1440 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "1440 reading >=16px",
+      "pass": true,
+      "detail": [
+        23,
+        19,
+        17,
+        17,
+        17,
+        20,
+        20,
+        20,
+        23,
+        16,
+        19,
+        19
+      ]
+    },
+    {
+      "name": "1440 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Let a petal drift",
+          "h": 44,
+          "w": 135
+        },
+        {
+          "text": "Resume the water",
+          "h": 44,
+          "w": 152
+        }
+      ]
+    },
+    {
+      "name": "320 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 14,
+          "active": true,
+          "time": 3.25
+        },
+        "b": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 16,
+          "active": true,
+          "time": 3.75
+        }
+      }
+    },
+    {
+      "name": "320 petal lands",
+      "pass": true,
+      "detail": {
+        "drops": 1,
+        "landed": 1,
+        "frames": 37,
+        "active": true,
+        "time": 8.75
+      }
+    },
+    {
+      "name": "320 repeated petal",
+      "pass": true
+    },
+    {
+      "name": "320 reading about",
+      "pass": true
+    },
+    {
+      "name": "320 reading practice",
+      "pass": true
+    },
+    {
+      "name": "320 reading interests",
+      "pass": true
+    },
+    {
+      "name": "320 reading contact",
+      "pass": true
+    },
+    {
+      "name": "320 contact route",
+      "pass": true
+    },
+    {
+      "name": "320 offscreen stops render",
+      "pass": true
+    },
+    {
+      "name": "320 return garden",
+      "pass": true
+    },
+    {
+      "name": "320 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 83,
+          "active": false,
+          "time": 19.849400000000003
+        },
+        "b": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 83,
+          "active": false,
+          "time": 19.849400000000003
+        }
+      }
+    },
+    {
+      "name": "320 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 320,
+        "scrollWidth": 320,
+        "fonts": "loaded",
+        "bodySizes": [
+          21,
+          18,
+          17,
+          17,
+          17,
+          18,
+          18,
+          18,
+          21,
+          16,
+          18,
+          18
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Let a petal drift",
+            "h": 44,
+            "w": 132.609375
+          },
+          {
+            "text": "Resume the water",
+            "h": 44,
+            "w": 132.609375
+          }
+        ]
+      }
+    },
+    {
+      "name": "320 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "320 reading >=16px",
+      "pass": true,
+      "detail": [
+        21,
+        18,
+        17,
+        17,
+        17,
+        18,
+        18,
+        18,
+        21,
+        16,
+        18,
+        18
+      ]
+    },
+    {
+      "name": "320 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Let a petal drift",
+          "h": 44,
+          "w": 132.609375
+        },
+        {
+          "text": "Resume the water",
+          "h": 44,
+          "w": 132.609375
+        }
+      ]
+    },
+    {
+      "name": "390 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 14,
+          "active": true,
+          "time": 3.25
+        },
+        "b": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 16,
+          "active": true,
+          "time": 3.75
+        }
+      }
+    },
+    {
+      "name": "390 petal lands",
+      "pass": true,
+      "detail": {
+        "drops": 1,
+        "landed": 1,
+        "frames": 49,
+        "active": true,
+        "time": 11.75
+      }
+    },
+    {
+      "name": "390 repeated petal",
+      "pass": true
+    },
+    {
+      "name": "390 reading about",
+      "pass": true
+    },
+    {
+      "name": "390 reading practice",
+      "pass": true
+    },
+    {
+      "name": "390 reading interests",
+      "pass": true
+    },
+    {
+      "name": "390 reading contact",
+      "pass": true
+    },
+    {
+      "name": "390 contact route",
+      "pass": true
+    },
+    {
+      "name": "390 offscreen stops render",
+      "pass": true
+    },
+    {
+      "name": "390 return garden",
+      "pass": true
+    },
+    {
+      "name": "390 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 112,
+          "active": false,
+          "time": 27.098400000095367
+        },
+        "b": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 112,
+          "active": false,
+          "time": 27.098400000095367
+        }
+      }
+    },
+    {
+      "name": "390 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 390,
+        "scrollWidth": 390,
+        "fonts": "loaded",
+        "bodySizes": [
+          21,
+          18,
+          17,
+          17,
+          17,
+          18,
+          18,
+          18,
+          21,
+          16,
+          18,
+          18
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Let a petal drift",
+            "h": 44,
+            "w": 162.703125
+          },
+          {
+            "text": "Resume the water",
+            "h": 44,
+            "w": 162.703125
+          }
+        ]
+      }
+    },
+    {
+      "name": "390 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "390 reading >=16px",
+      "pass": true,
+      "detail": [
+        21,
+        18,
+        17,
+        17,
+        17,
+        18,
+        18,
+        18,
+        21,
+        16,
+        18,
+        18
+      ]
+    },
+    {
+      "name": "390 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Let a petal drift",
+          "h": 44,
+          "w": 162.703125
+        },
+        {
+          "text": "Resume the water",
+          "h": 44,
+          "w": 162.703125
+        }
+      ]
+    },
+    {
+      "name": "430 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 14,
+          "active": true,
+          "time": 3.25
+        },
+        "b": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 15,
+          "active": true,
+          "time": 3.5
+        }
+      }
+    },
+    {
+      "name": "430 petal lands",
+      "pass": true,
+      "detail": {
+        "drops": 1,
+        "landed": 1,
+        "frames": 35,
+        "active": true,
+        "time": 8.25
+      }
+    },
+    {
+      "name": "430 repeated petal",
+      "pass": true
+    },
+    {
+      "name": "430 reading about",
+      "pass": true
+    },
+    {
+      "name": "430 reading practice",
+      "pass": true
+    },
+    {
+      "name": "430 reading interests",
+      "pass": true
+    },
+    {
+      "name": "430 reading contact",
+      "pass": true
+    },
+    {
+      "name": "430 contact route",
+      "pass": true
+    },
+    {
+      "name": "430 offscreen stops render",
+      "pass": true
+    },
+    {
+      "name": "430 return garden",
+      "pass": true
+    },
+    {
+      "name": "430 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 90,
+          "active": false,
+          "time": 21.599400000023845
+        },
+        "b": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 90,
+          "active": false,
+          "time": 21.599400000023845
+        }
+      }
+    },
+    {
+      "name": "430 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 430,
+        "scrollWidth": 430,
+        "fonts": "loaded",
+        "bodySizes": [
+          21,
+          18,
+          17,
+          17,
+          17,
+          18,
+          18,
+          18,
+          21,
+          16,
+          18,
+          18
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Let a petal drift",
+            "h": 44,
+            "w": 179.90625
+          },
+          {
+            "text": "Resume the water",
+            "h": 44,
+            "w": 179.90625
+          }
+        ]
+      }
+    },
+    {
+      "name": "430 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "430 reading >=16px",
+      "pass": true,
+      "detail": [
+        21,
+        18,
+        17,
+        17,
+        17,
+        18,
+        18,
+        18,
+        21,
+        16,
+        18,
+        18
+      ]
+    },
+    {
+      "name": "430 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Let a petal drift",
+          "h": 44,
+          "w": 179.90625
+        },
+        {
+          "text": "Resume the water",
+          "h": 44,
+          "w": 179.90625
+        }
+      ]
+    },
+    {
+      "name": "844 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 14,
+          "active": true,
+          "time": 3.25
+        },
+        "b": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 16,
+          "active": true,
+          "time": 3.75
+        }
+      }
+    },
+    {
+      "name": "844 petal lands",
+      "pass": true,
+      "detail": {
+        "drops": 1,
+        "landed": 1,
+        "frames": 37,
+        "active": true,
+        "time": 8.75
+      }
+    },
+    {
+      "name": "844 repeated petal",
+      "pass": true
+    },
+    {
+      "name": "844 reading about",
+      "pass": true
+    },
+    {
+      "name": "844 reading practice",
+      "pass": true
+    },
+    {
+      "name": "844 reading interests",
+      "pass": true
+    },
+    {
+      "name": "844 reading contact",
+      "pass": true
+    },
+    {
+      "name": "844 contact route",
+      "pass": true
+    },
+    {
+      "name": "844 offscreen stops render",
+      "pass": true
+    },
+    {
+      "name": "844 return garden",
+      "pass": true
+    },
+    {
+      "name": "844 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 82,
+          "active": false,
+          "time": 19.599599999952318
+        },
+        "b": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 82,
+          "active": false,
+          "time": 19.599599999952318
+        }
+      }
+    },
+    {
+      "name": "844 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 844,
+        "scrollWidth": 844,
+        "fonts": "loaded",
+        "bodySizes": [
+          23,
+          19,
+          16,
+          16,
+          17,
+          20,
+          20,
+          20,
+          23,
+          16,
+          19,
+          19
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Let a petal drift",
+            "h": 44,
+            "w": 135
+          },
+          {
+            "text": "Resume the water",
+            "h": 44,
+            "w": 152
+          }
+        ]
+      }
+    },
+    {
+      "name": "844 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "844 reading >=16px",
+      "pass": true,
+      "detail": [
+        23,
+        19,
+        16,
+        16,
+        17,
+        20,
+        20,
+        20,
+        23,
+        16,
+        19,
+        19
+      ]
+    },
+    {
+      "name": "844 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Let a petal drift",
+          "h": 44,
+          "w": 135
+        },
+        {
+          "text": "Resume the water",
+          "h": 44,
+          "w": 152
+        }
+      ]
+    },
+    {
+      "name": "768 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 14,
+          "active": true,
+          "time": 3.25
+        },
+        "b": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 15,
+          "active": true,
+          "time": 3.5
+        }
+      }
+    },
+    {
+      "name": "768 petal lands",
+      "pass": true,
+      "detail": {
+        "drops": 1,
+        "landed": 1,
+        "frames": 37,
+        "active": true,
+        "time": 8.75
+      }
+    },
+    {
+      "name": "768 repeated petal",
+      "pass": true
+    },
+    {
+      "name": "768 reading about",
+      "pass": true
+    },
+    {
+      "name": "768 reading practice",
+      "pass": true
+    },
+    {
+      "name": "768 reading interests",
+      "pass": true
+    },
+    {
+      "name": "768 reading contact",
+      "pass": true
+    },
+    {
+      "name": "768 contact route",
+      "pass": true
+    },
+    {
+      "name": "768 offscreen stops render",
+      "pass": true
+    },
+    {
+      "name": "768 return garden",
+      "pass": true
+    },
+    {
+      "name": "768 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 93,
+          "active": false,
+          "time": 22.3495
+        },
+        "b": {
+          "drops": 2,
+          "landed": 2,
+          "frames": 93,
+          "active": false,
+          "time": 22.3495
+        }
+      }
+    },
+    {
+      "name": "768 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 768,
+        "scrollWidth": 768,
+        "fonts": "loaded",
+        "bodySizes": [
+          23,
+          19,
+          16,
+          16,
+          17,
+          20,
+          20,
+          20,
+          23,
+          16,
+          19,
+          19
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Let a petal drift",
+            "h": 44,
+            "w": 135
+          },
+          {
+            "text": "Resume the water",
+            "h": 44,
+            "w": 152
+          }
+        ]
+      }
+    },
+    {
+      "name": "768 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "768 reading >=16px",
+      "pass": true,
+      "detail": [
+        23,
+        19,
+        16,
+        16,
+        17,
+        20,
+        20,
+        20,
+        23,
+        16,
+        19,
+        19
+      ]
+    },
+    {
+      "name": "768 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Let a petal drift",
+          "h": 44,
+          "w": 135
+        },
+        {
+          "text": "Resume the water",
+          "h": 44,
+          "w": 152
+        }
+      ]
+    },
+    {
+      "name": "keyboard Tab reaches native focus",
+      "pass": true
+    },
+    {
+      "name": "keyboard Space releases petal",
+      "pass": true
+    },
+    {
+      "name": "keyboard Enter releases petal",
+      "pass": true
+    },
+    {
+      "name": "reduced motion static renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 1,
+          "active": false,
+          "time": 0
+        },
+        "b": {
+          "drops": 0,
+          "landed": 0,
+          "frames": 1,
+          "active": false,
+          "time": 0
+        }
+      }
+    },
+    {
+      "name": "reduced media actual",
+      "pass": true
+    },
+    {
+      "name": "reduced landed petal",
+      "pass": true
+    },
+    {
+      "name": "WebGL fallback reading/contact",
+      "pass": true
+    },
+    {
+      "name": "no-JS complete factual path",
+      "pass": true
+    },
+    {
+      "name": "no-JS real contact",
+      "pass": true
+    },
+    {
+      "name": "no normal browser errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "performance": [
+    {
+      "width": 1440,
+      "intervalMs": 1100,
+      "before": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 14,
+        "active": true,
+        "time": 3.25
+      },
+      "after": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 15,
+        "active": true,
+        "time": 3.5
+      },
+      "renderDelta": 1
+    },
+    {
+      "width": 320,
+      "intervalMs": 1100,
+      "before": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 14,
+        "active": true,
+        "time": 3.25
+      },
+      "after": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 16,
+        "active": true,
+        "time": 3.75
+      },
+      "renderDelta": 2
+    },
+    {
+      "width": 390,
+      "intervalMs": 1100,
+      "before": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 14,
+        "active": true,
+        "time": 3.25
+      },
+      "after": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 16,
+        "active": true,
+        "time": 3.75
+      },
+      "renderDelta": 2
+    },
+    {
+      "width": 430,
+      "intervalMs": 1100,
+      "before": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 14,
+        "active": true,
+        "time": 3.25
+      },
+      "after": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 15,
+        "active": true,
+        "time": 3.5
+      },
+      "renderDelta": 1
+    },
+    {
+      "width": 844,
+      "intervalMs": 1100,
+      "before": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 14,
+        "active": true,
+        "time": 3.25
+      },
+      "after": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 16,
+        "active": true,
+        "time": 3.75
+      },
+      "renderDelta": 2
+    },
+    {
+      "width": 768,
+      "intervalMs": 1100,
+      "before": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 14,
+        "active": true,
+        "time": 3.25
+      },
+      "after": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 15,
+        "active": true,
+        "time": 3.5
+      },
+      "renderDelta": 1
+    }
+  ],
+  "frames": [
+    {
+      "file": "1440-overview.png",
+      "timestamp": 1791843714860,
+      "state": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 13,
+        "active": true,
+        "time": 3
+      }
+    },
+    {
+      "file": "1440-petal-100.png",
+      "timestamp": 1791843758721,
+      "state": {
+        "drops": 1,
+        "landed": 0,
+        "frames": 34,
+        "active": true,
+        "time": 8
+      }
+    },
+    {
+      "file": "1440-petal-1400.png",
+      "timestamp": 1791843774001,
+      "state": {
+        "drops": 1,
+        "landed": 1,
+        "frames": 41,
+        "active": true,
+        "time": 9.75
+      }
+    },
+    {
+      "file": "1440-reading-about.png",
+      "timestamp": 1791843845045,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 74,
+        "active": true,
+        "time": 17.75
+      }
+    },
+    {
+      "file": "1440-reading-practice.png",
+      "timestamp": 1791843872178,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 86,
+        "active": false,
+        "time": 20.75
+      }
+    },
+    {
+      "file": "1440-reading-interests.png",
+      "timestamp": 1791843872292,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 86,
+        "active": false,
+        "time": 20.75
+      }
+    },
+    {
+      "file": "1440-reading-contact.png",
+      "timestamp": 1791843872378,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 86,
+        "active": false,
+        "time": 20.75
+      }
+    },
+    {
+      "file": "320-overview.png",
+      "timestamp": 1791843918593,
+      "state": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 13,
+        "active": true,
+        "time": 3
+      }
+    },
+    {
+      "file": "390-overview.png",
+      "timestamp": 1791843985586,
+      "state": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 13,
+        "active": true,
+        "time": 3
+      }
+    },
+    {
+      "file": "390-petal-100.png",
+      "timestamp": 1791844000854,
+      "state": {
+        "drops": 1,
+        "landed": 0,
+        "frames": 36,
+        "active": true,
+        "time": 8.5
+      }
+    },
+    {
+      "file": "390-petal-1400.png",
+      "timestamp": 1791844006922,
+      "state": {
+        "drops": 1,
+        "landed": 1,
+        "frames": 45,
+        "active": true,
+        "time": 10.75
+      }
+    },
+    {
+      "file": "390-reading-about.png",
+      "timestamp": 1791844035115,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 78,
+        "active": true,
+        "time": 18.75
+      }
+    },
+    {
+      "file": "390-reading-practice.png",
+      "timestamp": 1791844043677,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 90,
+        "active": false,
+        "time": 21.75
+      }
+    },
+    {
+      "file": "390-reading-interests.png",
+      "timestamp": 1791844043729,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 90,
+        "active": false,
+        "time": 21.75
+      }
+    },
+    {
+      "file": "390-reading-contact.png",
+      "timestamp": 1791844043794,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 90,
+        "active": false,
+        "time": 21.75
+      }
+    },
+    {
+      "file": "430-overview.png",
+      "timestamp": 1791844073101,
+      "state": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 13,
+        "active": true,
+        "time": 3
+      }
+    },
+    {
+      "file": "844-overview.png",
+      "timestamp": 1791844165838,
+      "state": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 13,
+        "active": true,
+        "time": 3
+      }
+    },
+    {
+      "file": "844-reading-about.png",
+      "timestamp": 1791844228592,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 60,
+        "active": false,
+        "time": 14.25
+      }
+    },
+    {
+      "file": "844-reading-practice.png",
+      "timestamp": 1791844228659,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 60,
+        "active": false,
+        "time": 14.25
+      }
+    },
+    {
+      "file": "844-reading-interests.png",
+      "timestamp": 1791844228724,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 60,
+        "active": false,
+        "time": 14.25
+      }
+    },
+    {
+      "file": "844-reading-contact.png",
+      "timestamp": 1791844228791,
+      "state": {
+        "drops": 2,
+        "landed": 2,
+        "frames": 60,
+        "active": false,
+        "time": 14.25
+      }
+    },
+    {
+      "file": "768-overview.png",
+      "timestamp": 1791844278975,
+      "state": {
+        "drops": 0,
+        "landed": 0,
+        "frames": 13,
+        "active": true,
+        "time": 3
+      }
+    },
+    {
+      "file": "reduced-result.png",
+      "timestamp": 1791844367275,
+      "state": {
+        "drops": 1,
+        "landed": 1,
+        "frames": 2,
+        "active": false,
+        "time": 0
+      }
+    },
+    {
+      "file": "renderer-fallback.png",
+      "timestamp": 1791844367928,
+      "state": {}
+    }
+  ],
+  "total": 100,
+  "passed": 100,
+  "failed": []
+}

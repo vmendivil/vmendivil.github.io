@@ -1,0 +1,14 @@
+{
+  "prototypes": 21,
+  "viewportCases": 63,
+  "galleryLinks": 21,
+  "noJSLinks": 21,
+  "privacyChecks": 5,
+  "externalNavigation": "intercepted fixture; no source-site availability claim",
+  "engine": "Chromium emulation; not physical Safari",
+  "normal_motion_prototypes": 17,
+  "reduced_motion_prototypes": 4,
+  "protected_files_unchanged": 693,
+  "original_ten_files_unchanged": 97,
+  "text_overlap_cases": []
+}

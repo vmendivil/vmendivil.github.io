@@ -1,0 +1,6 @@
+{
+  "viewports": 6,
+  "apps": 24,
+  "noJavaScript": 6,
+  "failures": []
+}

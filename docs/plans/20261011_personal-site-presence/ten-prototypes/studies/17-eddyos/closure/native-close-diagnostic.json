@@ -1,0 +1,45 @@
+{
+  "method": "independent Chromium real input; software WebGL; no physical device",
+  "contexts": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "launcher executes actual document",
+        "launcher selection focuses reading",
+        "minimize restores actual scroll",
+        "maximize changes actual bounds",
+        "expanded pane clamps to real document bounds",
+        "restore recovers pre-clamp reading offset",
+        "about searchable real document",
+        "approach searchable real document",
+        "curiosity searchable real document",
+        "contact searchable real document",
+        "real contact route",
+        "launcher reverse wrap",
+        "launcher forward wrap"
+      ],
+      "launcherFocus": "document",
+      "beforeEscape": {
+        "focus": "<button aria-label=\"Close launcher\">Close</button>",
+        "open": true
+      },
+      "afterEscape": "<button id=\"maximize\" aria-label=\"Maximize document\" aria-pressed=\"false\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 5h14v14H5z M5 9h14\"></path></svg></button>",
+      "passed": false,
+      "failure": "AssertionError [ERR_ASSERTION]: escape restores reading after native close event\n    at check (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/native-close-diagnostic.cjs:7:1036)\n    at main (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/native-close-diagnostic.cjs:12:678)"
+    }
+  ],
+  "failures": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "error": "escape restores reading after native close event"
+    }
+  ]
+}

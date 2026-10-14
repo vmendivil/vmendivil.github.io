@@ -1,0 +1,8 @@
+{
+  "keyboard": "native Tab through skip, identity, index; Enter to index and About; Escape return",
+  "visibility": "document.hidden simulation, not physical tab certification",
+  "initial": 9,
+  "stopped": 10,
+  "hiddenDraws": 0,
+  "normalReturnResumed": true
+}

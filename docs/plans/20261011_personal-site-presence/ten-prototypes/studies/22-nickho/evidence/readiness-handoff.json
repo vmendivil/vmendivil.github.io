@@ -1,0 +1,86 @@
+{
+  "verdict": "READY_FOR_PARENT_RUNTIME_ASSEMBLY",
+  "verification_server_cleanup": {"port": 9622, "pid": 1781348, "session": "proc_ce5a38f3a46c", "state": "stop_requested_pending_tool_approval_not_confirmed"},
+  "public": false,
+  "title": "Optical Practice",
+  "description": "A depth-lit personal opening, oversized editorial reading, and a draggable collection of curiosity notes.",
+  "source_url": "https://nickho-motorsports.nl/",
+  "allowlist": [
+    "index.html",
+    "style.css",
+    "app.js",
+    "assets/Anton-Regular.ttf",
+    "assets/Anton-OFL.txt",
+    "assets/portrait.jpg",
+    "assets/portrait-depth.svg",
+    "assets/fold.svg",
+    "assets/homelab.svg",
+    "assets/process.svg",
+    "assets/web.svg"
+  ],
+  "runtime_files": 11,
+  "runtime_bytes": 857377,
+  "shipping_hashes": "evidence/readiness-shipping-hashes.json",
+  "served_match": "evidence/readiness-served-hash-match.json",
+  "modified_runtime": [
+    "app.js"
+  ],
+  "raw_results": {
+    "readiness-inspection": {
+      "path": "evidence/readiness-inspection/results.json",
+      "checks": 53,
+      "passed": 52,
+      "failed": [
+        "Trusted click selects web note"
+      ]
+    },
+    "readiness-confirmation": {
+      "path": "evidence/readiness-confirmation/results.json",
+      "checks": 65,
+      "passed": 64,
+      "failed": [
+        "Phone trusted return to opening"
+      ]
+    },
+    "readiness-timing": {
+      "path": "evidence/readiness-timing/results.json",
+      "checks": 10,
+      "passed": 10,
+      "failed": []
+    },
+    "readiness-contact": {
+      "path": "evidence/readiness-contact/results.json",
+      "checks": 18,
+      "passed": 18,
+      "failed": []
+    }
+  },
+  "resolved_failure_mapping": {
+    "Trusted click selects web note": "readiness-confirmation trusted mouse click and touch plate selection passed",
+    "Phone trusted return to opening": "readiness-timing plus readiness-contact await actual scroll completion; no runtime edit required"
+  },
+  "real_hidden_state": {
+    "verified": true,
+    "evidence": "evidence/browser-visibility-confirmed.json",
+    "method": "Exact study URL, real browser-window minimize/restore; no visibility-property override",
+    "hidden_depth_frames": [
+      5,
+      5
+    ],
+    "resumed_idle_depth_frames": [
+      35,
+      35
+    ]
+  },
+  "current_recording": "evidence/readiness-confirmation/video/page@7f48dc1c38c7c918d6a958c0e2927c5c.webm",
+  "source_evidence": "evidence/source/",
+  "evidence_hashes": "evidence/readiness-evidence-hashes.json",
+  "closure": "PARENT_CLOSURE.md",
+  "remaining": [
+    "Parent isolated preview/LAN assembly and served hash checks",
+    "Parent Original site comparison link retention",
+    "Physical device/Safari/hardware GPU not certified",
+    "Source pointer depth response unproven; original 2.5D adaptation, not photographic equivalence",
+    "Third-party LinkedIn availability untested"
+  ]
+}

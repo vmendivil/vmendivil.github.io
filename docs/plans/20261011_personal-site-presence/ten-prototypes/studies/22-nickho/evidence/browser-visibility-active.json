@@ -1,0 +1,37 @@
+[
+  {
+    "url": "about:blank",
+    "hidden": false,
+    "state": "visible",
+    "stats": {},
+    "tag": "actual-pointer-active"
+  },
+  {
+    "url": "about:blank",
+    "hidden": true,
+    "state": "hidden",
+    "stats": {},
+    "tag": "minimized-during-settle"
+  },
+  {
+    "url": "about:blank",
+    "hidden": true,
+    "state": "hidden",
+    "stats": {},
+    "tag": "hidden-idle"
+  },
+  {
+    "url": "about:blank",
+    "hidden": false,
+    "state": "visible",
+    "stats": {},
+    "tag": "visible-resume"
+  },
+  {
+    "url": "about:blank",
+    "hidden": false,
+    "state": "visible",
+    "stats": {},
+    "tag": "visible-settled"
+  }
+]

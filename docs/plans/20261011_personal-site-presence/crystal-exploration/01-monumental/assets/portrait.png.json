@@ -1,0 +1,6 @@
+{
+  "source": "Existing user-supplied generated illustration used by concept 01; original generation prompt/model unknown.",
+  "source_file_sha256": "90246757d5c04c49e8e598d96fa0e7925797831ceb503f87f5fee0e0b50d556b",
+  "method": "Edge-matched opaque raster: flood-fill border-connected neutral background (maximum channel <=38; channel spread <=12) to exact page ground RGB(33,32,30). Pixels outside that connected background are unchanged. No geometric mask, no alpha approximation, no new generation.",
+  "background_pixels": 978390
+}

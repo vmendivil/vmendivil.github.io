@@ -1,0 +1,21 @@
+{
+  "runner": "browser-use daemon actual hidden lifecycle, no mocked visibility",
+  "url": "http://127.0.0.1:9015",
+  "before": {
+    "visibility": "hidden",
+    "draws": 0,
+    "guide": false
+  },
+  "after": {
+    "visibility": "hidden",
+    "draws": 0,
+    "guide": false
+  },
+  "hiddenNavigation": {
+    "visibility": "hidden",
+    "draws": 0,
+    "guide": true
+  },
+  "navigationInput": "programmatic invalidation only; trusted input tested separately",
+  "status": "passed"
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T03:51:15.152570+00:00",
+  "title": "Design System: Practice Ledger",
+  "extensions": {"fidelity":{"scope": "Local experience-fidelity refinement; accepted identity preserved", "behavior": "The responsibility spine now has an explicit overview and \u201cRead every responsibility\u201d mode, individual disclosures, stable amber open/selected nodes and links to `#practice-1` through `#practice-5`. These are responsibility routes, never fabricated tenure. Opening a route opens its native entry. Within-page navigation preserves all open entries; returning to overview deliberately closes them. No reload persistence is claimed.", "evidence": "fidelity-evidence/confirmation; FIDELITY_REPORT.md", "reviewStatus": "Parent independent review and assembly checks pending"},
+    "breakpoints": [
+      {
+        "name": "stacked publication",
+        "value": "750px"
+      }
+    ],
+    "motion": [
+      {
+        "name": "anchor scroll",
+        "value": "smooth",
+        "purpose": "Native document navigation; auto under reduced motion"
+      }
+    ],
+    "shadows": []
+  },
+  "components": [
+    {
+      "name": "Responsibility disclosure",
+      "kind": "custom",
+      "description": "Native unboxed practice disclosure.",
+      "html": "<details class=\"ds-trail\"><summary>Read the responsibility</summary><p>Responsibility text</p></details>",
+      "css": ".ds-trail{color:#f0eade;background:#171512;font:17px/1.65 sans-serif}.ds-trail summary{min-height:44px;cursor:pointer;color:#eab66c;border-bottom:1px solid #4e473e}.ds-trail summary:hover{color:#f0eade}.ds-trail summary:focus-visible{outline:2px solid #eab66c;outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Practice Ledger",
+    "overview": "A warm-black professional publication whose material is readable language.",
+    "keyCharacteristics": [
+      "Distinct complete reading and contact surfaces",
+      "No inherited sibling CSS"
+    ],
+    "rules": [],
+    "dos": [
+      "Do preserve readable essays and genuine contact."
+    ],
+    "donts": [
+      "Do not invent professional proof."
+    ]
+  }
+}

@@ -1,0 +1,2254 @@
+{
+  "study": 5,
+  "session": "fidelity-05",
+  "engine": "Playwright Chromium / software WebGL; trusted emulated touch, not physical Safari/GPU certification",
+  "checks": [
+    {
+      "name": "1440 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 14,
+          "zoom": 0.88
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 15,
+          "zoom": 0.88
+        }
+      }
+    },
+    {
+      "name": "1440 landmark route arrives",
+      "pass": true,
+      "detail": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 51,
+        "zoom": 1.1799239388399896
+      }
+    },
+    {
+      "name": "1440 reading about",
+      "pass": true
+    },
+    {
+      "name": "1440 reading erp",
+      "pass": true
+    },
+    {
+      "name": "1440 reading lab",
+      "pass": true
+    },
+    {
+      "name": "1440 reading ai",
+      "pass": true
+    },
+    {
+      "name": "1440 reading contact",
+      "pass": true
+    },
+    {
+      "name": "1440 contact route",
+      "pass": true
+    },
+    {
+      "name": "1440 escape return",
+      "pass": true
+    },
+    {
+      "name": "1440 interrupted route last input wins",
+      "pass": true
+    },
+    {
+      "name": "1440 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 5,
+            "z": 6
+          },
+          "route": null,
+          "selected": "ai",
+          "frames": 186,
+          "zoom": 1.1799999603821885
+        },
+        "b": {
+          "pos": {
+            "x": 5,
+            "z": 6
+          },
+          "route": null,
+          "selected": "ai",
+          "frames": 186,
+          "zoom": 1.1799999603821885
+        }
+      }
+    },
+    {
+      "name": "1440 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 1440,
+        "scrollWidth": 1440,
+        "fonts": "loaded",
+        "bodySizes": [
+          17,
+          17,
+          17,
+          16
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Resume world",
+            "h": 48,
+            "w": 146
+          },
+          {
+            "text": "Field guide",
+            "h": 48,
+            "w": 160
+          },
+          {
+            "text": "ERP observatoryHow I work",
+            "h": 62,
+            "w": 165
+          },
+          {
+            "text": "The home laboratoryWhat I tinker with",
+            "h": 62,
+            "w": 197
+          },
+          {
+            "text": "Ideas in orbitWhat I’m exploring",
+            "h": 62,
+            "w": 135
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "Read this landmark",
+            "h": 44,
+            "w": 152
+          },
+          {
+            "text": "Return to overview",
+            "h": 44,
+            "w": 151
+          }
+        ]
+      }
+    },
+    {
+      "name": "1440 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "1440 reading >=16px",
+      "pass": true,
+      "detail": [
+        17,
+        17,
+        17,
+        16
+      ]
+    },
+    {
+      "name": "1440 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Resume world",
+          "h": 48,
+          "w": 146
+        },
+        {
+          "text": "Field guide",
+          "h": 48,
+          "w": 160
+        },
+        {
+          "text": "ERP observatoryHow I work",
+          "h": 62,
+          "w": 165
+        },
+        {
+          "text": "The home laboratoryWhat I tinker with",
+          "h": 62,
+          "w": 197
+        },
+        {
+          "text": "Ideas in orbitWhat I’m exploring",
+          "h": 62,
+          "w": 135
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "Read this landmark",
+          "h": 44,
+          "w": 152
+        },
+        {
+          "text": "Return to overview",
+          "h": 44,
+          "w": 151
+        }
+      ]
+    },
+    {
+      "name": "320 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 14,
+          "zoom": 1
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 15,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "name": "320 landmark route arrives",
+      "pass": true,
+      "detail": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 41,
+        "zoom": 1.0696838393340173
+      }
+    },
+    {
+      "name": "320 reading about",
+      "pass": true
+    },
+    {
+      "name": "320 reading erp",
+      "pass": true
+    },
+    {
+      "name": "320 reading lab",
+      "pass": true
+    },
+    {
+      "name": "320 reading ai",
+      "pass": true
+    },
+    {
+      "name": "320 reading contact",
+      "pass": true
+    },
+    {
+      "name": "320 contact route",
+      "pass": true
+    },
+    {
+      "name": "320 escape return",
+      "pass": true
+    },
+    {
+      "name": "320 interrupted route last input wins",
+      "pass": false
+    },
+    {
+      "name": "320 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 5,
+            "z": -3.8
+          },
+          "route": null,
+          "selected": "erp",
+          "frames": 158,
+          "zoom": 1.0699993594795427
+        },
+        "b": {
+          "pos": {
+            "x": 5,
+            "z": -3.8
+          },
+          "route": null,
+          "selected": "erp",
+          "frames": 158,
+          "zoom": 1.0699993594795427
+        }
+      }
+    },
+    {
+      "name": "320 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 320,
+        "scrollWidth": 320,
+        "fonts": "loaded",
+        "bodySizes": [
+          17,
+          17,
+          17,
+          16
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Resume world",
+            "h": 44,
+            "w": 104
+          },
+          {
+            "text": "Field guide",
+            "h": 44,
+            "w": 104
+          },
+          {
+            "text": "ERP observatoryHow I work",
+            "h": 57,
+            "w": 123
+          },
+          {
+            "text": "The home laboratoryWhat I tinker with",
+            "h": 57,
+            "w": 148
+          },
+          {
+            "text": "Ideas in orbitWhat I’m exploring",
+            "h": 57,
+            "w": 124
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "Read this landmark",
+            "h": 44,
+            "w": 146
+          },
+          {
+            "text": "Return to overview",
+            "h": 44,
+            "w": 144
+          }
+        ]
+      }
+    },
+    {
+      "name": "320 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "320 reading >=16px",
+      "pass": true,
+      "detail": [
+        17,
+        17,
+        17,
+        16
+      ]
+    },
+    {
+      "name": "320 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Resume world",
+          "h": 44,
+          "w": 104
+        },
+        {
+          "text": "Field guide",
+          "h": 44,
+          "w": 104
+        },
+        {
+          "text": "ERP observatoryHow I work",
+          "h": 57,
+          "w": 123
+        },
+        {
+          "text": "The home laboratoryWhat I tinker with",
+          "h": 57,
+          "w": 148
+        },
+        {
+          "text": "Ideas in orbitWhat I’m exploring",
+          "h": 57,
+          "w": 124
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "Read this landmark",
+          "h": 44,
+          "w": 146
+        },
+        {
+          "text": "Return to overview",
+          "h": 44,
+          "w": 144
+        }
+      ]
+    },
+    {
+      "name": "390 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 14,
+          "zoom": 1
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 16,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "name": "390 landmark route arrives",
+      "pass": true,
+      "detail": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 50,
+        "zoom": 1.0699822523959976
+      }
+    },
+    {
+      "name": "390 reading about",
+      "pass": true
+    },
+    {
+      "name": "390 reading erp",
+      "pass": true
+    },
+    {
+      "name": "390 reading lab",
+      "pass": true
+    },
+    {
+      "name": "390 reading ai",
+      "pass": true
+    },
+    {
+      "name": "390 reading contact",
+      "pass": true
+    },
+    {
+      "name": "390 contact route",
+      "pass": true
+    },
+    {
+      "name": "390 escape return",
+      "pass": true
+    },
+    {
+      "name": "390 interrupted route last input wins",
+      "pass": true
+    },
+    {
+      "name": "390 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 5,
+            "z": 6
+          },
+          "route": null,
+          "selected": "ai",
+          "frames": 177,
+          "zoom": 1.0699999749087197
+        },
+        "b": {
+          "pos": {
+            "x": 5,
+            "z": 6
+          },
+          "route": null,
+          "selected": "ai",
+          "frames": 177,
+          "zoom": 1.0699999749087197
+        }
+      }
+    },
+    {
+      "name": "390 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 390,
+        "scrollWidth": 390,
+        "fonts": "loaded",
+        "bodySizes": [
+          17,
+          17,
+          17,
+          16
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Resume world",
+            "h": 44,
+            "w": 104
+          },
+          {
+            "text": "Field guide",
+            "h": 44,
+            "w": 88
+          },
+          {
+            "text": "ERP observatoryHow I work",
+            "h": 57,
+            "w": 123
+          },
+          {
+            "text": "The home laboratoryWhat I tinker with",
+            "h": 57,
+            "w": 148
+          },
+          {
+            "text": "Ideas in orbitWhat I’m exploring",
+            "h": 57,
+            "w": 124
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "Read this landmark",
+            "h": 44,
+            "w": 146
+          },
+          {
+            "text": "Return to overview",
+            "h": 44,
+            "w": 144
+          }
+        ]
+      }
+    },
+    {
+      "name": "390 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "390 reading >=16px",
+      "pass": true,
+      "detail": [
+        17,
+        17,
+        17,
+        16
+      ]
+    },
+    {
+      "name": "390 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Resume world",
+          "h": 44,
+          "w": 104
+        },
+        {
+          "text": "Field guide",
+          "h": 44,
+          "w": 88
+        },
+        {
+          "text": "ERP observatoryHow I work",
+          "h": 57,
+          "w": 123
+        },
+        {
+          "text": "The home laboratoryWhat I tinker with",
+          "h": 57,
+          "w": 148
+        },
+        {
+          "text": "Ideas in orbitWhat I’m exploring",
+          "h": 57,
+          "w": 124
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "Read this landmark",
+          "h": 44,
+          "w": 146
+        },
+        {
+          "text": "Return to overview",
+          "h": 44,
+          "w": 144
+        }
+      ]
+    },
+    {
+      "name": "430 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 14,
+          "zoom": 1
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 17,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "name": "430 landmark route arrives",
+      "pass": true,
+      "detail": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 45,
+        "zoom": 1.0696838393340173
+      }
+    },
+    {
+      "name": "430 reading about",
+      "pass": true
+    },
+    {
+      "name": "430 reading erp",
+      "pass": true
+    },
+    {
+      "name": "430 reading lab",
+      "pass": true
+    },
+    {
+      "name": "430 reading ai",
+      "pass": true
+    },
+    {
+      "name": "430 reading contact",
+      "pass": true
+    },
+    {
+      "name": "430 contact route",
+      "pass": true
+    },
+    {
+      "name": "430 escape return",
+      "pass": true
+    },
+    {
+      "name": "430 interrupted route last input wins",
+      "pass": true
+    },
+    {
+      "name": "430 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 5,
+            "z": 6
+          },
+          "route": null,
+          "selected": "ai",
+          "frames": 172,
+          "zoom": 1.0699999749147242
+        },
+        "b": {
+          "pos": {
+            "x": 5,
+            "z": 6
+          },
+          "route": null,
+          "selected": "ai",
+          "frames": 172,
+          "zoom": 1.0699999749147242
+        }
+      }
+    },
+    {
+      "name": "430 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 430,
+        "scrollWidth": 430,
+        "fonts": "loaded",
+        "bodySizes": [
+          17,
+          17,
+          17,
+          16
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Resume world",
+            "h": 44,
+            "w": 104
+          },
+          {
+            "text": "Field guide",
+            "h": 44,
+            "w": 88
+          },
+          {
+            "text": "ERP observatoryHow I work",
+            "h": 57,
+            "w": 123
+          },
+          {
+            "text": "The home laboratoryWhat I tinker with",
+            "h": 57,
+            "w": 148
+          },
+          {
+            "text": "Ideas in orbitWhat I’m exploring",
+            "h": 57,
+            "w": 124
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "Read this landmark",
+            "h": 44,
+            "w": 146
+          },
+          {
+            "text": "Return to overview",
+            "h": 44,
+            "w": 144
+          }
+        ]
+      }
+    },
+    {
+      "name": "430 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "430 reading >=16px",
+      "pass": true,
+      "detail": [
+        17,
+        17,
+        17,
+        16
+      ]
+    },
+    {
+      "name": "430 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Resume world",
+          "h": 44,
+          "w": 104
+        },
+        {
+          "text": "Field guide",
+          "h": 44,
+          "w": 88
+        },
+        {
+          "text": "ERP observatoryHow I work",
+          "h": 57,
+          "w": 123
+        },
+        {
+          "text": "The home laboratoryWhat I tinker with",
+          "h": 57,
+          "w": 148
+        },
+        {
+          "text": "Ideas in orbitWhat I’m exploring",
+          "h": 57,
+          "w": 124
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "Read this landmark",
+          "h": 44,
+          "w": 146
+        },
+        {
+          "text": "Return to overview",
+          "h": 44,
+          "w": 144
+        }
+      ]
+    },
+    {
+      "name": "844 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 14,
+          "zoom": 0.88
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 15,
+          "zoom": 0.88
+        }
+      }
+    },
+    {
+      "name": "844 landmark route arrives",
+      "pass": true,
+      "detail": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 43,
+        "zoom": 1.1786450257172163
+      }
+    },
+    {
+      "name": "844 reading about",
+      "pass": true
+    },
+    {
+      "name": "844 reading erp",
+      "pass": true
+    },
+    {
+      "name": "844 reading lab",
+      "pass": true
+    },
+    {
+      "name": "844 reading ai",
+      "pass": true
+    },
+    {
+      "name": "844 reading contact",
+      "pass": true
+    },
+    {
+      "name": "844 contact route",
+      "pass": true
+    },
+    {
+      "name": "844 escape return",
+      "pass": true
+    },
+    {
+      "name": "844 interrupted route last input wins",
+      "pass": true
+    },
+    {
+      "name": "844 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 5,
+            "z": 6
+          },
+          "route": null,
+          "selected": "ai",
+          "frames": 171,
+          "zoom": 1.1799999603886326
+        },
+        "b": {
+          "pos": {
+            "x": 5,
+            "z": 6
+          },
+          "route": null,
+          "selected": "ai",
+          "frames": 171,
+          "zoom": 1.1799999603886326
+        }
+      }
+    },
+    {
+      "name": "844 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 844,
+        "scrollWidth": 844,
+        "fonts": "loaded",
+        "bodySizes": [
+          17,
+          17,
+          17,
+          16
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Resume world",
+            "h": 48,
+            "w": 146
+          },
+          {
+            "text": "Field guide",
+            "h": 48,
+            "w": 160
+          },
+          {
+            "text": "ERP observatoryHow I work",
+            "h": 57,
+            "w": 123
+          },
+          {
+            "text": "The home laboratoryWhat I tinker with",
+            "h": 57,
+            "w": 148
+          },
+          {
+            "text": "Ideas in orbitWhat I’m exploring",
+            "h": 57,
+            "w": 124
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "Read this landmark",
+            "h": 44,
+            "w": 152
+          },
+          {
+            "text": "Return to overview",
+            "h": 44,
+            "w": 151
+          }
+        ]
+      }
+    },
+    {
+      "name": "844 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "844 reading >=16px",
+      "pass": true,
+      "detail": [
+        17,
+        17,
+        17,
+        16
+      ]
+    },
+    {
+      "name": "844 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Resume world",
+          "h": 48,
+          "w": 146
+        },
+        {
+          "text": "Field guide",
+          "h": 48,
+          "w": 160
+        },
+        {
+          "text": "ERP observatoryHow I work",
+          "h": 57,
+          "w": 123
+        },
+        {
+          "text": "The home laboratoryWhat I tinker with",
+          "h": 57,
+          "w": 148
+        },
+        {
+          "text": "Ideas in orbitWhat I’m exploring",
+          "h": 57,
+          "w": 124
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "Read this landmark",
+          "h": 44,
+          "w": 152
+        },
+        {
+          "text": "Return to overview",
+          "h": 44,
+          "w": 151
+        }
+      ]
+    },
+    {
+      "name": "768 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 14,
+          "zoom": 0.88
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 16,
+          "zoom": 0.88
+        }
+      }
+    },
+    {
+      "name": "768 landmark route arrives",
+      "pass": true,
+      "detail": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 42,
+        "zoom": 1.1786450257172163
+      }
+    },
+    {
+      "name": "768 reading about",
+      "pass": true
+    },
+    {
+      "name": "768 reading erp",
+      "pass": true
+    },
+    {
+      "name": "768 reading lab",
+      "pass": true
+    },
+    {
+      "name": "768 reading ai",
+      "pass": true
+    },
+    {
+      "name": "768 reading contact",
+      "pass": true
+    },
+    {
+      "name": "768 contact route",
+      "pass": true
+    },
+    {
+      "name": "768 escape return",
+      "pass": true
+    },
+    {
+      "name": "768 interrupted route last input wins",
+      "pass": true
+    },
+    {
+      "name": "768 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 5,
+            "z": 6
+          },
+          "route": null,
+          "selected": "ai",
+          "frames": 167,
+          "zoom": 1.179999960396022
+        },
+        "b": {
+          "pos": {
+            "x": 5,
+            "z": 6
+          },
+          "route": null,
+          "selected": "ai",
+          "frames": 167,
+          "zoom": 1.179999960396022
+        }
+      }
+    },
+    {
+      "name": "768 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 768,
+        "scrollWidth": 768,
+        "fonts": "loaded",
+        "bodySizes": [
+          17,
+          17,
+          17,
+          16
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Resume world",
+            "h": 48,
+            "w": 146
+          },
+          {
+            "text": "Field guide",
+            "h": 48,
+            "w": 160
+          },
+          {
+            "text": "ERP observatoryHow I work",
+            "h": 62,
+            "w": 165
+          },
+          {
+            "text": "The home laboratoryWhat I tinker with",
+            "h": 62,
+            "w": 197
+          },
+          {
+            "text": "Ideas in orbitWhat I’m exploring",
+            "h": 62,
+            "w": 135
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "",
+            "h": 44,
+            "w": 44
+          },
+          {
+            "text": "Read this landmark",
+            "h": 44,
+            "w": 152
+          },
+          {
+            "text": "Return to overview",
+            "h": 44,
+            "w": 151
+          }
+        ]
+      }
+    },
+    {
+      "name": "768 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "768 reading >=16px",
+      "pass": true,
+      "detail": [
+        17,
+        17,
+        17,
+        16
+      ]
+    },
+    {
+      "name": "768 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Resume world",
+          "h": 48,
+          "w": 146
+        },
+        {
+          "text": "Field guide",
+          "h": 48,
+          "w": 160
+        },
+        {
+          "text": "ERP observatoryHow I work",
+          "h": 62,
+          "w": 165
+        },
+        {
+          "text": "The home laboratoryWhat I tinker with",
+          "h": 62,
+          "w": 197
+        },
+        {
+          "text": "Ideas in orbitWhat I’m exploring",
+          "h": 62,
+          "w": 135
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "",
+          "h": 44,
+          "w": 44
+        },
+        {
+          "text": "Read this landmark",
+          "h": 44,
+          "w": 152
+        },
+        {
+          "text": "Return to overview",
+          "h": 44,
+          "w": 151
+        }
+      ]
+    },
+    {
+      "name": "keyboard Tab reaches native focus",
+      "pass": true
+    },
+    {
+      "name": "keyboard route interrupted by walking",
+      "pass": true,
+      "detail": {
+        "pos": {
+          "x": 0.0637037037037037,
+          "z": 2.4197333333333333
+        },
+        "route": null,
+        "selected": "erp",
+        "frames": 19,
+        "zoom": 1.0781213423065181
+      }
+    },
+    {
+      "name": "keyboard Space opens journal",
+      "pass": true
+    },
+    {
+      "name": "focus reverse wrap",
+      "pass": true
+    },
+    {
+      "name": "focus forward wrap",
+      "pass": true
+    },
+    {
+      "name": "focus restored",
+      "pass": true
+    },
+    {
+      "name": "reduced motion static renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 2,
+          "zoom": 1
+        },
+        "b": {
+          "pos": {
+            "x": 0,
+            "z": 2.5
+          },
+          "route": null,
+          "selected": null,
+          "frames": 2,
+          "zoom": 1
+        }
+      }
+    },
+    {
+      "name": "reduced media actual",
+      "pass": true
+    },
+    {
+      "name": "reduced visible arrival",
+      "pass": true
+    },
+    {
+      "name": "WebGL fallback reading/contact",
+      "pass": true
+    },
+    {
+      "name": "no-JS complete factual path",
+      "pass": true
+    },
+    {
+      "name": "no-JS real contact",
+      "pass": true
+    },
+    {
+      "name": "no normal browser errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "performance": [
+    {
+      "width": 1440,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 0.88
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 15,
+        "zoom": 0.88
+      },
+      "renderDelta": 1
+    },
+    {
+      "width": 320,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 1
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 15,
+        "zoom": 1
+      },
+      "renderDelta": 1
+    },
+    {
+      "width": 390,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 1
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 16,
+        "zoom": 1
+      },
+      "renderDelta": 2
+    },
+    {
+      "width": 430,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 1
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 17,
+        "zoom": 1
+      },
+      "renderDelta": 3
+    },
+    {
+      "width": 844,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 0.88
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 15,
+        "zoom": 0.88
+      },
+      "renderDelta": 1
+    },
+    {
+      "width": 768,
+      "intervalMs": 1100,
+      "before": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 14,
+        "zoom": 0.88
+      },
+      "after": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 16,
+        "zoom": 0.88
+      },
+      "renderDelta": 2
+    }
+  ],
+  "frames": [
+    {
+      "file": "1440-overview.png",
+      "timestamp": 1791842933230,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 13,
+        "zoom": 0.88
+      }
+    },
+    {
+      "file": "1440-route-100.png",
+      "timestamp": 1791842999018,
+      "state": {
+        "pos": {
+          "x": -1.7599999999999998,
+          "z": 2.9576
+        },
+        "route": {
+          "elapsed": 0.72
+        },
+        "selected": "lab",
+        "frames": 34,
+        "zoom": 1.1454024636885811
+      }
+    },
+    {
+      "file": "1440-route-400.png",
+      "timestamp": 1791843018235,
+      "state": {
+        "pos": {
+          "x": -4.757037037037037,
+          "z": 3.7368296296296295
+        },
+        "route": {
+          "elapsed": 1.5600000000000005
+        },
+        "selected": "lab",
+        "frames": 41,
+        "zoom": 1.1772162958338805
+      }
+    },
+    {
+      "file": "1440-route-600.png",
+      "timestamp": 1791843034297,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 48,
+        "zoom": 1.179776024257487
+      }
+    },
+    {
+      "file": "1440-arrival.png",
+      "timestamp": 1791843062143,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 58,
+        "zoom": 1.1799938801489764
+      }
+    },
+    {
+      "file": "1440-reading-about.png",
+      "timestamp": 1791843127651,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 80,
+        "zoom": 1.179999995431006
+      }
+    },
+    {
+      "file": "1440-reading-erp.png",
+      "timestamp": 1791843131053,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 81,
+        "zoom": 1.179999995431006
+      }
+    },
+    {
+      "file": "1440-reading-lab.png",
+      "timestamp": 1791843135050,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 82,
+        "zoom": 1.179999995431006
+      }
+    },
+    {
+      "file": "1440-reading-ai.png",
+      "timestamp": 1791843137455,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 83,
+        "zoom": 1.179999995431006
+      }
+    },
+    {
+      "file": "1440-reading-contact.png",
+      "timestamp": 1791843140509,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 84,
+        "zoom": 1.179999995431006
+      }
+    },
+    {
+      "file": "1440-route-reversed.png",
+      "timestamp": 1791843254026,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 129,
+        "zoom": 0.8801562625731647
+      }
+    },
+    {
+      "file": "320-overview.png",
+      "timestamp": 1791843423196,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 13,
+        "zoom": 1
+      }
+    },
+    {
+      "file": "320-arrival.png",
+      "timestamp": 1791843456246,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 48,
+        "zoom": 1.0699745618371455
+      }
+    },
+    {
+      "file": "390-overview.png",
+      "timestamp": 1791843535468,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 13,
+        "zoom": 1
+      }
+    },
+    {
+      "file": "390-route-100.png",
+      "timestamp": 1791843551300,
+      "state": {
+        "pos": {
+          "x": -1.7599999999999998,
+          "z": 2.9576
+        },
+        "route": {
+          "elapsed": 0.72
+        },
+        "selected": "lab",
+        "frames": 33,
+        "zoom": 1.0619272415273358
+      }
+    },
+    {
+      "file": "390-route-400.png",
+      "timestamp": 1791843556171,
+      "state": {
+        "pos": {
+          "x": -4.757037037037037,
+          "z": 3.7368296296296295
+        },
+        "route": {
+          "elapsed": 1.5600000000000005
+        },
+        "selected": "lab",
+        "frames": 40,
+        "zoom": 1.0693504690279056
+      }
+    },
+    {
+      "file": "390-route-600.png",
+      "timestamp": 1791843560619,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 47,
+        "zoom": 1.0699477389934136
+      }
+    },
+    {
+      "file": "390-arrival.png",
+      "timestamp": 1791843567605,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 57,
+        "zoom": 1.0699985720347613
+      }
+    },
+    {
+      "file": "390-reading-about.png",
+      "timestamp": 1791843585264,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 81,
+        "zoom": 1.069999999481074
+      }
+    },
+    {
+      "file": "390-reading-erp.png",
+      "timestamp": 1791843586203,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 82,
+        "zoom": 1.069999999481074
+      }
+    },
+    {
+      "file": "390-reading-lab.png",
+      "timestamp": 1791843586825,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 83,
+        "zoom": 1.069999999481074
+      }
+    },
+    {
+      "file": "390-reading-ai.png",
+      "timestamp": 1791843587328,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 84,
+        "zoom": 1.069999999481074
+      }
+    },
+    {
+      "file": "390-reading-contact.png",
+      "timestamp": 1791843587833,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 85,
+        "zoom": 1.069999999481074
+      }
+    },
+    {
+      "file": "390-route-reversed.png",
+      "timestamp": 1791843605937,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 120,
+        "zoom": 0.8800989662963347
+      }
+    },
+    {
+      "file": "430-overview.png",
+      "timestamp": 1791843665469,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 13,
+        "zoom": 1
+      }
+    },
+    {
+      "file": "430-arrival.png",
+      "timestamp": 1791843701096,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 52,
+        "zoom": 1.0699745618371455
+      }
+    },
+    {
+      "file": "844-overview.png",
+      "timestamp": 1791843901404,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 13,
+        "zoom": 0.88
+      }
+    },
+    {
+      "file": "844-arrival.png",
+      "timestamp": 1791843933334,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 50,
+        "zoom": 1.1798909793020516
+      }
+    },
+    {
+      "file": "844-reading-about.png",
+      "timestamp": 1791843958093,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 73,
+        "zoom": 1.1799999432138173
+      }
+    },
+    {
+      "file": "844-reading-erp.png",
+      "timestamp": 1791843959136,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 74,
+        "zoom": 1.1799999432138173
+      }
+    },
+    {
+      "file": "844-reading-lab.png",
+      "timestamp": 1791843959775,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 75,
+        "zoom": 1.1799999432138173
+      }
+    },
+    {
+      "file": "844-reading-ai.png",
+      "timestamp": 1791843960469,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 76,
+        "zoom": 1.1799999432138173
+      }
+    },
+    {
+      "file": "844-reading-contact.png",
+      "timestamp": 1791843961620,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 77,
+        "zoom": 1.1799999432138173
+      }
+    },
+    {
+      "file": "768-overview.png",
+      "timestamp": 1791844057315,
+      "state": {
+        "pos": {
+          "x": 0,
+          "z": 2.5
+        },
+        "route": null,
+        "selected": null,
+        "frames": 13,
+        "zoom": 0.88
+      }
+    },
+    {
+      "file": "768-arrival.png",
+      "timestamp": 1791844099877,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 48,
+        "zoom": 1.1798437374268347
+      }
+    },
+    {
+      "file": "reduced-result.png",
+      "timestamp": 1791844311872,
+      "state": {
+        "pos": {
+          "x": -5,
+          "z": 3.8
+        },
+        "route": null,
+        "selected": "lab",
+        "frames": 3,
+        "zoom": 1.07
+      }
+    },
+    {
+      "file": "renderer-fallback.png",
+      "timestamp": 1791844312720,
+      "state": {}
+    }
+  ],
+  "total": 103,
+  "passed": 102,
+  "failed": [
+    {
+      "name": "320 interrupted route last input wins",
+      "pass": false
+    }
+  ]
+}

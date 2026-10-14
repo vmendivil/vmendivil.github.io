@@ -1,0 +1,11 @@
+{
+  "runner": "browser-use actual daemon visibility, no mocked properties/events",
+  "before": {
+    "visibility": "hidden",
+    "draws": 0
+  },
+  "after": {
+    "visibility": "hidden",
+    "draws": 0
+  }
+}

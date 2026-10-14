@@ -1,0 +1,27 @@
+{
+  "study": 19,
+  "results": [
+    {
+      "label": "context-loss floor navigation cannot restart renderer",
+      "pass": true,
+      "detail": {
+        "start": 18,
+        "end": 18
+      }
+    },
+    {
+      "label": "lost context play disabled",
+      "pass": true
+    },
+    {
+      "label": "settled animation count zero",
+      "pass": true
+    },
+    {
+      "label": "renderer failure offers truthful disabled control",
+      "pass": true,
+      "detail": "Static illustration — renderer unavailable"
+    }
+  ],
+  "errors": []
+}

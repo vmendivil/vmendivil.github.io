@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "name": "Phone trusted return after actual scroll completion",
+      "pass": true,
+      "detail": [
+        {
+          "y": 3127,
+          "hash": "#home"
+        },
+        {
+          "y": 1309,
+          "hash": "#home"
+        },
+        {
+          "y": 175,
+          "hash": "#home"
+        },
+        {
+          "y": 30,
+          "hash": "#home"
+        },
+        {
+          "y": 30,
+          "hash": "#home"
+        },
+        {
+          "y": 30,
+          "hash": "#home"
+        },
+        {
+          "y": 0,
+          "hash": "#home"
+        }
+      ]
+    },
+    {
+      "name": "Trusted touch cancellation preserves selected reading",
+      "pass": true
+    },
+    {
+      "name": "Tap after cancelled drag works",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion drag remains flat during gesture",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion drag still changes visible note",
+      "pass": true
+    },
+    {
+      "name": "Native first Tab reaches skip link",
+      "pass": true
+    },
+    {
+      "name": "Native sequential Tab reaches menu",
+      "pass": true
+    },
+    {
+      "name": "Native sequential menu activation returns focus",
+      "pass": true
+    },
+    {
+      "name": "Actual context loss yields usable flat fallback",
+      "pass": true
+    },
+    {
+      "name": "No-JS native plate anchor reaches inline note",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T03:50:38.076682+00:00",
+  "title": "Design System: Afterlight Floors",
+  "extensions": {
+    "motion": [
+      {
+        "name": "floor-ease",
+        "value": "time-based exponential camera settling (110ms time constant)",
+        "purpose": "Interruptible floor and screening camera travel; opt-in capped projection scan, no rendering at rest/reading/hidden; instant under reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "800px"
+      },
+      {
+        "name": "landscape",
+        "value": "max-height:500px and min-width:600px"
+      }
+    ],
+    "shadows": []
+  },
+  "components": [
+    {
+      "name": "Floor link",
+      "kind": "nav",
+      "description": "Real floor fragment with active indicator.",
+      "html": "<a class=\"ds-floor\" href=\"#2f\">2 Practice</a>",
+      "css": ".ds-floor{display:inline-flex;align-items:center;min-height:44px;padding:7px 14px;color:#eee4b0;background:#17191a;font-family:Arial,sans-serif;text-decoration:none}.ds-floor:hover{text-decoration:underline}.ds-floor:focus-visible{outline:2px solid #eee4b0;outline-offset:5px}"
+    },
+    {
+      "name": "Reading return",
+      "kind": "custom",
+      "description": "Unboxed return action on the illuminated reading wall.",
+      "html": "<a class=\"ds-return\" href=\"#2f\">Return to floor</a>",
+      "css": ".ds-return{display:inline-flex;align-items:center;min-height:44px;color:#222627;background:#d8d7cc;font:14px Arial,sans-serif;text-decoration:none}.ds-return:hover{text-decoration:underline;text-underline-offset:6px}.ds-return:focus-visible{outline:2px solid #222627;outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Afterlight Floors",
+    "overview": "A graphite screening annex, not a house or a film studio identity. Extended pale-yellow lettering sits outside the projected artwork. Reading changes material to an illuminated concrete inscription spread, without a floating content card.",
+    "keyCharacteristics": [
+      "Three architectural bays per floor; four independently navigable floors.",
+      "Original still imagery, grain, restrained projection light and floor reflection.",
+      "Unboxed reading, clear return path, realistic personal facts."
+    ],
+    "rules": [],
+    "dos": [
+      "Do keep substantial text out of canvas and projections.",
+      "Do keep four named floors reachable without gestures.",
+      "Do preserve the horizontal multi-bay room and vertical navigation ritual."
+    ],
+    "donts": [
+      "Don't borrow reference logos, copyrighted films, models or agency claims.",
+      "Don't turn reading into floating rounded cards."
+    ]
+  }
+}

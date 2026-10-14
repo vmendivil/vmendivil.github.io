@@ -1,0 +1,34 @@
+{
+  "scope": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/crystal-exploration/02-atlas",
+  "fix_batch_count": 1,
+  "independent_verdict": "Pending parent fresh reviewer; this report is execution evidence, not independent approval.",
+  "fixes": [
+    "Moved live route status into map selector footer with its own role=status aria-live=polite; route detail begins with heading. JS selector unchanged and all three route/status/topic updates tested.",
+    "Navigation conversation tap target minimum 44px. Actual mobile bounding box: 147.46875 x 44px; desktop 169.953125 x 44px.",
+    "Recorded true user-pinned-direction exemption, read mode-persuade; no retroactive seed roll or invented key. Updated DESIGN.md."
+  ],
+  "screenshots": [
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/crystal-exploration/02-atlas/.impeccable/review/desktop.png",
+      "dimensions": [
+        1440,
+        2445
+      ],
+      "sha256": "3b3a5e76b76d67b4d4f507d541bf9d4cc68ae3bc6c444e4f9cd9f996661d0b61",
+      "validity": "Opened and visually inspected: document top, loaded artwork and complete below-fold sections; no repeated tiles or blank areas."
+    },
+    {
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/crystal-exploration/02-atlas/.impeccable/review/mobile.png",
+      "dimensions": [
+        390,
+        3582
+      ],
+      "sha256": "bcd5244e32c0784b6455a278354ba52ab0dc2b902845b05549ad5231999c2a74",
+      "validity": "Opened and visually inspected: document top, loaded artwork and complete below-fold sections; no repeated tiles or blank areas."
+    }
+  ],
+  "browser_checks": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/crystal-exploration/02-atlas/.impeccable/review/fix-checks.json",
+  "capture_method": "Full-height Chromium viewport from document top. Desktop Monumental hero height frozen temporarily to its original 1440x1000 computed height (905px) to preserve svh geometry; no source edit for capture. Mobile interaction tests ran at 390x844.",
+  "capture_issues": "Initial captureBeyondViewport produced repeating tiles on mobile; invalid file replaced. Page.captureScreenshot occasionally timed out; successful retries used full-height viewport and fromSurface=true. These were capture-harness retries, not further UI fix batches.",
+  "other_limits": "No production/shared-folder edits, commit, push or publication. Initial keyboard Space attempt did not open Monumental disclosure; not claimed passed. Pointer disclosure verified."
+}

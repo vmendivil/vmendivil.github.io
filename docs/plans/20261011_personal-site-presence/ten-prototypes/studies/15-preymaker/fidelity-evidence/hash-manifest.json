@@ -1,0 +1,15 @@
+{
+  "runtime": {
+    "app.js": "f5288fca89729cade2baafec46163869f5044957b08a0e5997cd0f29d954325a",
+    "fidelity.js": "d19872629a006de3d1a07a08f50fe29ab17db1e1e1f1bfa704a4a79fb5ac847d",
+    "fidelity.css": "b3f36f683388b20a9dfd20600bebc74c3869140c8f769ada74197514d7434de9",
+    "style.css": "04e0d779a6c2ed625cf30ef05d12e2449ae9cbaa858870be0e7cc7b2f57ea367",
+    "index.html": "b303f262883eb0ba45915feb97f9c6cae40785fb63c039ba0c7cc8d6a428639c"
+  },
+  "sourceEvidence": {
+    "group-b/15-frame-board.jpg": "9c887ed168f1c99ddea892d98e613ea9edba4254ab8a33dc1c2b97e56b67146e",
+    "group-b/15-preymaker-recording-0.mp4": "835ab22e82a0e7cd9f68d58869a17206e33d785b86ae5ff09c7d166b63ff1f45",
+    "group-b/15-preymaker-recording-1.mp4": "f0e235c0f043ced16399347e5ea68fc0d4ab5718af23c703c245b2d39bb536df"
+  },
+  "assetPolicy": "Reference media research only; existing shipping assets unchanged"
+}

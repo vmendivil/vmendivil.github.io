@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T03:42:51.064031+00:00",
+  "title": "Design System: Wideframe",
+  "extensions": {"fidelity":{"scope": "Local experience-fidelity refinement; accepted identity preserved", "behavior": "The opening now offers an opt-in three-shot sequence: establish the scene, inspect circuitry, leave good notes. Original posters\u2014not source footage\u2014are recomposed with a750ms rectangular shutter and4200ms shot-specific camera travel. Caption, Previous/Next, play/pause and interruptible reversal operate on phones as well as desktop. Playback never starts automatically and has no audio. It pauses offscreen/hidden; reduced motion disables playback while manual selection changes image/caption immediately. Separate portrait opening remains, detailed/notes shots have deliberate phone crops.", "evidence": "fidelity-evidence/confirmation; FIDELITY_REPORT.md", "reviewStatus": "Parent independent review and assembly checks pending"},
+    "colorMeta": {
+      "paper": {"role": "neutral", "displayName": "Silver paper"},
+      "ink": {"role": "neutral", "displayName": "Editorial ink"},
+      "film-ground": {"role": "neutral", "displayName": "Cool film interval"},
+      "focus": {"role": "primary", "displayName": "Keyboard focus blue"}
+    },
+    "typographyMeta": {
+      "display": {"displayName": "Architectural name", "purpose": "Pinned cinematic opening name; not paragraph type."},
+      "body": {"displayName": "Reading", "purpose": "Substantive prose, 17px phones and 18px desktop essay."}
+    },
+    "shadows": [],
+    "motion": [
+      {"name": "chapter-frame", "value": "0.8s cubic-bezier(.16,1,.3,1)", "purpose": "First essay aperture; opening has interruptible750ms shutter and4200ms camera travel on desktop/phones, instant manual result under reduced motion."}
+    ],
+    "breakpoints": [{"name": "stack-reading", "value": "700px"}, {"name": "portrait-art", "value": "600px"}, {"name": "short-landscape", "value": "500px height"}],
+    "focus": "3px solid #227299, offset 5px",
+    "assetTechnique": "Original Three.js modeled scene rendered offline; runtime has four JPEG posters and no WebGL requirement."
+  },
+  "components": [
+    {
+      "name": "Menu button", "kind": "button", "refersTo": "menu-button", "description": "Restrained native menu trigger with 44px target.",
+      "html": "<button class=\"ds-menu\">MENU <span aria-hidden=\"true\">+</span></button>",
+      "css": ".ds-menu{font-family:Archivo,Helvetica,sans-serif;font-size:12px;font-weight:600;border:0;min-height:44px;padding:0 12px;color:var(--ink,#151c20);background:var(--paper,#e8ecee)}.ds-menu span{margin-left:12px;font-size:22px}.ds-menu:hover{color:#285a75}.ds-menu:active{background:#d1dde4}.ds-menu:focus-visible{outline:3px solid #227299;outline-offset:5px}"
+    },
+    {
+      "name": "Header", "kind": "nav", "refersTo": "header", "description": "Flat silver fixed chapter chrome.",
+      "html": "<nav class=\"ds-header\"><a href=\"#\">VM / WIDEFRAME</a><a href=\"#\">CONTACT</a></nav>",
+      "css": ".ds-header{height:64px;background:var(--paper,#e8ecee);color:var(--ink,#151c20);border-bottom:1px solid #c7cfd3;display:flex;justify-content:space-between;align-items:center;padding:0 20px;font:600 12px Archivo,Helvetica,sans-serif}.ds-header a{color:inherit;min-height:44px;display:flex;align-items:center;text-decoration:none}.ds-header a:hover{text-decoration:underline}.ds-header a:focus-visible{outline:3px solid #227299;outline-offset:5px}"
+    },
+    {
+      "name": "Chapter row", "kind": "nav", "description": "Ruled contents index, descriptive rather than numbered.",
+      "html": "<a class=\"ds-chapter\" href=\"#\">Approach <span>Look closer</span></a>",
+      "css": ".ds-chapter{display:flex;justify-content:space-between;align-items:center;gap:20px;min-height:74px;border-top:1px solid var(--rule,#8c979e);padding:14px 0;text-decoration:none;color:var(--ink,#151c20);font:500 36px Archivo,Helvetica,sans-serif;background:var(--paper,#e8ecee)}.ds-chapter span{font-size:12px}.ds-chapter:hover{color:#285a75}.ds-chapter:focus-visible{outline:3px solid #227299;outline-offset:5px}"
+    },
+    {
+      "name": "Film caption", "kind": "custom", "refersTo": "film-caption", "description": "Caption pair beneath a full-width original frame.",
+      "html": "<div class=\"ds-caption\"><span>Frame A — Under the surface</span><span>Original rendered study</span></div>",
+      "css": ".ds-caption{display:flex;justify-content:space-between;gap:20px;padding:14px 20px;background:#17252e;color:#d3dfe6;border-bottom:1px solid #647680;font:400 12px/1.6 Archivo,Helvetica,sans-serif}"
+    },
+    {
+      "name": "Contact link", "kind": "custom", "description": "Direct honest external contact, not a simulated form.",
+      "html": "<a class=\"ds-contact\" href=\"https://www.linkedin.com/in/vmendivilaxdeveloper\">Connect on LinkedIn <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19L19 5M5 5h14v14\"/></svg></a>",
+      "css": ".ds-contact{display:flex;align-items:center;gap:20px;min-height:48px;text-decoration:none;color:var(--ink,#151c20);font:550 24px/1.2 Archivo,Helvetica,sans-serif}.ds-contact svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.5}.ds-contact:hover{text-decoration:underline;text-underline-offset:.25em}.ds-contact:focus-visible{outline:3px solid #227299;outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Wideframe",
+    "overview": "A personal image essay carried by authored technology still-lifes. The interface recedes around large material-rich images, then becomes a spacious silver-white reading surface. Source inspiration is cinematic image scale and sparse contact-sheet structure, not agency identity or a project catalogue.",
+    "keyCharacteristics": ["Full-width original cool-lit frames.", "Large grotesk type and restrained readable navigation.", "Ordinary document reading, no scenic operation required.", "Silver-white editorial pacing and ruled contact rows."],
+    "rules": [
+      {"name": "The Image Owns Color Rule", "body": "Rendered objects supply green circuitry and brushed silver. Do not repeat those colors as badges, buttons or box fills.", "section": "colors"},
+      {"name": "The Two Distances Rule", "body": "Display is seen across the frame; prose is read at arm's length. Never shrink prose to preserve a one-screen composition.", "section": "typography"}
+    ],
+    "dos": ["Do keep substantive paragraphs at 17–18px in normal document scroll.", "Do preserve image detail, clear captions and light/dark pacing.", "Do label original synthetic scenes honestly."],
+    "donts": ["Don't invent projects, clients, outcomes or equipment ownership.", "Don't use source films, logos, office addresses or VFX claims.", "Don't turn the reading into a grid of equal cards."]
+  }
+}

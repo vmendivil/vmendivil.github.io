@@ -1,0 +1,535 @@
+[
+  {
+    "engine": "153.0.8010.12",
+    "input": "Playwright page.keyboard.press/type; Tab traversal only, no programmatic focus/click or DOM event dispatch"
+  },
+  {
+    "assertion": "320: no horizontal overflow",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "320: labels",
+    "actual": [
+      "Too much manual work.",
+      "The tools don’t fit the job.",
+      "Dynamics is holding things up."
+    ],
+    "expected": [
+      "Too much manual work.",
+      "The tools don’t fit the job.",
+      "Dynamics is holding things up."
+    ],
+    "status": "PASS"
+  },
+  {
+    "assertion": "320: all BR boundaries contain whitespace",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "320: problem BR display",
+    "actual": [
+      "none",
+      "none",
+      "none"
+    ],
+    "expected": [
+      "none",
+      "none",
+      "none"
+    ],
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: no horizontal overflow",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: labels",
+    "actual": [
+      "Too much manual work.",
+      "The tools don’t fit the job.",
+      "Dynamics is holding things up."
+    ],
+    "expected": [
+      "Too much manual work.",
+      "The tools don’t fit the job.",
+      "Dynamics is holding things up."
+    ],
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: all BR boundaries contain whitespace",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: problem BR display",
+    "actual": [
+      "none",
+      "none",
+      "none"
+    ],
+    "expected": [
+      "none",
+      "none",
+      "none"
+    ],
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: tools Enter selected",
+    "actual": "tools",
+    "expected": "tools",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: exactly one selected",
+    "actual": 1,
+    "expected": 1,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: tools panel",
+    "actual": "Start with the work. Then fit the tool.",
+    "expected": "Start with the work. Then fit the tool.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: tools retains focus",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: dynamics Space selected",
+    "actual": "dynamics",
+    "expected": "dynamics",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: exactly one selected",
+    "actual": 1,
+    "expected": 1,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: dynamics panel",
+    "actual": "Trace the process. Unblock the system.",
+    "expected": "Trace the process. Unblock the system.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: dynamics retains focus",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: manual Enter selected",
+    "actual": "manual",
+    "expected": "manual",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: exactly one selected",
+    "actual": 1,
+    "expected": 1,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: manual panel",
+    "actual": "Find the repeat. Remove the friction.",
+    "expected": "Find the repeat. Remove the friction.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: manual retains focus",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: keyboard starting point preselect",
+    "actual": "manual",
+    "expected": "manual",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: disclosure Enter opens",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: disclosure Space closes",
+    "actual": false,
+    "expected": false,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: native select ArrowDown",
+    "actual": "tools",
+    "expected": "tools",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: empty error",
+    "actual": "Add a sentence about the problem to prepare your outline.",
+    "expected": "Add a sentence about the problem to prepare your outline.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: invalid and focus",
+    "actual": [
+      "true",
+      true
+    ],
+    "expected": [
+      "true",
+      true
+    ],
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: input clears error",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: valid result visible",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: exact text (not HTML)",
+    "actual": "Teams retype <b>orders</b> each day.",
+    "expected": "Teams retype <b>orders</b> each day.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: no inserted markup",
+    "actual": 0,
+    "expected": 0,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: result topic",
+    "actual": "Tools that don’t fit",
+    "expected": "Tools that don’t fit",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: result focused",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: local disclosure",
+    "actual": "Prepared locally. Not sent.",
+    "expected": "Prepared locally. Not sent.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: edit returns textarea focus",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: edit preserves input",
+    "actual": "Teams retype <b>orders</b> each day.",
+    "expected": "Teams retype <b>orders</b> each day.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: revised outline",
+    "actual": "Teams retype <b>orders</b> each day. Updated.",
+    "expected": "Teams retype <b>orders</b> each day. Updated.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: action network requests",
+    "actual": [],
+    "expected": [],
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: storage empty",
+    "actual": [
+      0,
+      0
+    ],
+    "expected": [
+      0,
+      0
+    ],
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: external requests",
+    "actual": [],
+    "expected": [],
+    "status": "PASS"
+  },
+  {
+    "assertion": "390: page errors",
+    "actual": [],
+    "expected": [],
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: no horizontal overflow",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: labels",
+    "actual": [
+      "Too much\nmanual work.",
+      "The tools don’t\nfit the job.",
+      "Dynamics is\nholding things up."
+    ],
+    "expected": [
+      "Too much\nmanual work.",
+      "The tools don’t\nfit the job.",
+      "Dynamics is\nholding things up."
+    ],
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: all BR boundaries contain whitespace",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: problem BR display",
+    "actual": [
+      "inline",
+      "inline",
+      "inline"
+    ],
+    "expected": [
+      "inline",
+      "inline",
+      "inline"
+    ],
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: tools Enter selected",
+    "actual": "tools",
+    "expected": "tools",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: exactly one selected",
+    "actual": 1,
+    "expected": 1,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: tools panel",
+    "actual": "Start with the work. Then fit the tool.",
+    "expected": "Start with the work. Then fit the tool.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: tools retains focus",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: dynamics Space selected",
+    "actual": "dynamics",
+    "expected": "dynamics",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: exactly one selected",
+    "actual": 1,
+    "expected": 1,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: dynamics panel",
+    "actual": "Trace the process. Unblock the system.",
+    "expected": "Trace the process. Unblock the system.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: dynamics retains focus",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: manual Enter selected",
+    "actual": "manual",
+    "expected": "manual",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: exactly one selected",
+    "actual": 1,
+    "expected": 1,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: manual panel",
+    "actual": "Find the repeat. Remove the friction.",
+    "expected": "Find the repeat. Remove the friction.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: manual retains focus",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: keyboard starting point preselect",
+    "actual": "manual",
+    "expected": "manual",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: disclosure Enter opens",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: disclosure Space closes",
+    "actual": false,
+    "expected": false,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: native select ArrowDown",
+    "actual": "tools",
+    "expected": "tools",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: empty error",
+    "actual": "Add a sentence about the problem to prepare your outline.",
+    "expected": "Add a sentence about the problem to prepare your outline.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: invalid and focus",
+    "actual": [
+      "true",
+      true
+    ],
+    "expected": [
+      "true",
+      true
+    ],
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: input clears error",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: valid result visible",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: exact text (not HTML)",
+    "actual": "Teams retype <b>orders</b> each day.",
+    "expected": "Teams retype <b>orders</b> each day.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: no inserted markup",
+    "actual": 0,
+    "expected": 0,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: result topic",
+    "actual": "Tools that don’t fit",
+    "expected": "Tools that don’t fit",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: result focused",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: local disclosure",
+    "actual": "Prepared locally. Not sent.",
+    "expected": "Prepared locally. Not sent.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: edit returns textarea focus",
+    "actual": true,
+    "expected": true,
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: edit preserves input",
+    "actual": "Teams retype <b>orders</b> each day.",
+    "expected": "Teams retype <b>orders</b> each day.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: revised outline",
+    "actual": "Teams retype <b>orders</b> each day. Updated.",
+    "expected": "Teams retype <b>orders</b> each day. Updated.",
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: action network requests",
+    "actual": [],
+    "expected": [],
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: storage empty",
+    "actual": [
+      0,
+      0
+    ],
+    "expected": [
+      0,
+      0
+    ],
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: external requests",
+    "actual": [],
+    "expected": [],
+    "status": "PASS"
+  },
+  {
+    "assertion": "1440: page errors",
+    "actual": [],
+    "expected": [],
+    "status": "PASS"
+  }
+]
+ALL ASSERTIONS PASSED

@@ -1,0 +1,11 @@
+# Fidelity contract
+
+Source: https://henryheffernan.com/. Live start reveals desk miniature then approach invitation; retained henry-desk.png shows close functional screen surrounded by tactile objects. Gap: static camera and only screen/envelope raycast, paper doesn't react. Focal implementation: inspect object camera approach with selected notebook page/envelope elevation, all four real geometry targets, and return to room reversal. Existing monitor/notebook/correspondence reading grammars remain. Phone shelf performs the same inspection and scrolls to readable material. Reduced motion uses immediate settled inspections; paused/offscreen/hidden room stops ambient rendering. Three.js retained, 20fps inspect /14fps ambience, <=1.7 DPR. Not a source OS emulator; procedural room lacks photorealistic source material detail.
+
+Preserve all factual copy and LinkedIn. Add complete no-JS reading rather than controls-only fallback. Planned contract precedes runtime edits. Evidence: fidelity/ reference observations and retained original captures (copied for durable private evidence only).
+
+## Implemented outcome
+Selecting screen, server, notebook or envelope approaches its location with the real camera. The notebook page tilts up and envelope lifts out of the desk plane, then returns when leaving. All four physical object geometries are raycast targets and were actually clicked. Existing monitor, working-notebook and correspondence reading materials stay distinct. Phones keep the room visible on selection, with readable notes immediately below the shelf rather than jumping away before the inspection can be seen. Ambient/inspection rendering stops when the room is fully offscreen.
+
+## Material limits
+Not a functional retro OS/browser or source-grade photorealistic texture reconstruction. Paper movement is a rigid page, not simulated paper deformation. Rendering measured 4 desktop / 8 phone renders per second under concurrent software emulation; this does not certify hardware smoothness. Pause snapshot had one remaining return frame; settled diagnostic showed zero. Existing bottom correspondence edge triggers a thick-border detector warning despite square contact corners, documented as inherited material design. Headless hidden-tab behavior was not certified.

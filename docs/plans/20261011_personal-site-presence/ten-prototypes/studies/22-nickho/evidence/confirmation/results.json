@@ -1,0 +1,680 @@
+{
+  "engine": "Playwright Chromium, headless software WebGL",
+  "physicalDevice": false,
+  "results": [
+    {
+      "name": "WebGL depth rendered",
+      "pass": true,
+      "frames": 17,
+      "depthFrames": 17,
+      "fanFrames": 2,
+      "active": true,
+      "visible": true,
+      "paused": false,
+      "reduced": false,
+      "renderer": "webgl-depth",
+      "selected": 0
+    },
+    {
+      "name": "Demand renderer stops at rest",
+      "pass": true,
+      "before": 101,
+      "after": 101
+    },
+    {
+      "name": "Pause stops depth rendering",
+      "pass": true,
+      "before": 101,
+      "after": 101
+    },
+    {
+      "name": "Keyboard viewpoint changes visible pose",
+      "pass": true,
+      "label": "View from right"
+    },
+    {
+      "name": "Enter opens menu",
+      "pass": true
+    },
+    {
+      "name": "Menu backward focus wraps",
+      "pass": true
+    },
+    {
+      "name": "Menu forward focus wraps",
+      "pass": true
+    },
+    {
+      "name": "Escape closes and returns focus",
+      "pass": true
+    },
+    {
+      "name": "Trusted mouse drag selects actual reading",
+      "pass": false
+    },
+    {
+      "name": "Keyboard repeat and reversal returns first note",
+      "pass": false
+    },
+    {
+      "name": "Next cycles fully",
+      "pass": false
+    },
+    {
+      "name": "Offscreen depth is stopped",
+      "pass": true,
+      "before": 129,
+      "after": 129,
+      "stats": {
+        "frames": 243,
+        "depthFrames": 129,
+        "fanFrames": 117,
+        "active": true,
+        "visible": false,
+        "paused": false,
+        "reduced": false,
+        "renderer": "webgl-depth",
+        "selected": 2
+      }
+    },
+    {
+      "name": "Real minimized window hidden event handled",
+      "pass": false,
+      "state": "visible",
+      "stats": {
+        "frames": 268,
+        "depthFrames": 150,
+        "fanFrames": 130,
+        "active": true,
+        "visible": true,
+        "paused": false,
+        "reduced": false,
+        "renderer": "webgl-depth",
+        "selected": 2
+      }
+    },
+    {
+      "name": "desktop collection returns after full cycle",
+      "pass": false
+    },
+    {
+      "name": "desktop no overflow",
+      "pass": true
+    },
+    {
+      "name": "desktop images and font loaded",
+      "pass": true
+    },
+    {
+      "name": "desktop real contact path",
+      "pass": true
+    },
+    {
+      "name": "desktop return reaches opening",
+      "pass": true
+    },
+    {
+      "name": "narrow collection returns after full cycle",
+      "pass": false
+    },
+    {
+      "name": "narrow no overflow",
+      "pass": true
+    },
+    {
+      "name": "narrow images and font loaded",
+      "pass": true
+    },
+    {
+      "name": "narrow real contact path",
+      "pass": true
+    },
+    {
+      "name": "narrow return reaches opening",
+      "pass": true
+    },
+    {
+      "name": "mobile collection returns after full cycle",
+      "pass": false
+    },
+    {
+      "name": "mobile no overflow",
+      "pass": true
+    },
+    {
+      "name": "mobile images and font loaded",
+      "pass": true
+    },
+    {
+      "name": "mobile real contact path",
+      "pass": true
+    },
+    {
+      "name": "mobile return reaches opening",
+      "pass": true
+    },
+    {
+      "name": "wide collection returns after full cycle",
+      "pass": false
+    },
+    {
+      "name": "wide no overflow",
+      "pass": true
+    },
+    {
+      "name": "wide images and font loaded",
+      "pass": true
+    },
+    {
+      "name": "wide real contact path",
+      "pass": true
+    },
+    {
+      "name": "wide return reaches opening",
+      "pass": true
+    },
+    {
+      "name": "landscape collection returns after full cycle",
+      "pass": false
+    },
+    {
+      "name": "landscape no overflow",
+      "pass": true
+    },
+    {
+      "name": "landscape images and font loaded",
+      "pass": true
+    },
+    {
+      "name": "landscape real contact path",
+      "pass": true
+    },
+    {
+      "name": "landscape return reaches opening",
+      "pass": true
+    },
+    {
+      "name": "tablet collection returns after full cycle",
+      "pass": false
+    },
+    {
+      "name": "tablet no overflow",
+      "pass": true
+    },
+    {
+      "name": "tablet images and font loaded",
+      "pass": true
+    },
+    {
+      "name": "tablet real contact path",
+      "pass": true
+    },
+    {
+      "name": "tablet return reaches opening",
+      "pass": true
+    },
+    {
+      "name": "Reduced motion disables spatial movement",
+      "pass": true,
+      "matches": true,
+      "stats": {
+        "frames": 989,
+        "depthFrames": 211,
+        "fanFrames": 797,
+        "active": false,
+        "visible": true,
+        "paused": false,
+        "reduced": true,
+        "renderer": "webgl-depth",
+        "selected": 2
+      },
+      "menuAnimation": "none"
+    },
+    {
+      "name": "Reduced motion retains visible alternate note",
+      "pass": false
+    },
+    {
+      "name": "Trusted touch opens menu",
+      "pass": true
+    },
+    {
+      "name": "Trusted emulated touch drag selects reading",
+      "pass": true
+    },
+    {
+      "name": "No JS exposes all curiosity notes",
+      "pass": true
+    },
+    {
+      "name": "No JS contact readable",
+      "pass": true
+    },
+    {
+      "name": "Renderer failure preserves portrait and reading",
+      "pass": true
+    },
+    {
+      "name": "Image/font error leaves readable text",
+      "pass": true
+    },
+    {
+      "name": "No uncaught application errors",
+      "pass": true,
+      "errors": []
+    },
+    {
+      "name": "No failed normal runtime requests",
+      "pass": true,
+      "requests": []
+    }
+  ],
+  "viewports": [
+    {
+      "name": "desktop",
+      "w": 1440,
+      "h": 900,
+      "initial": {
+        "width": 1440,
+        "scroll": 1440,
+        "font": true,
+        "images": [
+          {
+            "src": "assets/portrait.jpg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/homelab.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/process.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/web.svg",
+            "loaded": true
+          }
+        ],
+        "h1": {
+          "x": 79.1875,
+          "y": 522.28125,
+          "width": 271.875,
+          "height": 170.71875,
+          "top": 522.28125,
+          "right": 351.0625,
+          "bottom": 693,
+          "left": 79.1875
+        },
+        "bodyFont": "18px"
+      },
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "rect": {
+          "x": 855.953125,
+          "y": 459.125,
+          "width": 504.84375,
+          "height": 83.46875,
+          "top": 459.125,
+          "right": 1360.796875,
+          "bottom": 542.59375,
+          "left": 855.953125
+        }
+      },
+      "bounds": {
+        "width": 1440,
+        "scroll": 1440,
+        "contactVisible": true
+      }
+    },
+    {
+      "name": "narrow",
+      "w": 320,
+      "h": 740,
+      "initial": {
+        "width": 320,
+        "scroll": 320,
+        "font": true,
+        "images": [
+          {
+            "src": "assets/portrait.jpg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/homelab.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/process.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/web.svg",
+            "loaded": true
+          }
+        ],
+        "h1": {
+          "x": 24,
+          "y": 450.6875,
+          "width": 235.71875,
+          "height": 112.3125,
+          "top": 450.6875,
+          "right": 259.71875,
+          "bottom": 563,
+          "left": 24
+        },
+        "bodyFont": "17px"
+      },
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "rect": {
+          "x": 24,
+          "y": 676.234375,
+          "width": 272,
+          "height": 70.796875,
+          "top": 676.234375,
+          "right": 296,
+          "bottom": 747.03125,
+          "left": 24
+        }
+      },
+      "bounds": {
+        "width": 320,
+        "scroll": 320,
+        "contactVisible": true
+      }
+    },
+    {
+      "name": "mobile",
+      "w": 390,
+      "h": 844,
+      "initial": {
+        "width": 390,
+        "scroll": 390,
+        "font": true,
+        "images": [
+          {
+            "src": "assets/portrait.jpg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/homelab.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/process.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/web.svg",
+            "loaded": true
+          }
+        ],
+        "h1": {
+          "x": 24,
+          "y": 484.6875,
+          "width": 235.71875,
+          "height": 112.3125,
+          "top": 484.6875,
+          "right": 259.71875,
+          "bottom": 597,
+          "left": 24
+        },
+        "bodyFont": "17px"
+      },
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "rect": {
+          "x": 24,
+          "y": 623.609375,
+          "width": 342,
+          "height": 70.796875,
+          "top": 623.609375,
+          "right": 366,
+          "bottom": 694.40625,
+          "left": 24
+        }
+      },
+      "bounds": {
+        "width": 390,
+        "scroll": 390,
+        "contactVisible": true
+      }
+    },
+    {
+      "name": "wide",
+      "w": 430,
+      "h": 932,
+      "initial": {
+        "width": 430,
+        "scroll": 430,
+        "font": true,
+        "images": [
+          {
+            "src": "assets/portrait.jpg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/homelab.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/process.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/web.svg",
+            "loaded": true
+          }
+        ],
+        "h1": {
+          "x": 24,
+          "y": 572.6875,
+          "width": 235.71875,
+          "height": 112.3125,
+          "top": 572.6875,
+          "right": 259.71875,
+          "bottom": 685,
+          "left": 24
+        },
+        "bodyFont": "17px"
+      },
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "rect": {
+          "x": 24,
+          "y": 611.09375,
+          "width": 382,
+          "height": 70.796875,
+          "top": 611.09375,
+          "right": 406,
+          "bottom": 681.890625,
+          "left": 24
+        }
+      },
+      "bounds": {
+        "width": 430,
+        "scroll": 430,
+        "contactVisible": true
+      }
+    },
+    {
+      "name": "landscape",
+      "w": 844,
+      "h": 390,
+      "initial": {
+        "width": 844,
+        "scroll": 844,
+        "font": true,
+        "images": [
+          {
+            "src": "assets/portrait.jpg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/homelab.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/process.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/web.svg",
+            "loaded": true
+          }
+        ],
+        "h1": {
+          "x": 46.40625,
+          "y": 270.6875,
+          "width": 235.71875,
+          "height": 112.3125,
+          "top": 270.6875,
+          "right": 282.125,
+          "bottom": 383,
+          "left": 46.40625
+        },
+        "bodyFont": "18px"
+      },
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "rect": {
+          "x": 46.40625,
+          "y": 684.90625,
+          "width": 650,
+          "height": 70.796875,
+          "top": 684.90625,
+          "right": 696.40625,
+          "bottom": 755.703125,
+          "left": 46.40625
+        }
+      },
+      "bounds": {
+        "width": 844,
+        "scroll": 844,
+        "contactVisible": true
+      }
+    },
+    {
+      "name": "tablet",
+      "w": 768,
+      "h": 1024,
+      "initial": {
+        "width": 768,
+        "scroll": 768,
+        "font": true,
+        "images": [
+          {
+            "src": "assets/portrait.jpg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/fold.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/homelab.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/process.svg",
+            "loaded": true
+          },
+          {
+            "src": "assets/web.svg",
+            "loaded": true
+          }
+        ],
+        "h1": {
+          "x": 42.234375,
+          "y": 717.1875,
+          "width": 235.71875,
+          "height": 99.8125,
+          "top": 717.1875,
+          "right": 277.953125,
+          "bottom": 817,
+          "left": 42.234375
+        },
+        "bodyFont": "18px"
+      },
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "rect": {
+          "x": 42.234375,
+          "y": 664.140625,
+          "width": 650,
+          "height": 70.796875,
+          "top": 664.140625,
+          "right": 692.234375,
+          "bottom": 734.9375,
+          "left": 42.234375
+        }
+      },
+      "bounds": {
+        "width": 768,
+        "scroll": 768,
+        "contactVisible": true
+      }
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "lifecycle": {
+    "state": "visible",
+    "stats": {
+      "frames": 268,
+      "depthFrames": 150,
+      "fanFrames": 130,
+      "active": true,
+      "visible": true,
+      "paused": false,
+      "reduced": false,
+      "renderer": "webgl-depth",
+      "selected": 2
+    }
+  }
+}

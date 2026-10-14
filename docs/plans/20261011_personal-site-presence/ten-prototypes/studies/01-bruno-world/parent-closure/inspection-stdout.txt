@@ -1,0 +1,71 @@
+{
+  "number": 1,
+  "checks": 127,
+  "failed": [
+    {
+      "name": "1440 welcome selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 craft selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 homelab selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 curiosity selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 contact selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 welcome selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 craft selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 homelab selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 curiosity selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 contact selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 welcome selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 craft selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 homelab selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 curiosity selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 contact selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "reduced return restores camera",
+      "pass": false
+    }
+  ]
+}
+

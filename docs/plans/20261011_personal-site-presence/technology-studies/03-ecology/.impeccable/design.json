@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-11T20:06:11.350630+00:00",
+  "title": "Design System: Hardware close-up",
+  "extensions": {
+    "shadows": [],
+    "motion": [],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "700px"
+      }
+    ],
+    "typographyMeta": {
+      "headline": {
+        "displayName": "Restrained icy headline",
+        "purpose": "Small typography above photographic object."
+      }
+    }
+  },
+  "components": [
+    {
+      "name": "Inspection hotspot",
+      "kind": "button",
+      "refersTo": "label",
+      "description": "Object-attached physical component inspection.",
+      "html": "<button class=\"ds-spot\" aria-expanded=\"false\"><span class=\"ds-point\"></span>Ethernet</button>",
+      "css": ".ds-spot{font-family:Manrope,sans-serif;min-height:44px;background:#061321;color:#edf6fc;border:0;display:flex;align-items:center;gap:9px;padding:5px 9px;cursor:pointer}.ds-point{width:20px;height:20px;border:1px solid #edf6fc;border-radius:50%}.ds-spot:hover,.ds-spot[aria-expanded=true]{color:#061321;background:#edf6fc}.ds-spot:focus-visible{outline:2px solid #c8e7ff;outline-offset:5px}.ds-spot:active{background:#c8e7ff}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Look closer",
+    "overview": "A real photographed object owns a midnight field. Small, icy text and attached inspection markers let physical detail carry the presence. This replaces the abandoned ocean identity; the directory name is historical.",
+    "keyCharacteristics": [
+      "Real photographic detail, not decorative circuit paths.",
+      "Modest typography above the object.",
+      "Factual inspection, explicit photographic disclosure."
+    ],
+    "rules": [
+      {
+        "name": "The Contrast Ground Rule",
+        "body": "All annotation labels have an opaque midnight or ice backing, never unprotected copy over photograph detail.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do disclose representative photography and attribution visibly.",
+      "Do attach inspection points to physical components, using factual sources."
+    ],
+    "donts": [
+      "Don't imply photographed hardware belongs to Victor.",
+      "Don't substitute routing, alignment, semantic habitats or a slider for inspection."
+    ]
+  }
+}

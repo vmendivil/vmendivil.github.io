@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T03:36:51.936328+00:00",
+  "title": "Design System: WorkbenchOS",
+  "extensions": {
+    "colorMeta": {
+      "amber": {
+        "role": "primary",
+        "displayName": "Amber phosphor"
+      },
+      "ground": {
+        "role": "neutral",
+        "displayName": "Brown-black desktop"
+      }
+    },
+    "typographyMeta": {
+      "body": {
+        "displayName": "Document prose",
+        "purpose": "Calm native reading, not terminal text"
+      },
+      "headline": {
+        "displayName": "Document heading",
+        "purpose": "Readable document titles"
+      }
+    },
+    "shadows": [
+      {
+        "name": "document",
+        "value": "12px 18px 40px #100c08",
+        "purpose": "Active application frame"
+      }
+    ],
+    "motion": [{"name":"document-open","value":"220ms clip reveal; desktop only","purpose":"file-to-window continuity; disabled with reduced motion"}],
+    "launcher": "search filenames/content and real actions; native dialog; keyboard endpoints; maximize/restore",
+    "breakpoints": [
+      {
+        "name": "tablet",
+        "value": "900px"
+      },
+      {
+        "name": "single-document",
+        "value": "600px"
+      },
+      {
+        "name": "short-landscape",
+        "value": "500px max-height"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Document button",
+      "kind": "button",
+      "html": "<button class=\"ds-button\">Open About</button>",
+      "css": ".ds-button{min-height:44px;padding:8px 16px;border:1px solid #896238;background:#241c13;color:#efb567;font:16px monospace;cursor:pointer}.ds-button:hover{background:#3a2b1b;color:#ffe4ad}.ds-button:focus-visible{outline:2px solid #ffe4ad;outline-offset:4px}"
+    },
+    {
+      "name": "Active destination",
+      "kind": "nav",
+      "refersTo": "button-active",
+      "html": "<button class=\"ds-active\" aria-current=\"page\">Approach</button>",
+      "css": ".ds-active{min-height:44px;padding:8px 16px;border:0;background:#efb567;color:#1c160f;font:16px monospace}.ds-active:hover{background:#ffe4ad}.ds-active:focus-visible{outline:2px solid #ffe4ad;outline-offset:4px}"
+    },
+    {
+      "name": "Contact route",
+      "kind": "custom",
+      "html": "<a class=\"ds-contact\" href=\"https://www.linkedin.com/in/vmendivilaxdeveloper\">Open my LinkedIn profile</a>",
+      "css": ".ds-contact{display:inline-block;padding:18px 20px;border:1px solid #efb567;color:#efb567;background:#241c13;font:20px Arial;text-decoration:none}.ds-contact:hover{color:#ffe4ad}.ds-contact:focus-visible{outline:2px solid #ffe4ad;outline-offset:4px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "A personal document workbench",
+    "overview": "Amber application chrome surrounds a calm brown-black reading surface. Per-file session reading state and a full semantic no-JavaScript fallback preserve access without changing the OS identity.",
+    "keyCharacteristics": [
+      "Original bitmap identity, readable native HTML prose.",
+      "Thin amber application strokes and divided controls.",
+      "Immediate file destinations; no boot or permission gate."
+    ],
+    "rules": ["Keep the flat amber shell and original bitmap identity.", "Body paragraphs, endnotes, sidebar explanatory prose and identity supporting prose are at least 16px.", "Keep per-file pane/page offsets on minimize, switch, Home, Escape and Back; discard only on Close or reload.", "Mobile Home, window actions and Back remain reachable while reading.", "No-JavaScript mode exposes the same four complete semantic documents and native LinkedIn action.", "Texture changes home pixels even with reduced motion and never textures document text."] ,
+    "dos": [
+      "Do keep meaningful document prose readable and untextured.",
+      "Do retain reachable Home, Back and app switching on mobile."
+    ],
+    "donts": [
+      "Don't introduce fake diagnostics, irrelevant games or permission prompts.",
+      "Don't copy blackletter, OS logos, source assets or project claims."
+    ]
+  }
+}

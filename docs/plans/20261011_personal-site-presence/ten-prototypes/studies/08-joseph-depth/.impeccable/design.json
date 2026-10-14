@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "title": "Design System: Below the Surface",
+  "extensions": {
+    "terminalDestination": {
+      "cameraStartX": {
+        "desktop": -4.2,
+        "mobile": -2
+      },
+      "cameraLookY": {
+        "desktop": 5.7,
+        "mobile": -4.5
+      },
+      "pointLight": {
+        "intensity": 110,
+        "distance": 18,
+        "position": [
+          0,
+          7,
+          -48
+        ]
+      },
+      "fogExemption": "Oculus interior and four emissive stone rims only; ordinary depth testing retained.",
+      "framing": "Opening unobstructed right of desktop title and above mobile title; global water fog, lighting, exposure and reading shades unchanged.",
+      "evidence": [
+        ".impeccable/review/desktop.png",
+        ".impeccable/review/mobile.png",
+        "amber-fix-results.json"
+      ]
+    },
+    "motion": [
+      {
+        "name": "camera-follow",
+        "value": "progress += (targetProgress - progress) * 0.045",
+        "purpose": "Smooth scroll depth journey; disabled under reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "700px"
+      }
+    ],
+    "shadows": [
+      {
+        "name": "submerged-vignette",
+        "value": "inset 0 0 160px 35px rgba(1,22,24,.32)",
+        "purpose": "Darkens viewport edges without card elevation."
+      }
+    ],
+    "typographyMeta": {
+      "display": {
+        "displayName": "Tenor Sans",
+        "purpose": "Monumental quiet headings."
+      },
+      "body": {
+        "displayName": "Karla",
+        "purpose": "Readable first-person narrative."
+      }
+    },
+    "reading": {
+      "grammar": "Open shafts, fine jade vertical rules, amber heading inlays, descending inscription columns. No panels or glass cards.",
+      "method": {
+        "columns": 3,
+        "gap": "48px desktop / 28px tablet",
+        "stagger": [
+          0,
+          66,
+          132
+        ],
+        "mobile": "One continuous column, 44px separation"
+      },
+      "mobileInsets": "max(24px, safe-area inset)",
+      "substantialTextMinimum": "16px",
+      "touchTargetMinimum": "44px",
+      "controls": "Header and atmosphere button at threshold only; scroll away with opening",
+      "camera": "Chapter offset interpolation 0/.25/.5/.75/1; original camera path and geometry preserved",
+      "evidence": [
+        "content-mobile-results.json",
+        "content-stability-results.json",
+        ".impeccable/review/content-desktop.png",
+        ".impeccable/review/content-mobile.png",
+        ".impeccable/review/content-landscape.png"
+      ]
+    },
+    "fidelity": {
+      "focal": "chapter-aligned architecture traversal",
+      "cameraZ": [
+        19,
+        3,
+        -12,
+        -27,
+        -42
+      ],
+      "interpolation": "per-leg smoothstep; exponential time damping 9/s",
+      "fogDensity": [
+        0.026,
+        0.022,
+        0.026
+      ],
+      "reduced": "stationary threshold",
+      "ambientPause": "camera navigation remains available"
+    }
+  },
+  "components": [
+    {
+      "name": "Atmosphere button",
+      "kind": "button",
+      "refersTo": "scene-button",
+      "description": "Threshold-only 44px control; pause ambient effects while scroll camera stays usable.",
+      "html": "<button class=\"ds-atmosphere\">Pause atmosphere</button>",
+      "css": ".ds-atmosphere{font:15px Karla,sans-serif;background:rgba(3,36,38,.85);color:var(--marble,#edf1df);border:1px solid rgba(182,208,189,.5);min-height:44px;padding:10px 15px;border-radius:0;cursor:pointer}.ds-atmosphere:hover{color:var(--amber,#efc485);border-color:var(--amber,#efc485)}.ds-atmosphere:focus-visible{outline:2px solid var(--amber,#efc485);outline-offset:7px}"
+    },
+    {
+      "name": "Chapter navigation",
+      "kind": "nav",
+      "description": "Direct access to content without completing the scene.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#about\">About</a><a href=\"#approach\">Approach</a><a href=\"#contact\">Contact</a></nav>",
+      "css": ".ds-nav{display:flex;gap:28px;font:15px Karla,sans-serif}.ds-nav a{color:var(--marble,#edf1df);display:inline-flex;align-items:center;min-width:44px;min-height:44px;padding:8px 0;text-decoration:none}.ds-nav a:hover{color:var(--amber,#efc485)}.ds-nav a:focus-visible{outline:2px solid var(--amber,#efc485);outline-offset:7px}"
+    },
+    {
+      "name": "Contact route",
+      "kind": "custom",
+      "refersTo": "contact-link",
+      "description": "Real LinkedIn route with an authored arrow.",
+      "html": "<a class=\"ds-contact\" href=\"https://www.linkedin.com/in/vmendivilaxdeveloper\">Connect on LinkedIn<svg viewBox=\"0 0 32 32\" aria-hidden=\"true\"><path d=\"M5 27 27 5M5 5h22v22\"/></svg></a>",
+      "css": ".ds-contact{display:flex;align-items:center;justify-content:space-between;gap:25px;font:27px Karla,sans-serif;color:var(--amber,#efc485);border-bottom:1px solid currentColor;padding:18px 0;text-decoration:none}.ds-contact svg{width:28px;fill:none;stroke:currentColor;stroke-width:1.2}.ds-contact:hover{color:var(--marble,#edf1df)}.ds-contact:focus-visible{outline:2px solid var(--amber,#efc485);outline-offset:7px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Below the Surface",
+    "overview": "Submerged architectural depth carries the site. Fluted jade piers and segmented marble arches establish a physical scale; ordinary scrolling provides the journey, while HTML remains the readable layer. The water palette is committed at page scale, not confined to accents.",
+    "keyCharacteristics": [
+      "Monumental original stone geometry.",
+      "Dark teal negative space and warm contact light.",
+      "Inscription hierarchy and open architectural reading columns, without cards."
+    ],
+    "rules": [
+      {
+        "name": "The Water Rule",
+        "body": "Readable dark water remains beneath text; scenery is not a license to erase contrast.",
+        "section": "colors"
+      },
+      {
+        "name": "The Stationary Rule",
+        "body": "Reduced motion preserves a rendered architecture at the starting camera, disables ambient motion and removes scroll-camera movement; all sections remain direct.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep professional content in the HTML reading layer.",
+      "Do carry architectural depth through actual geometry and lighting.",
+      "Do use direct native anchors and visible focus treatment."
+    ],
+    "donts": [
+      "Don't require scene exploration to reach contact.",
+      "Don't convert this into a dashboard, card grid or game.",
+      "Don't imply the architectural fiction is a client project or outcome."
+    ]
+  },
+  "generatedAt": "2026-10-12T00:18:41.832668+00:00"
+}

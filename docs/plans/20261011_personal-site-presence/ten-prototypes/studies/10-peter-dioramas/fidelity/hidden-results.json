@@ -1,0 +1,43 @@
+{
+  "method": "Actual headed Chromium tab switched away/restored under existing Xvfb, after disabling Playwright forced focus emulation; no visibility property injection",
+  "before": {
+    "draws": 5,
+    "frame": 0,
+    "current": 0,
+    "angle": -0.12,
+    "zoom": 1,
+    "paused": false,
+    "visible": true,
+    "hidden": false
+  },
+  "minimized": {
+    "draws": 5,
+    "frame": 0,
+    "current": 0,
+    "angle": -0.12,
+    "zoom": 1,
+    "paused": false,
+    "visible": true,
+    "hidden": false
+  },
+  "after": {
+    "draws": 5,
+    "frame": 0,
+    "current": 0,
+    "angle": -0.12,
+    "zoom": 1,
+    "paused": false,
+    "visible": true,
+    "hidden": false
+  },
+  "restored": {
+    "draws": 5,
+    "frame": 0,
+    "current": 0,
+    "angle": -0.12,
+    "zoom": 1,
+    "paused": false,
+    "visible": true,
+    "hidden": false
+  }
+}

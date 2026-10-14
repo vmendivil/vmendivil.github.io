@@ -1,0 +1,41 @@
+{
+  "approval": "1559536746071457853",
+  "status": "independent-closures-running",
+  "delegation": "deleg_4d4619ac",
+  "pendingSlugs": [
+    "01-bruno-world",
+    "02-joshua-island",
+    "03-henry-workshop",
+    "07-rohit-future",
+    "08-joseph-depth",
+    "09-natalie-organic",
+    "10-peter-dioramas",
+    "11-felix",
+    "12-vectrfl",
+    "13-arthur",
+    "14-alex",
+    "15-preymaker",
+    "16-lantern",
+    "17-eddyos",
+    "18-artisans",
+    "19-rokumaruichi",
+    "20-alphamark",
+    "21-artemii",
+    "22-nickho"
+  ],
+  "pendingCount": 19,
+  "unchangedAlreadyVerified": [
+    "04-bilal-theater",
+    "05-thibault-expedition",
+    "06-ameen-garden"
+  ],
+  "releaseSnapshot": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/.preview-releases/pending-20261013T121324Z",
+  "next": [
+    "verify returned source hashes/raw results",
+    "stage runtime allowlists selectively",
+    "keep served18 PNGs; do not retry denied provenance or use private pending cyan raster",
+    "verify final served journeys/source links/gallery and counts"
+  ],
+  "blockedAssetGate": "18 cyan portrait provenance NOT reopened by broad continue",
+  "publicAvailability": "current21 remain browsable;22 stays pending until readiness/readback"
+}

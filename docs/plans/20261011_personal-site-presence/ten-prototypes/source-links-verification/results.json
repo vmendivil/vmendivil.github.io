@@ -1,0 +1,1262 @@
+[
+  {
+    "slug": "01-bruno-world",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 1308,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://bruno-simon.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 452,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://bruno-simon.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 712,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://bruno-simon.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "02-joshua-island",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 660,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://joshuas.world/?ref=landing.love",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 620,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://joshuas.world/?ref=landing.love",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 362,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://joshuas.world/?ref=landing.love",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "03-henry-workshop",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 660,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://henryheffernan.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 788,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://henryheffernan.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 712,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://henryheffernan.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "04-bilal-theater",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 1308,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://bilal.show/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 788,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://bilal.show/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 712,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://bilal.show/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "05-thibault-expedition",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 660,
+          "y": 12,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://www.thibault-introvigne.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 788,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://www.thibault-introvigne.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 362,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://www.thibault-introvigne.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "06-ameen-garden",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 660,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://ameen-abdullah.dev/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 12,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://ameen-abdullah.dev/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 258,
+          "y": 12,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://ameen-abdullah.dev/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "07-rohit-future",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 660,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://rohit-harish.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 788,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://rohit-harish.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 712,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://rohit-harish.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "08-joseph-depth",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 1308,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://joseph-san.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 12,
+          "y": 788,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://joseph-san.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 362,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://joseph-san.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "09-natalie-organic",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 12,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://www.natalieliu.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 788,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://www.natalieliu.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 712,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://www.natalieliu.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "10-peter-dioramas",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 1308,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://petertarka.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 135,
+          "y": 620,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://petertarka.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 712,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://petertarka.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "11-felix",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 660,
+          "y": 12,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://felixrieseberg.com/?ref=landing.love",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 12,
+          "y": 340,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://felixrieseberg.com/?ref=landing.love",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 362,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://felixrieseberg.com/?ref=landing.love",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "12-vectrfl",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 1308,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://www.vectrfl.com/?ref=landing.love",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 12,
+          "y": 788,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://www.vectrfl.com/?ref=landing.love",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 712,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://www.vectrfl.com/?ref=landing.love",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "13-arthur",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 12,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://aengel.io",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 12,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://aengel.io",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 258,
+          "y": 12,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://aengel.io",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "14-alex",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 1308,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://www.product.inc/#resume",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 732,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://www.product.inc/#resume",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 362,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://www.product.inc/#resume",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "15-preymaker",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 1308,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://preymaker.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 788,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://preymaker.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 712,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://preymaker.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "16-lantern",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 1308,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://www.dwaynekoh.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 732,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://www.dwaynekoh.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 712,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://www.dwaynekoh.com/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "17-eddyos",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 660,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://eddy-naboulet.dev/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 732,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://eddy-naboulet.dev/",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 362,
+          "y": 12,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://eddy-naboulet.dev/",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "18-artisans",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 1308,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://www.artisansdidees.com/en?ref=refs.gallery",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 788,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://www.artisansdidees.com/en?ref=refs.gallery",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 362,
+          "y": 12,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://www.artisansdidees.com/en?ref=refs.gallery",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "19-rokumaruichi",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 1308,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://www.rokumaruichi.tokyo/#4f",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 788,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://www.rokumaruichi.tokyo/#4f",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 362,
+          "y": 334,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://www.rokumaruichi.tokyo/#4f",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "20-alphamark",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 660,
+          "y": 12,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://alphamark.design/?ref=refs.gallery",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 258,
+          "y": 116,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://alphamark.design/?ref=refs.gallery",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 258,
+          "y": 116,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://alphamark.design/?ref=refs.gallery",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  },
+  {
+    "slug": "21-artemii",
+    "cases": [
+      {
+        "label": "desktop",
+        "geometry": {
+          "x": 12,
+          "y": 844,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native Enter",
+        "href": "https://artemiilebedev.com/work",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "mobile",
+        "geometry": {
+          "x": 135,
+          "y": 620,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "trusted emulated touch",
+        "href": "https://artemiilebedev.com/work",
+        "newTab": true,
+        "originalPagePreserved": true
+      },
+      {
+        "label": "landscape",
+        "geometry": {
+          "x": 362,
+          "y": 110,
+          "width": 120,
+          "height": 44,
+          "font": "14px",
+          "controlOverlap": 0,
+          "textOverlap": 0,
+          "hit": true,
+          "overflow": false
+        },
+        "activation": "native click",
+        "href": "https://artemiilebedev.com/work",
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    ],
+    "errors": []
+  }
+]

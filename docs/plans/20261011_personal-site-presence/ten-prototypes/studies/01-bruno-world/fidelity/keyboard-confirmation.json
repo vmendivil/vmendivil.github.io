@@ -1,0 +1,345 @@
+[
+  {
+    "name": "complete genuine Tab / Enter / Space / Escape path",
+    "pass": true,
+    "visited": [
+      "welcome",
+      "craft",
+      "homelab",
+      "curiosity",
+      "contact"
+    ],
+    "steps": [
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Skip driving, explore destinations"
+      },
+      {
+        "tag": "CANVAS",
+        "id": "",
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Welcome depot"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Software works"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Server greenhouse"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Curiosity observatory"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Signal pier"
+      },
+      {
+        "tag": "A",
+        "id": "home",
+        "text": "Victor MendivilSoftware developer & problem solver"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "pause",
+        "text": "Pause world"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "guide",
+        "text": "Destinations "
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Meet Victor",
+        "key": "welcome"
+      },
+      {
+        "activated": "welcome",
+        "visible": true,
+        "text": "Welcome depot\nHello, I’m Victor.\n\nI’m a software developer and problem solver. I like taking something tangled, understa"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Welcome depot"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Software works"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Server greenhouse"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Curiosity observatory"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Signal pier"
+      },
+      {
+        "tag": "A",
+        "id": "home",
+        "text": "Victor MendivilSoftware developer & problem solver"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "pause",
+        "text": "Pause world"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "guide",
+        "text": "Destinations "
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Meet Victor",
+        "key": "welcome"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Software craft",
+        "key": "craft"
+      },
+      {
+        "activated": "craft",
+        "visible": true,
+        "text": "Software works\nFrom the question to the working thing.\n\nGood software starts with understanding what someone actually ne"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Welcome depot"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Software works"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Server greenhouse"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Curiosity observatory"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Signal pier"
+      },
+      {
+        "tag": "A",
+        "id": "home",
+        "text": "Victor MendivilSoftware developer & problem solver"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "pause",
+        "text": "Pause world"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "guide",
+        "text": "Destinations "
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Meet Victor",
+        "key": "welcome"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Software craft",
+        "key": "craft"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Homelab",
+        "key": "homelab"
+      },
+      {
+        "activated": "homelab",
+        "visible": true,
+        "text": "Server greenhouse\nSmall machines. Plenty to learn.\n\nI’m interested in Raspberry Pi homelabs and servers: a small place t"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Welcome depot"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Software works"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Server greenhouse"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Curiosity observatory"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Signal pier"
+      },
+      {
+        "tag": "A",
+        "id": "home",
+        "text": "Victor MendivilSoftware developer & problem solver"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "pause",
+        "text": "Pause world"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "guide",
+        "text": "Destinations "
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Meet Victor",
+        "key": "welcome"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Software craft",
+        "key": "craft"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Homelab",
+        "key": "homelab"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "AI curiosity",
+        "key": "curiosity"
+      },
+      {
+        "activated": "curiosity",
+        "visible": true,
+        "text": "Curiosity observatory\nA better question is a good start.\n\nI’m exploring AI-assisted work processes and AI-assisted web a"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Welcome depot"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Software works"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Server greenhouse"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Curiosity observatory"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Signal pier"
+      },
+      {
+        "tag": "A",
+        "id": "home",
+        "text": "Victor MendivilSoftware developer & problem solver"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "pause",
+        "text": "Pause world"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "guide",
+        "text": "Destinations "
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Meet Victor",
+        "key": "welcome"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Software craft",
+        "key": "craft"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Homelab",
+        "key": "homelab"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "AI curiosity",
+        "key": "curiosity"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Say hello",
+        "key": "contact"
+      },
+      {
+        "activated": "contact",
+        "visible": true,
+        "text": "Signal pier\nLet’s find a workable next step.\n\nHave a contained problem or a small idea that needs a developer? I’m open "
+      }
+    ]
+  },
+  {
+    "name": "background visibility observation",
+    "hidden": false,
+    "certified": false
+  }
+]

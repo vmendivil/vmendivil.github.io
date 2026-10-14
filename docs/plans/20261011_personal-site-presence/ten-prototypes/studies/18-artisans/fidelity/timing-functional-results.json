@@ -1,0 +1,153 @@
+{
+  "engine": "Chromium / SwiftShader emulation",
+  "physicalDevice": false,
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        10,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "hiddenSimulationResumed": true,
+      "threeWorlds": true,
+      "readingOffscreenDraws": 0,
+      "passed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        13,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "failure": "AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n\n  assert((await draws())[0]>before[0])\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:8:693"
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "failure": "AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n\n  assert((await draws())[0]>before[0])\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:8:693"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "failure": "AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n\n  assert((await draws())[0]>before[0])\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:8:693"
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "failure": "AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n\n  assert((await draws())[0]>before[0])\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:8:693"
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "failure": "AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n\n  assert((await draws())[0]>before[0])\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:10:463"
+    }
+  ],
+  "fallback": [],
+  "failures": [
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "error": "The expression evaluated to a falsy value:\n\n  assert((await draws())[0]>before[0])\n"
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "error": "The expression evaluated to a falsy value:\n\n  assert((await draws())[0]>before[0])\n"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "error": "The expression evaluated to a falsy value:\n\n  assert((await draws())[0]>before[0])\n"
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "error": "The expression evaluated to a falsy value:\n\n  assert((await draws())[0]>before[0])\n"
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "error": "The expression evaluated to a falsy value:\n\n  assert((await draws())[0]>before[0])\n"
+    }
+  ]
+}

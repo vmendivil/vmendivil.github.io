@@ -1,0 +1,1617 @@
+{
+  "engine": "Chromium / Playwright",
+  "physicalSafari": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "initial": {
+        "viewport": [
+          320,
+          740
+        ],
+        "overflow": false,
+        "body": "18px",
+        "renderer": "webgl"
+      },
+      "touchTargets": [
+        {
+          "text": "Practice",
+          "width": 50,
+          "height": 44
+        },
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Curiosity",
+          "width": 56,
+          "height": 44
+        },
+        {
+          "text": "Let’s talk",
+          "width": 78,
+          "height": 44
+        },
+        {
+          "text": "01\nRequirements",
+          "width": 68,
+          "height": 44
+        },
+        {
+          "text": "02\nDesign",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "03\nDelivery",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "04\nSupport",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "What kind of freelance work fits?",
+          "width": 276,
+          "height": 96
+        },
+        {
+          "text": "Are you available full-time?",
+          "width": 276,
+          "height": 96
+        },
+        {
+          "text": "Is your work only Dynamics 365?",
+          "width": 276,
+          "height": 96
+        },
+        {
+          "text": "Are these buildings real projects?",
+          "width": 276,
+          "height": 96
+        },
+        {
+          "text": "What should I include when reaching out?",
+          "width": 276,
+          "height": 96
+        },
+        {
+          "text": "Start a conversation on LinkedIn",
+          "width": 276,
+          "height": 68
+        }
+      ],
+      "chapters": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-requirements.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 222.84375,
+              "width": 320,
+              "height": 369.21875,
+              "top": 222.84375,
+              "right": 320,
+              "bottom": 592.0625,
+              "left": 0
+            },
+            "alt": "Arched intake hall where cyan paths gather beside the shared overhead route."
+          }
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-design.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 223.015625,
+              "width": 320,
+              "height": 369.21875,
+              "top": 223.015625,
+              "right": 320,
+              "bottom": 592.234375,
+              "left": 0
+            },
+            "alt": "Sawtooth workshop with glazed roof edges, joined to the same utility spine."
+          }
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-delivery.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 222.5625,
+              "width": 320,
+              "height": 369.21875,
+              "top": 222.5625,
+              "right": 320,
+              "bottom": 591.78125,
+              "left": 0
+            },
+            "alt": "Raised delivery bays, slatted conveyors and coral reels along the shared route."
+          }
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-support.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 222.921875,
+              "width": 320,
+              "height": 369.21875,
+              "top": 222.921875,
+              "right": 320,
+              "bottom": 592.140625,
+              "left": 0
+            },
+            "alt": "Paired service vessels, inspection bridge and return pipes in the same works."
+          }
+        }
+      ],
+      "faq": [
+        {
+          "index": 0,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 1,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 2,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 3,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 4,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        }
+      ],
+      "tab": true,
+      "escapeNoTrap": true,
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "enterPopup": true,
+        "externalRequestAborted": true
+      },
+      "images": [
+        {
+          "src": "assets/landscape.png",
+          "width": 1440,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-requirements.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-design.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-delivery.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-support.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        }
+      ],
+      "returnTop": true,
+      "networkErrorsBeforeIntentionalExternalAbort": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "initial": {
+        "viewport": [
+          390,
+          844
+        ],
+        "overflow": false,
+        "body": "18px",
+        "renderer": "webgl"
+      },
+      "touchTargets": [
+        {
+          "text": "Practice",
+          "width": 50,
+          "height": 44
+        },
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Curiosity",
+          "width": 56,
+          "height": 44
+        },
+        {
+          "text": "Let’s talk",
+          "width": 78,
+          "height": 44
+        },
+        {
+          "text": "01\nRequirements",
+          "width": 71,
+          "height": 44
+        },
+        {
+          "text": "02\nDesign",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "03\nDelivery",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "04\nSupport",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "What kind of freelance work fits?",
+          "width": 346,
+          "height": 76
+        },
+        {
+          "text": "Are you available full-time?",
+          "width": 346,
+          "height": 76
+        },
+        {
+          "text": "Is your work only Dynamics 365?",
+          "width": 346,
+          "height": 76
+        },
+        {
+          "text": "Are these buildings real projects?",
+          "width": 346,
+          "height": 76
+        },
+        {
+          "text": "What should I include when reaching out?",
+          "width": 346,
+          "height": 96
+        },
+        {
+          "text": "Start a conversation on LinkedIn",
+          "width": 346,
+          "height": 68
+        }
+      ],
+      "chapters": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-requirements.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 434.46875,
+              "width": 390,
+              "height": 410,
+              "top": 434.46875,
+              "right": 390,
+              "bottom": 844.46875,
+              "left": 0
+            },
+            "alt": "Arched intake hall where cyan paths gather beside the shared overhead route."
+          }
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-design.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 434.25,
+              "width": 390,
+              "height": 410,
+              "top": 434.25,
+              "right": 390,
+              "bottom": 844.25,
+              "left": 0
+            },
+            "alt": "Sawtooth workshop with glazed roof edges, joined to the same utility spine."
+          }
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-delivery.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 434.03125,
+              "width": 390,
+              "height": 410,
+              "top": 434.03125,
+              "right": 390,
+              "bottom": 844.03125,
+              "left": 0
+            },
+            "alt": "Raised delivery bays, slatted conveyors and coral reels along the shared route."
+          }
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-support.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 433.8125,
+              "width": 390,
+              "height": 410,
+              "top": 433.8125,
+              "right": 390,
+              "bottom": 843.8125,
+              "left": 0
+            },
+            "alt": "Paired service vessels, inspection bridge and return pipes in the same works."
+          }
+        }
+      ],
+      "faq": [
+        {
+          "index": 0,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 1,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 2,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 3,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 4,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        }
+      ],
+      "tab": true,
+      "escapeNoTrap": true,
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "enterPopup": true,
+        "externalRequestAborted": true
+      },
+      "images": [
+        {
+          "src": "assets/landscape.png",
+          "width": 1440,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-requirements.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-design.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-delivery.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-support.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        }
+      ],
+      "returnTop": true,
+      "networkErrorsBeforeIntentionalExternalAbort": []
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "initial": {
+        "viewport": [
+          430,
+          932
+        ],
+        "overflow": false,
+        "body": "18px",
+        "renderer": "webgl"
+      },
+      "touchTargets": [
+        {
+          "text": "Practice",
+          "width": 50,
+          "height": 44
+        },
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Curiosity",
+          "width": 56,
+          "height": 44
+        },
+        {
+          "text": "Let’s talk",
+          "width": 78,
+          "height": 44
+        },
+        {
+          "text": "01\nRequirements",
+          "width": 71,
+          "height": 44
+        },
+        {
+          "text": "02\nDesign",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "03\nDelivery",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "04\nSupport",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "What kind of freelance work fits?",
+          "width": 386,
+          "height": 76
+        },
+        {
+          "text": "Are you available full-time?",
+          "width": 386,
+          "height": 76
+        },
+        {
+          "text": "Is your work only Dynamics 365?",
+          "width": 386,
+          "height": 76
+        },
+        {
+          "text": "Are these buildings real projects?",
+          "width": 386,
+          "height": 76
+        },
+        {
+          "text": "What should I include when reaching out?",
+          "width": 386,
+          "height": 96
+        },
+        {
+          "text": "Start a conversation on LinkedIn",
+          "width": 386,
+          "height": 68
+        }
+      ],
+      "chapters": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-requirements.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 522.09375,
+              "width": 430,
+              "height": 410,
+              "top": 522.09375,
+              "right": 430,
+              "bottom": 932.09375,
+              "left": 0
+            },
+            "alt": "Arched intake hall where cyan paths gather beside the shared overhead route."
+          }
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-design.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 522.1875,
+              "width": 430,
+              "height": 410,
+              "top": 522.1875,
+              "right": 430,
+              "bottom": 932.1875,
+              "left": 0
+            },
+            "alt": "Sawtooth workshop with glazed roof edges, joined to the same utility spine."
+          }
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-delivery.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 521.96875,
+              "width": 430,
+              "height": 410,
+              "top": 521.96875,
+              "right": 430,
+              "bottom": 931.96875,
+              "left": 0
+            },
+            "alt": "Raised delivery bays, slatted conveyors and coral reels along the shared route."
+          }
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": true,
+          "image": {
+            "src": "assets/chapter-support.png",
+            "loaded": true,
+            "box": {
+              "x": 0,
+              "y": 522.0625,
+              "width": 430,
+              "height": 410,
+              "top": 522.0625,
+              "right": 430,
+              "bottom": 932.0625,
+              "left": 0
+            },
+            "alt": "Paired service vessels, inspection bridge and return pipes in the same works."
+          }
+        }
+      ],
+      "faq": [
+        {
+          "index": 0,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 1,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 2,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 3,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 4,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        }
+      ],
+      "tab": true,
+      "escapeNoTrap": true,
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "enterPopup": true,
+        "externalRequestAborted": true
+      },
+      "images": [
+        {
+          "src": "assets/landscape.png",
+          "width": 1440,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-requirements.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-design.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-delivery.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-support.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        }
+      ],
+      "returnTop": true,
+      "networkErrorsBeforeIntentionalExternalAbort": []
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "initial": {
+        "viewport": [
+          844,
+          390
+        ],
+        "overflow": false,
+        "body": "18px",
+        "renderer": "webgl"
+      },
+      "touchTargets": [
+        {
+          "text": "Practice",
+          "width": 58,
+          "height": 44
+        },
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Curiosity",
+          "width": 63,
+          "height": 44
+        },
+        {
+          "text": "Let’s talk",
+          "width": 98,
+          "height": 44
+        },
+        {
+          "text": "01\nRequirements",
+          "width": 119,
+          "height": 44
+        },
+        {
+          "text": "02\nDesign",
+          "width": 76,
+          "height": 44
+        },
+        {
+          "text": "03\nDelivery",
+          "width": 83,
+          "height": 44
+        },
+        {
+          "text": "04\nSupport",
+          "width": 83,
+          "height": 44
+        },
+        {
+          "text": "What kind of freelance work fits?",
+          "width": 354.5,
+          "height": 76
+        },
+        {
+          "text": "Are you available full-time?",
+          "width": 354.5,
+          "height": 76
+        },
+        {
+          "text": "Is your work only Dynamics 365?",
+          "width": 354.5,
+          "height": 76
+        },
+        {
+          "text": "Are these buildings real projects?",
+          "width": 354.5,
+          "height": 76
+        },
+        {
+          "text": "What should I include when reaching out?",
+          "width": 354.5,
+          "height": 96
+        },
+        {
+          "text": "Start a conversation on LinkedIn",
+          "width": 354.5,
+          "height": 68
+        }
+      ],
+      "chapters": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-requirements.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Arched intake hall where cyan paths gather beside the shared overhead route."
+          }
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-design.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Sawtooth workshop with glazed roof edges, joined to the same utility spine."
+          }
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-delivery.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Raised delivery bays, slatted conveyors and coral reels along the shared route."
+          }
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-support.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Paired service vessels, inspection bridge and return pipes in the same works."
+          }
+        }
+      ],
+      "faq": [
+        {
+          "index": 0,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 1,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 2,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 3,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 4,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        }
+      ],
+      "tab": true,
+      "escapeNoTrap": true,
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "enterPopup": true,
+        "externalRequestAborted": true
+      },
+      "images": [
+        {
+          "src": "assets/landscape.png",
+          "width": 1440,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-requirements.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-design.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-delivery.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-support.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        }
+      ],
+      "returnTop": true,
+      "networkErrorsBeforeIntentionalExternalAbort": []
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "initial": {
+        "viewport": [
+          768,
+          1024
+        ],
+        "overflow": false,
+        "body": "18px",
+        "renderer": "webgl"
+      },
+      "touchTargets": [
+        {
+          "text": "Practice",
+          "width": 58,
+          "height": 44
+        },
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Curiosity",
+          "width": 63,
+          "height": 44
+        },
+        {
+          "text": "Let’s talk",
+          "width": 98,
+          "height": 44
+        },
+        {
+          "text": "01\nRequirements",
+          "width": 119,
+          "height": 44
+        },
+        {
+          "text": "02\nDesign",
+          "width": 76,
+          "height": 44
+        },
+        {
+          "text": "03\nDelivery",
+          "width": 83,
+          "height": 44
+        },
+        {
+          "text": "04\nSupport",
+          "width": 83,
+          "height": 44
+        },
+        {
+          "text": "What kind of freelance work fits?",
+          "width": 322.578125,
+          "height": 96
+        },
+        {
+          "text": "Are you available full-time?",
+          "width": 322.578125,
+          "height": 76
+        },
+        {
+          "text": "Is your work only Dynamics 365?",
+          "width": 322.578125,
+          "height": 96
+        },
+        {
+          "text": "Are these buildings real projects?",
+          "width": 322.578125,
+          "height": 96
+        },
+        {
+          "text": "What should I include when reaching out?",
+          "width": 322.578125,
+          "height": 96
+        },
+        {
+          "text": "Start a conversation on LinkedIn",
+          "width": 322.578125,
+          "height": 69.1875
+        }
+      ],
+      "chapters": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-requirements.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Arched intake hall where cyan paths gather beside the shared overhead route."
+          }
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-design.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Sawtooth workshop with glazed roof edges, joined to the same utility spine."
+          }
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-delivery.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Raised delivery bays, slatted conveyors and coral reels along the shared route."
+          }
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-support.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Paired service vessels, inspection bridge and return pipes in the same works."
+          }
+        }
+      ],
+      "faq": [
+        {
+          "index": 0,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 1,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 2,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 3,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 4,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        }
+      ],
+      "tab": true,
+      "escapeNoTrap": true,
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "enterPopup": true,
+        "externalRequestAborted": true
+      },
+      "images": [
+        {
+          "src": "assets/landscape.png",
+          "width": 1440,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-requirements.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-design.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-delivery.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-support.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        }
+      ],
+      "returnTop": true,
+      "networkErrorsBeforeIntentionalExternalAbort": []
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "initial": {
+        "viewport": [
+          1440,
+          900
+        ],
+        "overflow": false,
+        "body": "18px",
+        "renderer": "webgl"
+      },
+      "touchTargets": [
+        {
+          "text": "Practice",
+          "width": 58,
+          "height": 44
+        },
+        {
+          "text": "About",
+          "width": 44,
+          "height": 44
+        },
+        {
+          "text": "Curiosity",
+          "width": 63,
+          "height": 44
+        },
+        {
+          "text": "Let’s talk",
+          "width": 98,
+          "height": 44
+        },
+        {
+          "text": "01\nRequirements",
+          "width": 119,
+          "height": 44
+        },
+        {
+          "text": "02\nDesign",
+          "width": 76,
+          "height": 44
+        },
+        {
+          "text": "03\nDelivery",
+          "width": 83,
+          "height": 44
+        },
+        {
+          "text": "04\nSupport",
+          "width": 83,
+          "height": 44
+        },
+        {
+          "text": "What kind of freelance work fits?",
+          "width": 576,
+          "height": 76
+        },
+        {
+          "text": "Are you available full-time?",
+          "width": 576,
+          "height": 76
+        },
+        {
+          "text": "Is your work only Dynamics 365?",
+          "width": 576,
+          "height": 76
+        },
+        {
+          "text": "Are these buildings real projects?",
+          "width": 576,
+          "height": 76
+        },
+        {
+          "text": "What should I include when reaching out?",
+          "width": 576,
+          "height": 76
+        },
+        {
+          "text": "Start a conversation on LinkedIn",
+          "width": 576,
+          "height": 68
+        }
+      ],
+      "chapters": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-requirements.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Arched intake hall where cyan paths gather beside the shared overhead route."
+          }
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-design.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Sawtooth workshop with glazed roof edges, joined to the same utility spine."
+          }
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-delivery.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Raised delivery bays, slatted conveyors and coral reels along the shared route."
+          }
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "anchorTouchOrMouse": true,
+          "anchorEnter": true,
+          "visible": false,
+          "image": {
+            "src": "assets/chapter-support.png",
+            "loaded": false,
+            "box": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "top": 0,
+              "right": 0,
+              "bottom": 0,
+              "left": 0
+            },
+            "alt": "Paired service vessels, inspection bridge and return pipes in the same works."
+          }
+        }
+      ],
+      "faq": [
+        {
+          "index": 0,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 1,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 2,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 3,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        },
+        {
+          "index": 4,
+          "enter": true,
+          "space": true,
+          "pointer": true,
+          "answerVisible": true
+        }
+      ],
+      "tab": true,
+      "escapeNoTrap": true,
+      "contact": {
+        "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "enterPopup": true,
+        "externalRequestAborted": true
+      },
+      "images": [
+        {
+          "src": "assets/landscape.png",
+          "width": 1440,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-requirements.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-design.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-delivery.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-support.png",
+          "width": 780,
+          "height": 900,
+          "loaded": true
+        }
+      ],
+      "returnTop": true,
+      "networkErrorsBeforeIntentionalExternalAbort": []
+    },
+    {
+      "variant": "reduced",
+      "chapterImages": [
+        {
+          "src": "assets/chapter-requirements.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-design.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-delivery.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-support.png",
+          "loaded": true
+        }
+      ],
+      "faqWorks": true,
+      "fallbackLoaded": true,
+      "renderer": "webgl",
+      "scrollBehavior": "auto",
+      "reducedMotion": true,
+      "overflow": false
+    },
+    {
+      "variant": "fallback",
+      "chapterImages": [
+        {
+          "src": "assets/chapter-requirements.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-design.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-delivery.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-support.png",
+          "loaded": true
+        }
+      ],
+      "faqWorks": true,
+      "fallbackLoaded": true,
+      "renderer": "static",
+      "scrollBehavior": "smooth",
+      "reducedMotion": false,
+      "overflow": false
+    },
+    {
+      "variant": "no-js",
+      "chapterImages": [
+        {
+          "src": "assets/chapter-requirements.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-design.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-delivery.png",
+          "loaded": true
+        },
+        {
+          "src": "assets/chapter-support.png",
+          "loaded": true
+        }
+      ],
+      "faqWorks": true,
+      "fallbackLoaded": true,
+      "renderer": null,
+      "scrollBehavior": "smooth",
+      "reducedMotion": false,
+      "overflow": false
+    }
+  ]
+}

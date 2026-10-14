@@ -1,0 +1,61 @@
+{
+  "engine": "Chromium",
+  "views": [
+    {
+      "name": "requirements",
+      "target": [
+        -10,
+        1,
+        -3
+      ],
+      "size": 18,
+      "width": 780,
+      "height": 900,
+      "asset": "assets/chapter-requirements.png",
+      "source": "scene.js original continuous modeled environment",
+      "method": "Chromium WebGL canvas capture, not a source-site image"
+    },
+    {
+      "name": "design",
+      "target": [
+        -1,
+        1,
+        4
+      ],
+      "size": 18,
+      "width": 780,
+      "height": 900,
+      "asset": "assets/chapter-design.png",
+      "source": "scene.js original continuous modeled environment",
+      "method": "Chromium WebGL canvas capture, not a source-site image"
+    },
+    {
+      "name": "delivery",
+      "target": [
+        9,
+        1,
+        -3
+      ],
+      "size": 18,
+      "width": 780,
+      "height": 900,
+      "asset": "assets/chapter-delivery.png",
+      "source": "scene.js original continuous modeled environment",
+      "method": "Chromium WebGL canvas capture, not a source-site image"
+    },
+    {
+      "name": "support",
+      "target": [
+        18,
+        1,
+        3
+      ],
+      "size": 17,
+      "width": 780,
+      "height": 900,
+      "asset": "assets/chapter-support.png",
+      "source": "scene.js original continuous modeled environment",
+      "method": "Chromium WebGL canvas capture, not a source-site image"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "documentWidth": 1425,
+    "minimumVisibleText": 12,
+    "notebookPadding": "65px 128.25px",
+    "fonts": [
+      {
+        "family": "Marcellus",
+        "status": "loaded"
+      },
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "documentWidth": 390,
+    "minimumVisibleText": 12,
+    "notebookPadding": "35px 31.1875px 42px",
+    "fonts": [
+      {
+        "family": "Marcellus",
+        "status": "loaded"
+      },
+      {
+        "family": "Manrope",
+        "status": "loaded"
+      }
+    ]
+  }
+]

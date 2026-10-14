@@ -1,0 +1,629 @@
+{
+  "phase": "pending-defect-confirmation",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "states": [
+        {
+          "name": "orientation-return",
+          "liveMargins": 0,
+          "state": {
+            "draws": 88,
+            "frame": 0,
+            "currentX": 3.2711314686760886,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "stopped": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          },
+          "pass": true
+        },
+        {
+          "name": "context-loss",
+          "before": {
+            "draws": 90,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": false,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          },
+          "after": {
+            "draws": 90,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": false,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          },
+          "buttons": [
+            {
+              "id": "motion",
+              "disabled": true
+            },
+            {
+              "id": "0",
+              "disabled": true
+            },
+            {
+              "id": "1",
+              "disabled": true
+            },
+            {
+              "id": "2",
+              "disabled": true
+            },
+            {
+              "id": "3",
+              "disabled": true
+            }
+          ],
+          "liveMargins": 0,
+          "renderer": "static",
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 22,
+            "y": 518.40625,
+            "width": 276,
+            "height": 68,
+            "top": 518.40625,
+            "right": 298,
+            "bottom": 586.40625,
+            "left": 22
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "states": [
+        {
+          "name": "orientation-return",
+          "liveMargins": 0,
+          "state": {
+            "draws": 91,
+            "frame": 0,
+            "currentX": 3.140335066543124,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "stopped": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          },
+          "pass": true
+        },
+        {
+          "name": "context-loss",
+          "before": {
+            "draws": 93,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": false,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          },
+          "after": {
+            "draws": 93,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": false,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          },
+          "buttons": [
+            {
+              "id": "motion",
+              "disabled": true
+            },
+            {
+              "id": "0",
+              "disabled": true
+            },
+            {
+              "id": "1",
+              "disabled": true
+            },
+            {
+              "id": "2",
+              "disabled": true
+            },
+            {
+              "id": "3",
+              "disabled": true
+            }
+          ],
+          "liveMargins": 0,
+          "renderer": "static",
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 22,
+            "y": 488.609375,
+            "width": 346,
+            "height": 68,
+            "top": 488.609375,
+            "right": 368,
+            "bottom": 556.609375,
+            "left": 22
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "states": [
+        {
+          "name": "orientation-return",
+          "liveMargins": 0,
+          "state": {
+            "draws": 87,
+            "frame": 0,
+            "currentX": 3.0972828615543277,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": false,
+            "stopped": false,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          },
+          "pass": true
+        },
+        {
+          "name": "context-loss",
+          "before": {
+            "draws": 89,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": false,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          },
+          "after": {
+            "draws": 89,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": false,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          },
+          "buttons": [
+            {
+              "id": "motion",
+              "disabled": true
+            },
+            {
+              "id": "0",
+              "disabled": true
+            },
+            {
+              "id": "1",
+              "disabled": true
+            },
+            {
+              "id": "2",
+              "disabled": true
+            },
+            {
+              "id": "3",
+              "disabled": true
+            }
+          ],
+          "liveMargins": 0,
+          "renderer": "static",
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 22,
+            "y": 576.375,
+            "width": 386,
+            "height": 68,
+            "top": 576.375,
+            "right": 408,
+            "bottom": 644.375,
+            "left": 22
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "states": [
+        {
+          "name": "context-loss",
+          "before": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          },
+          "after": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          },
+          "buttons": [
+            {
+              "id": "motion",
+              "disabled": true
+            },
+            {
+              "id": "0",
+              "disabled": true
+            },
+            {
+              "id": "1",
+              "disabled": true
+            },
+            {
+              "id": "2",
+              "disabled": true
+            },
+            {
+              "id": "3",
+              "disabled": true
+            }
+          ],
+          "liveMargins": 0,
+          "renderer": "static",
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 447.3125,
+            "y": 113,
+            "width": 354.5,
+            "height": 68,
+            "top": 113,
+            "right": 801.8125,
+            "bottom": 181,
+            "left": 447.3125
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "states": [
+        {
+          "name": "context-loss",
+          "before": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          },
+          "after": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          },
+          "buttons": [
+            {
+              "id": "motion",
+              "disabled": true
+            },
+            {
+              "id": "0",
+              "disabled": true
+            },
+            {
+              "id": "1",
+              "disabled": true
+            },
+            {
+              "id": "2",
+              "disabled": true
+            },
+            {
+              "id": "3",
+              "disabled": true
+            }
+          ],
+          "liveMargins": 0,
+          "renderer": "static",
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 407.03125,
+            "y": 677.640625,
+            "width": 322.578125,
+            "height": 69.1875,
+            "top": 677.640625,
+            "right": 729.609375,
+            "bottom": 746.828125,
+            "left": 407.03125
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "states": [
+        {
+          "name": "context-loss",
+          "before": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          },
+          "after": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "stopped": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          },
+          "buttons": [
+            {
+              "id": "motion",
+              "disabled": true
+            },
+            {
+              "id": "0",
+              "disabled": true
+            },
+            {
+              "id": "1",
+              "disabled": true
+            },
+            {
+              "id": "2",
+              "disabled": true
+            },
+            {
+              "id": "3",
+              "disabled": true
+            }
+          ],
+          "liveMargins": 0,
+          "renderer": "static",
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 792,
+            "y": 575.109375,
+            "width": 576,
+            "height": 68,
+            "top": 575.109375,
+            "right": 1368,
+            "bottom": 643.109375,
+            "left": 792
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    }
+  ]
+}

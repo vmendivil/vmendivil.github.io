@@ -1,0 +1,89 @@
+{
+  "study": "09-natalie-organic",
+  "verdict": "READY",
+  "boundary": "local worker-source assembly candidate, not assembled/LAN/production approval",
+  "repair_batch": "context-loss-and-gallery-availability",
+  "functional_fix": "Perspective availability is recalculated on every study update: paging into a failed artwork disables the control; paging to a successfully rendered sculpture restores it.",
+  "current_checks": 109,
+  "current_passed": 109,
+  "current_errors": [],
+  "current_viewports": [
+    [
+      1440,
+      900
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      844,
+      390
+    ]
+  ],
+  "current_capture_count": 29,
+  "runtime_allowlist": [
+    "index.html",
+    "style.css",
+    "gallery.js",
+    "assets/Manrope-OFL.txt",
+    "assets/THREE-LICENSE.txt",
+    "assets/manrope.ttf",
+    "assets/three.module.js"
+  ],
+  "runtime_inventory": {
+    "index.html": {
+      "sha256": "500cf10cdae37a8a64392669eed61a9c72d47d55e513737643e65b643ff547c5",
+      "bytes": 6181
+    },
+    "style.css": {
+      "sha256": "fa294b9f127c543050cbf43dcbcd8fef1b20740317e78f8898270e5d58be2597",
+      "bytes": 12351
+    },
+    "gallery.js": {
+      "sha256": "fa77666e9da9e7714389c7e53cbc1cbdc831eb0e02edcf902539f3cbf900185e",
+      "bytes": 11856
+    },
+    "assets/Manrope-OFL.txt": {
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "bytes": 4387
+    },
+    "assets/THREE-LICENSE.txt": {
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+      "bytes": 1081
+    },
+    "assets/manrope.ttf": {
+      "sha256": "a13d9b41b0a471ce58f0e46d377fa3cc76615e4632c3b15eb397caadf7a13f0a",
+      "bytes": 94972
+    },
+    "assets/three.module.js": {
+      "sha256": "0a3368c165eea773490aec7b77c22de70e3eac288503409256fdbf4d12578416",
+      "bytes": 1304820
+    }
+  },
+  "preclosure_runtime_match": {
+    "index.html": true,
+    "style.css": true,
+    "gallery.js": false
+  },
+  "source_frame_hash_match": {
+    "natalieliu-frame-1.jpg": true,
+    "natalieliu-frame-3.jpg": true,
+    "natalieliu-frame-0.jpg": true,
+    "natalieliu-frame-2.jpg": true
+  },
+  "historical_evidence_limit": "Old six-size results remain historical. HTML/CSS and assets unchanged; their unaffected reading geometry can support 320/430/tablet evidence. Changed JavaScript is covered freshly at desktop/390/landscape, not a fresh six-size certification. Old hidden-sample failures remain intact and are not relabeled green.",
+  "raw_results": [
+    "fidelity/parent-confirmation-results.json",
+    "fidelity/parent-edge-confirmation-results.json"
+  ],
+  "focal_chronology": [],
+  "material_source_limit": "Irregular windows, transmissive original sculpture and open curatorial labels remain. Three finite 640px rendered views per artwork are not free orbit or continuous live refraction. Normal successful gallery flights and angles are unaffected by the availability guard.",
+  "unresolved_reproducer": null,
+  "parent_remaining": [
+    "runtime-only assembly",
+    "served-byte hash comparison",
+    "source-link/comparison chrome checks",
+    "actual LAN verification"
+  ]
+}

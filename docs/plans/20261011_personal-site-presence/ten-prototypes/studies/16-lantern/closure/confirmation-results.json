@@ -1,0 +1,84 @@
+{
+  "method": "independent Chromium real input; software WebGL; no physical device",
+  "contexts": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "interrupt selects different crop",
+        "about complete reading",
+        "whole-house return about",
+        "practice complete reading",
+        "whole-house return practice",
+        "curiosity complete reading",
+        "whole-house return curiosity",
+        "contact complete reading",
+        "whole-house return contact",
+        "keyboard reading focus",
+        "reduced immediate crop",
+        "stopped camera",
+        "no horizontal overflow",
+        "no page errors",
+        "no asset failures"
+      ],
+      "passed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "interrupt selects different crop",
+        "about complete reading",
+        "whole-house return about",
+        "practice complete reading",
+        "whole-house return practice",
+        "curiosity complete reading",
+        "whole-house return curiosity",
+        "contact complete reading",
+        "whole-house return contact",
+        "keyboard reading focus",
+        "reduced immediate crop",
+        "stopped camera",
+        "no horizontal overflow",
+        "no page errors",
+        "no asset failures"
+      ],
+      "passed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "interrupt selects different crop",
+        "about complete reading",
+        "whole-house return about",
+        "practice complete reading",
+        "whole-house return practice",
+        "curiosity complete reading",
+        "whole-house return curiosity",
+        "contact complete reading",
+        "whole-house return contact",
+        "keyboard reading focus",
+        "reduced immediate crop",
+        "stopped camera",
+        "no horizontal overflow",
+        "no page errors",
+        "no asset failures"
+      ],
+      "passed": true
+    }
+  ],
+  "failures": []
+}

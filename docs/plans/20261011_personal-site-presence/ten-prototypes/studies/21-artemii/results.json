@@ -1,0 +1,143 @@
+{
+  "status": "passed",
+  "checks": 381,
+  "engine": "Chromium / Playwright",
+  "physicalSafari": false,
+  "viewports": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "notes": [
+        "erp",
+        "delivery",
+        "homelab",
+        "ai",
+        "person",
+        "availability"
+      ],
+      "allLongReading": true,
+      "backAndSelection": true,
+      "overflow": false,
+      "keyboard": "Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "notes": [
+        "erp",
+        "delivery",
+        "homelab",
+        "ai",
+        "person",
+        "availability"
+      ],
+      "allLongReading": true,
+      "backAndSelection": true,
+      "overflow": false,
+      "keyboard": "Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap"
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "notes": [
+        "erp",
+        "delivery",
+        "homelab",
+        "ai",
+        "person",
+        "availability"
+      ],
+      "allLongReading": true,
+      "backAndSelection": true,
+      "overflow": false,
+      "keyboard": "Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "notes": [
+        "erp",
+        "delivery",
+        "homelab",
+        "ai",
+        "person",
+        "availability"
+      ],
+      "allLongReading": true,
+      "backAndSelection": true,
+      "overflow": false,
+      "keyboard": "Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap"
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "notes": [
+        "erp",
+        "delivery",
+        "homelab",
+        "ai",
+        "person",
+        "availability"
+      ],
+      "allLongReading": true,
+      "backAndSelection": true,
+      "overflow": false,
+      "keyboard": "Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap"
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "notes": [
+        "erp",
+        "delivery",
+        "homelab",
+        "ai",
+        "person",
+        "availability"
+      ],
+      "allLongReading": true,
+      "backAndSelection": true,
+      "overflow": false,
+      "keyboard": "Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap"
+    }
+  ],
+  "reducedMotion": "instant register/essay changes and computed auto scroll",
+  "fallback": "all six notes and contact reachable without JavaScript",
+  "errors": [],
+  "captures": [
+    "contact-desktop.png",
+    "contact-full-desktop.png",
+    "contact-full-landscape.png",
+    "contact-full-mobile.png",
+    "contact-landscape.png",
+    "contact-mobile.png",
+    "content-desktop.png",
+    "content-landscape.png",
+    "content-mobile.png",
+    "desktop.png",
+    "inspection-board.jpg",
+    "landscape.png",
+    "long-desktop.png",
+    "long-landscape.png",
+    "long-mobile.png",
+    "mobile.png"
+  ]
+}

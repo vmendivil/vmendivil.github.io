@@ -1,0 +1,26 @@
+{
+  "allowlist": [
+    "index.html",
+    "style.css",
+    "world.js",
+    "assets/Figtree-OFL.txt",
+    "assets/Figtree.ttf",
+    "assets/Gloock-OFL.txt",
+    "assets/Gloock-Regular.ttf",
+    "assets/THREE-LICENSE.txt",
+    "assets/favicon.svg",
+    "assets/three.module.js"
+  ],
+  "sha256": {
+    "index.html": "21c381321dbfe929dd4b3dbb64387c643f62507d275f2889cd6b4fd9f596010f",
+    "style.css": "12716b8b15f25ad886ab53f729a5981739d0870a861fabd4b4ebbaf3e80752bd",
+    "world.js": "2416bec27b45df926ec4ddf88dbf556d068d2de26dd0c5b3a3e66a4397796bd7",
+    "assets/Figtree-OFL.txt": "140d37233e7f3ce7313798befa9600893bcceaf41a55fa0fa5ad52f7f657a268",
+    "assets/Figtree.ttf": "26ad3db9b31ff7dde67a91ff515d022d2f495cd506590699cf264f0bfe6fb714",
+    "assets/Gloock-OFL.txt": "321e28d45a430e017d9d1d6a47ef1fd261aad354723b014cf1933a765036c311",
+    "assets/Gloock-Regular.ttf": "c3a67e0212f7da01764796ae721cb9bab3e122d142354f97cf9c63fb763e6d77",
+    "assets/THREE-LICENSE.txt": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "assets/favicon.svg": "0c73d98337a0f376292ccb5f759929964ccca0740b8c65bb2e392ff4f14774c8",
+    "assets/three.module.js": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb"
+  }
+}

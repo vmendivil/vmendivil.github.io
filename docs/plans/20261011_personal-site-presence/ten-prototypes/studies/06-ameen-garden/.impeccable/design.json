@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T02:01:20.009186+00:00",
+  "title": "Design System: Quiet Current",
+  "extensions": {
+    "colorMeta": {
+      "river-ink": {
+        "role": "primary",
+        "displayName": "River Ink"
+      },
+      "peach-bank": {
+        "role": "secondary",
+        "displayName": "Peach Bank"
+      },
+      "blossom-field": {
+        "role": "tertiary",
+        "displayName": "Blossom Field"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Bellefair display",
+        "purpose": "Open fine lettering over water and reading fields."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "water-frame-budget",
+        "value": "100ms minimum frame interval",
+        "purpose": "WebGL water shader time; rendering paused offscreen, hidden and under reduced motion. Shadow maps cached after the initial scene render."
+      },
+      {
+        "name": "pixel-ratio-cap",
+        "value": "1.5",
+        "purpose": "Bound canvas cost on mobile."
+      }
+    ],
+    "renderer": {
+      "library": "Three.js r170",
+      "api": "native WebGL2",
+      "shadowMap": "2048px PCFSoft, cached after initial render",
+      "reflection": "half-float mirrored-camera target, capped1024x768",
+      "materials": "standard bark/stone/terrain maps and original folded instanced botanical geometry",
+      "rasterProvenance": "PROVENANCE.md"
+    },
+    "breakpoints": [
+      {
+        "name": "phone-flow",
+        "value": "700px"
+      },
+      {
+        "name": "tablet-note",
+        "value": "1000px"
+      },
+      {
+        "name": "shallow-wide",
+        "value": "max-height:500px and min-width:701px"
+      }
+    ],
+    "reading": {
+      "grammar": "unboxed botanical essay and marginal notes",
+      "body": "19px base; 20px practice; 18px phone; substantial minimum16px",
+      "hitArea": "44px minimum height/width",
+      "anchorOffset": "30px; contact naturally clamps at document end",
+      "gutters": "7% with safe-area maxima",
+      "stem": "assets/essay-stem.svg; authored original"
+    },
+    "fidelity": {
+      "sourceFiles": [
+        "index.html",
+        "fidelity.css",
+        "landscape.js"
+      ],
+      "behavior": "The accepted grove and continuous botanical essay remain. Folded foliage now bends in a soft shader breeze, original curved petal meshes descend and float, and landing rings distort the real mirrored reflection. Let a petal drift is a quiet native button; a low-water-area tap provides the same gesture. Near-bank camera movement follows only the first small scroll interval; ordinary reading remains dominant. Pause freezes the environment, reduced motion gives an actual landed petal and still ripple accent, and offscreen/hidden/paused states cancel the RAF chain. ~12fps budget, capped reflection target, DPR1.5, cached1024px shadows. Dynamic foliage shadow silhouettes remain cached (documented tradeoff); source-level cinematic optics not claimed.",
+      "verification": "FIDELITY_REPORT.md / fidelity-evidence/raw-results.json",
+      "oldVerification": "historical",
+      "shadowPolicy": "1024px cached environment; motion shadows approximate between invalidations",
+      "closure": "The phone petal button ray-projects a landing into visible foreground water instead of using an off-frame desktop coordinate. Desktop landing is deliberately between existing lotus pads, not inside a flower. The single drifting petal uses the grove\u2019s existing muted-rose pigment. Rings use a defined smoothstep envelope; stronger local reflection disturbance remains bounded and decays. No-JS hides the dormant ambient/petal controls, while the complete botanical essay/contact stays visible."
+    },
+    "userFollowup": {
+      "changes": "The phone invitation now has its own right-aligned intrinsic hit area and a palette-native light backing. It no longer covers the petal landing strip or steals water input in that blank area. The caption foreground/background contrast is10.90:1; 320/390/430 portrait and844 landscape checks pass. The petal remains naturally small; source-level optical approval is separate.",
+      "results": "fidelity-evidence/user-followup/results.json",
+      "passed": 21,
+      "total": 21,
+      "previousResidual": "superseded by exact browser recheck"
+    }
+  },
+  "components": [
+    {
+      "name": "Ambient button",
+      "kind": "button",
+      "refersTo": "ambient-button",
+      "description": "Pause or resume ambient water.",
+      "html": "<button class=\"ds-water\" aria-pressed=\"false\">Pause the water</button>",
+      "css": ".ds-water{font-family:Karla,sans-serif;color:#153e3b;background:#f9e4ce;border:1px solid #658779;border-radius:40px;padding:9px 19px;font-size:14px;cursor:pointer}.ds-water:hover{background:#fff5e5}.ds-water:focus-visible{outline:3px solid #a34458;outline-offset:5px}.ds-water:disabled{cursor:default} .ds-water{min-height:44px;display:inline-flex;align-items:center}"
+    },
+    {
+      "name": "Contact link",
+      "kind": "custom",
+      "description": "Native direct professional contact.",
+      "html": "<a class=\"ds-contact\" href=\"https://www.linkedin.com/in/vmendivilaxdeveloper\">Find me on LinkedIn <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a>",
+      "css": ".ds-contact{font-family:Karla,sans-serif;font-size:23px;color:#153e3b;text-decoration:none;border-bottom:1px solid #426c60;padding-bottom:10px}.ds-contact:hover{text-decoration:underline;text-underline-offset:6px}.ds-contact:focus-visible{outline:3px solid #a34458;outline-offset:5px} .ds-contact{min-height:44px;display:inline-flex;align-items:center}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Quiet Current",
+    "overview": "Accepted original WebGL garden retained unchanged. Unboxed peach botanical essay with leaf marginal notes and winding inline-serif practice prose continues into pink interest definitions and open sage contact. Warm Bellefair/Karla identity and factual copy preserved. Parent comparative content/mobile acceptance pending.",
+    "keyCharacteristics": [
+      "Reflective water and layered foliage.",
+      "Receding navigation, readable personal copy.",
+      "Varied long-form sections rather than cards."
+    ],
+    "rules": [],
+    "dos": [
+      "Do keep important information available without scene manipulation.",
+      "Do pause rendering offscreen and under reduced motion.",
+      "Do retain warm factual first-person copy and ordinary scrolling."
+    ],
+    "donts": [
+      "Don't introduce driving, characters, complex gestures or fake contact forms.",
+      "Don't invent project proof, commercial metrics or personal facts."
+    ]
+  }
+}

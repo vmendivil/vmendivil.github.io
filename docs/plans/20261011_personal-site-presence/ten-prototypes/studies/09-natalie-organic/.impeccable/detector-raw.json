@@ -1,0 +1,22 @@
+[
+  {
+    "antipattern": "broken-image",
+    "name": "Broken or placeholder image",
+    "description": "<img> tags with empty src, missing src, or placeholder values ship as broken-image boxes. Use real images, generated assets, or remove the tag.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/09-natalie-organic/index.html",
+    "line": 0,
+    "snippet": "<img> with no src attribute"
+  },
+  {
+    "antipattern": "undersized-ui-text",
+    "name": "Undersized functional text",
+    "description": "Interactive and content-bearing UI text (links, buttons, nav items, labels, table cells, meta rows, timecodes) below 11px is a legibility failure, not a style choice. WCAG sets no absolute pixel floor, but functional text under 11px is a defensible quality bar: it fails on high-DPI and small viewports and it degrades tap and read targets. The 11px floor holds even inside a footer; only non-interactive legal smallprint gets the softer 10px floor. Being ON the DESIGN.md size ramp does not exempt a value here: adding 8px to the ramp launders the token but not the legibility problem, and that is exactly the escape hatch this rule closes. Exempts sup/sub, visually-hidden (sr-only) text, and code/terminal contexts. Decorative letterspaced micro-labels are still functional and stay in scope.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/09-natalie-organic/index.html",
+    "line": 0,
+    "snippet": "10px functional text \"Software developer & problem solver\" (below 11px floor)"
+  }
+]

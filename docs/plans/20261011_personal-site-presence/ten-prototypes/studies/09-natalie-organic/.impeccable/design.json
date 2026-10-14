@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T00:09:36.788225+00:00",
+  "title": "Design System: Living Index",
+  "extensions": {
+    "reading": {
+      "family": "organic curatorial labels",
+      "dialog": "transparent gallery room, no card",
+      "backdrop": "#e8eee7ed, blur 18px",
+      "layout": "fixed header and bottom browse rail; independently scrollable centre",
+      "portraitArt": "220px at 320; max 270px",
+      "body": "17px / 1.7",
+      "category": "16px",
+      "materialCaption": "14px",
+      "minimumControlHeight": "44px",
+      "safeArea": "env safe-area insets, 100dvh with 100vh fallback",
+      "focus": "native modal with explicit boundary Tab wrapping and opener restoration"
+    },
+    "shadows": [
+      {
+        "name": "organic-window",
+        "value": "inset 5px 12px 30px #ffffffb0,18px 27px 42px -23px #62566965",
+        "purpose": "Translucent aperture depth"
+      }
+    ],
+    "motion": [
+      {
+        "name": "scroll",
+        "value": "smooth; reduced-motion: auto",
+        "purpose": "Anchor travel only; no ambient animation"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "700px"
+      }
+    ],
+    "materials": [
+      {
+        "name": "emerald-glass",
+        "color": "#78bea4",
+        "transmission": 1,
+        "metalness": 0,
+        "roughness": 0.075,
+        "ior": 1.38,
+        "thickness": 0.24,
+        "attenuationDistance": 2.8
+      },
+      {
+        "name": "violet-glass",
+        "color": "#d4c5e9",
+        "transmission": 1,
+        "metalness": 0,
+        "roughness": 0.075,
+        "ior": 1.38,
+        "thickness": 0.18,
+        "attenuationDistance": 2.8
+      }
+    ],
+    "icons": {
+      "source": "authored inline SVG",
+      "viewBox": "0 0 24 24",
+      "size": "18px",
+      "strokeWidth": 1.4,
+      "linecap": "round",
+      "linejoin": "round",
+      "color": "currentColor"
+    },
+    "artwork": {
+      "source": "gallery.js createArt(canvas,index), indices 0\u20133",
+      "runtime": "in-memory PNG data URLs, regenerated on load",
+      "backdrop": "backdrop(index), CanvasTexture, curved bands, plane z=-2.5",
+      "retainedOpaque": "pearl cores/loops/petals and emerald beads/outer knot ribbons"
+    },
+    "fidelity": {
+      "focal": "aperture-to-room shared artwork continuity",
+      "flightMs": 620,
+      "pagingMs": 380,
+      "pagingDistancePx": 32,
+      "snapshotSize": [
+        640,
+        640
+      ],
+      "perspectives": [
+        0,
+        0.42,
+        -0.38
+      ],
+      "reduced": "instant selection and visible alternate material angle",
+      "runtime": "finite snapshots then disposed WebGL contexts"
+    }
+  },
+  "components": [
+    {
+      "name": "Explore study",
+      "kind": "button",
+      "refersTo": "explore",
+      "description": "Native artwork browsing affordance",
+      "html": "<button class=\"ds-explore\">Explore study</button>",
+      "css": ".ds-explore{font:13px Manrope,sans-serif;border:0;background:#faf8facf;color:#34463d;border-radius:30px;padding:8px 17px}.ds-explore:hover{background:#fff}.ds-explore:focus-visible{outline:3px solid #315b48;outline-offset:7px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Living Index",
+    "overview": "A pearl-lit collection of organic sculptural studies. Quiet navigation and floating museum labels leave room for the objects.",
+    "keyCharacteristics": [
+      "Unequal organic windows and generous negative space.",
+      "Transmissive emerald membranes and violet ribbons with opaque pearl loops and emerald beads.",
+      "Open museum-label About and offset Contact annotation on the pearl page ground."
+    ],
+    "dos": [
+      "Do let illustrative art lead while preserving readable factual information."
+    ],
+    "donts": [
+      "Don't imply these are client commissions or proof of professional 3D work."
+    ]
+  }
+}

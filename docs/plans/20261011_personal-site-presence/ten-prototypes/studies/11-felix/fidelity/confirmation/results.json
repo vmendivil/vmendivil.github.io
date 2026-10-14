@@ -1,0 +1,1337 @@
+{
+  "phase": "confirmation",
+  "engine": "Chromium Playwright; SwiftShader software emulation; physical Safari not tested",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 74519,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "about",
+            "reading": false,
+            "signalCount": 0,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 6633.075999979518
+              },
+              {
+                "state": "running",
+                "time": 6633.075999979518
+              }
+            ]
+          }
+        },
+        {
+          "name": "01-tuning",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 14849.447999979517
+              },
+              {
+                "state": "running",
+                "time": 14849.447999979517
+              }
+            ]
+          }
+        },
+        {
+          "name": "02-practice",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 30215.52199997952
+              },
+              {
+                "state": "running",
+                "time": 30215.52199997952
+              }
+            ]
+          }
+        },
+        {
+          "name": "03-night",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 49081.42199997952
+              },
+              {
+                "state": "running",
+                "time": 49081.42199997952
+              }
+            ]
+          }
+        },
+        {
+          "name": "about-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "about",
+            "reading": true,
+            "signalCount": 2,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 67180.70599997952
+              },
+              {
+                "state": "running",
+                "time": 67180.70599997952
+              }
+            ]
+          }
+        },
+        {
+          "name": "about-ending",
+          "scroll": 2139,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "about",
+            "reading": true,
+            "signalCount": 2,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 67297.3739999795
+              }
+            ]
+          }
+        },
+        {
+          "name": "practice-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": true,
+            "signalCount": 3,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 2566.6420000125927
+              },
+              {
+                "state": "running",
+                "time": 69864.0159999921
+              }
+            ]
+          }
+        },
+        {
+          "name": "practice-ending",
+          "scroll": 2086,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": true,
+            "signalCount": 3,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 69930.6439999921
+              }
+            ]
+          }
+        },
+        {
+          "name": "curiosity-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "curiosity",
+            "reading": true,
+            "signalCount": 4,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 3049.9519999427775
+              },
+              {
+                "state": "running",
+                "time": 72980.59599993487
+              }
+            ]
+          }
+        },
+        {
+          "name": "curiosity-ending",
+          "scroll": 2136,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "curiosity",
+            "reading": true,
+            "signalCount": 4,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 73063.86999993488
+              }
+            ]
+          }
+        },
+        {
+          "name": "contact-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "contact",
+            "reading": true,
+            "signalCount": 5,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 2216.675999984986
+              },
+              {
+                "state": "running",
+                "time": 75280.54599991986
+              }
+            ]
+          }
+        },
+        {
+          "name": "contact-ending",
+          "scroll": 1612,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "contact",
+            "reading": true,
+            "signalCount": 5,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 75363.78199991987
+              }
+            ]
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 833.2939999495323
+            },
+            {
+              "state": "running",
+              "time": 76197.0759998694
+            }
+          ]
+        },
+        "idle": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 1383.2719999495425
+            },
+            {
+              "state": "running",
+              "time": 76747.05399986941
+            }
+          ]
+        },
+        "paused": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": true,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "paused",
+              "time": 76813.7979998694
+            }
+          ]
+        },
+        "pausedAfter": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": true,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "paused",
+              "time": 76813.7979998694
+            }
+          ]
+        },
+        "off": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 1383.3359999826769
+            },
+            {
+              "state": "running",
+              "time": 78197.13399985209
+            }
+          ]
+        },
+        "offAfter": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 1949.9799999826735
+            },
+            {
+              "state": "running",
+              "time": 78763.77799985209
+            }
+          ]
+        },
+        "restored": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 2649.951999982676
+            },
+            {
+              "state": "running",
+              "time": 79463.74999985208
+            }
+          ]
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 52219,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "about",
+            "reading": false,
+            "signalCount": 0,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 4983.215000034347
+              },
+              {
+                "state": "running",
+                "time": 4983.215000034347
+              }
+            ]
+          }
+        },
+        {
+          "name": "01-tuning",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 5866.475000034347
+              },
+              {
+                "state": "running",
+                "time": 5866.475000034347
+              }
+            ]
+          }
+        },
+        {
+          "name": "02-practice",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 9599.701000034347
+              },
+              {
+                "state": "running",
+                "time": 9599.701000034347
+              }
+            ]
+          }
+        },
+        {
+          "name": "03-night",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 16232.759000034346
+              },
+              {
+                "state": "running",
+                "time": 16232.759000034346
+              }
+            ]
+          }
+        },
+        {
+          "name": "about-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "about",
+            "reading": true,
+            "signalCount": 2,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 41298.43300003435
+              },
+              {
+                "state": "running",
+                "time": 41298.43300003435
+              }
+            ]
+          }
+        },
+        {
+          "name": "about-ending",
+          "scroll": 1667,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "about",
+            "reading": true,
+            "signalCount": 2,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 41381.68700003435
+              }
+            ]
+          }
+        },
+        {
+          "name": "practice-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": true,
+            "signalCount": 3,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 7933.050999995579
+              },
+              {
+                "state": "running",
+                "time": 49314.73800002992
+              }
+            ]
+          }
+        },
+        {
+          "name": "practice-ending",
+          "scroll": 1598,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": true,
+            "signalCount": 3,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 49381.36800002993
+              }
+            ]
+          }
+        },
+        {
+          "name": "curiosity-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "curiosity",
+            "reading": true,
+            "signalCount": 4,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 2933.2810000218574
+              },
+              {
+                "state": "running",
+                "time": 52314.64900005179
+              }
+            ]
+          }
+        },
+        {
+          "name": "curiosity-ending",
+          "scroll": 1682,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "curiosity",
+            "reading": true,
+            "signalCount": 4,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 52381.31500005179
+              }
+            ]
+          }
+        },
+        {
+          "name": "contact-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "contact",
+            "reading": true,
+            "signalCount": 5,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 2866.6429999550755
+              },
+              {
+                "state": "running",
+                "time": 55247.95800000687
+              }
+            ]
+          }
+        },
+        {
+          "name": "contact-ending",
+          "scroll": 1256,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "contact",
+            "reading": true,
+            "signalCount": 5,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 55331.200000006866
+              }
+            ]
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 983.3089999644287
+            },
+            {
+              "state": "running",
+              "time": 56314.508999971295
+            }
+          ]
+        },
+        "idle": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 1533.310999964428
+            },
+            {
+              "state": "running",
+              "time": 56864.510999971295
+            }
+          ]
+        },
+        "paused": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": true,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "paused",
+              "time": 56931.198999971304
+            }
+          ]
+        },
+        "pausedAfter": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": true,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "paused",
+              "time": 56931.198999971304
+            }
+          ]
+        },
+        "off": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 1399.9930000095233
+            },
+            {
+              "state": "running",
+              "time": 58331.19199998082
+            }
+          ]
+        },
+        "offAfter": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 1949.9710000095192
+            },
+            {
+              "state": "running",
+              "time": 58881.16999998082
+            }
+          ]
+        },
+        "restored": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 2649.9430000095217
+            },
+            {
+              "state": "running",
+              "time": 59581.14199998082
+            }
+          ]
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "keyboard": true,
+      "touch": true,
+      "reversal": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "runtime": 45020,
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "about",
+            "reading": false,
+            "signalCount": 0,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 5849.760999997131
+              },
+              {
+                "state": "running",
+                "time": 5849.760999997131
+              }
+            ]
+          }
+        },
+        {
+          "name": "01-tuning",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 6566.4689999971315
+              },
+              {
+                "state": "running",
+                "time": 6566.4689999971315
+              }
+            ]
+          }
+        },
+        {
+          "name": "02-practice",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 10382.982999997132
+              },
+              {
+                "state": "running",
+                "time": 10382.982999997132
+              }
+            ]
+          }
+        },
+        {
+          "name": "03-night",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 19965.94899999713
+              },
+              {
+                "state": "running",
+                "time": 19965.94899999713
+              }
+            ]
+          }
+        },
+        {
+          "name": "about-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "about",
+            "reading": true,
+            "signalCount": 2,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 38315.14899999714
+              },
+              {
+                "state": "running",
+                "time": 38315.14899999714
+              }
+            ]
+          }
+        },
+        {
+          "name": "about-ending",
+          "scroll": 1427,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "about",
+            "reading": true,
+            "signalCount": 2,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 38398.52699999713
+              }
+            ]
+          }
+        },
+        {
+          "name": "practice-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": true,
+            "signalCount": 3,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 3433.2790000372524
+              },
+              {
+                "state": "running",
+                "time": 41831.80600003438
+              }
+            ]
+          }
+        },
+        {
+          "name": "practice-ending",
+          "scroll": 1405,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": true,
+            "signalCount": 3,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 41915.10200003438
+              }
+            ]
+          }
+        },
+        {
+          "name": "curiosity-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "curiosity",
+            "reading": true,
+            "signalCount": 4,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 2399.982999964557
+              },
+              {
+                "state": "running",
+                "time": 44315.08499999894
+              }
+            ]
+          }
+        },
+        {
+          "name": "curiosity-ending",
+          "scroll": 1489,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "curiosity",
+            "reading": true,
+            "signalCount": 4,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 44381.67099999894
+              }
+            ]
+          }
+        },
+        {
+          "name": "contact-reading",
+          "scroll": 360,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "contact",
+            "reading": true,
+            "signalCount": 5,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 3716.5789999767967
+              },
+              {
+                "state": "running",
+                "time": 48098.249999975735
+              }
+            ]
+          }
+        },
+        {
+          "name": "contact-ending",
+          "scroll": 1110,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "contact",
+            "reading": true,
+            "signalCount": 5,
+            "paused": false,
+            "roomVisible": false,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 48198.215999975735
+              }
+            ]
+          }
+        }
+      ],
+      "activity": {
+        "a": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 750.0290000250586
+            },
+            {
+              "state": "running",
+              "time": 48948.245000000796
+            }
+          ]
+        },
+        "idle": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 1316.6730000250552
+            },
+            {
+              "state": "running",
+              "time": 49514.889000000796
+            }
+          ]
+        },
+        "paused": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": true,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "paused",
+              "time": 49581.47700000079
+            }
+          ]
+        },
+        "pausedAfter": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": true,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "paused",
+              "time": 49581.47700000079
+            }
+          ]
+        },
+        "off": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 1416.6469999731107
+            },
+            {
+              "state": "running",
+              "time": 50998.123999973905
+            }
+          ]
+        },
+        "offAfter": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 1966.6249999731135
+            },
+            {
+              "state": "running",
+              "time": 51548.10199997391
+            }
+          ]
+        },
+        "restored": {
+          "selected": "contact",
+          "reading": false,
+          "signalCount": 5,
+          "paused": false,
+          "roomVisible": true,
+          "hidden": false,
+          "animations": [
+            {
+              "state": "running",
+              "time": 2683.2749999731077
+            },
+            {
+              "state": "running",
+              "time": 52264.7519999739
+            }
+          ]
+        }
+      },
+      "images": [],
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "fatal": "cdpSession.send: Target page, context or browser has been closed",
+      "errors": [],
+      "failed": [],
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "about",
+            "reading": false,
+            "signalCount": 0,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 7199.7909999249505
+              },
+              {
+                "state": "running",
+                "time": 7199.7909999249505
+              }
+            ]
+          }
+        },
+        {
+          "name": "01-tuning",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 8716.39699992495
+              },
+              {
+                "state": "running",
+                "time": 8716.39699992495
+              }
+            ]
+          }
+        },
+        {
+          "name": "02-practice",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 14999.47899992495
+              },
+              {
+                "state": "running",
+                "time": 14999.47899992495
+              }
+            ]
+          }
+        },
+        {
+          "name": "03-night",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip the scenery\nVictor Mendivil\nSignal Lounge\nAbout\nPractice\nCuriosity\nContact\nVICTOR\nMENDIVIL\nSOFTWARE / PEOPLE / POSSIBILITY\nFROM ASK\nTO WORKING.\nTHE WHOLE SOFTWARE JOURNEY\nSTAY\nCURIOUS.\nSMALL MACH",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": false,
+            "roomVisible": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "running",
+                "time": 35715.28299992495
+              },
+              {
+                "state": "running",
+                "time": 35715.28299992495
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "loaded": true,
+    "fonts": "loaded",
+    "viewport": "desktop",
+    "routes": [
+      {
+        "status": "You are here: tool mismatch",
+        "topic": "tools",
+        "selected": "tools",
+        "title": "Make the tools follow the work."
+      },
+      {
+        "status": "You are here: Dynamics processes",
+        "topic": "dynamics",
+        "selected": "dynamics",
+        "title": "Look beyond the screen that\u2019s stuck."
+      },
+      {
+        "status": "You are here: repetition",
+        "topic": "repeat",
+        "selected": "repeat",
+        "title": "Give the repetitive work a better route."
+      }
+    ],
+    "statusWithinSelector": true,
+    "tapTarget": {
+      "width": 169.953125,
+      "height": 44
+    },
+    "draft": "Hi Victor,\n\nI\u2019d like to talk about too much manual repetition.\n\nWe enter the same data twice.\n\nCould we explore what a practical next step might look like?",
+    "storage": {
+      "local": 0,
+      "session": 0
+    }
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "loaded": true,
+    "fonts": "loaded",
+    "viewport": "mobile",
+    "routes": [
+      {
+        "status": "You are here: tool mismatch",
+        "topic": "tools",
+        "selected": "tools",
+        "title": "Make the tools follow the work."
+      },
+      {
+        "status": "You are here: Dynamics processes",
+        "topic": "dynamics",
+        "selected": "dynamics",
+        "title": "Look beyond the screen that\u2019s stuck."
+      },
+      {
+        "status": "You are here: repetition",
+        "topic": "repeat",
+        "selected": "repeat",
+        "title": "Give the repetitive work a better route."
+      }
+    ],
+    "statusWithinSelector": true,
+    "tapTarget": {
+      "width": 147.46875,
+      "height": 44
+    },
+    "draft": "Hi Victor,\n\nI\u2019d like to talk about too much manual repetition.\n\nWe enter the same data twice.\n\nCould we explore what a practical next step might look like?",
+    "storage": {
+      "local": 0,
+      "session": 0
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "runtime": {
+    "fidelity.js": "5b33dfe2617aa020e80bf75fb60191ac4901fa838260aa02f4afa7dd5f225f50",
+    "fidelity.css": "fc5ab617a97d56a5010d7a529c0fba8f7f66e9504024cd65c3a82c649e366bb9",
+    "style.css": "5dffec17e74f3c7e3247e1237922fa4d31dc6ee046819d8a31fca210c4ac5604",
+    "main.js": "babe27a7cf3862bb058d358698470725bcbc6d29fe78fdbc44c6fb9ca6573975",
+    "index.html": "975551cd0787b0745def3605ec9ae111897418b613e386e6b20ca5a83283ac35"
+  },
+  "sourceEvidence": {
+    "group-a/14-alex-resume-desktop.png": "9776bdaf347f9e01d22cc6ae244a816c484659c87acb35b09506d11941bbe175",
+    "group-a/14-alex-resume-reading.png": "bc6275d1aeafde7490d2e15b290e47c9ade641f492f05d4771b24bb8c0342504",
+    "group-a/14-alex-resume-mobile.png": "4b7c581e793f3b3c69aaf32d4b4eee15d9ddb09d4d2ad748332647f84ecab9a9"
+  },
+  "assetPolicy": "Reference media research only; existing shipping assets unchanged"
+}

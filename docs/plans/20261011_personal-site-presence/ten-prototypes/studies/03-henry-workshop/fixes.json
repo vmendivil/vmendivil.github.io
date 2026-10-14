@@ -1,0 +1,130 @@
+{
+  "browser": "ten03 / Chromium CDP",
+  "baseURL": "http://127.0.0.1:8913",
+  "assertions": [
+    {
+      "name": "pointer navigation about",
+      "passed": true
+    },
+    {
+      "name": "pointer navigation lab",
+      "passed": true
+    },
+    {
+      "name": "pointer navigation approach",
+      "passed": true
+    },
+    {
+      "name": "pointer navigation contact",
+      "passed": true
+    },
+    {
+      "name": "real LinkedIn contact",
+      "passed": true
+    },
+    {
+      "name": "Escape closes desktop notes",
+      "passed": true
+    },
+    {
+      "name": "Tab traverses to server hotspot",
+      "passed": true
+    },
+    {
+      "name": "Enter activates server hotspot",
+      "passed": true
+    },
+    {
+      "name": "Space activates notebook hotspot",
+      "passed": true
+    },
+    {
+      "name": "in-world envelope click",
+      "passed": true
+    },
+    {
+      "name": "lamp dim state",
+      "passed": true
+    },
+    {
+      "name": "motion paused",
+      "passed": true
+    },
+    {
+      "name": "reduced motion recognized",
+      "passed": true
+    },
+    {
+      "name": "reduced motion starts paused",
+      "passed": true
+    },
+    {
+      "name": "mobile inspect selection",
+      "passed": true
+    },
+    {
+      "name": "mobile notes visible",
+      "passed": true
+    },
+    {
+      "name": "mobile no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "fonts loaded",
+      "passed": true
+    },
+    {
+      "name": "316 authored scene objects",
+      "passed": true
+    },
+    {
+      "name": "runtime assets same-origin",
+      "passed": true
+    },
+    {
+      "name": "runtime assets loaded",
+      "passed": true
+    },
+    {
+      "name": "actual canvas raycast contact updates monitor",
+      "passed": true
+    },
+    {
+      "name": "actual canvas raycast about updates monitor",
+      "passed": true
+    },
+    {
+      "name": "reading eyebrow removed",
+      "passed": true
+    }
+  ],
+  "resources": [
+    {
+      "url": "http://127.0.0.1:8913/style.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8913/room.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8913/assets/three.module.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8913/assets/vollkorn.ttf",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8913/assets/alegreya-sans.ttf",
+      "status": 200
+    }
+  ],
+  "keyboardHarnessNote": "rawKeyDown + char + keyUp; initial keyDown-only probe did not activate, not counted as a pass",
+  "captures": [
+    ".impeccable/review/desktop.png",
+    ".impeccable/review/mobile.png"
+  ],
+  "detector": "Original raw historical; not rerun for bounded fixes."
+}

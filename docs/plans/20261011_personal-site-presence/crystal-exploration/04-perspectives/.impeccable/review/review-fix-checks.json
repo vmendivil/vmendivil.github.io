@@ -1,0 +1,158 @@
+{
+  "desktop": {
+    "metrics": {
+      "width": 1440,
+      "documentWidth": 1425,
+      "clientWidth": 1425,
+      "delivery": [
+        {
+          "font": "14px",
+          "lineHeight": "25.2px"
+        },
+        {
+          "font": "14px",
+          "lineHeight": "25.2px"
+        },
+        {
+          "font": "14px",
+          "lineHeight": "25.2px"
+        }
+      ],
+      "eyebrow": false,
+      "separator": "1px",
+      "fonts": [
+        {
+          "family": "Marcellus",
+          "status": "loaded"
+        },
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "images": [
+        true,
+        true,
+        true
+      ]
+    },
+    "selections": [
+      {
+        "selected": [
+          "people"
+        ],
+        "label": "The people perspective",
+        "title": "A good solution starts\nwith a better conversation.",
+        "question": "Who is doing the work \u2014 and what do they wish someone understood?",
+        "frame": "rgb(104, 112, 100)"
+      },
+      {
+        "selected": [
+          "technology"
+        ],
+        "label": "The technology perspective",
+        "title": "The tool should fit\nthe work. Not the reverse.",
+        "question": "Is the constraint in the tool, the setup or the way the work is organized?",
+        "frame": "rgb(104, 112, 100)"
+      },
+      {
+        "selected": [
+          "process"
+        ],
+        "label": "The process perspective",
+        "title": "The same task.\nAgain. And again.",
+        "question": "Where does the work stop moving \u2014 and who has to pick it up?",
+        "frame": "rgb(218, 181, 132)"
+      }
+    ]
+  },
+  "mobile": {
+    "metrics": {
+      "width": 390,
+      "documentWidth": 390,
+      "delivery": [
+        {
+          "font": "14px",
+          "lineHeight": "25.2px",
+          "width": 327.625
+        },
+        {
+          "font": "14px",
+          "lineHeight": "25.2px",
+          "width": 327.625
+        },
+        {
+          "font": "14px",
+          "lineHeight": "25.2px",
+          "width": 327.625
+        }
+      ],
+      "deliveryGrid": "327.625px",
+      "deliveryGap": "9px",
+      "cue": {
+        "text": "Select a portrait to explore a perspective.",
+        "display": "block",
+        "top": 385.734375
+      },
+      "eyebrow": false,
+      "separator": "1px"
+    },
+    "clickSelections": [
+      {
+        "selected": [
+          "people"
+        ],
+        "label": "The people perspective",
+        "title": "A good solution starts\nwith a better conversation.",
+        "question": "Who is doing the work \u2014 and what do they wish someone understood?",
+        "frame": "rgb(218, 181, 132)"
+      },
+      {
+        "selected": [
+          "technology"
+        ],
+        "label": "The technology perspective",
+        "title": "The tool should fit\nthe work. Not the reverse.",
+        "question": "Is the constraint in the tool, the setup or the way the work is organized?",
+        "frame": "rgb(218, 181, 132)"
+      },
+      {
+        "selected": [
+          "process"
+        ],
+        "label": "The process perspective",
+        "title": "The same task.\nAgain. And again.",
+        "question": "Where does the work stop moving \u2014 and who has to pick it up?",
+        "frame": "rgb(218, 181, 132)"
+      }
+    ],
+    "touchDispatch": "CDP touchStart timed out; not claimed as verified",
+    "demo": {
+      "expanded": "true",
+      "visible": true,
+      "text": "This is where a conversation would begin. A live contact route has not been selected. This demonstration sends nothing and collects no information.",
+      "localStorage": 0,
+      "sessionStorage": 0
+    },
+    "reducedMotion": {
+      "matches": true,
+      "animation": "none",
+      "questionVisible": true
+    }
+  },
+  "additionalWidths": [
+    {
+      "viewport": 360,
+      "document": 360
+    },
+    {
+      "viewport": 768,
+      "document": 768
+    },
+    {
+      "viewport": 1440,
+      "document": 1440
+    }
+  ],
+  "captureNotes": "Full-page mobile emulation capture repeated viewport tiles. Replaced with 390px-wide, 2766px-high desktop-mode rendering capture of identical CSS breakpoint; mobile interaction checks used 390x844 mobile emulation. Screenshot timeouts recovered after Page.enable."
+}

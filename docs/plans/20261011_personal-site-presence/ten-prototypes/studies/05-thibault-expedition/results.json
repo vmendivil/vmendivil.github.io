@@ -1,0 +1,69 @@
+{
+  "touch_transport": "Input.dispatchTouchEvent timeout in prior batch; not verified",
+  "before": {
+    "x": 0,
+    "z": 2.5
+  },
+  "after": {
+    "x": 0,
+    "z": 2.5
+  },
+  "moved": false,
+  "tab_target": "<button data-place=\"erp\" class=\"landmark\" style=\"left: 320px; top: 394.525px;\"><span>ERP observatory</span><small>How I work</small></button>",
+  "enter_open": false,
+  "escape_closed": true,
+  "paused": true,
+  "space_resumed": true,
+  "chapters": {
+    "erp": "From requirement\nto reliable change.",
+    "lab": "Small machines.\nBig curiosity.",
+    "ai": "Useful ideas,\nnot magic."
+  },
+  "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+  "mobile_landmark_open": true,
+  "mobile_overflow": false,
+  "reduced": {
+    "matches": true,
+    "paused": true,
+    "disabled": true
+  },
+  "reduced_before": {
+    "x": 0,
+    "z": 2.5
+  },
+  "reduced_after": {
+    "x": 0,
+    "z": 2.5
+  },
+  "reduced_open": true,
+  "resources": [
+    "http://127.0.0.1:8915/style.css",
+    "http://127.0.0.1:8915/world.js",
+    "http://127.0.0.1:8915/assets/three.module.js",
+    "http://127.0.0.1:8915/assets/fredoka.ttf",
+    "http://127.0.0.1:8915/assets/nunito.ttf"
+  ],
+  "motion_initial": {
+    "reduced": false,
+    "paused": false,
+    "focus": "BODY"
+  },
+  "pointer_guide": true,
+  "inputLog": [
+    [
+      "ArrowRight",
+      "BODY"
+    ]
+  ],
+  "rendered_position": {
+    "x": 1.4000000000000004,
+    "z": 2.5
+  },
+  "moved_rendered": true,
+  "historical": true,
+  "currentEvidence": {
+    "readingAndMobile": "content-mobile-results.json",
+    "actualHiddenLifecycle": "content-hidden-results.json",
+    "note": "Original values retained as historical raw evidence, not current pass claims."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "study": "10-peter-dioramas",
+  "verdict": "READY",
+  "boundary": "source-only readiness; assembled LAN copy and independent source comparison remain parent-owned",
+  "generatedAt": "2026-10-13T12:55:56.472360+00:00",
+  "runtimeAllowlist": [
+    "assets/MANROPE-LICENSE.txt",
+    "assets/THREE-LICENSE.txt",
+    "assets/favicon.svg",
+    "assets/manrope.ttf",
+    "assets/three.module.js",
+    "assets/world-1.png",
+    "assets/world-2.png",
+    "assets/world-3.png",
+    "fidelity.css",
+    "index.html",
+    "style.css",
+    "worlds.js"
+  ],
+  "shippingFileCount": 12,
+  "sha256": {
+    "assets/MANROPE-LICENSE.txt": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+    "assets/THREE-LICENSE.txt": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "assets/favicon.svg": "286ae2744e70459d41d1ab56693d881eb138522cad9c1b4c2f538b1fc09f60a5",
+    "assets/manrope.ttf": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+    "assets/three.module.js": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb",
+    "assets/world-1.png": "c7b81593efb25fe7e9582d00cadf9d31c44a702416940199737d6e6cf6149909",
+    "assets/world-2.png": "8c4db20877860816dd92159dadbb61965023cb4f17d14bc094f3fbb32a513dea",
+    "assets/world-3.png": "c34002d10fa97bb9c65326e843ef47e8f3b2c8bd5c6c26f03fd1bc9215a8d94e",
+    "fidelity.css": "af85234abbfe4efa7dc9ae82847b3db003c3cb651122188dd3da10daf2e21e91",
+    "index.html": "399c1f228ee9403cb298e339d1fec47afa867505f55a88a6971277020f826971",
+    "style.css": "2d3854d182e3975378f8f81bbb600b3e295d8103de8e0e2b5e288172a1883884",
+    "worlds.js": "cce275767f337dda3a8f4e834d3616de344b22ca8b943f3eaaea6cdc80faad61"
+  },
+  "priorRecordedHashMatches": {
+    "fidelity.css": true,
+    "worlds.js": true,
+    "style.css": true,
+    "index.html": true,
+    "assets/favicon.svg": true
+  },
+  "counts": {
+    "freshNormalPaths": 3,
+    "freshVariants": 3,
+    "freshNormalStateObservations": 27,
+    "freshHiddenSessions": 1,
+    "freshSupplementalFocalPaths": 1,
+    "freshSupplementalStateAssertions": 12
+  },
+  "verifiedAbsoluteEvidencePaths": [
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/10-peter-dioramas/fidelity/pending-inspection/results.json",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/10-peter-dioramas/fidelity/pending-hidden-results.json",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/10-peter-dioramas/fidelity/pending-supplement/results.json"
+  ],
+  "sourceUnchangedInThisPass": true,
+  "privateDirectoriesNeverShip": [
+    "fidelity",
+    ".impeccable",
+    "verification"
+  ],
+  "limits": [
+    "Chromium SwiftShader software-rendered viewport emulation, not physical-device Safari/GPU certification",
+    "Prior six-size scenes/readings are retained historical evidence, not new-fix certification; targeted fixes tested fresh at all six sizes",
+    "Live source revisit not performed in this closure; retained original source evidence and chronological frames inspected"
+  ]
+}

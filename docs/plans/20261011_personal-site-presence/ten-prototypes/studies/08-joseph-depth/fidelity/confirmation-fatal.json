@@ -1,0 +1,279 @@
+{
+  "message": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n",
+  "checks": [
+    {
+      "name": "1440x900 overview bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 overview assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 keyboard skip",
+      "pass": false
+    },
+    {
+      "name": "1440x900 skip enters About",
+      "pass": false
+    },
+    {
+      "name": "1440x900 about reading",
+      "pass": true
+    },
+    {
+      "name": "1440x900 about bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 about assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 approach reading",
+      "pass": true
+    },
+    {
+      "name": "1440x900 approach bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 approach assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 curiosities reading",
+      "pass": true
+    },
+    {
+      "name": "1440x900 curiosities bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 curiosities assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 contact reading",
+      "pass": true
+    },
+    {
+      "name": "1440x900 contact bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 contact assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 truthful contact",
+      "pass": true
+    },
+    {
+      "name": "1440x900 no fake form",
+      "pass": true
+    },
+    {
+      "name": "1440x900 paused GPU idle",
+      "pass": true,
+      "detail": {
+        "a": {
+          "ready": true,
+          "webgl": true,
+          "reduced": false,
+          "paused": true,
+          "progress": 0,
+          "targetProgress": 0,
+          "draws": 91,
+          "camera": [
+            -4.2,
+            5.3,
+            19
+          ],
+          "drawCalls": 17,
+          "triangles": 209104
+        },
+        "b": {
+          "ready": true,
+          "webgl": true,
+          "reduced": false,
+          "paused": true,
+          "progress": 0,
+          "targetProgress": 0,
+          "draws": 91,
+          "camera": [
+            -4.2,
+            5.3,
+            19
+          ],
+          "drawCalls": 17,
+          "triangles": 209104
+        }
+      }
+    },
+    {
+      "name": "1440x900 resumed draws",
+      "pass": true,
+      "detail": {
+        "b": {
+          "ready": true,
+          "webgl": true,
+          "reduced": false,
+          "paused": true,
+          "progress": 0,
+          "targetProgress": 0,
+          "draws": 91,
+          "camera": [
+            -4.2,
+            5.3,
+            19
+          ],
+          "drawCalls": 17,
+          "triangles": 209104
+        },
+        "c": {
+          "ready": true,
+          "webgl": true,
+          "reduced": false,
+          "paused": false,
+          "progress": 0,
+          "targetProgress": 0,
+          "draws": 93,
+          "camera": [
+            -4.2,
+            5.3,
+            19
+          ],
+          "drawCalls": 17,
+          "triangles": 209104
+        }
+      }
+    }
+  ],
+  "errors": [],
+  "frames": [
+    {
+      "file": "confirmation-1440x900-overview.png",
+      "state": "overview",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791841854896
+    },
+    {
+      "file": "confirmation-1440x900-about.png",
+      "state": "about",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791841856836
+    },
+    {
+      "file": "confirmation-1440x900-approach.png",
+      "state": "approach",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791841858165
+    },
+    {
+      "file": "confirmation-1440x900-curiosities.png",
+      "state": "curiosities",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791841859418
+    },
+    {
+      "file": "confirmation-1440x900-contact.png",
+      "state": "contact",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791841860667
+    },
+    {
+      "file": "confirmation-1440x900-contact.png",
+      "state": "contact",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791841861614
+    },
+    {
+      "file": "confirmation-1440x900-return.png",
+      "state": "return",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791841889615
+    }
+  ]
+}

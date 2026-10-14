@@ -1,0 +1,75 @@
+{
+  "engine": "Chromium SwiftShader emulation",
+  "mechanism": "actual CDP Page.setWebLifecycleState frozen -> active and Page.bringToFront; visibility events retained, not synthetic DOM events",
+  "before": {
+    "draws": 2,
+    "frame": 0,
+    "currentX": -8,
+    "targetX": -8,
+    "currentSize": 48,
+    "paused": false,
+    "visible": true,
+    "hidden": false,
+    "focusPart": -1,
+    "transfer": [
+      -5,
+      0.28,
+      1.45
+    ]
+  },
+  "after": {
+    "state": {
+      "draws": 2,
+      "frame": 0,
+      "currentX": -8,
+      "targetX": -8,
+      "currentSize": 48,
+      "paused": false,
+      "visible": true,
+      "hidden": false,
+      "focusPart": -1,
+      "transfer": [
+        -5,
+        0.28,
+        1.45
+      ]
+    },
+    "events": [],
+    "visibility": "visible"
+  },
+  "resumed": {
+    "draws": 2,
+    "frame": 0,
+    "currentX": -8,
+    "targetX": -8,
+    "currentSize": 48,
+    "paused": false,
+    "visible": true,
+    "hidden": false,
+    "focusPart": -1,
+    "transfer": [
+      -5,
+      0.28,
+      1.45
+    ]
+  },
+  "reduced": {
+    "matches": true,
+    "changed": {
+      "draws": 5,
+      "frame": 0,
+      "currentX": 7.718518518518518,
+      "targetX": 7.718518518518518,
+      "currentSize": 37,
+      "paused": false,
+      "visible": true,
+      "hidden": false,
+      "focusPart": -1,
+      "transfer": [
+        10.718518518518518,
+        0.28,
+        1.45
+      ]
+    }
+  }
+}

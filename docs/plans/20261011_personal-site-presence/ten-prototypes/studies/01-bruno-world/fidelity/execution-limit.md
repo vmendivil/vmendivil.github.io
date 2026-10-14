@@ -1,0 +1,1 @@
+Coast full batch was interrupted twice by the terminal tool 420-second transport timeout. Partial progress.json preserves executed assertions. Remaining viewport/fallback completion is run separately, without further UI polishing. All state/motion captures are real; no simulated passes.

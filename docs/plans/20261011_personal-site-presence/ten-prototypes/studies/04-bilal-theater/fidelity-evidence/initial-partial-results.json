@@ -1,0 +1,639 @@
+{
+  "study": 4,
+  "session": "fidelity-04",
+  "engine": "Playwright Chromium / software WebGL; trusted emulated touch, not physical Safari/GPU certification",
+  "checks": [
+    {
+      "name": "1440 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "chapter": 0,
+          "cue": "settled",
+          "frames": 16,
+          "scene": "0"
+        },
+        "b": {
+          "chapter": 0,
+          "cue": "settled",
+          "frames": 20,
+          "scene": "0"
+        }
+      }
+    },
+    {
+      "name": "1440 cue to making",
+      "pass": true,
+      "detail": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 79,
+        "scene": "1"
+      }
+    },
+    {
+      "name": "1440 interrupted cue last input wins",
+      "pass": true
+    },
+    {
+      "name": "1440 reading 0",
+      "pass": true
+    },
+    {
+      "name": "1440 reading 1",
+      "pass": true
+    },
+    {
+      "name": "1440 reading 2",
+      "pass": true
+    },
+    {
+      "name": "1440 reading 3",
+      "pass": true
+    },
+    {
+      "name": "1440 contact route",
+      "pass": true
+    },
+    {
+      "name": "1440 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "chapter": 3,
+          "cue": "settled",
+          "frames": 367,
+          "scene": "3"
+        },
+        "b": {
+          "chapter": 3,
+          "cue": "settled",
+          "frames": 367,
+          "scene": "3"
+        }
+      }
+    },
+    {
+      "name": "1440 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 1440,
+        "scrollWidth": 1440,
+        "fonts": "loaded",
+        "bodySizes": [
+          18,
+          16
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Previous scene",
+            "h": 44,
+            "w": 122
+          },
+          {
+            "text": "Pull next thread",
+            "h": 44,
+            "w": 123
+          },
+          {
+            "text": "Resume stage",
+            "h": 44,
+            "w": 107
+          },
+          {
+            "text": "IThe question",
+            "h": 52,
+            "w": 201
+          },
+          {
+            "text": "IIThe making",
+            "h": 52,
+            "w": 201
+          },
+          {
+            "text": "IIIThe curiosity",
+            "h": 52,
+            "w": 201
+          },
+          {
+            "text": "IVThe conversation",
+            "h": 52,
+            "w": 201
+          },
+          {
+            "text": "Back to opening",
+            "h": 48,
+            "w": 176
+          }
+        ]
+      }
+    },
+    {
+      "name": "1440 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "1440 reading >=16px",
+      "pass": true,
+      "detail": [
+        18,
+        16
+      ]
+    },
+    {
+      "name": "1440 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Previous scene",
+          "h": 44,
+          "w": 122
+        },
+        {
+          "text": "Pull next thread",
+          "h": 44,
+          "w": 123
+        },
+        {
+          "text": "Resume stage",
+          "h": 44,
+          "w": 107
+        },
+        {
+          "text": "IThe question",
+          "h": 52,
+          "w": 201
+        },
+        {
+          "text": "IIThe making",
+          "h": 52,
+          "w": 201
+        },
+        {
+          "text": "IIIThe curiosity",
+          "h": 52,
+          "w": 201
+        },
+        {
+          "text": "IVThe conversation",
+          "h": 52,
+          "w": 201
+        },
+        {
+          "text": "Back to opening",
+          "h": 48,
+          "w": 176
+        }
+      ]
+    },
+    {
+      "name": "320 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "chapter": 0,
+          "cue": "settled",
+          "frames": 16,
+          "scene": "0"
+        },
+        "b": {
+          "chapter": 0,
+          "cue": "settled",
+          "frames": 20,
+          "scene": "0"
+        }
+      }
+    },
+    {
+      "name": "320 cue to making",
+      "pass": true,
+      "detail": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 47,
+        "scene": "1"
+      }
+    },
+    {
+      "name": "320 interrupted cue last input wins",
+      "pass": true
+    },
+    {
+      "name": "320 reading 0",
+      "pass": true
+    },
+    {
+      "name": "320 reading 1",
+      "pass": true
+    },
+    {
+      "name": "320 reading 2",
+      "pass": true
+    },
+    {
+      "name": "320 reading 3",
+      "pass": true
+    },
+    {
+      "name": "320 contact route",
+      "pass": true
+    },
+    {
+      "name": "320 pause stops render",
+      "pass": true,
+      "detail": {
+        "a": {
+          "chapter": 3,
+          "cue": "settled",
+          "frames": 167,
+          "scene": "3"
+        },
+        "b": {
+          "chapter": 3,
+          "cue": "settled",
+          "frames": 167,
+          "scene": "3"
+        }
+      }
+    },
+    {
+      "name": "320 no document overflow",
+      "pass": true,
+      "detail": {
+        "vw": 320,
+        "scrollWidth": 320,
+        "fonts": "loaded",
+        "bodySizes": [
+          16,
+          16
+        ],
+        "brokenImages": 0,
+        "controls": [
+          {
+            "text": "Previous scene",
+            "h": 44,
+            "w": 138
+          },
+          {
+            "text": "Pull next thread",
+            "h": 44,
+            "w": 138
+          },
+          {
+            "text": "Resume stage",
+            "h": 44,
+            "w": 105
+          },
+          {
+            "text": "IThe question",
+            "h": 52,
+            "w": 134
+          },
+          {
+            "text": "IIThe making",
+            "h": 52,
+            "w": 134
+          },
+          {
+            "text": "IIIThe curiosity",
+            "h": 60.59375,
+            "w": 134
+          },
+          {
+            "text": "IVThe conversation",
+            "h": 60.59375,
+            "w": 134
+          },
+          {
+            "text": "Back to opening",
+            "h": 48,
+            "w": 284
+          }
+        ]
+      }
+    },
+    {
+      "name": "320 fonts and images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "320 reading >=16px",
+      "pass": true,
+      "detail": [
+        16,
+        16
+      ]
+    },
+    {
+      "name": "320 touch target heights",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Previous scene",
+          "h": 44,
+          "w": 138
+        },
+        {
+          "text": "Pull next thread",
+          "h": 44,
+          "w": 138
+        },
+        {
+          "text": "Resume stage",
+          "h": 44,
+          "w": 105
+        },
+        {
+          "text": "IThe question",
+          "h": 52,
+          "w": 134
+        },
+        {
+          "text": "IIThe making",
+          "h": 52,
+          "w": 134
+        },
+        {
+          "text": "IIIThe curiosity",
+          "h": 60.59375,
+          "w": 134
+        },
+        {
+          "text": "IVThe conversation",
+          "h": 60.59375,
+          "w": 134
+        },
+        {
+          "text": "Back to opening",
+          "h": 48,
+          "w": 284
+        }
+      ]
+    },
+    {
+      "name": "390 normal motion renders",
+      "pass": true,
+      "detail": {
+        "a": {
+          "chapter": 0,
+          "cue": "settled",
+          "frames": 16,
+          "scene": "0"
+        },
+        "b": {
+          "chapter": 0,
+          "cue": "settled",
+          "frames": 18,
+          "scene": "0"
+        }
+      }
+    },
+    {
+      "name": "390 cue to making",
+      "pass": true,
+      "detail": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 76,
+        "scene": "1"
+      }
+    },
+    {
+      "name": "390 interrupted cue last input wins",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "performance": [
+    {
+      "width": 1440,
+      "intervalMs": 1100,
+      "before": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 16,
+        "scene": "0"
+      },
+      "after": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 20,
+        "scene": "0"
+      },
+      "renderDelta": 4
+    },
+    {
+      "width": 320,
+      "intervalMs": 1100,
+      "before": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 16,
+        "scene": "0"
+      },
+      "after": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 20,
+        "scene": "0"
+      },
+      "renderDelta": 4
+    },
+    {
+      "width": 390,
+      "intervalMs": 1100,
+      "before": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 16,
+        "scene": "0"
+      },
+      "after": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 18,
+        "scene": "0"
+      },
+      "renderDelta": 2
+    }
+  ],
+  "frames": [
+    {
+      "file": "1440-overview.png",
+      "timestamp": 1791840531186,
+      "state": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 15,
+        "scene": "0"
+      }
+    },
+    {
+      "file": "1440-cue-80.png",
+      "timestamp": 1791840547283,
+      "state": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 52,
+        "scene": "1"
+      }
+    },
+    {
+      "file": "1440-cue-230.png",
+      "timestamp": 1791840549800,
+      "state": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 59,
+        "scene": "1"
+      }
+    },
+    {
+      "file": "1440-cue-450.png",
+      "timestamp": 1791840552351,
+      "state": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 66,
+        "scene": "1"
+      }
+    },
+    {
+      "file": "1440-cue-650.png",
+      "timestamp": 1791840555268,
+      "state": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 75,
+        "scene": "1"
+      }
+    },
+    {
+      "file": "1440-cue-reversed.png",
+      "timestamp": 1791840579534,
+      "state": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 109,
+        "scene": "0"
+      }
+    },
+    {
+      "file": "1440-reading-0.png",
+      "timestamp": 1791840672639,
+      "state": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 195,
+        "scene": "0"
+      }
+    },
+    {
+      "file": "1440-reading-1.png",
+      "timestamp": 1791840697257,
+      "state": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 234,
+        "scene": "1"
+      }
+    },
+    {
+      "file": "1440-reading-2.png",
+      "timestamp": 1791840749184,
+      "state": {
+        "chapter": 2,
+        "cue": "settled",
+        "frames": 272,
+        "scene": "2"
+      }
+    },
+    {
+      "file": "1440-reading-3.png",
+      "timestamp": 1791840775569,
+      "state": {
+        "chapter": 3,
+        "cue": "settled",
+        "frames": 312,
+        "scene": "3"
+      }
+    },
+    {
+      "file": "320-overview.png",
+      "timestamp": 1791840813142,
+      "state": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 15,
+        "scene": "0"
+      }
+    },
+    {
+      "file": "390-overview.png",
+      "timestamp": 1791840892611,
+      "state": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 15,
+        "scene": "0"
+      }
+    },
+    {
+      "file": "390-cue-80.png",
+      "timestamp": 1791840906616,
+      "state": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 49,
+        "scene": "1"
+      }
+    },
+    {
+      "file": "390-cue-230.png",
+      "timestamp": 1791840908410,
+      "state": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 56,
+        "scene": "1"
+      }
+    },
+    {
+      "file": "390-cue-450.png",
+      "timestamp": 1791840910380,
+      "state": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 64,
+        "scene": "1"
+      }
+    },
+    {
+      "file": "390-cue-650.png",
+      "timestamp": 1791840914611,
+      "state": {
+        "chapter": 1,
+        "cue": "settled",
+        "frames": 72,
+        "scene": "1"
+      }
+    },
+    {
+      "file": "390-cue-reversed.png",
+      "timestamp": 1791840926769,
+      "state": {
+        "chapter": 0,
+        "cue": "settled",
+        "frames": 108,
+        "scene": "0"
+      }
+    }
+  ],
+  "fatal": "ReferenceError: prefix is not defined\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/04-bilal-theater/verify-fidelity.cjs:28:17",
+  "total": 29,
+  "passed": 29,
+  "failed": []
+}

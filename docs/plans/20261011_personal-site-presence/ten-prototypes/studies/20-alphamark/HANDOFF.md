@@ -1,0 +1,5 @@
+# Parent handoff
+Entry: studies/20-alphamark/index.html. Runtime-only copy list is in README.md; includes all three essay HTML files and fallback.css. No siblings, root records, accepted ten, preview or production were edited. No commits.
+Primary evidence: results.json (31 cases), extra-results.json (actual-link touch flows/focus loops/contrast), framing-results.json; `.impeccable/review/desktop.png`, mobile.png, content-desktop.png, content-mobile.png, landscape.png, paired-desktop.png, contact-desktop.png and contact-mobile.png. Additional variant/menu/about/approach shots and mapped boards retained.
+Raw detector ran once; see VERIFICATION.md adjudication. Original SVG plate provenance and local Manrope SIL OFL preserved. No source reference imagery ships.
+Parent tasks: independent comparative review of exact current captures, runtime-only preview assembly, and tests at actual parent-owned LAN URL. Local loops passed; physical Safari unverified. 9120 server stopped after tests; use README launcher to reopen.

@@ -1,0 +1,25 @@
+[
+  {
+    "key": "tools",
+    "selected": "true",
+    "title": "Make the tools follow the work.",
+    "choice": "tools"
+  },
+  {
+    "key": "dynamics",
+    "selected": "true",
+    "title": "Look beyond the screen that\u2019s stuck.",
+    "choice": "dynamics"
+  },
+  {
+    "key": "repeat",
+    "selected": "true",
+    "title": "Give the repetitive work a better route.",
+    "choice": "repeat"
+  },
+  {
+    "visible": true,
+    "message": "Hi Victor,\n\nI\u2019d like to talk about too much manual repetition.\n\nWe copy order details into three different spreadsheets.\n\nCould we explore what a practical next step might look like?",
+    "focus": "message"
+  }
+]

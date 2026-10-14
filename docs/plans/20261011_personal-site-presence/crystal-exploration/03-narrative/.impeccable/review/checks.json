@@ -1,0 +1,190 @@
+[
+  {
+    "name": "desktop",
+    "layout": {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "fonts": "loaded",
+      "images": [
+        {
+          "loaded": true,
+          "width": 1254
+        },
+        {
+          "loaded": true,
+          "width": 1254
+        }
+      ],
+      "sections": [
+        {
+          "id": "opening",
+          "height": 833
+        },
+        {
+          "id": "friction",
+          "height": 946
+        },
+        {
+          "id": "connections",
+          "height": 1059
+        },
+        {
+          "id": "",
+          "height": 612
+        },
+        {
+          "id": "conversation",
+          "height": 607
+        }
+      ],
+      "headingFont": "Archivo, sans-serif"
+    },
+    "chapter": "#connections",
+    "empty": "true",
+    "draft": "Hi Victor,\n\nI’d like to explore a contained piece of remote work.\n\nWhat’s happening: I repeat a manual handoff.\n\nWhat I’d like to change: A clear, simpler workflow.\n\nCould we clarify the scope and a useful first step?",
+    "selection": 217,
+    "reduced": {
+      "matches": true,
+      "scrollBehavior": "auto",
+      "contentVisible": "1"
+    },
+    "errors": [],
+    "responses": [
+      {
+        "url": "http://127.0.0.1:8133/",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/style.css",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/assets/portrait-opening.webp",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/site.js",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/assets/archivo.ttf",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/assets/public-sans.ttf",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/assets/portrait-listening.webp",
+        "status": 200
+      }
+    ]
+  },
+  {
+    "name": "mobile",
+    "layout": {
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": "loaded",
+      "images": [
+        {
+          "loaded": true,
+          "width": 1254
+        },
+        {
+          "loaded": true,
+          "width": 1254
+        }
+      ],
+      "sections": [
+        {
+          "id": "opening",
+          "height": 720
+        },
+        {
+          "id": "friction",
+          "height": 981
+        },
+        {
+          "id": "connections",
+          "height": 1101
+        },
+        {
+          "id": "",
+          "height": 639
+        },
+        {
+          "id": "conversation",
+          "height": 827
+        }
+      ],
+      "headingFont": "Archivo, sans-serif"
+    },
+    "chapter": "#connections",
+    "empty": "true",
+    "draft": "Hi Victor,\n\nI’d like to explore a contained piece of remote work.\n\nWhat’s happening: I repeat a manual handoff.\n\nWhat I’d like to change: A clear, simpler workflow.\n\nCould we clarify the scope and a useful first step?",
+    "selection": 217,
+    "reduced": {
+      "matches": true,
+      "scrollBehavior": "auto",
+      "contentVisible": "1"
+    },
+    "errors": [],
+    "responses": [
+      {
+        "url": "http://127.0.0.1:8133/",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/assets/portrait-opening.webp",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/style.css",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/site.js",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/assets/archivo.ttf",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/assets/public-sans.ttf",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:8133/assets/portrait-listening.webp",
+        "status": 200
+      }
+    ]
+  },
+  {
+    "name": "320-no-js",
+    "layout": {
+      "width": 320,
+      "scrollWidth": 320,
+      "headings": [
+        "Make thecomplicatedworkable.",
+        "It rarely startswith the software.",
+        "Different facets.One piece of work.",
+        "A perspective builtin the actual work.",
+        "Start small.Make somethingeasier."
+      ],
+      "visible": true
+    }
+  },
+  {
+    "name": "768-keyboard",
+    "layout": {
+      "width": 768,
+      "scrollWidth": 768
+    },
+    "keyboard": {
+      "focused": "skip",
+      "outline": "solid"
+    }
+  }
+]

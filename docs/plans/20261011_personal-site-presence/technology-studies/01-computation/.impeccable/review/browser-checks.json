@@ -1,0 +1,18 @@
+{
+  "desktop": {
+    "state": "complete",
+    "output": "PO-041\nrelease order\nPO-042\nrequest approval\nPO-043\nrelease order",
+    "width": 1440,
+    "height": 900
+  },
+  "mobile": {
+    "state": "complete",
+    "reduced": true,
+    "animation": "none",
+    "width": 390,
+    "height": 844,
+    "footer": 812.78125
+  },
+  "keyboard": "Real Tab traversal reached run; Enter activated running state with disabled button and transit animation; completion observed after browser timeout; Space replay reduced-motion completed with animation none.",
+  "capture_issue": "First final capture timed out; recaptured settled content without further UI edits."
+}

@@ -1,0 +1,20 @@
+{
+  "nativeWheelChangedRenderedScene": true,
+  "reducedMotionLiveChangeHidesCanvas": true,
+  "reducedTransitionDuration": "0s",
+  "allThreePostersLoaded": [
+    {
+      "loaded": true,
+      "src": "http://127.0.0.1:9118/assets/ochre-portrait.png"
+    },
+    {
+      "loaded": true,
+      "src": "http://127.0.0.1:9118/assets/cyan-portrait.png"
+    },
+    {
+      "loaded": true,
+      "src": "http://127.0.0.1:9118/assets/mint-portrait.png"
+    }
+  ],
+  "noJavaScriptNativeMenuAndContact": true
+}

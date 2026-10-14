@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T22:05:33.276364+00:00",
+  "title": "Design System: Optical Practice",
+  "extensions": {
+    "motion": [
+      {
+        "name": "menu-arrival",
+        "value": "500ms cubic-bezier(.16,1,.3,1)",
+        "purpose": "One navigation plane arrival; disabled under reduced motion"
+      },
+      {
+        "name": "depth-response",
+        "value": "Demand RAF, 0.2 fractional settling, threshold 0.001",
+        "purpose": "Material response only while input is settling"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "phone",
+        "value": "600px"
+      },
+      {
+        "name": "compact",
+        "value": "900px"
+      },
+      {
+        "name": "short-landscape",
+        "value": "max-height:500px and min-width:601px"
+      }
+    ],
+    "shadows": [
+      {
+        "name": "fold-shadow",
+        "value": "drop-shadow(-25px 35px 25px #0008)",
+        "purpose": "Directional material depth on original fold"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Square arrow",
+      "kind": "button",
+      "refersTo": "square-button",
+      "description": "Collection and navigation action",
+      "html": "<button class=\"ds-square\" aria-label=\"Next note\"><svg viewBox=\"0 0 24 24\"><path d=\"M5 12H20M13 5L20 12 13 19\"/></svg></button>",
+      "css": ".ds-square{width:48px;height:48px;border:0;background:var(--yellow,#ffdc00);color:var(--ink,#151916);cursor:pointer}.ds-square svg{width:24px;fill:none;stroke:currentColor;stroke-width:1.8}.ds-square:hover{background:#ffef84}.ds-square:focus-visible{outline:3px solid #a85d00;outline-offset:5px}.ds-square:active{background:#e4c300}"
+    },
+    {
+      "name": "Editorial continuation",
+      "kind": "nav",
+      "description": "A ruled textual link, not a card",
+      "html": "<a class=\"ds-link\" href=\"#practice\">How I work</a>",
+      "css": ".ds-link{display:inline-flex;min-height:48px;align-items:center;border-bottom:1px solid #151916;color:#151916;text-decoration:none;padding:10px 0;font:18px Arial,sans-serif}.ds-link:hover{color:#7d5c00}.ds-link:focus-visible{outline:3px solid #a85d00;outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Optical Practice",
+    "overview": "An oversized personal image and an original amber fold inhabit a coal stage. A bright white editorial continuation carries Victor\u2019s practice, then a radial still-life collection gives his interests a tactile reading rhythm. The close is a saturated yellow contact plane.",
+    "keyCharacteristics": [
+      "condensed scale",
+      "human/artifact layering",
+      "ruled material",
+      "full-width editorial fields",
+      "perimeter navigation"
+    ],
+    "dos": [
+      "Keep readable content independent of the renderer, motion and dragging."
+    ],
+    "donts": [
+      "Copy motorsport facts, source assets or sponsor language."
+    ]
+  }
+}

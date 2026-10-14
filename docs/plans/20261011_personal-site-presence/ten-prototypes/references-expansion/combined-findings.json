@@ -1,0 +1,816 @@
+[
+  {
+    "number": 11,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/findings.json",
+    "finding": {
+      "id": 11,
+      "reference": "Felix Rieseberg",
+      "exacturl": "https://www.landing.love/sites/felixrieseberg/",
+      "liveurl": "https://felixrieseberg.com/?ref=landing.love",
+      "title": "Felix Rieseberg",
+      "version": "Current live page inspected; gallery queried separately. Browser title contained harness horse prefix, not treated as creator branding.",
+      "visibleidentity": "Personal name, ABOUT / WORK / POSTS / ONLINE; personal desk belongings with creator-specific books, electronics and poster.",
+      "palette": "Warm amber lamp, wood ochre and cream curtains against rain-grey night window; saturated blue CRT and blue poster. Cream navigation.",
+      "type": "Bold broad compact uppercase personal wordmark; condensed pixel/monospace-like navigation and device hints; conventional prose in DOM reading payload. Font family not verified.",
+      "imagery_material": "Detailed domestic retro-media workstation: textured wood, rounded CRT glass, paper/books, ceramic mug and planter, reflective window, rain and city lights; asymmetric clutter with intentional clear focal screen.",
+      "topology": "Fixed room scene plus top direct section links; bottom credits, sound and back-to-desk controls. Device/keyboard affordances complement menu; not free walking.",
+      "interaction": {
+        "tested": "Clicked ABOUT; visible active ABOUT tab and Back to the desk appeared; DOM changed to About me pager text. Pressed trusted CDP C keyboard shortcut; DOM entered old PC BASIC menu.",
+        "limits": "C interaction capture showed a monitor loading bar and was deleted. No claim that the PC content rendered successfully. Initial sound state off; subsequent interaction showed sound on.",
+        "observed_controls": "C computer / M CD player / Z TV zoom / 1–6 monitor buttons; return Escape; these labels were observed, not all exercised."
+      },
+      "reading": "ABOUT DOM supplied substantial profile text with pager and arrow/Space/link/Q hints. Actual saved visual remained broad room framing with tiny CRT copy; it is NOT evidence of a successfully legible enlarged reading screen. Builder must improve this rather than reproduce the failure.",
+      "mobileobservations": "390×844 live capture: stacked name and nav; vertically cropped room centered on CRT, partially cropped plant/books, large bottom pill controls. It maintains authored room detail but captured content is too small on CRT to read. This is desktop emulation, not physical phone testing.",
+      "evidenceclass": "live_visual + live_navigation_DOM; enlarged reading limited",
+      "capturepaths": [
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/11-felix-desktop.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/11-felix-reading.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/11-felix-mobile.png"
+      ],
+      "direction": {
+        "name": "Signal Lounge",
+        "visitor_action": "Tune a small set of personal channels, then read a full-height broadcast transcript; learn Victor’s work and curiosities without exploring a game.",
+        "environment": "Original rainy evening listening lounge, front-facing composition, low media cabinet and big window; not another typing workstation. Use original objects tied to Raspberry Pi, a home network and AI-assisted tinkering without invented project results.",
+        "camera_navigation": "Stable seated camera; optional gentle focus to the selected medium. Direct About / Practice / Curiosities / Contact channels always available. No locomotion, no required commands, no fake computer boot.",
+        "material_palette": "Preserve warm domestic directional lighting, wet-city contrast, tactile paper and worn wood; use original mustard/umber/red-brown fixtures and deep blue-grey window. Do not inherit a copper portrait theme.",
+        "type": "Broad personal title with compact broadcast labels; neutral readable 16px+ transcript prose. No long tiny terminal text.",
+        "reading_grammar": "Screen-shaped title slate transitions into an original broadcast/transcript layout with channel heading, short program segments and time-free section markers. Contact is a correspondence/end-of-program view with real LinkedIn; not generic cards or notebook/monitor overlay copied from old03.",
+        "signature_action": "Channel selector changes both a visible screen illustration and its transcript; keyboard number choices are optional equivalents. Reduced motion makes an immediate scene/text swap.",
+        "mobile": "Window/room remains a compact scene strip; transcript flows below at normal body size. Channel selector stays reachable; no desktop camera zoom that traps text inside a tiny CRT.",
+        "avoid": "No source posters/books/devices/code assets, no Felix employment/opensource claims, no cloned BASIC or OS. Avoid accepted03 AfterHours functional monitor-and-notebook reading; use broadcast rather than computing ritual."
+      },
+      "comparison_scope": "Old ten compared against BUILD_BRIEF and CONTENT_MOBILE_BRIEF allocated worlds/reading families, not a fresh visual audit. New15–21 URLs known but no visuals inspected by this worker; parent must compare against their research, especially17 EddyOS vs11 retro UI territory.",
+      "truth_constraints": "Victor Mendivil; Dynamics365 F&O/ERP, end-to-end development and coordination; Raspberry Pi/homelab and AI-assisted work interests; full-time employed with contained remote/evening/asynchronous freelance availability and technicallead/senior career interests; only verified LinkedIn https://www.linkedin.com/in/vmendivilaxdeveloper. No invented clients, metrics, dates, roles, cases, achievements or contact details. All new scenery clearly illustrative.",
+      "assets_policy": "Research-only archive copies; source assets, code, models, text and claims are not licensed for prototype reuse. Independently author all runtime art/content."
+    }
+  },
+  {
+    "number": 12,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/findings.json",
+    "finding": {
+      "id": 12,
+      "reference": "Vectrfl / Vectr",
+      "exacturl": "https://www.landing.love/sites/vectrfl/",
+      "liveurl": "https://www.vectrfl.com/?ref=landing.love",
+      "title": "Vectr",
+      "version": "Live HTML/text observed; live rendered capture stayed on loader and later screenshot timed out. Archived landing.love imagery and recording used for design evidence; archive differs slightly from current HTML wording.",
+      "visibleidentity": "VECTR centered wordmark; Our Industries / Our Mission on left; Apply / Request Crews on right. Corporate staffing identity, not personal portfolio.",
+      "palette": "Large icy powder-blue monochrome world; ivory/white ceramic models, dark navy text/buttons; bright cyan beams and small coral-red bundles. White lower editorial pages.",
+      "type": "Large dense black sans headline; small uppercase navigation; compact numbered process labels; readable sans body. No verified font family.",
+      "imagery_material": "Wide high-angle miniature industrial landscape of turbines, cooling towers, tile fields, containers, tiny figures; soft ceramic bevels and long mild shadows with emissive paths. Hero combines left text and right models across one continuous ground.",
+      "topology": "Long scroll: hero, four numbered process chapters with immersive world, plain feature/editorial sections, industries, FAQ, CTA/footer. Archive recording also navigates to ordinary mission content.",
+      "interaction": {
+        "tested": "Live navigation only; no successful live scene interaction claimed.",
+        "archived_observation": "Sampled recording at 8s shows process step01, static archive screenshot step03 shows selected numbered label and explanation. Frame24s shows an expanded FAQ response; frame40s shows mission content. These are sampled stills, not personal live testing or full playback.",
+        "input_burden": "Scroll and conventional links/accordion appear in archive; no character driving apparent in inspected frames."
+      },
+      "reading": "Lower page deliberately exits full-world presentation for white two-column editorial: large heading left, FAQ right with rules and caret controls; body explanation lives inline rather than overlay dialog. Current HTML includes four process paragraphs and long FAQ answers.",
+      "mobileobservations": "No successful live mobile visual capture. No mobile claims inferred from desktop imagery. Proposed mobile below is a build requirement, not source evidence.",
+      "evidenceclass": "archived_visual_and_recording_stills + current_live_HTML",
+      "capturepaths": [
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/12-vectr-archive-hero.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/12-vectr-archive-reading.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/12-vectr-recording-8.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/12-vectr-recording-24.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/12-vectr-recording-40.png"
+      ],
+      "archive_sources": [
+        "https://cdn.landing.love/images/vectrfl.webp",
+        "https://cdn.landing.love/images/vectrfl-03.webp",
+        "https://cdn.landing.love/videos/vectrfl.mp4"
+      ],
+      "direction": {
+        "name": "Work in Motion",
+        "visitor_action": "Scroll through how Victor takes a request into maintained software, then read suitability and boundaries for working together.",
+        "environment": "Original expansive pale-blue miniature infrastructure, composed as a continuous landscape rather than a panel of diagrams. Use carefully modeled fictional development-landscape scenery; explicitly illustrative, not a purported real client installation.",
+        "camera_navigation": "Four gentle scroll-framed views of one authored environment; labeled requirements, design, delivery, support. Always ordinary scroll plus direct anchors, no play controls or simulation claims.",
+        "material_palette": "Matte porcelain/offwhite structures, soft blue ambient ground, crisp dark text, restrained cyan luminous paths and original warm-red small accents; model detail and shadows matter more than repeated cubes.",
+        "type": "Bold compact large sans headings against open pale space; restrained uppercase metadata, clear editorial paragraphs.",
+        "reading_grammar": "Process prose integrated in landscape margin; subsequent Approach and Engagement pages switch to white editorial columns and actual question/answer rows. No repeating tinted process cards or HUD.",
+        "signature_action": "Scroll-selected chapter reveals a meaningful part of the actual workflow; it illustrates sequence, not falsely simulates deployed software or quantitative results.",
+        "mobile": "Above-fold heading first and a consciously composed wide scene crop beneath; chapter prose ordinary vertical sequence, optional static scene per chapter. One-column FAQ with 44px controls and full answer scroll.",
+        "avoid": "No staffing personnel, nuclear-grade/compliance guarantee, corporate scale proof or client logos. Avoid old07’s cobalt archive, old10 collectible isolated models, old01 drivable coast. This is a continuous process landscape, not navigation among collectible islands."
+      },
+      "comparison_scope": "Old ten compared against BUILD_BRIEF and CONTENT_MOBILE_BRIEF allocated worlds/reading families, not a fresh visual audit. New15–21 URLs known but no visuals inspected by this worker; parent must compare against their research, especially17 EddyOS vs11 retro UI territory.",
+      "truth_constraints": "Victor Mendivil; Dynamics365 F&O/ERP, end-to-end development and coordination; Raspberry Pi/homelab and AI-assisted work interests; full-time employed with contained remote/evening/asynchronous freelance availability and technicallead/senior career interests; only verified LinkedIn https://www.linkedin.com/in/vmendivilaxdeveloper. No invented clients, metrics, dates, roles, cases, achievements or contact details. All new scenery clearly illustrative.",
+      "assets_policy": "Research-only archive copies; source assets, code, models, text and claims are not licensed for prototype reuse. Independently author all runtime art/content."
+    }
+  },
+  {
+    "number": 13,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/findings.json",
+    "finding": {
+      "id": 13,
+      "reference": "Arthur Engel Portfolio",
+      "exacturl": "https://www.awwwards.com/sites/arthur-engel-portfolio",
+      "liveurl": "https://aengel.io",
+      "title": "Arthur Engel Portfolio",
+      "version": "Exact October 10 2026 Awwwards nominee, NOT older /sites/portfolio-arthur-engel space portfolio. Current original live site blocked by Cloudflare; no bypass. Source HTML recovered with conventional User-Agent retrieval, preserving outbound and archive media.",
+      "visibleidentity": "Archived media: small abstract personal mark, availability label and menu near corners; about scene reads I RENDER THE UNSEEN / CREATIVE DEVELOPER.",
+      "palette": "Near-black atmospheric ground; moss/olive vegetation and stone in portal scene; blue-white luminous fissures, swirls and filaments. About scene adds ghost-white translucent floral form.",
+      "type": "Sparse high-contrast broad bold uppercase statement; small restrained sans body and tiny technical marginal annotations. Exact family unverified.",
+      "imagery_material": "Rough mossy stone doorway, detailed fern ground and atmospheric shafts; blue electrical energy rather than a flat gradient. About transitions to luminous strands and translucent flower whose material glows through layered petals.",
+      "topology": "Gallery source exposes Landing / Projects / About / Contact scene routes and /lite. Awwwards describes scroll-driven navigation, immersive WebGPU, and mobile lite. These are source descriptions; live behavior unavailable.",
+      "interaction": {
+        "tested": "No live representative interaction possible through Cloudflare.",
+        "archived_observation": "Landing recording frames3/8 show dark scene then illuminated portal on laptop; source desktop still shows bright swirling aperture. About frames12/20 show strand composition changing into translucent flower plus biography. Mobile-lite recording frame5 shows a person scrolling an editorial project sheet in an upright phone. These are archived sampled frames, not personally tested navigation.",
+        "source_routes": [
+          "https://aengel.io/",
+          "https://aengel.io/projects",
+          "https://aengel.io/about",
+          "https://aengel.io/contact",
+          "https://aengel.io/lite"
+        ]
+      },
+      "reading": "About20s: bold statement and short biography left, large glowing flower right, code/instrument-like marginal labels and connective lines. Mobile-lite frame shows project image/title/body in light sheet surrounded by black shell. Do not import tiny HUD labels as required prose.",
+      "mobileobservations": "Archive is filmed physical phone, not a direct viewport screenshot; phone shows a black shell, light project sheet, ring artwork and ordinary reading/scroll. It confirms a different lite surface exists, not usability certification. Desktop/mobile JPGs are marketing photographs of devices, correctly labeled.",
+      "evidenceclass": "archived_creator_gallery_images + archived_recording_stills; live_blocked",
+      "capturepaths": [
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/13-arthur-archive-hero.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/13-arthur-archive-desktop.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/13-arthur-archive-mobile.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/13-arthur-landing-frame-3.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/13-arthur-landing-frame-8.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/13-arthur-about-frame-12.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/13-arthur-about-frame-20.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/13-arthur-lite-frame.png"
+      ],
+      "archive_sources": {
+        "13-arthur-archive-desktop.jpg": "https://assets.awwwards.com/awards/element/2026/09/6ab654af7b7e1240121679.jpg",
+        "13-arthur-archive-mobile.jpg": "https://assets.awwwards.com/awards/element/2026/09/6ab654af96f78081218243.jpg",
+        "13-arthur-about.mp4": "https://assets.awwwards.com/awards/element/2026/09/6ab650a2a8bc1873609100.mp4",
+        "13-arthur-landing.mp4": "https://assets.awwwards.com/awards/element/2026/09/6ab64eb768b4c575553634.mp4",
+        "13-arthur-lite.mp4": "https://assets.awwwards.com/awards/element/2026/09/6ab652af2a9bf093836127.mp4"
+      },
+      "direction": {
+        "name": "Threshold / Light Through Complexity",
+        "visitor_action": "Scroll through cinematic thresholds, arriving at clear personal statements; learn Victor’s way of turning requirements into usable systems.",
+        "environment": "Original misty dark environment with fractured light membrane framed by irregular mineral forms, then an expressive translucent sculpture. Do not copy stone arch, ring, flower model, strands shader or scene assets.",
+        "camera_navigation": "Guided shot sequence, no freely driven avatar. Each chapter has normal anchors and a skip-to-reading route. Present Requirements / Practice / Curiosity / Contact as real content, not invented portfolio projects.",
+        "material_palette": "Black-green textured depth, sparse cold luminous blue-white edges and volumetric-looking directional shafts; genuinely translucent layered sculptural material, not opaque chrome. Original amber pinlights may locate reading states.",
+        "type": "One bold precise statement per composition, readable short prose alongside; avoid fabricated status/code coordinates and microscopic interface ornament.",
+        "reading_grammar": "Cinematic pause with text in broad free-standing columns and artwork in remaining field; long reading on an original contrasting document surface rather than HUD bubbles. Contact an uncluttered last threshold with LinkedIn and availability facts.",
+        "signature_action": "Scrolling changes the apparent optical depth/reveals light behind the membrane; paired statement changes provide semantic progress. Reduced-motion/static entry exposes all writing without traversing the sequence.",
+        "mobile": "Author a lite vertical story of rich still/sculpture compositions and legible prose, not a scaled desktop scene. All sections/contact reachable via menu and scroll; WebGL or static fallback because plain HTTP forbids WebGPU-only assumptions.",
+        "avoid": "No Arthur claims or source geometric assets. Distinguish old06 garden by darkness/threshold/dramatic luminous material; old08 BelowSurface by lateral framing and optical reveal, not architecture descent; old07 by organic spectral material rather than cobalt archive. No cheap generic portal primitive accepted as source-level craft."
+      },
+      "comparison_scope": "Old ten compared against BUILD_BRIEF and CONTENT_MOBILE_BRIEF allocated worlds/reading families, not a fresh visual audit. New15–21 URLs known but no visuals inspected by this worker; parent must compare against their research, especially17 EddyOS vs11 retro UI territory.",
+      "truth_constraints": "Victor Mendivil; Dynamics365 F&O/ERP, end-to-end development and coordination; Raspberry Pi/homelab and AI-assisted work interests; full-time employed with contained remote/evening/asynchronous freelance availability and technicallead/senior career interests; only verified LinkedIn https://www.linkedin.com/in/vmendivilaxdeveloper. No invented clients, metrics, dates, roles, cases, achievements or contact details. All new scenery clearly illustrative.",
+      "assets_policy": "Research-only archive copies; source assets, code, models, text and claims are not licensed for prototype reuse. Independently author all runtime art/content."
+    }
+  },
+  {
+    "number": 14,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/findings.json",
+    "finding": {
+      "id": 14,
+      "reference": "Alex Zapadenko / product.inc",
+      "exacturl": "https://www.awwwards.com/sites/alex-zapadenko-portfolio",
+      "liveurl": "https://www.product.inc/#resume",
+      "gallery_outbound": "https://www.product.inc/",
+      "title": "Alex Zapadenko — Product Design Leader",
+      "version": "Current live seasonal Halloween dark theme; explicit user #resume retained. Initial route rendered at top instead of scrolling to resume; clicking RESUME generated observed #resume#resume URL and scrolled. Do not normalize away this observed bug in source claims.",
+      "visibleidentity": "Alex Zapadenko, Principal Product Designer; large first-person profile, alphabetic mark, dense section navigation, light/dark toggle; seasonal marquee, web motifs and character imagery.",
+      "palette": "Black-brown ground, slightly raised charcoal-brown blocks, offwhite text, warm amber/orange small active accents and glow; grey secondary type and thin dark rules.",
+      "type": "Clean contemporary sans large name/headings, small uppercase sections/nav; readable conventional body. No actual family verification.",
+      "imagery_material": "Hero right raster/scene of stylized crystalline/cobweb forms with orange highlights; conventional portfolio content below rather than immersive environment. Resume uses employer icons and timeline nodes.",
+      "topology": "Long one-page editorial portfolio: profile, cases, products, experiments, miscellaneous gallery, notes, AIUX, resume, engagement, shop, footer; sticky dense desktop section nav. Dedicated case/article routes exist.",
+      "interaction": {
+        "tested": "Clicked RESUME then Show 6 more roles. Page moved to resume and expanded role list. Captured settled desktop and 390px mobile resume.",
+        "limits": "Navigation/expansion invoked DOM click, not keyboard accessibility testing. Do not claim PDF download, contact, theme switch or case interaction tested.",
+        "source_bug": "Observed location https://www.product.inc/#resume#resume after clicking navigation from initial #resume."
+      },
+      "reading": "Desktop resume alternates wide role cards left/right of a fine central spine; amber filled/open nodes, icon above company, role, muted date, paragraph. Clear large The path so far heading and download button. Mobile collapses spine to left and stacks cards; substantial prose at readable scale.",
+      "mobileobservations": "390×844 settled resume: compact sticky header (menu left, mark centered, theme/email right), section eyebrow and heading plus download CTA, left-edge timeline, single stacked column. Second role continues below viewport with normal vertical scroll. Physical Safari and accessibility untested.",
+      "evidenceclass": "live_visual_and_navigation",
+      "capturepaths": [
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/14-alex-resume-desktop.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/14-alex-resume-reading.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-a/14-alex-resume-mobile.png"
+      ],
+      "direction": {
+        "name": "Practice Ledger",
+        "visitor_action": "Browse a candid professional profile and a structured trail of how Victor works; reach practical availability without interpreting a scene.",
+        "environment": "A genuinely text-led personal publication with small authored illustrations or one contextual generated portrait. Art supports reading, not a portrait hero and not an entire scenic world.",
+        "camera_navigation": "Normal vertical document and stable compact section index; disclosures for optional detail; dedicated or inline long-reading surfaces retain editorial identity.",
+        "material_palette": "Inky warm-black, muted warmgrey rules, cream text and controlled amber active marks; original small color artworks can punctuate sections. Avoid generic glowing technical dashboard.",
+        "type": "Confident large sans name, restrained uppercase section labels, body16–18px with generous line-height; source has professional clarity, not retro-pixel cosplay.",
+        "reading_grammar": "Use a timeline-like practice trail for verified scope without fake employment dates or employer icons: requirements, design, implementation, testing/deployment, support/coordination. Personal About is continuous prose, curiosities a distinct illustrated marginal list, availability an honest concluding note. Do not give every section the same rounded card.",
+        "signature_action": "Expand a practice entry to see concrete explanation of that responsibility; semantic timeline spine stays stable. No invented contribution heatmap, counts, client projects or resume PDF.",
+        "mobile": "Single column with spine in narrow left margin, labels/headings and tap targets readable; compact accessible menu. Long text is ordinary document scroll, never squeezed inside a scene.",
+        "avoid": "No Alex tenure/team/client/results/raccoons/shop/content; no fictional Victor achievements/dates. Avoid accepted07 future archive and old09/10 art catalogues: this premise is a readable personal practice publication, not a gallery. Unlike11 it has no device tuning; unlike12 no process diorama; unlike13 no cinematic gate."
+      },
+      "comparison_scope": "Old ten compared against BUILD_BRIEF and CONTENT_MOBILE_BRIEF allocated worlds/reading families, not a fresh visual audit. New15–21 URLs known but no visuals inspected by this worker; parent must compare against their research, especially17 EddyOS vs11 retro UI territory.",
+      "truth_constraints": "Victor Mendivil; Dynamics365 F&O/ERP, end-to-end development and coordination; Raspberry Pi/homelab and AI-assisted work interests; full-time employed with contained remote/evening/asynchronous freelance availability and technicallead/senior career interests; only verified LinkedIn https://www.linkedin.com/in/vmendivilaxdeveloper. No invented clients, metrics, dates, roles, cases, achievements or contact details. All new scenery clearly illustrative.",
+      "assets_policy": "Research-only archive copies; source assets, code, models, text and claims are not licensed for prototype reuse. Independently author all runtime art/content."
+    }
+  },
+  {
+    "number": 15,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/findings.json",
+    "finding": {
+      "ref": 15,
+      "title": "Preymaker",
+      "sourceurl": "https://www.awwwards.com/sites/preymaker",
+      "liveurl": "https://preymaker.com/",
+      "versionviewed": "Live homepage partially rendered; Awwwards 2026-09/Oct 6 2026 gallery stills and sampled recordings. No full playback claim.",
+      "evidence_class": "mixed-live-and-archived-gallery",
+      "palette": "Black/white UI; silver-gray device/studio presentation in gallery; film imagery supplies blue-gray, green, and natural color. Proposed hex tokens are design choices, not sampled source values.",
+      "type": "Oversized uppercase sans wordmark and headings; very small sans navigation/service labels; dense white sans case-study paragraphs over full-bleed film stills; huge black office names on sparse white contact rows. Exact font not verified.",
+      "material": "Cinematic photographic/VFX image planes, tactile reflective silver device framing, almost unstyled information chrome. Craft comes from image resolution, crop, tonal depth, and type scale, not decorative cards.",
+      "firstviewtopology": "Live homepage: giant PREYMAKER wordmark spans upper width; tiny MENU centrally and SEARCH right; short two-line positioning sits near bottom center; Scroll Down opposite bottom edge. Media behind this frame failed to render here, so black is NOT accepted as the intended hero. Gallery case-study samples show edge-to-edge imagery, central title, then left-lower prose with persistent top navigation.",
+      "navigationreadinggrammar": "Live scroll changed document content/position but film planes stayed black. MENU click attempted; screenshot timed out. Retrieved actual site anchors for Work, Case Studies, Showreels, Capabilities, Technology, Contact, News. Sampled gallery recording 0 at 1/3s shows mountain image then small lower-right technology prose; recording 1 at 1/3s shows film title then substantial bottom-left prose. Contact archive is a white ruled table with large location names rather than cards. These are archived frames, not personally tested transitions.",
+      "mobileobservable": "Awwwards mobile still is a device-in-studio mockup showing a narrow black scrolling text/partner list; not actual live mobile interaction evidence. Keep one-column reading and large image crop, but do not infer tap/scroll performance from this mockup.",
+      "absolutevalidscreens": [
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-archive.png",
+          "evidence_class": "archived-gallery",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-mobile-archive.jpg",
+          "evidence_class": "archived-gallery",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-submission.png",
+          "evidence_class": "archived-gallery",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-frame-0-1.jpg",
+          "evidence_class": "archived-gallery",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-frame-0-3.jpg",
+          "evidence_class": "archived-gallery",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-frame-1-1.jpg",
+          "evidence_class": "archived-gallery",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-frame-1-3.jpg",
+          "evidence_class": "archived-gallery",
+          "visually_inspected": true,
+          "valid": true
+        }
+      ],
+      "issues": [
+        "Homepage image planes black after initial wait plus bounded wait; menu capture timed out. Invalid live media captures excluded."
+      ],
+      "prototypeprinciples": {
+        "name": "Wideframe / personal moving-image essay",
+        "visitor_action": "Read a visually authored sequence about Victor, then choose a chapter or contact without operating a game.",
+        "environment_camera": "Full-width cinematic crops of original small personal technology still-life scenes; chapter changes use deliberate image masking, not a 3D room to walk through.",
+        "palette_system": "Silver/white essay and contact pages alternate with near-black image chapters; cool blue-gray photographic light plus restrained natural image color. No obligatory amber/copper.",
+        "type_system": "Large condensed or grotesk sans chapter headings, precise tiny labels, 16–18px readable prose. Original name typography instead of copied corporate wordmark.",
+        "first_view": "Victor name or an original short line at architectural scale over one authored image; tiny chapter navigation; short factual descriptor; visible scroll cue.",
+        "reading_system": "Approach becomes a filmstrip essay: large still, caption, short paragraph, next still. About uses a white editorial spread. Contact is a sparse ruled information sheet with real LinkedIn, contained freelance scope and full-time status—not office addresses, clients, reels or testimonials.",
+        "signature_interaction": "One film-frame crop expands into chapter imagery on selection; scroll reveals caption/prose without losing navigation. Provide instant no-motion change and image fallback.",
+        "mobile_plan": "Static authored poster replaces heavy motion; portrait-safe crops; stacked 16px essay paragraphs in document scroll; Menu exposes ordinary chapter links; never overlay long text on busy footage.",
+        "feasible_original_assets": "Author original lit SVG/canvas or detailed WebGL still-life of cables, a self-hosted server front, PCB-like personal curiosity objects, and paper notes. Capture rendered stills locally, optional self-generated short camera motion using available tools. Reference films/screenshots stay private research only. Do not pretend synthetic scenes are real project photographs.",
+        "provenance": "Borrow editorial image scale, chapter mask and white ruled contact grammar; no Preymaker film, logo, client names, offices, awards, source code or VFX claims.",
+        "avoid_siblings": "Not a futuristic sculpture archive, scenic terrain journey, desktop OS, lantern room, or gallery of collectible dioramas."
+      },
+      "research_scope": "Research only; pinned reference; no UI build; no accepted ten/production changes.",
+      "screenshots": [
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-archive.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-mobile-archive.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-submission.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-frame-0-1.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-frame-0-3.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-frame-1-1.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/15-preymaker-frame-1-3.jpg"
+      ],
+      "source_url": "https://www.awwwards.com/sites/preymaker",
+      "live_url": "https://preymaker.com/"
+    }
+  },
+  {
+    "number": 16,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/findings.json",
+    "finding": {
+      "ref": 16,
+      "title": "Lantern House — Dwayne Koh",
+      "sourceurl": "https://www.awwwards.com/sites/lantern-house",
+      "liveurl": "http://www.dwaynekoh.com",
+      "resolved_liveurl": "https://www.dwaynekoh.com/",
+      "outbound_provenance": "Exact link extracted from the supplied Awwwards listing by web_extract; HTTP redirected to HTTPS. Domain was not guessed.",
+      "versionviewed": "Live Dwayne Koh — The Lantern House; supplied Awwwards nominee listing Oct 11 2026. This is a personal portfolio, NOT a property-development site.",
+      "evidence_class": "live",
+      "palette": "Midnight blue/near-black water and sky; warm golden window light; plum/pink trees; pale gray fine navigation.",
+      "type": "Minimal neutral sans lettering: compact DK mark, small widely spread all-caps brand navigation, fine bottom labels, enlarged but restrained mobile Index text. Exact font not identified.",
+      "material": "Detailed illuminated timber-like architecture with many luminous windows and interior recesses; dark sloped roof, rocky islands/terraces, reflective water, flowering trees, distant haze. Strong contrast between warm architecture and cool environment.",
+      "firstviewtopology": "Fixed frontal camera: lantern building centered across water, its reflection directly beneath; tree silhouettes frame both sides; a low roof/courtyard mass in front; building occupies middle third rather than covering the viewport. Top navigation spans horizontally above the world; scene caption and LANTERN | CHROMA toggle below.",
+      "navigationreadinggrammar": "Top brand labels select project destinations. Click on GOOGLE launched Loading Scene and stalled at 94% after two bounded waits; that reading state is NOT verified. Reload recovered initial scene. Actual mobile Index click opened a full-screen dark typographic list: Brands, project labels, After Hours, View All Projects, social links, close at upper right. Essential index is an ordinary text-navigation alternative to scene exploration.",
+      "mobileobservable": "390x844 initial scene successfully rendered: much smaller centered house, large vertical negative space, reflection below, DK top left, two icon controls top right, side chevron, LANTERN/CHROMA low center and LinkedIn bottom right. Actual Index overlay rendered cleanly with vertically stacked text. No physical phone certification.",
+      "absolutevalidscreens": [
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/16-lantern-desktop.png",
+          "evidence_class": "live",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/16-lantern-mobile.png",
+          "evidence_class": "live",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/16-lantern-mobile-index.png",
+          "evidence_class": "live",
+          "visually_inspected": true,
+          "valid": true
+        }
+      ],
+      "issues": [
+        "Project interior stalled at 94%; excluded loader capture. Full project reading was not observed."
+      ],
+      "prototypeprinciples": {
+        "name": "The Night Pavilion / lit rooms of a personal practice",
+        "visitor_action": "Choose a lit room or use the text index to discover an aspect of Victor’s practice, then return to the complete pavilion.",
+        "environment_camera": "One original slender multi-storey pavilion at night across a reflecting pool; front/cutaway camera; selection eases into one lit bay. No driving/avatar and no gallery of separate models.",
+        "palette_system": "Ink navy and plum environment; honey-colored transmitted window light, cool silver text; flowering foliage used as authored silhouettes, not scattered stamps.",
+        "type_system": "Small letterspaced room labels plus clean large reading headings and 16px body. No Japanese-logo imitation or copied DK monogram.",
+        "first_view": "Original building silhouette dominates one stable composition; visible room index, About/Approach/Curiosity/Contact links and unobtrusive lighting switch. Room meaning must be visible before hover.",
+        "reading_system": "A selected room becomes a full-width architectural section with a wall-sized heading, a narrow prose column and a grounded footer docket. About: study bay; Approach: drafting bay with factual end-to-end work sequence; Curiosity: roof atelier with labeled illustrative interests; Contact: ground-floor threshold with LinkedIn and honest availability. No stock translucent modal cards.",
+        "signature_interaction": "Choose a room and its window light brightens as camera approaches, followed by readable HTML section tied to that room. Text Index provides the same paths immediately. Return restores whole-building camera and focus.",
+        "mobile_plan": "House remains an authored scenic header rather than shrinking desktop reading into windows; tapping room loads a normal vertical section beneath/after scene; persistent Back to pavilion and Index; 44px controls; no mandatory gesture. Preserve calm dark sky and reflection but reduce unnecessary dead space.",
+        "feasible_original_assets": "Author original architecture using detailed layered geometry, mullions, wall thickness, interior light boxes, roof profiles and terraced base; water reflection via controlled planar render or painted authored reflection. Create distinctive vegetation silhouettes locally. No downloaded source models; no Blender/install dependency.",
+        "provenance": "Translate warm lit-room wayfinding and calm frontal scene; do not copy Koh’s building, client project labels, brand work or project claims.",
+        "avoid_siblings": "Not old AfterHours intimate workshop, SmallWorlds collectible model catalogue, island map, guided wooden theater, or free-roam world. Distinction is one tall building as a direct-access content section system."
+      },
+      "research_scope": "Research only; pinned reference; no UI build; no accepted ten/production changes.",
+      "screenshots": [
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/16-lantern-desktop.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/16-lantern-mobile.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/16-lantern-mobile-index.png"
+      ],
+      "source_url": "https://www.awwwards.com/sites/lantern-house",
+      "live_url": "http://www.dwaynekoh.com"
+    }
+  },
+  {
+    "number": 17,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/findings.json",
+    "finding": {
+      "ref": 17,
+      "title": "EddyOS — Eddy Naboulet",
+      "sourceurl": "https://www.awwwards.com/sites/eddyos-eddy-naboulet",
+      "liveurl": "https://eddy-naboulet.dev/",
+      "versionviewed": "Live version 2.6 and Awwwards Sept 2026 contact screenshot / Oct 5 2026 nominee.",
+      "evidence_class": "mixed-live-and-archived-gallery",
+      "palette": "Brown-black CRT background, amber/orange strokes and text, warm cream major name. Source menus also expose Candy/Sorbet/Lagoon/Marshmallow/Neon themes; only default phosphor appearance visually inspected.",
+      "type": "Large pixel-blackletter personal name with monospace/pixel-like utility text. A distinctive display face against compact file labels and ordinary readable body copy; exact fonts unverified.",
+      "material": "Subtle scanlines, pixel grid, phosphor bloom, vignette, rounded tube-screen corners, fine 1px amber outlines and offset window shadows. No physical desk/room scene.",
+      "firstviewtopology": "After intentional boot gate, desktop has a thin persistent menu bar across top; huge centered personal name; four numbered destinations in the four corners—Projects/Experience/Profile/Contact with pseudo-file labels. Sparse field, not icon wallpaper.",
+      "navigationreadinggrammar": "Enter passed boot gate and revealed desktop. File/Extras/System menus and keyboard command palette are actual DOM controls. Profile action changed URL to /profile and DOM exposed substantial three-part method prose; graphics/text did not settle visibly in subsequent captures (even CRT off). Mobile profile DOM was retrieved but screenshot was near-blank; reading rendering therefore unverified, not a successful reading test. Awwwards contact archive visibly shows two overlapping amber outlined windows: compose-message main panel and links utility panel over project artwork. No form submission performed.",
+      "mobileobservable": "390x844 emulation showed responsive boot text wrapping into a vertical diagnostic panel. Desktop-to-mobile resize and profile route produced mostly blank rendered content; those captures are excluded. No verified live mobile reading screenshot. This is an explicit reference limitation, not a reason to reproduce it.",
+      "absolutevalidscreens": [
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/17-eddyos-desktop.png",
+          "evidence_class": "live",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/17-eddyos-contact-archive.jpg",
+          "evidence_class": "archived-gallery",
+          "visually_inspected": true,
+          "valid": true
+        }
+      ],
+      "issues": [
+        "Live desktop works; profile route body mostly blank in rendered captures despite DOM prose. Responsive boot observed; mobile usable content not verified. No loader/blank screenshots accepted."
+      ],
+      "prototypeprinciples": {
+        "name": "Workbench OS / functional personal software shell",
+        "visitor_action": "Open meaningful personal documents in a small authored software environment, switch between them, and reach an actual professional contact route.",
+        "environment_camera": "Flat desktop canvas/HTML, no camera travel or 3D monitor in a room. Frame itself is material; original application chrome rather than copied OS skin.",
+        "palette_system": "Amber-phosphor ink with cream title on brown-black; optional accessible neutral-paper theme. This amber belongs to a CRT software identity, not corporate gold or copper portrait lighting.",
+        "type_system": "Original chunky pixel/bitmap heading or locally licensed display type with clean mono utility labels and 16px body font. Do not copy Eddy’s blackletter mark.",
+        "first_view": "Four purposeful applications: About, Work Approach, Curiosity Notebook, Contact. Display Victor once, with software/ERP grounding and direct navigation. Boot is optional/skippable and never fake system diagnostics.",
+        "reading_system": "About is an actual scrollable text document; Approach is a structured human-readable process file, not invented Git history; Curiosity is an annotated notebook with clearly illustrative experiments; Contact is a link utility showing real LinkedIn and contained availability, not a pretend sent-message form. Window title bars, breadcrumb/path, task switch and close/return behavior carry the shell grammar throughout.",
+        "signature_interaction": "Open/switch/close documents; optional command launcher searches real destinations. CRT toggle genuinely changes visible material. Keyboard Tab/Enter/Space/Escape and real focus restoration; no irrelevant Doom, fake login, permissions or console imitation.",
+        "mobile_plan": "One active full-width document at a time with persistent app switcher and Home/Back, readable scroll; no dragging required, no overlapping windows. Preserve original pixel heading and subtle material but disable scanlines if they impair text.",
+        "feasible_original_assets": "Original CSS/Canvas scanline texture, authored glyphs and UI icons; licensed local type; one optional existing user-approved generated portrait in About only after separate actual asset inspection. No OS logos, sprites, Eddy portrait/source, fake résumé dates or copied apps.",
+        "provenance": "Borrow application/document navigation and CRT visual material, not creator biography, agency work, AI orchestration claims, copied career timeline or source.",
+        "avoid_siblings": "Not old AfterHours monitor-in-workshop world; not a copy of another expansion’s macOS/Windows desktop. Differentiate via four-purpose document browser, original narrow chrome and explicit software-shell material."
+      },
+      "research_scope": "Research only; pinned reference; no UI build; no accepted ten/production changes.",
+      "screenshots": [
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/17-eddyos-desktop.png",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/17-eddyos-contact-archive.jpg"
+      ],
+      "source_url": "https://www.awwwards.com/sites/eddyos-eddy-naboulet",
+      "live_url": "https://eddy-naboulet.dev/"
+    }
+  },
+  {
+    "number": 18,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/findings.json",
+    "finding": {
+      "ref": 18,
+      "title": "Artisans d’idées",
+      "sourceurl": "https://www.artisansdidees.com/en?ref=refs.gallery",
+      "liveurl": "https://www.artisansdidees.com/en?ref=refs.gallery",
+      "versionviewed": "Live exact queried URL failed to leave black LOADING state; fallback creator case-study archive at https://immersive-g.com/projects/artisans-d-idees and original 2021 Awwwards listing. Creator screenshot/recording capture date not provided; not represented as current live.",
+      "evidence_class": "archived-creator-case-study",
+      "palette": "Gold/ochre horizon and nearly black land; blue/cyan moonlit water; mint/teal light filaments; pale ivory/cool metallic sculpture. Palette shifts chapter by chapter.",
+      "type": "Very fine understated sans corner controls and spaced small chapter text against landscape; creator reading screenshot shows enormous left-aligned multiline sans prose on black, intercut with a vertical gold streak. Exact family unknown.",
+      "material": "Rugged ridges and islands, glossy water reflection, smoky low fog, luminous multi-strand light path, monumental pale sculpture, dark forest silhouettes, later reflective/metallic vertical architecture. Real environmental mass, depth and lighting carry the experience; not wireframe lines over black.",
+      "firstviewtopology": "Wide low camera over a dark water channel between irregular landforms toward a hazy gold horizon; luminous parallel lines enter lower-left foreground and run to vanishing point. Small chapter mark/text centered; menu top-right and sound bottom-right. Mobile creator still is an actual portrait composition of moonlit water and rocks with center icon/text and top-right menu.",
+      "navigationreadinggrammar": "Live DOM identifies CLICK TO ILLUMINATE and scroll/menu/sound, but rendering stayed black through two bounded follow-up attempts; interaction not tested successfully. Creator text describes scrollable identity/project/service sections. Sampled clip_ai_01 at 2/5/8s changes from gold horizon channel to backlit sculpture among trees to turquoise curling light path; sampled clip_ai_06 at 2/5s changes from fragmented luminous path to a tall lit architectural opening. These are chronological samples, not full playback nor proof of scroll mapping. Large typography reading screenshot is valid archived visual evidence.",
+      "mobileobservable": "Creator portrait still shows a blue night seascape, moon and reflection, foreground rocky silhouettes, diagonal cyan path, tiny top-right menu and centered chapter marker. This is archived mobile composition only; actual touch/menu/scroll behavior not verified.",
+      "absolutevalidscreens": [
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-creator-opening.jpg",
+          "evidence_class": "archived-creator-case-study",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-creator-reading.jpg",
+          "evidence_class": "archived-creator-case-study",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-creator-mobile.jpg",
+          "evidence_class": "archived-creator-case-study",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-creator-detail.jpg",
+          "evidence_class": "archived-creator-case-study",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-reading22.jpg",
+          "evidence_class": "archived-creator-case-study",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-recording-2.jpg",
+          "evidence_class": "archived-creator-case-study",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-recording-5.jpg",
+          "evidence_class": "archived-creator-case-study",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-recording-8.jpg",
+          "evidence_class": "archived-creator-case-study",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-reading-recording-2.jpg",
+          "evidence_class": "archived-creator-case-study",
+          "visually_inspected": true,
+          "valid": true
+        },
+        {
+          "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-reading-recording-5.jpg",
+          "evidence_class": "archived-creator-case-study",
+          "visually_inspected": true,
+          "valid": true
+        }
+      ],
+      "issues": [
+        "Live loader remained black. Awwwards desktop/mobile thumbnail downloads also contained black loading imagery and were rejected. Creator archival imagery provided usable fallback. Recording 06 had no extractable 8-second frame; not included."
+      ],
+      "prototypeprinciples": {
+        "name": "A Thread Through Night / guided personal light journey",
+        "visitor_action": "Follow a luminous thread through successive night landscapes and read short reflections on how Victor thinks and works, with a chapter menu that skips directly to any information.",
+        "environment_camera": "Low cinematic camera moves along an original light path over open water, broken basalt terrain and a final quiet architectural threshold. Guided scroll, not free exploration; every stage has a stable stop.",
+        "palette_system": "Begin ochre-black, transition to cyan moonlight, then mint-white threshold. Deliberate distinct chapter fields; preserve genuine environmental material instead of recoloring one black canvas.",
+        "type_system": "Sparse tiny scenic markers plus dramatically large multiline editorial text between scenes. Content body 16–18px with comfortable contrast; original concise first-person prose rather than source slogans.",
+        "first_view": "A luminous original strand across reflective terrain and one short personal introductory sentence; Victor’s identity/role and direct chapter menu visible without traversing entire journey.",
+        "reading_system": "Alternate immersive scene with full-canvas typographic movement: About as large plain text on black; Approach as paced paragraphs keyed to steps, not three boxed pillars; Curiosity as short marginal notes accompanying a moonlit landscape; Contact at an open bright threshold with truthful availability and LinkedIn. Reading stops are real HTML, not painted tiny WebGL text.",
+        "signature_interaction": "Scroll advances a light strand and camera to authored anchors, pauses for reading, then resumes; instant chapter navigation and reduced-motion stills preserve identical content. Optional click can illuminate a local strand but never gate access.",
+        "mobile_plan": "Use separately composed portrait scenes, not cropped wide render; shorter camera distance and fewer particles; document-scroll text between scene posters, sticky chapter control; static curated stills when WebGL unsupported. No massive tiny overlay paragraphs.",
+        "feasible_original_assets": "Procedural original rugged terrain mesh with layered relief/bump, designed shorelines, fog depth, reflective water and spline light strands; use original architectural forms rather than copying source statues/pyramids. Pre-render detailed locally authored scenes for mobile/fallback. Do not ship archived footage/images.",
+        "provenance": "Borrow low-camera scale, light-path continuity, chapter color changes and full-page typographic breathing. No source sculpture, terrain/model, slogans, agency claims, culture-project portfolio or proprietary shaders.",
+        "avoid_siblings": "Not underwater/vertical depth architecture of old BelowSurface, botanical Garden, alien expedition, OS, lit house, or cinematic flat filmstrip. Signature is open night terrain traversed by a continuous luminous thread with distinct reading pauses."
+      },
+      "research_scope": "Research only; pinned reference; no UI build; no accepted ten/production changes.",
+      "screenshots": [
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-creator-opening.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-creator-reading.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-creator-mobile.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-creator-detail.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-reading22.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-recording-2.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-recording-5.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-recording-8.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-reading-recording-2.jpg",
+        "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-b/18-artisans-reading-recording-5.jpg"
+      ],
+      "source_url": "https://www.artisansdidees.com/en?ref=refs.gallery",
+      "live_url": "https://www.artisansdidees.com/en?ref=refs.gallery"
+    }
+  },
+  {
+    "number": 19,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-c/findings.json",
+    "finding": {
+      "number": 19,
+      "exactURL": "https://www.rokumaruichi.tokyo/#4f",
+      "actualResolvedURL": "https://www.rokumaruichi.tokyo/#4f",
+      "title": "601 Inc.",
+      "evidenceClass": "mixed: live desktop/mobile; archived screenshots supplement non-working floor selection",
+      "versionViewed": "Live site during research; undated landing.love archive, not asserted current",
+      "palette": "Live black/charcoal architectural space, pale straw typography; archive additionally shows a light grey mode with charcoal type. Light-mode switching was not tested.",
+      "type": "Large extended geometric numerals and compact sans labels; computed heading family diagramm, sans-serif. Logo/numeral design is not an asset to reuse.",
+      "imagesMaterial": "Perspective screening room, matte dark walls, structural ceiling slabs, projected music-video imagery, subdued directional light. Archived views show polished floor reflections. Live mobile room had a black/unloaded projection.",
+      "topology": "Full-viewport perspective room with adjacent vertical architectural bays; fixed small perimeter controls, oversized studio identity and floor fraction, right-edge floor index; separate project/info, about and archive routes. Vertical floor index is observed, but actual floor-four camera selection is not verified.",
+      "navigation": {
+        "observed": [
+          "Opened exact lower-case #4f; desktop displayed 6/6 rather than assumed 4/6.",
+          "Invoked existing floor-4 anchor; address became #4F, but settled screenshot still displayed 6/6. Do not normalize the user URL or claim success.",
+          "Clicked Explore: URL /floor/oh/; visible camera composition showed stacked adjacent rooms and Honey screen despite route title Trippin. Route/media mismatch recorded.",
+          "Clicked Info: DOM exposed Trippin credits/date/category/YouTube destination; screenshot shows title over projection but not complete credits.",
+          "Navigated actual /about/ link destination; settled screenshot displays agency paragraph and horizontal contact details."
+        ],
+        "notVerified": [
+          "Working requested fourth-floor selection",
+          "Wheel floor movement: browser CDP event timed out",
+          "Mobile projection playback",
+          "Archive live interaction",
+          "Theme toggle"
+        ]
+      },
+      "fullReading": "Live About is an unboxed typographic spread with fine rules and address/contact/social columns. Info credits available as browser DOM text, not visually certified in full. Archive table with hovering preview is visible only in archived still, not tested hover.",
+      "mobile": "390x844 live: small logo and two top-right links, centered room/projection aperture, bottom Email/Explore/theme controls. Image aperture remained black; native mobile browsing/touch and physical Safari not tested.",
+      "captures": [
+        {
+          "path": "captures/19-selected-4F-desktop.png",
+          "class": "live",
+          "validity": "valid room scene; mislabeled floor in address versus visible 6/6 documented"
+        },
+        {
+          "path": "captures/19-explore-desktop.png",
+          "class": "live",
+          "validity": "valid adjacent-room composition; route/media mismatch documented"
+        },
+        {
+          "path": "captures/19-project-info-desktop.png",
+          "class": "live",
+          "validity": "valid title-on-projection; credits visually incomplete"
+        },
+        {
+          "path": "captures/19-about-desktop.png",
+          "class": "live",
+          "validity": "valid settled reading"
+        },
+        {
+          "path": "captures/19-exact-route-mobile.png",
+          "class": "live-limited",
+          "validity": "valid room composition, projection black; not a hero-quality evidence selection"
+        },
+        {
+          "path": "captures/19-fourth-floor-desktop.png",
+          "class": "live-invalid",
+          "validity": "blank transition; exclude from presentation"
+        },
+        {
+          "path": "captures/19-archive-rokumaruichi.webp",
+          "class": "archived",
+          "sourceURL": "https://cdn.landing.love/images/rokumaruichi.webp",
+          "validity": "visually inspected gallery still; no interaction claim"
+        },
+        {
+          "path": "captures/19-archive-rokumaruichi-01.webp",
+          "class": "archived",
+          "sourceURL": "https://cdn.landing.love/images/rokumaruichi-01.webp",
+          "validity": "visually inspected gallery still; no interaction claim"
+        },
+        {
+          "path": "captures/19-archive-rokumaruichi-02.webp",
+          "class": "archived",
+          "sourceURL": "https://cdn.landing.love/images/rokumaruichi-02.webp",
+          "validity": "visually inspected gallery still; no interaction claim"
+        },
+        {
+          "path": "captures/19-archive-rokumaruichi-03.webp",
+          "class": "archived",
+          "sourceURL": "https://cdn.landing.love/images/rokumaruichi-03.webp",
+          "validity": "visually inspected gallery still; no interaction claim"
+        },
+        {
+          "path": "captures/19-archive-rokumaruichi-04.webp",
+          "class": "archived",
+          "sourceURL": "https://cdn.landing.love/images/rokumaruichi-04.webp",
+          "validity": "visually inspected gallery still; no interaction claim"
+        }
+      ],
+      "directionPacket": "19-direction.md",
+      "issues": [
+        "Lower-case exact fragment did not resolve visually to expected fourth floor. Upper-case anchor changed address only in observed settled frame.",
+        "Browser Input.dispatchMouseEvent timeout; bounded fallback used web retrieval and five archived stills, not invented navigation."
+      ]
+    }
+  },
+  {
+    "number": 20,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-c/findings.json",
+    "finding": {
+      "number": 20,
+      "exactURL": "https://alphamark.design/?ref=refs.gallery",
+      "actualResolvedURL": "https://alphamark.design/?ref=refs.gallery",
+      "title": "Alphamark™ – A global B2B branding studio",
+      "evidenceClass": "live desktop and mobile; full project text corroborated by web extraction",
+      "versionViewed": "Current live homepage with B2B transformation headline; not assumed older refs.gallery design",
+      "palette": "Near-black field, white/off-white display text, grey body copy, electric yellow pill CTA; variable rich black/blue/gold project imagery.",
+      "type": "Computed Inter Display, sans-serif; large restrained tight sans headlines, moderate body text and small metadata.",
+      "imagesMaterial": "Large paired project artwork/reel stills: dark smooth product-like sculptural rendering and dramatic metallic folds; project-specific images form exhibition spreads, not site-wide 3D navigation.",
+      "topology": "Long vertical editorial landing page: hero/reel, featured pair, impact statement, services, selected projects, recognition, testimonials, insights and dense contact/navigation footer. Dedicated long project case-study route.",
+      "navigation": {
+        "observed": [
+          "Scrolled homepage at roughly 1050, 3500, 5200, 9500 desktop positions.",
+          "Opened linked /projects/monobotics, extracted project narrative and visited image spread.",
+          "Mobile scroll and hamburger activation: full-height dark menu with Projects/About/Services/Insights/Contact links and social buttons."
+        ],
+        "notVerified": [
+          "Reel playback",
+          "Form submission (intentionally not performed)",
+          "All project routes",
+          "Mobile project long reading"
+        ]
+      },
+      "fullReading": "Main reading switches between generous typographic statements, plain service lists, open image/caption pairs and dense footer lists. Monobotics body describes integration obstacles, identity rationale, typography and palette; browser text and extraction corroborate these, while valid deep screenshot is an image spread. Do not claim complete visual inspection of the 23,579px project page.",
+      "mobile": "390x844 live: wordmark/hamburger, multi-line large headline, grey explanatory copy, yellow CTA, reel below; scroll reveals impact paragraph/list. Mobile menu captured open. Sticky CTA and cookie banner consume bottom space.",
+      "captures": [
+        {
+          "path": "captures/20-home-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/20-featured-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/20-services-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/20-selected-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/20-footer-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/20-home-mobile.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/20-gallery-mobile.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/20-menu-mobile.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/20-project-reading-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/20-project-desktop.png",
+          "class": "live-limited",
+          "validity": "dark/dim transition overlay; do not select as headline evidence"
+        }
+      ],
+      "directionPacket": "20-direction.md",
+      "issues": [
+        "One Page.captureScreenshot timeout during project settling; new tab restored inspection.",
+        "Mobile file named gallery actually depicts impact reading, not gallery tiles.",
+        "Whole homepage DOM read, representative visual sections only; no exhaustive route test."
+      ]
+    }
+  },
+  {
+    "number": 21,
+    "packet": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/references-expansion/group-c/findings.json",
+    "finding": {
+      "number": 21,
+      "exactURL": "https://artemiilebedev.com/work",
+      "actualResolvedURL": "https://artemiilebedev.com/work",
+      "title": "Work • Artemii Lebedev",
+      "evidenceClass": "live desktop/mobile work index, project reading and contact",
+      "versionViewed": "Current live Work index with 2026–2022 entries; current design is not a horizontal portfolio",
+      "palette": "Black backdrop, stark white identity/navigation sheet, pale mono labels; large project thumbnails supply teal, gold, cobalt and photographic tones.",
+      "type": "Computed Fragment Mono, sans-serif/monospace across identity, index and body. Tiny uppercase metadata forms a sparse utilitarian rhythm, contrasted with expressive image scale.",
+      "imagesMaterial": "Website mockups placed in cinematic photography/rendered environments: living room, open laptop in shadow, figure portrait, teal seafood presentation, amber organic sculpture. Artworks belong to creator/clients and are reference-only.",
+      "topology": "Desktop fixed white identity/nav sheet at upper left plus tight year/title/category work index below, oversized vertically stacked preview strip at right. Fixed top microcopy/location/time and bottom social/effects controls. Current route is vertical, not horizontal. Mobile replaces left index with single-column image/caption stream beneath compact fixed header.",
+      "navigation": {
+        "observed": [
+          "Opened exact /work, collected links and current project list.",
+          "Clicked desktop index Ponder AI row: URL remained /work; do not call it successful detail navigation.",
+          "Scrolled 1000px: large preview strip progressed while identity pane remained fixed.",
+          "Mobile scroll 700px; clicked Haven Foods artwork: navigated /work/haven-foods.",
+          "Scrolled mobile project reading; captured desktop version of same route.",
+          "Opened /information and /contact destinations; extracted full info/contact text and captured settled states. No form completed/submitted."
+        ],
+        "notVerified": [
+          "Expand behavior",
+          "Effects keyboard ritual",
+          "Every project",
+          "Working horizontal portfolio (not present)",
+          "Mobile menu expansion",
+          "Complete contact form interaction"
+        ]
+      },
+      "fullReading": "Haven Foods route has full-bleed project visual, plain mono About/Project Context text, Credits/Timeline/Services/Destinations metadata, subsequent imagery, More Work and View All Work return link. Mobile reading is visible unboxed text followed by large image; desktop opening is very large image stage. Information route first captured portrait but its deeper biography/awards layout is supported by DOM text only. Contact uses large white form sheet on expressive grey/black background with fixed identity pane.",
+      "mobile": "390x844 work becomes stacked images and year/title/category captions with narrow persistent white header: identity, Menu, Expand. Bottom social links remain fixed and overlap lowest content in captures; reproduce hierarchy, not overlap or tiny body type. Haven Foods long text is vertically readable though small reference scale should be improved for Victor.",
+      "captures": [
+        {
+          "path": "captures/21-work-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/21-project-reading-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/21-work-mobile.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/21-work-scroll-mobile.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/21-detail-mobile.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/21-detail-reading-mobile.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/21-detail-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/21-information-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/21-contact-desktop.png",
+          "class": "live",
+          "validity": "valid inspected capture"
+        },
+        {
+          "path": "captures/21-project-desktop.png",
+          "class": "live",
+          "validity": "duplicate work index after click; not project detail"
+        }
+      ],
+      "directionPacket": "21-direction.md",
+      "issues": [
+        "Desktop index click did not navigate; successful detail browsing demonstrated on mobile artwork instead.",
+        "Fixed small social/effects labels overlap bottom work index at 1280x577.",
+        "Reference body labels are tiny; prototype must use readable text without copying this defect."
+      ]
+    }
+  }
+]

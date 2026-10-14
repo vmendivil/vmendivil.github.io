@@ -1,0 +1,10 @@
+# Seven viable directions inside computational mechanism
+Mechanism: Victor connects operational intent to working technical systems. Audience scene: evaluating a technically capable human, not buying a software dashboard. Cultural home: applied mathematics and the legible transformation of information. Rut: developer terminal; opposite rut: giant slogan next to abstract network art. Both excluded.
+1. Reduction proof — mathematical notation family. Forest page with a huge transform expression and handwritten-scale functional operators; running records reduce into an actionable sequence. Data is the protagonist.
+2. Jacquard instruction ribbon — encoded textile family. Moss woven field, sulfur perforation marks and humane sans; a horizontal instruction ribbon turns source rows into an ordered action weave. No textile photograph needed.
+3. Transit permutation map — wayfinding family. Olive ground, ivory type, sulfur junctions; labeled synthetic events switch lanes and land in chronological order. Routing is the interaction.
+4. Sorting network — discrete mathematics family. Deep fern, narrow sans and measured monospace data; a wide comparator braid swaps visible records until sorted. Comparator states are readable.
+5. Relational calculus sheet — tabular publishing family. Forest spreadsheet-free typesetting; warm pale ink and mustard operators; aligned tuples collapse duplicates into a compact relation. Not a dashboard costume.
+6. Rule grammar — language notation family. Moss green with sulfur punctuation; broad prose-like production rules rewrite one synthetic sentence into explicit next actions. Rewrite steps carry the whole first screen.
+7. Queue choreography — operations ritual family. Deep green and chalk; a continuous asymmetric queue with oversized task verbs; advancing a batch allocates work across lanes and reunites it into a coherent plan.
+All use only synthetic demonstrative records. All are static/local and achievable with authored DOM/SVG, no imagery or commercial claims. All retain pinned moss/forest/sulfur materials while diverging in topology, data grammar and visitor ritual.

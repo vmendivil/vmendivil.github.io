@@ -1,0 +1,245 @@
+{
+  "engine": "Chromium / SwiftShader emulation",
+  "physicalDevice": false,
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        122.80827312090554,
+        -36.616202036048875,
+        946.9779297508982,
+        631.3186198339321
+      ],
+      "end": [
+        265.5,
+        218.16666666666666,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly deep-equal:\n+ actual - expected\n\n  [\n+   0.00007544448118323999,\n+   0.00006199424095143513,\n+   1199.999883494398,\n+   799.9999223295988\n-   0,\n-   0,\n-   1200,\n-   800\n  ]\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:5:753"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        132.91704930758073,
+        -39.63020900628033,
+        926.1508029341302,
+        617.4338686227534
+      ],
+      "end": [
+        265.5,
+        218.16666666666669,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "interruptedRoomSwitch": true,
+      "reducedMotion": "immediate room framing retained",
+      "passed": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        124.05404249536,
+        -36.98763746092809,
+        944.4112692306653,
+        629.6075128204435
+      ],
+      "end": [
+        265.5,
+        218.16666666666669,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "interruptedRoomSwitch": true,
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\n'whole' !== 'about'\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:5:1069"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        123.99775029691345,
+        -36.970853522362795,
+        944.5272481319873,
+        629.6848320879915
+      ],
+      "end": [
+        265.5,
+        218.16666666666666,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly deep-equal:\n+ actual - expected\n\n  [\n+   0.5973778414018511,\n+   0.4908773348368243,\n+   1199.0774956121477,\n+   799.3849970747651\n-   0,\n-   0,\n-   1200,\n-   800\n  ]\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:5:753"
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        114.01928643492772,
+        -33.995700143077265,
+        965.0858922697469,
+        643.390594846498
+      ],
+      "end": [
+        265.5,
+        218.16666666666669,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "interruptedRoomSwitch": true,
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n\n'whole' !== 'about'\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:5:1069"
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        121.43160809978491,
+        -36.20573909842832,
+        949.8142747692874,
+        633.2095165128583
+      ],
+      "end": [
+        265.5,
+        218.1666666666667,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "failure": "AssertionError [ERR_ASSERTION]: Expected values to be strictly deep-equal:\n+ actual - expected\n\n  [\n+   0.10679084514015358,\n+   0.08775217595004392,\n+   1199.835087583776,\n+   799.8900583891841\n-   0,\n-   0,\n-   1200,\n-   800\n  ]\n\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:5:753"
+    }
+  ],
+  "fallback": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "mode": "reduce",
+      "error": "The expression evaluated to a falsy value:\n\n  assert(await p.locator('.linkedin').isVisible())\n"
+    },
+    {
+      "mode": "renderer-failure",
+      "error": "The expression evaluated to a falsy value:\n\n  assert(await p.locator('.linkedin').isVisible())\n"
+    }
+  ],
+  "failures": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "error": "Expected values to be strictly deep-equal:\n+ actual - expected\n\n  [\n+   0.00007544448118323999,\n+   0.00006199424095143513,\n+   1199.999883494398,\n+   799.9999223295988\n-   0,\n-   0,\n-   1200,\n-   800\n  ]\n"
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "error": "Expected values to be strictly equal:\n\n'whole' !== 'about'\n"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "error": "Expected values to be strictly deep-equal:\n+ actual - expected\n\n  [\n+   0.5973778414018511,\n+   0.4908773348368243,\n+   1199.0774956121477,\n+   799.3849970747651\n-   0,\n-   0,\n-   1200,\n-   800\n  ]\n"
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "error": "Expected values to be strictly equal:\n\n'whole' !== 'about'\n"
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "error": "Expected values to be strictly deep-equal:\n+ actual - expected\n\n  [\n+   0.10679084514015358,\n+   0.08775217595004392,\n+   1199.835087583776,\n+   799.8900583891841\n-   0,\n-   0,\n-   1200,\n-   800\n  ]\n"
+    },
+    {
+      "mode": "reduce",
+      "error": "The expression evaluated to a falsy value:\n\n  assert(await p.locator('.linkedin').isVisible())\n"
+    },
+    {
+      "mode": "renderer-failure",
+      "error": "The expression evaluated to a falsy value:\n\n  assert(await p.locator('.linkedin').isVisible())\n"
+    }
+  ]
+}

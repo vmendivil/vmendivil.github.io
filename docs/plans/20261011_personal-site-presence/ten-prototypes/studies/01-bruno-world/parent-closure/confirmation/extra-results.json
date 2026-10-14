@@ -1,0 +1,292 @@
+{
+  "hashes": {
+    "index.html": "73daada471244f4c356ce422a154819044be1953629d6f3bcd128107e1da8531",
+    "style.css": "f41393b04a507037ed6d032d61fb64b0392efa0581dbee1895214d504104836a",
+    "world.js": "709ab7698fea28a6c4bbb7a2c9ca466727311277d854058856ec2b53f0f7a33c"
+  },
+  "rows": [
+    {
+      "name": "320 welcome reader visible",
+      "pass": true
+    },
+    {
+      "name": "320 welcome overflow",
+      "pass": true
+    },
+    {
+      "name": "320 welcome final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "320 welcome return semantics",
+      "pass": true
+    },
+    {
+      "name": "320 craft reader visible",
+      "pass": true
+    },
+    {
+      "name": "320 craft overflow",
+      "pass": true
+    },
+    {
+      "name": "320 craft final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "320 craft return semantics",
+      "pass": true
+    },
+    {
+      "name": "320 homelab reader visible",
+      "pass": true
+    },
+    {
+      "name": "320 homelab overflow",
+      "pass": true
+    },
+    {
+      "name": "320 homelab final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "320 homelab return semantics",
+      "pass": true
+    },
+    {
+      "name": "320 curiosity reader visible",
+      "pass": true
+    },
+    {
+      "name": "320 curiosity overflow",
+      "pass": true
+    },
+    {
+      "name": "320 curiosity final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "320 curiosity return semantics",
+      "pass": true
+    },
+    {
+      "name": "320 contact reader visible",
+      "pass": true
+    },
+    {
+      "name": "320 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "320 contact final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "320 contact native scroll reach",
+      "pass": true
+    },
+    {
+      "name": "320 contact return semantics",
+      "pass": true
+    },
+    {
+      "name": "320 next hover contrast",
+      "pass": true,
+      "ratio": 4.745203780429281,
+      "colors": {
+        "fg": "rgb(241, 188, 117)",
+        "bg": "rgb(40, 86, 90)"
+      }
+    },
+    {
+      "name": "430 welcome reader visible",
+      "pass": true
+    },
+    {
+      "name": "430 welcome overflow",
+      "pass": true
+    },
+    {
+      "name": "430 welcome final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "430 welcome return semantics",
+      "pass": true
+    },
+    {
+      "name": "430 craft reader visible",
+      "pass": true
+    },
+    {
+      "name": "430 craft overflow",
+      "pass": true
+    },
+    {
+      "name": "430 craft final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "430 craft return semantics",
+      "pass": true
+    },
+    {
+      "name": "430 homelab reader visible",
+      "pass": true
+    },
+    {
+      "name": "430 homelab overflow",
+      "pass": true
+    },
+    {
+      "name": "430 homelab final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "430 homelab return semantics",
+      "pass": true
+    },
+    {
+      "name": "430 curiosity reader visible",
+      "pass": true
+    },
+    {
+      "name": "430 curiosity overflow",
+      "pass": true
+    },
+    {
+      "name": "430 curiosity final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "430 curiosity return semantics",
+      "pass": true
+    },
+    {
+      "name": "430 contact reader visible",
+      "pass": true
+    },
+    {
+      "name": "430 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "430 contact final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "430 contact native scroll reach",
+      "pass": true
+    },
+    {
+      "name": "430 contact return semantics",
+      "pass": true
+    },
+    {
+      "name": "430 next hover contrast",
+      "pass": true,
+      "ratio": 4.745203780429281,
+      "colors": {
+        "fg": "rgb(241, 188, 117)",
+        "bg": "rgb(40, 86, 90)"
+      }
+    },
+    {
+      "name": "768 welcome reader visible",
+      "pass": true
+    },
+    {
+      "name": "768 welcome overflow",
+      "pass": true
+    },
+    {
+      "name": "768 welcome final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "768 welcome return semantics",
+      "pass": true
+    },
+    {
+      "name": "768 craft reader visible",
+      "pass": true
+    },
+    {
+      "name": "768 craft overflow",
+      "pass": true
+    },
+    {
+      "name": "768 craft final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "768 craft return semantics",
+      "pass": true
+    },
+    {
+      "name": "768 homelab reader visible",
+      "pass": true
+    },
+    {
+      "name": "768 homelab overflow",
+      "pass": true
+    },
+    {
+      "name": "768 homelab final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "768 homelab return semantics",
+      "pass": true
+    },
+    {
+      "name": "768 curiosity reader visible",
+      "pass": true
+    },
+    {
+      "name": "768 curiosity overflow",
+      "pass": true
+    },
+    {
+      "name": "768 curiosity final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "768 curiosity return semantics",
+      "pass": true
+    },
+    {
+      "name": "768 contact reader visible",
+      "pass": true
+    },
+    {
+      "name": "768 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "768 contact final reading reachable",
+      "pass": true
+    },
+    {
+      "name": "768 contact native scroll reach",
+      "pass": true
+    },
+    {
+      "name": "768 contact return semantics",
+      "pass": true
+    },
+    {
+      "name": "768 next hover contrast",
+      "pass": true,
+      "ratio": 4.745203780429281,
+      "colors": {
+        "fg": "rgb(241, 188, 117)",
+        "bg": "rgb(40, 86, 90)"
+      }
+    },
+    {
+      "name": "renderer failure restores visible focused navigation",
+      "pass": true
+    }
+  ]
+}

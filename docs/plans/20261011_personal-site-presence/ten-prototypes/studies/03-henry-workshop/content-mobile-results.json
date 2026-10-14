@@ -1,0 +1,1579 @@
+{
+  "baseURL": "http://127.0.0.1:9013",
+  "browser": "Playwright Chromium; emulated viewports and trusted touch, not physical Safari",
+  "assertions": [
+    {
+      "name": "authored room intact",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "main bounds",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "header outside room on compact view",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "44px controls",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "navigation about",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "reading material about",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "readable body about",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "heading/close separate about",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "reading bounds about",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "navigation lab",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "reading material lab",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "readable body lab",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "heading/close separate lab",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "reading bounds lab",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "navigation approach",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "reading material approach",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "readable body approach",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "heading/close separate approach",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "reading bounds approach",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "navigation contact",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "reading material contact",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "readable body contact",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "heading/close separate contact",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "reading bounds contact",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "contact route",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "CTA reachable",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "final disclosure reachable",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 320,
+        "height": 740
+      }
+    },
+    {
+      "name": "authored room intact",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "main bounds",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "header outside room on compact view",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "44px controls",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "navigation about",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "reading material about",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "readable body about",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "heading/close separate about",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "reading bounds about",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "navigation lab",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "reading material lab",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "readable body lab",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "heading/close separate lab",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "reading bounds lab",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "navigation approach",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "reading material approach",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "readable body approach",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "heading/close separate approach",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "reading bounds approach",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "navigation contact",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "reading material contact",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "readable body contact",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "heading/close separate contact",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "reading bounds contact",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "contact route",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "CTA reachable",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "final disclosure reachable",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "name": "authored room intact",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "main bounds",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "header outside room on compact view",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "44px controls",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "navigation about",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "reading material about",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "readable body about",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "heading/close separate about",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "reading bounds about",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "navigation lab",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "reading material lab",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "readable body lab",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "heading/close separate lab",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "reading bounds lab",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "navigation approach",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "reading material approach",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "readable body approach",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "heading/close separate approach",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "reading bounds approach",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "navigation contact",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "reading material contact",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "readable body contact",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "heading/close separate contact",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "reading bounds contact",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "contact route",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "CTA reachable",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "final disclosure reachable",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 430,
+        "height": 932
+      }
+    },
+    {
+      "name": "authored room intact",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "main bounds",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "header outside room on compact view",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "44px controls",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "navigation about",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "reading material about",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "readable body about",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "heading/close separate about",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "reading bounds about",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "navigation lab",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "reading material lab",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "readable body lab",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "heading/close separate lab",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "reading bounds lab",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "navigation approach",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "reading material approach",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "readable body approach",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "heading/close separate approach",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "reading bounds approach",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "navigation contact",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "reading material contact",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "readable body contact",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "heading/close separate contact",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "reading bounds contact",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "contact route",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "CTA reachable",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "final disclosure reachable",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 844,
+        "height": 390
+      }
+    },
+    {
+      "name": "authored room intact",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "main bounds",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "header outside room on compact view",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "44px controls",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "navigation about",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "reading material about",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "readable body about",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "heading/close separate about",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "reading bounds about",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "navigation lab",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "reading material lab",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "readable body lab",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "heading/close separate lab",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "reading bounds lab",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "navigation approach",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "reading material approach",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "readable body approach",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "heading/close separate approach",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "reading bounds approach",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "navigation contact",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "reading material contact",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "readable body contact",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "heading/close separate contact",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "reading bounds contact",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "contact route",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "CTA reachable",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "final disclosure reachable",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 768,
+        "height": 1024
+      }
+    },
+    {
+      "name": "authored room intact",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "main bounds",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "header outside room on compact view",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "44px controls",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "navigation about",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "reading material about",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "readable body about",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "heading/close separate about",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "reading bounds about",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "navigation lab",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "reading material lab",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "readable body lab",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "heading/close separate lab",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "reading bounds lab",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "navigation approach",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "reading material approach",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "readable body approach",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "heading/close separate approach",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "reading bounds approach",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "navigation contact",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "reading material contact",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "readable body contact",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "heading/close separate contact",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "reading bounds contact",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "contact route",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "CTA reachable",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "final disclosure reachable",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "close hides reading",
+      "passed": true,
+      "state": {
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "name": "Tab reaches skip",
+      "passed": true
+    },
+    {
+      "name": "Tab reaches monitor",
+      "passed": true
+    },
+    {
+      "name": "Enter opens monitor",
+      "passed": true
+    },
+    {
+      "name": "Escape returns focus",
+      "passed": true
+    },
+    {
+      "name": "Space opens server",
+      "passed": true
+    },
+    {
+      "name": "canvas raycast contact",
+      "passed": true
+    },
+    {
+      "name": "canvas raycast about",
+      "passed": true
+    },
+    {
+      "name": "notebook hotspot",
+      "passed": true
+    },
+    {
+      "name": "lamp dim",
+      "passed": true
+    },
+    {
+      "name": "pause",
+      "passed": true
+    },
+    {
+      "name": "reduced motion starts paused",
+      "passed": true
+    },
+    {
+      "name": "font load",
+      "passed": true
+    },
+    {
+      "name": "runtime assets same origin",
+      "passed": true
+    },
+    {
+      "name": "runtime assets HTTP 200",
+      "passed": true
+    },
+    {
+      "name": "no page errors",
+      "passed": true
+    },
+    {
+      "name": "WebGL failure readable fallback",
+      "passed": true
+    },
+    {
+      "name": "fallback contact works",
+      "passed": true
+    },
+    {
+      "name": "trusted touchscreen contact selection",
+      "passed": true
+    },
+    {
+      "name": "trusted touchscreen return",
+      "passed": true
+    }
+  ],
+  "captures": [
+    ".impeccable/review/mobile.png",
+    ".impeccable/review/content-mobile.png",
+    ".impeccable/review/content-landscape.png",
+    ".impeccable/review/desktop.png",
+    ".impeccable/review/content-desktop.png"
+  ],
+  "errors": [],
+  "detector": "Historical only; not rerun"
+}

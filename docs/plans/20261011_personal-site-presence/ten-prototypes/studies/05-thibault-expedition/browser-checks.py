@@ -1,0 +1,40 @@
+# Reproducible browser-use check payload (helpers pre-imported).
+# Execute via browser_exec code=exec(open(PATH).read()), session=browserten05.
+import time, json
+new_tab('http://127.0.0.1:8915')
+wait_for_load()
+cdp('Emulation.setEmulatedMedia', features=[{'name':'prefers-reduced-motion','value':'no-preference'}])
+cdp('Emulation.setDeviceMetricsOverride',width=1440,height=900,deviceScaleFactor=1,mobile=False)
+time.sleep(2)
+def live(expr):
+    return js(expr+' /*'+str(time.time_ns())+'*/')
+def click(selector):
+    box=live('document.querySelector('+json.dumps(selector)+').getBoundingClientRect().toJSON()')
+    click_at_xy(box['x']+box['width']/2, box['y']+box['height']/2)
+    time.sleep(.3)
+print(live('({renderer:__expedition.renderer,fonts:document.fonts.status,overflow:document.documentElement.scrollWidth>innerWidth})'))
+js('document.activeElement.blur()')
+before=live('__expedition.position()')
+cdp('Input.dispatchKeyEvent',type='keyDown',key='ArrowRight',code='ArrowRight',windowsVirtualKeyCode=39,timestamp=time.time())
+# Hidden daemon tabs advance animation only when rendered.
+capture_screenshot()
+time.sleep(.5)
+capture_screenshot()
+cdp('Input.dispatchKeyEvent',type='keyUp',key='ArrowRight',code='ArrowRight',windowsVirtualKeyCode=39,timestamp=time.time())
+print({'movement_before':before,'movement_after':live('__expedition.position()')})
+for chapter in ['erp','lab','ai']:
+    click('[data-place='+chapter+']')
+    print(chapter,live('document.querySelector("#entry h3").innerText'))
+    click('#guide-close')
+click('#guide-open')
+click('[data-chapter=contact]')
+print(live('document.querySelector("#entry a").href'))
+click('#guide-close')
+cdp('Emulation.setDeviceMetricsOverride',width=390,height=844,deviceScaleFactor=1,mobile=True)
+time.sleep(1)
+click('[data-place=lab]')
+print(live('({guide:!document.querySelector("#guide").hidden,overflow:document.documentElement.scrollWidth>innerWidth})'))
+cdp('Emulation.setEmulatedMedia',features=[{'name':'prefers-reduced-motion','value':'reduce'}])
+goto_url('http://127.0.0.1:8915')
+wait_for_load()
+print(live('({matches:matchMedia("(prefers-reduced-motion: reduce)").matches,paused:__expedition.paused,disabled:document.querySelector("[data-move]").disabled})'))

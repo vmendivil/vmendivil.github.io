@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-11T19:40:22.585875+00:00",
+  "title": "Design System: Fieldnotes",
+  "extensions": {
+    "motion": [{"name": "annotation-arrow", "value": "transform .22s ease-out", "purpose": "Rotate native disclosure arrow; disabled for reduced motion."}],
+    "breakpoints": [{"name":"intermediate","value":"1100px"},{"name":"mobile","value":"700px"}],
+    "shadows": [],
+    "typographyMeta": {"body":{"displayName":"Reading voice","purpose":"Continuous illustrative draft prose, 18px mobile and 21px desktop."}}
+  },
+  "components": [{
+    "name":"Margin thought",
+    "kind":"custom",
+    "refersTo":"annotation",
+    "description":"A native keyboard-accessible disclosure adjacent to its reading passage.",
+    "html":"<details class=\"ds-annotation\"><summary>One thought in the margin <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14m-5-5 5 5-5 5\"/></svg></summary><p>Illustrative approach note.</p></details>",
+    "css":".ds-annotation{color:var(--mark,#e8b57f);font:17px/1.5 Karla,sans-serif}.ds-annotation summary{cursor:pointer;list-style:none;display:flex;gap:17px;align-items:center;min-height:44px;text-decoration:underline;text-underline-offset:7px;width:fit-content}.ds-annotation summary::-webkit-details-marker{display:none}.ds-annotation summary:hover{color:var(--ink,#e2edf3)}.ds-annotation summary:focus-visible{outline:2px solid var(--mark,#e8b57f);outline-offset:7px}.ds-annotation svg{width:23px;height:23px;fill:none;stroke:currentColor;stroke-width:1.5;transition:transform .22s ease-out}.ds-annotation[open] svg{transform:rotate(90deg)}.ds-annotation p{color:var(--soft,#bdd0dc);font:18px/1.65 Literata,serif}@media(prefers-reduced-motion:reduce){.ds-annotation svg{transition:none}}"
+  }],
+  "narrative": {
+    "northStar":"The loose-leaf commonplace notebook",
+    "overview":"Desaturated slate gives the page the quiet material presence of a notebook under evening light. Writing does the work; margins carry a second, quieter voice. This is a reading surface, not an archive claiming already-published material.",
+    "keyCharacteristics":["Continuous prose, not cards.","Asymmetric margin voices.","Apricot marks used sparingly."],
+    "rules":[],
+    "dos":["Do keep factual framing distinct from illustrative prose.","Do keep paragraphs continuous and readable."],
+    "donts":["Don't introduce saturated plum, neon, cards, diagrams, or a poster-like scale.","Don't invent published dates or proof."]
+  }
+}

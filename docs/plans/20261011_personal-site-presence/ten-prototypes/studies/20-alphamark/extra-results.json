@@ -1,0 +1,57 @@
+{
+  "workable-system.html": {
+    "trustedTouchReadAndReturn": true
+  },
+  "after-hours.html": {
+    "trustedTouchReadAndReturn": true
+  },
+  "ai-judgment.html": {
+    "trustedTouchReadAndReturn": true
+  },
+  "normalMotion": "0.7s",
+  "computed": {
+    "body": {
+      "color": "rgb(240, 241, 233)",
+      "background": "rgb(16, 17, 16)",
+      "paddingLeft": "0px",
+      "paddingRight": "0px",
+      "fontSize": "16px"
+    },
+    ".identity span": {
+      "color": "rgb(175, 179, 172)",
+      "background": "rgba(0, 0, 0, 0)",
+      "paddingLeft": "0px",
+      "paddingRight": "0px",
+      "fontSize": "11px"
+    },
+    ".practice": {
+      "color": "rgb(16, 17, 16)",
+      "background": "rgb(233, 238, 70)",
+      "paddingLeft": "20px",
+      "paddingRight": "20px",
+      "fontSize": "16px"
+    },
+    ".contact": {
+      "color": "rgb(16, 17, 16)",
+      "background": "rgb(233, 238, 70)",
+      "paddingLeft": "20px",
+      "paddingRight": "20px",
+      "fontSize": "16px"
+    },
+    ".contact .pill": {
+      "color": "rgb(240, 241, 233)",
+      "background": "rgb(16, 17, 16)",
+      "paddingLeft": "22px",
+      "paddingRight": "22px",
+      "fontSize": "16px"
+    }
+  },
+  "contrast": {
+    "mutedOnInk": 8.891233379671107,
+    "paperOnInk": 16.638658502601988,
+    "inkOnYellow": 15.123979808270688,
+    "pinkOnAubergine": 7.36711612972746
+  },
+  "focusTrapBothDirections": true,
+  "externalContactExact": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+}

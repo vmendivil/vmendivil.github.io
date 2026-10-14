@@ -1,0 +1,23 @@
+{
+  "runtime": {
+    "index.html": "196fa268fc286d683bedfa8a97f253b089090f851522e6c2d2c465f8ec75e74f",
+    "style.css": "ef9be43aee7c7fb640c8fdfa5d92de80cf91cf0ad884984fd341261d95964ffd",
+    "main.js": "646b125c0f7f7d64f8c2cf1e6b413500aeb326459fc6aae4665066b9e2527880",
+    "experience.css": "d795af1465a71ffbd2e05697bfb7fd1ae7d1452a6fa27f31924314178f48985a",
+    "workbench-tools.js": "abb7d756e17450baff25c2d8c69cb3a8faa5310ea9ad07637eefa3ea9d4d5d9b"
+  },
+  "referenceEvidence": {
+    "source-observations.json": "d2f3dbe390aab40d5e87e6adf3abed1cddde2c1f29f0c65d61dabb1f05a8f28e",
+    "source-live.png": "cd76fc680fa5cba536f37da4e0a24af09ec54eb0c9c0cf276c6ba5bd502755d5",
+    "source-next.png": "f441c2bf4acfb861867297ba9aefa8ff0fc0abfaed1b7db9cb9368a446ca78c6",
+    "source-gallery.png": "96c9f038c464d7fb487aea619aca42e50d94fe9179a18c86c959d08596890323"
+  },
+  "verification": {
+    "legacyContexts": 6,
+    "focalContexts": 6,
+    "focalFallbackContexts": 0,
+    "normalPageErrors": 0,
+    "restorationPairs": 54,
+    "legacyNoJSContexts": 6
+  }
+}

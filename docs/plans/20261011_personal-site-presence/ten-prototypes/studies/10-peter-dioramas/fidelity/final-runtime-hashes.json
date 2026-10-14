@@ -1,0 +1,11 @@
+{
+  "comparedTo": "currently retained public preview files (read only)",
+  "factualCopyIdentical": true,
+  "runtimeHashes": {
+    "fidelity.css": "af85234abbfe4efa7dc9ae82847b3db003c3cb651122188dd3da10daf2e21e91",
+    "worlds.js": "cce275767f337dda3a8f4e834d3616de344b22ca8b943f3eaaea6cdc80faad61",
+    "style.css": "2d3854d182e3975378f8f81bbb600b3e295d8103de8e0e2b5e288172a1883884",
+    "index.html": "399c1f228ee9403cb298e339d1fec47afa867505f55a88a6971277020f826971",
+    "assets/favicon.svg": "286ae2744e70459d41d1ab56693d881eb138522cad9c1b4c2f538b1fc09f60a5"
+  }
+}

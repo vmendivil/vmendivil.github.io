@@ -1,0 +1,8 @@
+{
+  "slug": "15-preymaker",
+  "pass": "parent-confirmation",
+  "passed": 78,
+  "failed": [],
+  "errors": [],
+  "captures": 26
+}

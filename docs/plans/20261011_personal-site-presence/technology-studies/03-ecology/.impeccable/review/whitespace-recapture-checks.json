@@ -1,0 +1,41 @@
+{
+  "purpose": "post-whitespace-patch recapture",
+  "viewports": {
+    "desktop": {
+      "opening": "Beyond software, I’m interested in Raspberry Pi homelabs.\nStart with the hardware. Take a closer look.",
+      "openingText": "Beyond software, I’m interested in Raspberry Pi homelabs. Start with the hardware. Take a closer look.",
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "scrollWidth": 1440,
+      "width": 1440,
+      "height": 900,
+      "footerBottom": 874,
+      "imageLoaded": true,
+      "errors": [],
+      "capturedState": "Ethernet inspected"
+    },
+    "mobile": {
+      "opening": "Beyond software, I’m interested in Raspberry Pi homelabs. Start with the hardware. Take a closer look.",
+      "openingText": "Beyond software, I’m interested in Raspberry Pi homelabs. Start with the hardware. Take a closer look.",
+      "fontLoaded": true,
+      "fonts": [
+        {
+          "family": "Manrope",
+          "status": "loaded"
+        }
+      ],
+      "scrollWidth": 390,
+      "width": 390,
+      "height": 844,
+      "footerBottom": 825.625,
+      "imageLoaded": true,
+      "errors": [],
+      "capturedState": "Ethernet inspected"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pass": true,
+  "captures": [
+    {
+      "name": "desktop",
+      "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/material-fix-final/contact-opening-desktop.png",
+      "headingVisible": true,
+      "transcriptVisible": true
+    },
+    {
+      "name": "mobile",
+      "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/material-fix-final/contact-opening-mobile.png",
+      "headingVisible": true,
+      "transcriptVisible": true
+    }
+  ],
+  "errors": [],
+  "assetSha256": "7060410a8e73b9f67a143cded14d97c6b3b4e79274bb1b0849e08d45a895aad7"
+}

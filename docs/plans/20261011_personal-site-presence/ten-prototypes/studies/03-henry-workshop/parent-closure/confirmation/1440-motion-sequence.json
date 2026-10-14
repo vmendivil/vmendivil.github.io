@@ -1,0 +1,77 @@
+[
+  {
+    "stage": "before",
+    "state": {
+      "renders": 111,
+      "camera": [
+        5.048229014198094,
+        5.577844159382285,
+        7.293848183781653
+      ],
+      "pageAngle": -0.008718471455678613,
+      "envelopeY": 2.313149450997267,
+      "visible": true,
+      "selected": null
+    }
+  },
+  {
+    "stage": "progress-1",
+    "state": {
+      "renders": 156,
+      "camera": [
+        3.5169873777987313,
+        5.599546703893923,
+        7.166271100095571
+      ],
+      "pageAngle": -0.3455264113571214,
+      "envelopeY": 2.0201365770323827,
+      "visible": true,
+      "selected": "approach"
+    }
+  },
+  {
+    "stage": "progress-2",
+    "state": {
+      "renders": 176,
+      "camera": [
+        3.4980205206231054,
+        5.60058079697104,
+        7.1576314082732475
+      ],
+      "pageAngle": -0.3492175638493669,
+      "envelopeY": 2.020023887490785,
+      "visible": true,
+      "selected": "approach"
+    }
+  },
+  {
+    "stage": "progress-3",
+    "state": {
+      "renders": 201,
+      "camera": [
+        3.4980205206231054,
+        5.60058079697104,
+        7.1576314082732475
+      ],
+      "pageAngle": -0.3492175638493669,
+      "envelopeY": 2.020023887490785,
+      "visible": true,
+      "selected": "approach"
+    }
+  },
+  {
+    "stage": "return",
+    "state": {
+      "renders": 228,
+      "camera": [
+        5.280635277465942,
+        5.501080877583729,
+        7.990947602768577
+      ],
+      "pageAngle": -0.0037528181121691097,
+      "envelopeY": 2.0200002567036064,
+      "visible": true,
+      "selected": null
+    }
+  }
+]

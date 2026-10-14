@@ -1,0 +1,71 @@
+{
+  "method": "Raw headed Chromium CDP under existing Xvfb, without Playwright focus emulation; real tab activation/hiding/restoration",
+  "before": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "sceneAvailable": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 0
+      },
+      {
+        "state": "running",
+        "time": 0
+      }
+    ]
+  },
+  "hidden": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "sceneAvailable": true,
+    "hidden": true,
+    "animations": [
+      {
+        "state": "paused",
+        "time": 0
+      }
+    ]
+  },
+  "hiddenAfter": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "sceneAvailable": true,
+    "hidden": true,
+    "animations": [
+      {
+        "state": "paused",
+        "time": 0
+      }
+    ]
+  },
+  "restored": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "sceneAvailable": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 0
+      },
+      {
+        "state": "running",
+        "time": 0
+      }
+    ]
+  }
+}

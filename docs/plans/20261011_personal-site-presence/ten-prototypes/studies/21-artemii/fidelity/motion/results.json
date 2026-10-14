@@ -1,0 +1,161 @@
+{
+  "checks": {
+    "filterRestored": "true",
+    "visiblePreviews": 2,
+    "selected": "ai",
+    "scrollError": 0,
+    "scrollSynchronization": "delivery",
+    "settledAnimations": 0,
+    "computed": {
+      "background": "rgb(12, 14, 17)",
+      "bodyFont": "17px",
+      "paragraphFonts": []
+    }
+  },
+  "evidence": [
+    {
+      "frame": 1,
+      "label": "filtered-preview",
+      "url": "http://127.0.0.1:9421/#preview-ai",
+      "time": 1791841470710,
+      "metrics": {
+        "transitions": 1,
+        "selectionChanges": 2
+      }
+    },
+    {
+      "frame": 2,
+      "label": "note-handoff",
+      "url": "http://127.0.0.1:9421/#note-ai",
+      "time": 1791841471120,
+      "metrics": {
+        "transitions": 2,
+        "selectionChanges": 3
+      }
+    },
+    {
+      "frame": 3,
+      "label": "note",
+      "url": "http://127.0.0.1:9421/#note-ai",
+      "time": 1791841471740,
+      "metrics": {
+        "transitions": 2,
+        "selectionChanges": 3
+      }
+    },
+    {
+      "frame": 4,
+      "label": "filter-return",
+      "url": "http://127.0.0.1:9421/#preview-ai",
+      "time": 1791841472647,
+      "metrics": {
+        "transitions": 3,
+        "selectionChanges": 4
+      }
+    }
+  ],
+  "log": [
+    {
+      "name": "pagereveal",
+      "time": 102.89999997615814,
+      "animations": [],
+      "transition": false
+    },
+    {
+      "name": "same-document-ready",
+      "time": 1040.6000000238419,
+      "animations": [
+        {
+          "name": "-ua-view-transition-group-anim-root",
+          "pseudo": "::view-transition-group(root)",
+          "playState": "running"
+        }
+      ]
+    },
+    {
+      "name": "same-document-ready",
+      "time": 2848.7000000476837,
+      "animations": [
+        {
+          "name": "-ua-view-transition-group-anim-register-plate",
+          "pseudo": "::view-transition-group(register-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-group-anim-root",
+          "pseudo": "::view-transition-group(root)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-fade-in",
+          "pseudo": "::view-transition-new(register-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-mix-blend-mode-plus-lighter",
+          "pseudo": "::view-transition-new(register-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-fade-out",
+          "pseudo": "::view-transition-old(register-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-mix-blend-mode-plus-lighter",
+          "pseudo": "::view-transition-old(register-plate)",
+          "playState": "running"
+        }
+      ]
+    },
+    {
+      "name": "same-document-ready",
+      "time": 3827.5,
+      "animations": [
+        {
+          "name": "-ua-view-transition-group-anim-register-plate",
+          "pseudo": "::view-transition-group(register-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-group-anim-root",
+          "pseudo": "::view-transition-group(root)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-fade-in",
+          "pseudo": "::view-transition-new(register-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-mix-blend-mode-plus-lighter",
+          "pseudo": "::view-transition-new(register-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-fade-out",
+          "pseudo": "::view-transition-old(register-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-mix-blend-mode-plus-lighter",
+          "pseudo": "::view-transition-old(register-plate)",
+          "playState": "running"
+        }
+      ]
+    },
+    {
+      "name": "same-document-ready",
+      "time": 4761.700000047684,
+      "animations": [
+        {
+          "name": "-ua-view-transition-group-anim-root",
+          "pseudo": "::view-transition-group(root)",
+          "playState": "running"
+        }
+      ]
+    }
+  ],
+  "renderer": "Headless Chromium software-rendered emulation; not physical-device FPS",
+  "hiddenEvidence": "Actual tab visibility recorded; if browser keeps pages visible, synthetic visibility-handler coverage explicitly separated"
+}

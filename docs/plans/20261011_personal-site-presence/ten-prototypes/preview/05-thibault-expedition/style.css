@@ -1,0 +1,80 @@
+@font-face{font-family:Fredoka;src:url('assets/fredoka.ttf');font-weight:300 700;font-display:swap}@font-face{font-family:Nunito;src:url('assets/nunito.ttf');font-weight:200 900;font-display:swap}*{box-sizing:border-box}body{margin:0;background:#182d85;color:#fff9eb;font-family:Nunito,sans-serif}button,a{-webkit-tap-highlight-color:transparent}button{font:inherit;cursor:pointer}button:focus-visible,a:focus-visible{outline:3px solid #ffec9d;outline-offset:5px}::selection{color:#172f80;background:#ffd3e6}#expedition{height:100svh;min-height:650px;position:relative;overflow:hidden}#world{position:absolute;inset:0}canvas{display:block;width:100%;height:100%}header{position:absolute;left:40px;right:40px;top:30px;display:flex;align-items:center;justify-content:space-between;z-index:4}.identity{font-family:Fredoka,sans-serif;font-size:25px;text-decoration:none;color:inherit;font-weight:500}.identity span{display:block;font-family:Nunito,sans-serif;font-size:13px;margin-top:4px}header nav{display:flex;gap:12px}button{border:1px solid #b5d4ee;background:#1a3684;color:#fff9eb;border-radius:28px;padding:12px 19px}button:hover{background:#3d539c}#guide-open{background:#fff9eb;color:#19337d;border-color:#fff9eb;display:flex;align-items:center;gap:17px;font-weight:750}svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.7}.intro{position:absolute;top:140px;left:5.4%;pointer-events:none}.intro h1{font-family:Fredoka,sans-serif;font-size:clamp(44px,5.2vw,76px);line-height:.98;font-weight:500;letter-spacing:-.025em;margin:0}.intro p{font-size:17px;line-height:1.6;margin:22px 0 0;color:#e0e9ff}.landmark{position:absolute;transform:translate(-50%,-50%);padding:10px 17px;background:#18387eeb;border-color:#87dcec;text-align:left;box-shadow:0 6px 18px #00000033;white-space:nowrap}.landmark:before{content:'';position:absolute;left:50%;bottom:-11px;width:1px;height:10px;background:#ccffff}.landmark span{font-family:Fredoka,sans-serif;font-size:17px}.landmark small{display:block;font-size:11px;color:#c5eafa;margin-top:2px}.expedition-footer{position:absolute;bottom:28px;left:40px;right:40px;display:flex;justify-content:space-between;align-items:center;gap:22px}.expedition-footer strong{font-family:Fredoka;font-size:19px;font-weight:450;display:block}.expedition-footer span{display:block;font-size:13px;color:#e0e9ff;margin-top:5px}.arrows{display:flex;gap:6px}.arrows button{display:grid;place-items:center;width:43px;height:43px;padding:0;border-radius:14px;font-size:22px;touch-action:none}.preview{max-width:180px;text-align:right}/* The field journal is a reading layer, not another control card. */
+#guide[hidden]{display:none}
+#guide{position:fixed;inset:22px max(22px,env(safe-area-inset-right)) 22px auto;width:min(650px,calc(100% - 44px));height:calc(100vh - 44px);height:calc(100dvh - 44px);display:flex;flex-direction:column;z-index:8;color:#18367b;background:#abeff1;border-radius:90px 28px 40px 70px;box-shadow:-12px 20px 60px #00000055;overflow:hidden;padding:30px 32px 0 46px}
+body.reading{overflow:hidden}
+.reading header nav,.reading .expedition-footer,.reading #landmarks{visibility:hidden}
+.guide-top{display:flex;align-items:center;justify-content:space-between;gap:12px;flex:none}
+.guide-top h2{font:500 31px/1.1 Fredoka,sans-serif;margin:0}
+.guide-top button{display:flex;align-items:center;gap:8px;min-height:44px;background:#18367b;color:#fff9eb;border:0;padding:10px 16px}
+#guide nav{display:flex;flex-wrap:wrap;gap:6px;padding:18px 0 17px;margin:0;flex:none;border-bottom:1px solid #5ba7bc}
+#guide nav button{min-width:44px;min-height:44px;border:0;border-radius:50% 45% 48% 35%;padding:10px 14px;background:transparent;color:#18367b;font-weight:750}
+#guide nav button:hover{background:#87dce5}
+#guide nav button[aria-current=true]{background:#18367b;color:#fff9eb}
+.journal-scroll{min-height:0;overflow:auto;overscroll-behavior:contain;scrollbar-color:#18367b #abeff1;padding:24px 12px max(30px,env(safe-area-inset-bottom)) 0}
+.journal-mark{display:flex;align-items:center;gap:12px;margin:0 0 20px;color:#365791;font-family:Fredoka;font-size:18px}
+.journal-mark svg{width:92px;height:69px;stroke:#18367b;stroke-width:1.8;flex:none}
+#specimen{stroke:#18367b}
+#entry{padding-left:22px;position:relative;outline:none}
+#entry:before{content:'';position:absolute;top:3px;bottom:0;left:0;width:6px;border-left:1px solid #47889f;border-right:1px solid #47889f;border-radius:50% 20% 60% 40%}
+#entry h3{font:500 clamp(32px,3.1vw,46px)/1.08 Fredoka,sans-serif;letter-spacing:-.015em;margin:0 0 25px;text-wrap:balance}
+#entry p,#entry li{font-size:17px;line-height:1.65;margin:0 0 21px}
+#entry a{color:#18367b;font-weight:800;text-underline-offset:5px;display:inline-block;min-height:44px;padding:7px 0}
+#entry .note{font-size:16px;line-height:1.6;color:#36517e;font-style:italic;margin-top:30px}
+.disclosure{font-size:13px;line-height:1.5;padding:20px 0 0 22px;margin:28px 0 0;border-top:1px solid #5ba7bc;color:#36517e}
+#guide button:focus-visible,#guide a:focus-visible{outline:3px solid #18367b;outline-offset:3px}
+#fallback{position:absolute;top:48%;left:10%;right:10%;background:#18367b;padding:24px;border-radius:20px}@media(max-width:650px){#expedition{min-height:680px}header{left:20px;right:20px;top:21px}.identity{font-size:21px}.identity span{font-size:11px;max-width:130px}header nav{gap:7px}header nav button{padding:10px 12px;font-size:12px}#guide-open svg{display:none}.intro{top:118px;left:24px}.intro h1{font-size:45px}.intro p{font-size:15px;margin-top:16px}.landmark{padding:8px 12px}.landmark span{font-size:13px}.landmark small{font-size:11px}.expedition-footer{left:22px;right:22px;bottom:23px;display:block}.expedition-footer strong{font-size:17px}.expedition-footer span{font-size:11px;max-width:250px}.arrows{margin-top:13px}.preview{display:none!important}}@media(prefers-reduced-motion:reduce){.arrows{display:none}}
+/* Touch-sized scene controls, safe-area framing and short landscape. */
+.arrows button{width:44px;height:44px}
+.expedition-footer{pointer-events:none}.arrows{pointer-events:auto}
+header nav button{white-space:nowrap}
+header{top:max(30px,env(safe-area-inset-top));left:max(40px,env(safe-area-inset-left));right:max(40px,env(safe-area-inset-right))}
+.expedition-footer{bottom:max(28px,env(safe-area-inset-bottom))}
+@media(max-width:900px){
+ #guide{inset:auto 0 0;width:100%;height:calc(100vh - 150px);height:calc(100dvh - 150px);padding:23px max(20px,env(safe-area-inset-right)) 0 max(20px,env(safe-area-inset-left));border-radius:48px 48px 0 0;box-shadow:0 -12px 40px #10245966}
+ .reading header,.reading .intro{visibility:hidden}
+ .reading #world{transform:translateY(-45svh)}
+ .guide-top h2{font-size:28px}
+ .guide-top button{font-size:14px;padding:10px 13px}
+ #guide nav{gap:4px;padding:14px 0 12px;justify-content:space-between}
+ #guide nav button{font-size:14px;padding:10px 9px}
+ .journal-scroll{padding-top:17px;padding-right:5px}
+ .journal-mark{margin-bottom:18px;font-size:17px}
+ .journal-mark svg{width:74px;height:56px}
+ #entry{padding-left:17px}
+ #entry h3{font-size:34px}
+ #entry p,#entry li{font-size:17px}
+}
+@media(max-width:650px){
+ #expedition{min-height:680px;height:100svh}
+ header{top:max(21px,env(safe-area-inset-top));left:max(20px,env(safe-area-inset-left));right:max(20px,env(safe-area-inset-right));gap:10px}
+ header nav button{min-height:44px}
+ .expedition-footer{bottom:max(23px,env(safe-area-inset-bottom))}
+ .intro p{font-size:16px}
+}
+@media(max-width:360px){
+ header{align-items:flex-start;gap:8px}
+ header nav{flex-direction:column;gap:6px}
+ .identity{font-size:20px}
+ .intro{top:159px;left:20px}
+ .intro h1{font-size:42px}
+ .intro p br{display:none}
+ .intro p{max-width:250px}
+ #guide{height:calc(100vh - 100px);height:calc(100dvh - 100px);padding:20px 16px 0;border-radius:35px 35px 0 0}
+ .guide-top h2{font-size:25px}
+ .guide-top button{font-size:13px;padding:10px}
+ #guide nav button{padding:10px 7px;font-size:13px}
+ #entry h3{font-size:31px}
+}
+@media(max-height:500px) and (min-width:651px){
+ #expedition{height:100svh;min-height:390px}
+ header{top:16px;left:24px;right:24px}
+ .identity{font-size:22px}.identity span{font-size:12px}
+ .intro{top:100px;left:24px}.intro h1{font-size:40px}.intro p{font-size:16px;margin-top:13px}
+ .expedition-footer{bottom:16px;left:24px;right:24px}.preview{display:none!important}
+ .expedition-footer strong{font-size:17px}.expedition-footer span{font-size:12px;max-width:245px}
+ .reading #world{transform:translateX(-45vw)}
+ .landmark{padding:8px 12px}.landmark span{font-size:13px}.landmark small{font-size:11px}
+ #guide{inset:0 0 0 auto;width:70%;height:100vh;height:100dvh;border-radius:45px 0 0 45px;padding:16px max(20px,env(safe-area-inset-right)) 0 26px}
+ .guide-top h2{font-size:26px}#guide nav{padding:9px 0}.journal-mark{float:right;margin:0 0 12px 14px}.journal-mark span{display:none}
+ .journal-scroll{padding-top:20px}#entry h3{font-size:32px;padding-right:70px}
+}

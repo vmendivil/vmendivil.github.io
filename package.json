@@ -1,0 +1,13 @@
+{
+  "name": "victor-personal-site-exploration",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Portable local prototype exploration and browser verification",
+  "scripts": {
+    "preview": "python3 docs/plans/20261011_personal-site-presence/ten-prototypes/serve_preview.py --bind 127.0.0.1 --port 8788",
+    "verify:preview": "node tools/verify-preview.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0"
+  }
+}

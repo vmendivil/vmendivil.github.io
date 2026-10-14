@@ -1,0 +1,23 @@
+# Expansion independent review and bounded correction checkpoint
+
+Review batch deleg_81752228 assessed originalnew11–21 source/reference/currentcaptures and recordedtests. It didnot certifyproductionorphysicalSafari. Some19–21LANbehaviors were independently probed; parentLAN21smokeand33contactstates are separateevidence.
+
+## Ready at localcomparisonscope
+
+14 PracticeLedger;15 Wideframe;19 AfterlightFloors;21 OpenRegister: ship.
+20 FieldEditions: topology/art/content succeeded; researchproposal aubergine/coral differedfromactualblack/yellow. Parentreconciled20-direction.md tobuiltblack/yellow followingactualuser-selectedAlphamarkreference. No UI recolor orclaimuserapprovedfinishedprototype. This closesonlythepalettecontractfinding.
+
+## Named corrections, batchdeleg_ab084b92
+
+11 SignalLounge: enrichlocalillumination/windowreflections/physicalobjectvolume withinoriginalSVG, preservebroadcastgrammar.
+12 WorkInMotion: improveporcelainlight/shadowseparation; phonesneedmeaningfulsceneexcerpt/still perresponsibilitychapter, notscenery-captionwithoutscene.
+13 Threshold: boundedcohesivemineralmass/material/environmentaldepth; main/openreadingcapturesSTALEagainstfinalscene.js/JPEGs. Afterfinalfixrecapturecompletecurrentmatrix. Recapturealone isn't permission toredesigngoodopticalfolds.
+16 NightPavilion: improvelocalizedeaveocclusion/shoredepth/interiorglazinglight/treevariation inSVG; capturemissingfinalAbout+Curiosityvariants. Preservepavilionroomreadingidentity.
+17 WorkbenchOS: per-documentreadingposition saveonminimize/switch/restore; semanticcompleteAboutApproachCuriosityAvailabilityContactno-JSfallback; realdisabledJSassertions andordinaryparagraph/texturepixelcoverage.
+18 ThreadThroughNight: utilitylabelgrounds/darkmargins forochre/cyan; wholeportraitmoonclearheading; regenerateaffectedstaticfallbacks andfreshcapture. Do notaddboxesalljourneyorreplaceworldpremise.
+
+Originaltenremainaccepted/frozen, publicruntimehashguardverified97files. No cross-prototype premisecollisionrequiredreplacement. Newcurrentversionsremainliveforusercomparison whileprivate studyfixesrun; parentselectiveassemble onlyfinishednewchangedstudiesandrerunLAN/browsermatrixafterreturn. Namedfixverdicts mandatoryaftercapture;13needsfreshfullreviewovercurrentevidencebecausepriorfullreviewhadstale captures. No detectorreruns.
+
+## Limits
+
+SVGart11/16notphotoreal3D;15syntheticnotphotographic;20illustratednotreference-levelmetallicphotography. No equivalenteffectclaim. BrowseremulationnotphysicalSafari/deviceperformance. Do notcalltechnicalpassesartisticacceptance orall21productionapproved.

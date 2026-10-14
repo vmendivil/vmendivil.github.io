@@ -1,0 +1,6 @@
+# Named repair — stable landmark targeting / static environment cache
+Initial six-size attempts hit Playwright's stability wait on continuously projected labels and software-GPU startup/dispatch deadlines, then aborted before complete reading. Raw failures retained in fidelity-evidence/batch-results.json; not accepted as UI passes. Initialize camera look/zoom at its actual overview so projected landmarks do not keep drifting at rest. Cache the environment shadow map; regenerate at route arrival (moving companion/apparatus shadows are approximate between arrivals). Trusted confirmation taps use measured on-screen coordinates for moving labels, not DOM click/eval, and keep native input for journal controls. One complete six-size confirmation batch runs after these named repairs.
+
+
+### Named repair closure
+During a scenic route, projected landmark buttons hold their last on-screen coordinates so a second trusted tap cannot chase an animating target; they reproject when the explorer arrives. The selected cream landmark uses cobalt-blue caption text. Environment shadows cache at rest and refresh at arrival; moving companion shadows are approximate between stops. These are part of the named stability repair, not a new world.

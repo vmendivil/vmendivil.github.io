@@ -1,0 +1,162 @@
+[
+  {
+    "file": "contact-320.png",
+    "width": 320,
+    "height": 1550
+  },
+  {
+    "file": "contact-430.png",
+    "width": 430,
+    "height": 1328
+  },
+  {
+    "file": "contact-768.png",
+    "width": 768,
+    "height": 1212
+  },
+  {
+    "file": "contact-844.png",
+    "width": 844,
+    "height": 1180
+  },
+  {
+    "file": "contact-desktop.png",
+    "width": 1440,
+    "height": 1286
+  },
+  {
+    "file": "contact-mobile.png",
+    "width": 390,
+    "height": 1358
+  },
+  {
+    "file": "content-320.png",
+    "width": 320,
+    "height": 1726
+  },
+  {
+    "file": "content-430.png",
+    "width": 430,
+    "height": 1585
+  },
+  {
+    "file": "content-768.png",
+    "width": 768,
+    "height": 1313
+  },
+  {
+    "file": "content-844.png",
+    "width": 844,
+    "height": 1384
+  },
+  {
+    "file": "content-desktop.png",
+    "width": 1440,
+    "height": 1385
+  },
+  {
+    "file": "content-mobile.png",
+    "width": 390,
+    "height": 1585
+  },
+  {
+    "file": "desktop.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "file": "floor-1-1440.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "file": "floor-1-390.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "file": "floor-2-1440.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "file": "floor-2-390.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "file": "floor-3-1440.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "file": "floor-3-390.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "file": "floor-4-1440.png",
+    "width": 1440,
+    "height": 900
+  },
+  {
+    "file": "floor-4-390.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "file": "main-320.png",
+    "width": 320,
+    "height": 740
+  },
+  {
+    "file": "main-430.png",
+    "width": 430,
+    "height": 932
+  },
+  {
+    "file": "main-768.png",
+    "width": 768,
+    "height": 1024
+  },
+  {
+    "file": "main-844.png",
+    "width": 844,
+    "height": 390
+  },
+  {
+    "file": "mobile.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "file": "no-gpu-mobile.png",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "file": "no-script-mobile.png",
+    "width": 390,
+    "height": 1866
+  },
+  {
+    "file": "reading-1-1440.png",
+    "width": 1440,
+    "height": 1236
+  },
+  {
+    "file": "reading-1-390.png",
+    "width": 390,
+    "height": 1399
+  },
+  {
+    "file": "reading-3-1440.png",
+    "width": 1440,
+    "height": 1208
+  },
+  {
+    "file": "reading-3-390.png",
+    "width": 390,
+    "height": 1418
+  }
+]

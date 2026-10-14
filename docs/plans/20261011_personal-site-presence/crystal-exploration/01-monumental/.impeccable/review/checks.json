@@ -1,0 +1,60 @@
+{
+  "fontLoaded": true,
+  "anchorTargets": true,
+  "keyboardDisclosureOpened": false,
+  "preparedBrief": "I\u2019d like to discuss this situation:\n\nWe enter orders twice and lose track of approvals.\n\nA useful next step: clarify the current workflow, the people involved and what a workable outcome would look like.\n\nPrepared locally. Not sent.",
+  "noStorage": {
+    "local": 0,
+    "session": 0
+  },
+  "requests": [
+    {
+      "url": "http://127.0.0.1:8311/assets/portrait.png",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8311/assets/antonio.ttf",
+      "status": 200
+    }
+  ],
+  "widths": [
+    {
+      "width": 320,
+      "scroll": 320,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "scroll": 390,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "scroll": 753,
+      "overflow": false
+    },
+    {
+      "width": 1280,
+      "scroll": 1265,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "scroll": 1425,
+      "overflow": false
+    },
+    {
+      "width": 1600,
+      "scroll": 1585,
+      "overflow": false
+    }
+  ],
+  "contrast": {
+    "body": 14.067932200162042,
+    "muted": 8.71485670777547,
+    "copperBody": 5.523155880731669,
+    "action": 14.332542253883766,
+    "actionHover": 5.523155880731669
+  },
+  "keyboardDisclosureSpaceOpened": true
+}

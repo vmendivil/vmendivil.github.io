@@ -1,0 +1,57 @@
+{
+  "cta": [
+    {
+      "width": 320,
+      "height": 740,
+      "hit": true,
+      "top": 468.625,
+      "bottom": 539.71875
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "hit": true,
+      "top": 426.0625,
+      "bottom": 497.15625
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "hit": true,
+      "top": 406.421875,
+      "bottom": 477.515625
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "hit": true,
+      "top": 311,
+      "bottom": 389.84375
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "hit": true,
+      "top": 431.015625,
+      "bottom": 509.859375
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "hit": true,
+      "top": 483.1875,
+      "bottom": 562.03125
+    }
+  ],
+  "stability": {
+    "reducedCanvasUnchanged": true,
+    "portrait": 0.5,
+    "landscape": 0.5
+  },
+  "errors": [],
+  "fonts": {
+    "tenor": true,
+    "karla": true
+  },
+  "pass": true
+}

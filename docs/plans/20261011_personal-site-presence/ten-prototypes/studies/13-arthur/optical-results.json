@@ -1,0 +1,18 @@
+{
+  "lateralCamera": {
+    "first": [
+      -0.3,
+      0.3,
+      11.8
+    ],
+    "next": [
+      1.4,
+      0.62,
+      11.200000000000001
+    ]
+  },
+  "reducedMotionPaused": true,
+  "pausedPixelsStable": true,
+  "lightToggleKeepsCamera": true,
+  "readingHoverDark": true
+}

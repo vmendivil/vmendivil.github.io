@@ -1,0 +1,54 @@
+{
+  "allowlist": [
+    "index.html",
+    "style.css",
+    "main.js",
+    "experience.css",
+    "workbench-tools.js"
+  ],
+  "shippingHashes": {
+    "workbench-tools.js": "08c0f1e580f89b1dc880f04cf0c0783e708b9705f241944d809ae92898a47fb7",
+    "style.css": "ef9be43aee7c7fb640c8fdfa5d92de80cf91cf0ad884984fd341261d95964ffd",
+    "main.js": "646b125c0f7f7d64f8c2cf1e6b413500aeb326459fc6aae4665066b9e2527880",
+    "experience.css": "d795af1465a71ffbd2e05697bfb7fd1ae7d1452a6fa27f31924314178f48985a",
+    "index.html": "196fa268fc286d683bedfa8a97f253b089090f851522e6c2d2c465f8ec75e74f"
+  },
+  "priorReferenceHashAssertions": {
+    "source-observations.json": true,
+    "source-live.png": true,
+    "source-next.png": true,
+    "source-gallery.png": true
+  },
+  "evidenceHashes": {
+    "closure/390-about.png": "abbb6d90ead90cdae7090ba7fac84a5905e1befd52a3fa7467463936a9d289c3",
+    "closure/1440-launcher.png": "88d918e60376cfd3b0d14b717e2a8847f0db05f33915e05e8d9223b9dd79bc56",
+    "closure/prior-hash-check.json": "cf90974b7c3f10be733f9508bbff169bcf2cd2656f0b1ab0a52db4653d8a01ce",
+    "closure/1440-opening.png": "e27639d95a9af26d7b84b50cc59ab729accf3e03fca8ac8c4477a870058dab9a",
+    "closure/844-approach.png": "e460d257e3761c3c32136f6b6dd7259108b0caade1169961fd1689118c49abbf",
+    "closure/844-about.png": "5e54c507859fc2d29a9c8cccf8919d97cf7274188978c0043ef4b792ad2a42e7",
+    "closure/1440-curiosity.png": "7204d8160070cca2d4606aa123f9c109a2a071cea6a4850c4d3d9cdff0d3079a",
+    "closure/confirmation-results.json": "830bf74e3c70d379c163edc40069e5ca350db7c45b3a65258fc17b9284f560b4",
+    "closure/390-curiosity.png": "46211a556b0dabe5f121cf3a8439b324aabc55e78ac30efa7e9365761cd03abd",
+    "closure/1440-about.png": "7bd150cdf9cd5b7ae763e2ffbbe4d8c7f83f050daad972ded3c4df35cf7c0917",
+    "closure/native-close-diagnostic.json": "cb7fe0f7f74b5c2151ee3e344628eae856c7f57efa4dc6569265010b5f5a5ca3",
+    "closure/inspection-results.json": "b445a0fc17d76ee5b287345ccbe6d9d3eb7aea3bcb5759725aa52dd15df7d150",
+    "closure/844-curiosity.png": "0165c855fee0ad94339b57faef6c7594f4db2e1da14afbda9a0fef23961cfe2f",
+    "closure/844-contact.png": "a8811ceef7c62602e777ac7ba7d03c6df9dcd3240abbcc674246768f1650ed20",
+    "closure/390-approach.png": "b1d92a56851ee7959b9f6cd4b3b3ee92ce0b1a69de7cdff7b4f8e32e80793319",
+    "closure/844-opening.png": "a28a924d190fc55fcd49b0e3f0f9849efefc4eca2c3bbbaa7adeeb9b44d2c3ad",
+    "closure/1440-contact.png": "d53d4cba9f7b50a58d16980f6468b6fcbda30885beaf5f1be9c248ccb019d1f9",
+    "closure/844-launcher.png": "6a62e470cbb0186c53d1503f71a5760437eee502a5b1caf7001e7ed67a1816a8",
+    "closure/390-opening.png": "702d808a2c61cf525c76bae863fa7383c3b284a09bbff5870e82dd5d14f5aef2",
+    "closure/1440-approach.png": "5a2bc11355762394db78e1eae5ae8b6f595ff9bf859e84d8f025f967c1249db8",
+    "closure/390-contact.png": "20511d8a10e72263f12e01ebd463365f189d981c0f4638807c6b5afb5196d956",
+    "closure/390-launcher.png": "49d4b867276ee175654ca8723fafd1711a9ef67eef254553fa612fd99cd8e9e9",
+    "closure/videos/page@3ea311b78b01f0f71a802d3c1dca5277.webm": "b2c500e2a27a27253c77605e82819d7641a97e9de7acbcb98a04239521256bda",
+    "closure/videos/page@b716bc0226895a5ab13bc766991db48b.webm": "d747915a309a7c606230a92985b8910e073cd7ce7a63110652731ceb6a372d6d",
+    "closure/videos/page@897c3ab1fb0b795433964c1130306816.webm": "c54328a142955862da6de97407d0fb0826643d5e936203b4679bb9cf762201ec",
+    "closure/confirmation-videos/page@69239ba16981deadd4e4da36a1df09db.webm": "8d597c820dda92f0075147f10da470476f515c09e31c1d558ecc7b422388aeb7",
+    "closure/confirmation-videos/page@17ad1f36af02df4407ab5e16e98dd9fd.webm": "14e9d411c3a030d2ca264785591abfc93058af65c120f7b51cafb6de4d333395",
+    "closure/confirmation-videos/page@02c6cb858e685962489e2b309043f770.webm": "f3927d5108e59e4c1b40d5dfe8c9ec61a64d898a09b63e73fe3d5d69f5ca6b4c",
+    "closure/confirmation-videos/page@674d712931b74d71e786c29d45b364f4.webm": "7eeaa9306323bc76b2cc473baa6db0f3b914db4e0d5fa0c1dc10421877745e29"
+  },
+  "servedImageException": false
+}

@@ -1,0 +1,80 @@
+{
+  "runner": "Playwright Chromium native keyboard and touchscreen",
+  "errors": [],
+  "consoleErrors": [],
+  "failedRequests": [],
+  "desktop": {
+    "fonts": "loaded",
+    "overflow": false,
+    "visibility": "visible",
+    "renderer": "WebGL"
+  },
+  "activeDraws": 3,
+  "pausedDraws": 0,
+  "nativeTabEnter": true,
+  "pausedNavigationDraws": 1,
+  "escape": true,
+  "resumedDraws": 4,
+  "keyboardMovement": {
+    "before": {
+      "x": 0,
+      "z": 2.5
+    },
+    "after": {
+      "x": 0.42000000000000004,
+      "z": 2.5
+    }
+  },
+  "erp": "From requirement\nto reliable change.",
+  "lab": "Small machines.\nBig curiosity.",
+  "ai": "Useful ideas,\nnot magic.",
+  "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+  "backgroundVisibility": "visible",
+  "hiddenDraws": 3,
+  "hiddenCheck": "unverified: Xvfb Chromium retained visible state",
+  "visibleAgainDraws": 3,
+  "mobile": {
+    "overflow": false,
+    "fonts": "loaded",
+    "explorer": {
+      "x": 173.65256367065854,
+      "y": 485.25851565464643
+    },
+    "ai": {
+      "x": 165.09375,
+      "y": 529.28125,
+      "width": 123.1875,
+      "height": 57
+    },
+    "explorerMargin": 44.02273434535357
+  },
+  "touchGuide": true,
+  "touchMovement": {
+    "before": {
+      "x": 0,
+      "z": 2.5
+    },
+    "after": {
+      "x": 0,
+      "z": 2.5
+    }
+  },
+  "touchHold": {
+    "before": {
+      "x": 0,
+      "z": 2.5
+    },
+    "after": {
+      "x": 0.7000000000000001,
+      "z": 2.5
+    }
+  },
+  "reduced": {
+    "matches": true,
+    "paused": true,
+    "disabled": true,
+    "draws": 1
+  },
+  "reducedDrawDelta": 0,
+  "fallback": true
+}

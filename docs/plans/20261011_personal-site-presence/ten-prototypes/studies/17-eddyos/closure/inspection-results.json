@@ -1,0 +1,79 @@
+{
+  "method": "independent Chromium real input; software WebGL; no physical device",
+  "contexts": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "launcher executes actual document",
+        "launcher selection focuses reading",
+        "minimize restores actual scroll",
+        "maximize changes actual bounds"
+      ],
+      "launcherFocus": "document",
+      "passed": false,
+      "failure": "AssertionError [ERR_ASSERTION]: maximize retains actual scroll\n    at check (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:7:694)\n    at main (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:10:1168)"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "launcher executes actual document",
+        "launcher selection focuses reading",
+        "minimize restores actual scroll",
+        "about searchable real document"
+      ],
+      "launcherFocus": "document",
+      "passed": false,
+      "failure": "AssertionError [ERR_ASSERTION]: approach searchable real document\n    at check (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:7:694)\n    at main (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:11:200)"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "launcher executes actual document",
+        "launcher selection focuses reading",
+        "minimize restores actual scroll",
+        "about searchable real document"
+      ],
+      "launcherFocus": "document",
+      "passed": false,
+      "failure": "AssertionError [ERR_ASSERTION]: approach searchable real document\n    at check (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:7:694)\n    at main (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:11:200)"
+    }
+  ],
+  "failures": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "error": "maximize retains actual scroll"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "error": "approach searchable real document"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "error": "approach searchable real document"
+    }
+  ]
+}

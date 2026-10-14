@@ -1,0 +1,11 @@
+{
+  "390": {
+    "reducedMotionCanvasDifferentBetweenEveryFloor": true,
+    "actualFloorTabEnter": true
+  },
+  "1440": {
+    "reducedMotionCanvasDifferentBetweenEveryFloor": true,
+    "actualFloorTabEnter": true
+  },
+  "noGpuFallback": true
+}

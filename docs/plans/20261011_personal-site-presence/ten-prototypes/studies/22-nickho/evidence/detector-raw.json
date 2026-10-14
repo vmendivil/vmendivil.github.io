@@ -1,0 +1,63 @@
+[
+  {
+    "antipattern": "low-contrast",
+    "name": "Low contrast text",
+    "description": "Text does not meet WCAG AA contrast requirements (4.5:1 for body, 3:1 for large text). Increase the contrast between text and background.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/22-nickho/index.html",
+    "line": 0,
+    "snippet": "4.1:1 (need 4.5:1) — text #9c7600 on #fffef5"
+  },
+  {
+    "antipattern": "low-contrast",
+    "name": "Low contrast text",
+    "description": "Text does not meet WCAG AA contrast requirements (4.5:1 for body, 3:1 for large text). Increase the contrast between text and background.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/22-nickho/index.html",
+    "line": 0,
+    "snippet": "1.2:1 (need 3:1) — text #dddeda on #f3f4ec"
+  },
+  {
+    "antipattern": "cramped-padding",
+    "name": "Cramped padding",
+    "description": "Text is too close to the edge of its container. Two shapes: (1) an element with its own text where the space between the rendered text and the border box is too small for the font size, and (2) a wrapper whose children's text lands flush against a visible boundary (border, outline, or non-transparent background) with nothing to inset it. Add at least 8px (ideally 12–16px) of space inside bordered, outlined, or colored containers.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/22-nickho/index.html",
+    "line": 0,
+    "snippet": "<section> \"hero\": children flush against bg on all sides (no inset)"
+  },
+  {
+    "antipattern": "overused-font",
+    "name": "Overused font",
+    "description": "Inter, Roboto, Fraunces, Geist, Plus Jakarta Sans, and Space Grotesk are used on so many sites they no longer feel distinctive. Each new wave of AI-generated UIs converges on the same handful of faces. Choose a face that gives your interface personality.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/22-nickho/index.html",
+    "line": 0,
+    "snippet": "Primary font: arial"
+  },
+  {
+    "antipattern": "cream-palette",
+    "name": "Cream / beige palette",
+    "description": "A warm cream or beige page background has become the default \"tasteful\" AI surface, reached for by reflex. Choose a background that comes from a deliberate palette, not the safe warm off-white.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/22-nickho/index.html",
+    "line": 0,
+    "snippet": "cream/beige page background rgb(255, 254, 245)"
+  },
+  {
+    "antipattern": "repeating-stripes-gradient",
+    "name": "Repeating-gradient stripes",
+    "description": "Repeating-gradient stripes used as surface decoration are a recurring generated-UI signature. Reach for a deliberate texture or leave the surface plain.",
+    "severity": "advisory",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/22-nickho/index.html",
+    "line": 0,
+    "snippet": "repeating-gradient decorative stripes",
+    "advisory": true
+  }
+]

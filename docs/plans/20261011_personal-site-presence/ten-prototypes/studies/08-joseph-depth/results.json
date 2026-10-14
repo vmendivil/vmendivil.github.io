@@ -1,0 +1,172 @@
+{
+  "contact": {
+    "hash": "#contact",
+    "y": 3955,
+    "link": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "scene": {
+      "ready": true,
+      "webgl": true,
+      "reduced": false,
+      "paused": true,
+      "progress": 0.9974779319041615,
+      "drawCalls": 11,
+      "triangles": 209008
+    }
+  },
+  "errors": [],
+  "fonts": "loaded",
+  "resources": [
+    {
+      "url": "http://127.0.0.1:8918/style.css",
+      "status": 200,
+      "size": 300
+    },
+    {
+      "url": "http://127.0.0.1:8918/app.js",
+      "status": 200,
+      "size": 11959
+    },
+    {
+      "url": "http://127.0.0.1:8918/assets/three.module.js",
+      "status": 200,
+      "size": 300
+    },
+    {
+      "url": "http://127.0.0.1:8918/assets/karla.ttf",
+      "status": 200,
+      "size": 300
+    },
+    {
+      "url": "http://127.0.0.1:8918/assets/tenor-sans.ttf",
+      "status": 200,
+      "size": 300
+    }
+  ],
+  "mobile": {
+    "width": 390,
+    "overflow": false,
+    "scene": {
+      "ready": true,
+      "webgl": true,
+      "reduced": false,
+      "paused": true,
+      "progress": 0,
+      "drawCalls": 13,
+      "triangles": 209104
+    },
+    "fonts": "loaded"
+  },
+  "keyboardTab": "Victor MendivilSoftware developer / problem solver",
+  "keyboardEnter": {
+    "hash": "#about",
+    "y": 834,
+    "active": ""
+  },
+  "spaceResume": {
+    "pressed": "false"
+  },
+  "spacePause": {
+    "pressed": "true"
+  },
+  "mobile_about": {
+    "overflow": false,
+    "top": 10,
+    "textSize": "18px"
+  },
+  "mobile_approach": {
+    "overflow": false,
+    "top": 10,
+    "textSize": "18px"
+  },
+  "mobile_curiosities": {
+    "overflow": false,
+    "top": 9.546875,
+    "textSize": "18px"
+  },
+  "mobile_contact": {
+    "overflow": false,
+    "top": 9.546875,
+    "textSize": "18px"
+  },
+  "reducedStart": {
+    "ready": true,
+    "webgl": true,
+    "reduced": true,
+    "paused": false,
+    "progress": 0,
+    "drawCalls": 13,
+    "triangles": 209104
+  },
+  "reducedAfterScroll": {
+    "ready": true,
+    "webgl": true,
+    "reduced": true,
+    "paused": false,
+    "progress": 0,
+    "drawCalls": 13,
+    "triangles": 209104
+  },
+  "reducedControl": {
+    "disabled": true,
+    "label": "Motion reduced"
+  },
+  "captureProblem": "Earlier CDP captures timed out when a LinkedIn new tab stole foreground; bringToFront restored capture. Final top views valid; no aesthetic changes after final capture.",
+  "desktopDimensions": {
+    "width": 1440,
+    "height": 900
+  },
+  "mobileDimensions": {
+    "width": 390,
+    "height": 844
+  },
+  "touchContact": {
+    "hash": "#contact",
+    "y": 3583
+  },
+  "webglFailure": {
+    "scene": {
+      "ready": false,
+      "fallback": true
+    },
+    "bodyFallback": true,
+    "buttonDisabled": true,
+    "sections": [
+      "top",
+      "about",
+      "approach",
+      "curiosities",
+      "contact"
+    ]
+  },
+  "computedMobile": [
+    {
+      "section": "about",
+      "paddingLeft": "24px",
+      "paddingRight": "24px",
+      "bodySize": "18px"
+    },
+    {
+      "section": "approach",
+      "paddingLeft": "24px",
+      "paddingRight": "24px",
+      "bodySize": "18px"
+    },
+    {
+      "section": "curiosities",
+      "paddingLeft": "24px",
+      "paddingRight": "24px",
+      "bodySize": "18px"
+    },
+    {
+      "section": "contact",
+      "paddingLeft": "24px",
+      "paddingRight": "24px",
+      "bodySize": "18px"
+    }
+  ],
+  "computedPalette": {
+    "body": "rgb(237, 241, 223)",
+    "secondary": "rgb(182, 208, 189)",
+    "background": "rgb(7, 58, 60)"
+  }
+}

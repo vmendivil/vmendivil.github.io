@@ -1,0 +1,1195 @@
+{
+  "engine": "Existing Playwright / Chromium 1243 / software WebGL",
+  "input": "Trusted touchscreen tap, mouse wheel and keyboard input",
+  "viewports": [
+    [
+      320,
+      740
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      430,
+      932
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      768,
+      1024
+    ],
+    [
+      1440,
+      900
+    ]
+  ],
+  "checks": [
+    {
+      "name": "320x740 header targets separated",
+      "passed": true,
+      "detail": {
+        "title": {
+          "x": 0,
+          "y": 89,
+          "width": 320,
+          "height": 195.59375,
+          "top": 89,
+          "right": 320,
+          "bottom": 284.59375,
+          "left": 0
+        },
+        "stage": {
+          "x": 0,
+          "y": 284.59375,
+          "width": 320,
+          "height": 310,
+          "top": 284.59375,
+          "right": 320,
+          "bottom": 594.59375,
+          "left": 0
+        },
+        "rail": {
+          "x": 0,
+          "y": 594.59375,
+          "width": 320,
+          "height": 116,
+          "top": 594.59375,
+          "right": 320,
+          "bottom": 710.59375,
+          "left": 0
+        },
+        "header": {
+          "x": 0,
+          "y": 0,
+          "width": 320,
+          "height": 88,
+          "top": 0,
+          "right": 320,
+          "bottom": 88,
+          "left": 0
+        },
+        "name": {
+          "x": 18,
+          "y": 16.5,
+          "width": 170,
+          "height": 55,
+          "top": 16.5,
+          "right": 188,
+          "bottom": 71.5,
+          "left": 18
+        },
+        "contact": {
+          "x": 219.203125,
+          "y": 22,
+          "width": 82.796875,
+          "height": 44,
+          "top": 22,
+          "right": 302,
+          "bottom": 66,
+          "left": 219.203125
+        },
+        "pause": {
+          "x": 202,
+          "y": 629.59375,
+          "width": 100,
+          "height": 44,
+          "top": 629.59375,
+          "right": 302,
+          "bottom": 673.59375,
+          "left": 202
+        },
+        "note": {
+          "x": 18,
+          "y": 606.59375,
+          "width": 172,
+          "height": 42,
+          "top": 606.59375,
+          "right": 190,
+          "bottom": 648.59375,
+          "left": 18
+        },
+        "program": {
+          "x": 0,
+          "y": 715.59375,
+          "width": 320,
+          "height": 1016.578125,
+          "top": 715.59375,
+          "right": 320,
+          "bottom": 1732.171875,
+          "left": 0
+        },
+        "fonts": [
+          16,
+          16
+        ],
+        "heading": "Ideas on a String",
+        "intro": "A little theater of how I think, make, and stay curious."
+      }
+    },
+    {
+      "name": "320x740 pause target",
+      "passed": true
+    },
+    {
+      "name": "320x740 body >=16px",
+      "passed": true
+    },
+    {
+      "name": "320x740 separate intro / canvas / control / program",
+      "passed": true
+    },
+    {
+      "name": "320x740 word boundaries",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 0 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 0 no overflow",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 0 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 1 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 1 no overflow",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 1 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 2 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 2 no overflow",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 2 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 3 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 3 no overflow",
+      "passed": true
+    },
+    {
+      "name": "320x740 chapter 3 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "320x740 contact reachable",
+      "passed": true
+    },
+    {
+      "name": "320x740 extended leaf contact and next reachable",
+      "passed": true
+    },
+    {
+      "name": "320x740 closing cue wraps",
+      "passed": true
+    },
+    {
+      "name": "320x740 native pause activation",
+      "passed": true
+    },
+    {
+      "name": "390x844 header targets separated",
+      "passed": true,
+      "detail": {
+        "title": {
+          "x": 0,
+          "y": 89,
+          "width": 390,
+          "height": 159.296875,
+          "top": 89,
+          "right": 390,
+          "bottom": 248.296875,
+          "left": 0
+        },
+        "stage": {
+          "x": 0,
+          "y": 248.296875,
+          "width": 390,
+          "height": 310,
+          "top": 248.296875,
+          "right": 390,
+          "bottom": 558.296875,
+          "left": 0
+        },
+        "rail": {
+          "x": 0,
+          "y": 558.296875,
+          "width": 390,
+          "height": 95,
+          "top": 558.296875,
+          "right": 390,
+          "bottom": 653.296875,
+          "left": 0
+        },
+        "header": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 88,
+          "top": 0,
+          "right": 390,
+          "bottom": 88,
+          "left": 0
+        },
+        "name": {
+          "x": 24,
+          "y": 22,
+          "width": 199.453125,
+          "height": 44,
+          "top": 22,
+          "right": 223.453125,
+          "bottom": 66,
+          "left": 24
+        },
+        "contact": {
+          "x": 280.203125,
+          "y": 22,
+          "width": 85.796875,
+          "height": 44,
+          "top": 22,
+          "right": 366,
+          "bottom": 66,
+          "left": 280.203125
+        },
+        "pause": {
+          "x": 266,
+          "y": 582.796875,
+          "width": 100,
+          "height": 44,
+          "top": 582.796875,
+          "right": 366,
+          "bottom": 626.796875,
+          "left": 266
+        },
+        "note": {
+          "x": 24,
+          "y": 570.296875,
+          "width": 205,
+          "height": 21,
+          "top": 570.296875,
+          "right": 229,
+          "bottom": 591.296875,
+          "left": 24
+        },
+        "program": {
+          "x": 0,
+          "y": 658.296875,
+          "width": 390,
+          "height": 902.203125,
+          "top": 658.296875,
+          "right": 390,
+          "bottom": 1560.5,
+          "left": 0
+        },
+        "fonts": [
+          16,
+          16
+        ],
+        "heading": "Ideas on a String",
+        "intro": "A little theater of how I think, make, and stay curious."
+      }
+    },
+    {
+      "name": "390x844 pause target",
+      "passed": true
+    },
+    {
+      "name": "390x844 body >=16px",
+      "passed": true
+    },
+    {
+      "name": "390x844 separate intro / canvas / control / program",
+      "passed": true
+    },
+    {
+      "name": "390x844 word boundaries",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 0 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 0 no overflow",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 0 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 1 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 1 no overflow",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 1 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 2 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 2 no overflow",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 2 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 3 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 3 no overflow",
+      "passed": true
+    },
+    {
+      "name": "390x844 chapter 3 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "390x844 contact reachable",
+      "passed": true
+    },
+    {
+      "name": "390x844 extended leaf contact and next reachable",
+      "passed": true
+    },
+    {
+      "name": "390x844 closing cue wraps",
+      "passed": true
+    },
+    {
+      "name": "390x844 native pause activation",
+      "passed": true
+    },
+    {
+      "name": "430x932 header targets separated",
+      "passed": true,
+      "detail": {
+        "title": {
+          "x": 0,
+          "y": 89,
+          "width": 430,
+          "height": 159.296875,
+          "top": 89,
+          "right": 430,
+          "bottom": 248.296875,
+          "left": 0
+        },
+        "stage": {
+          "x": 0,
+          "y": 248.296875,
+          "width": 430,
+          "height": 310,
+          "top": 248.296875,
+          "right": 430,
+          "bottom": 558.296875,
+          "left": 0
+        },
+        "rail": {
+          "x": 0,
+          "y": 558.296875,
+          "width": 430,
+          "height": 95,
+          "top": 558.296875,
+          "right": 430,
+          "bottom": 653.296875,
+          "left": 0
+        },
+        "header": {
+          "x": 0,
+          "y": 0,
+          "width": 430,
+          "height": 88,
+          "top": 0,
+          "right": 430,
+          "bottom": 88,
+          "left": 0
+        },
+        "name": {
+          "x": 24,
+          "y": 22,
+          "width": 199.453125,
+          "height": 44,
+          "top": 22,
+          "right": 223.453125,
+          "bottom": 66,
+          "left": 24
+        },
+        "contact": {
+          "x": 320.203125,
+          "y": 22,
+          "width": 85.796875,
+          "height": 44,
+          "top": 22,
+          "right": 406,
+          "bottom": 66,
+          "left": 320.203125
+        },
+        "pause": {
+          "x": 306,
+          "y": 582.796875,
+          "width": 100,
+          "height": 44,
+          "top": 582.796875,
+          "right": 406,
+          "bottom": 626.796875,
+          "left": 306
+        },
+        "note": {
+          "x": 24,
+          "y": 570.296875,
+          "width": 205,
+          "height": 21,
+          "top": 570.296875,
+          "right": 229,
+          "bottom": 591.296875,
+          "left": 24
+        },
+        "program": {
+          "x": 0,
+          "y": 658.296875,
+          "width": 430,
+          "height": 842.0625,
+          "top": 658.296875,
+          "right": 430,
+          "bottom": 1500.359375,
+          "left": 0
+        },
+        "fonts": [
+          16,
+          16
+        ],
+        "heading": "Ideas on a String",
+        "intro": "A little theater of how I think, make, and stay curious."
+      }
+    },
+    {
+      "name": "430x932 pause target",
+      "passed": true
+    },
+    {
+      "name": "430x932 body >=16px",
+      "passed": true
+    },
+    {
+      "name": "430x932 separate intro / canvas / control / program",
+      "passed": true
+    },
+    {
+      "name": "430x932 word boundaries",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 0 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 0 no overflow",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 0 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 1 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 1 no overflow",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 1 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 2 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 2 no overflow",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 2 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 3 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 3 no overflow",
+      "passed": true
+    },
+    {
+      "name": "430x932 chapter 3 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "430x932 contact reachable",
+      "passed": true
+    },
+    {
+      "name": "430x932 extended leaf contact and next reachable",
+      "passed": true
+    },
+    {
+      "name": "430x932 closing cue wraps",
+      "passed": true
+    },
+    {
+      "name": "430x932 native pause activation",
+      "passed": true
+    },
+    {
+      "name": "844x390 header targets separated",
+      "passed": true,
+      "detail": {
+        "title": {
+          "x": 0,
+          "y": 89,
+          "width": 844,
+          "height": 128,
+          "top": 89,
+          "right": 844,
+          "bottom": 217,
+          "left": 0
+        },
+        "stage": {
+          "x": 0,
+          "y": 217,
+          "width": 844,
+          "height": 300,
+          "top": 217,
+          "right": 844,
+          "bottom": 517,
+          "left": 0
+        },
+        "rail": {
+          "x": 0,
+          "y": 517,
+          "width": 844,
+          "height": 70,
+          "top": 517,
+          "right": 844,
+          "bottom": 587,
+          "left": 0
+        },
+        "header": {
+          "x": 0,
+          "y": 0,
+          "width": 844,
+          "height": 88,
+          "top": 0,
+          "right": 844,
+          "bottom": 88,
+          "left": 0
+        },
+        "name": {
+          "x": 24,
+          "y": 22,
+          "width": 199.453125,
+          "height": 44,
+          "top": 22,
+          "right": 223.453125,
+          "bottom": 66,
+          "left": 24
+        },
+        "contact": {
+          "x": 734.203125,
+          "y": 22,
+          "width": 85.796875,
+          "height": 44,
+          "top": 22,
+          "right": 820,
+          "bottom": 66,
+          "left": 734.203125
+        },
+        "pause": {
+          "x": 720,
+          "y": 529,
+          "width": 100,
+          "height": 44,
+          "top": 529,
+          "right": 820,
+          "bottom": 573,
+          "left": 720
+        },
+        "note": {
+          "x": 24,
+          "y": 540.5,
+          "width": 200.390625,
+          "height": 21,
+          "top": 540.5,
+          "right": 224.390625,
+          "bottom": 561.5,
+          "left": 24
+        },
+        "program": {
+          "x": 0,
+          "y": 594,
+          "width": 844,
+          "height": 653.34375,
+          "top": 594,
+          "right": 844,
+          "bottom": 1247.34375,
+          "left": 0
+        },
+        "fonts": [
+          18,
+          16
+        ],
+        "heading": "Ideas on a String",
+        "intro": "A little theater of how I think, make, and stay curious."
+      }
+    },
+    {
+      "name": "844x390 pause target",
+      "passed": true
+    },
+    {
+      "name": "844x390 body >=16px",
+      "passed": true
+    },
+    {
+      "name": "844x390 separate intro / canvas / control / program",
+      "passed": true
+    },
+    {
+      "name": "844x390 word boundaries",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 0 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 0 no overflow",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 0 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 1 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 1 no overflow",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 1 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 2 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 2 no overflow",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 2 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 3 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 3 no overflow",
+      "passed": true
+    },
+    {
+      "name": "844x390 chapter 3 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "844x390 contact reachable",
+      "passed": true
+    },
+    {
+      "name": "844x390 extended leaf contact and next reachable",
+      "passed": true
+    },
+    {
+      "name": "844x390 closing cue wraps",
+      "passed": true
+    },
+    {
+      "name": "844x390 native pause activation",
+      "passed": true
+    },
+    {
+      "name": "768x1024 header targets separated",
+      "passed": true,
+      "detail": {
+        "title": {
+          "x": 0,
+          "y": 89,
+          "width": 768,
+          "height": 144.59375,
+          "top": 89,
+          "right": 768,
+          "bottom": 233.59375,
+          "left": 0
+        },
+        "stage": {
+          "x": 0,
+          "y": 233.59375,
+          "width": 768,
+          "height": 380,
+          "top": 233.59375,
+          "right": 768,
+          "bottom": 613.59375,
+          "left": 0
+        },
+        "rail": {
+          "x": 0,
+          "y": 613.59375,
+          "width": 768,
+          "height": 95,
+          "top": 613.59375,
+          "right": 768,
+          "bottom": 708.59375,
+          "left": 0
+        },
+        "header": {
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 88,
+          "top": 0,
+          "right": 768,
+          "bottom": 88,
+          "left": 0
+        },
+        "name": {
+          "x": 24,
+          "y": 22,
+          "width": 199.453125,
+          "height": 44,
+          "top": 22,
+          "right": 223.453125,
+          "bottom": 66,
+          "left": 24
+        },
+        "contact": {
+          "x": 658.203125,
+          "y": 22,
+          "width": 85.796875,
+          "height": 44,
+          "top": 22,
+          "right": 744,
+          "bottom": 66,
+          "left": 658.203125
+        },
+        "pause": {
+          "x": 644,
+          "y": 638.09375,
+          "width": 100,
+          "height": 44,
+          "top": 638.09375,
+          "right": 744,
+          "bottom": 682.09375,
+          "left": 644
+        },
+        "note": {
+          "x": 24,
+          "y": 625.59375,
+          "width": 604,
+          "height": 21,
+          "top": 625.59375,
+          "right": 628,
+          "bottom": 646.59375,
+          "left": 24
+        },
+        "program": {
+          "x": 0,
+          "y": 715.59375,
+          "width": 768,
+          "height": 657.34375,
+          "top": 715.59375,
+          "right": 768,
+          "bottom": 1372.9375,
+          "left": 0
+        },
+        "fonts": [
+          18,
+          16
+        ],
+        "heading": "Ideas on a String",
+        "intro": "A little theater of how I think, make, and stay curious."
+      }
+    },
+    {
+      "name": "768x1024 pause target",
+      "passed": true
+    },
+    {
+      "name": "768x1024 body >=16px",
+      "passed": true
+    },
+    {
+      "name": "768x1024 separate intro / canvas / control / program",
+      "passed": true
+    },
+    {
+      "name": "768x1024 word boundaries",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 0 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 0 no overflow",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 0 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 1 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 1 no overflow",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 1 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 2 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 2 no overflow",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 2 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 3 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 3 no overflow",
+      "passed": true
+    },
+    {
+      "name": "768x1024 chapter 3 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "768x1024 contact reachable",
+      "passed": true
+    },
+    {
+      "name": "768x1024 extended leaf contact and next reachable",
+      "passed": true
+    },
+    {
+      "name": "768x1024 closing cue wraps",
+      "passed": true
+    },
+    {
+      "name": "768x1024 native pause activation",
+      "passed": true
+    },
+    {
+      "name": "1440x900 header targets separated",
+      "passed": true,
+      "detail": {
+        "title": {
+          "x": 94.92182922363281,
+          "y": 130.95767211914062,
+          "width": 286.93756103515625,
+          "height": 245.80340576171875,
+          "top": 130.95767211914062,
+          "right": 381.85939025878906,
+          "bottom": 376.7610778808594,
+          "left": 94.92182922363281
+        },
+        "stage": {
+          "x": 0,
+          "y": 95,
+          "width": 1440,
+          "height": 492,
+          "top": 95,
+          "right": 1440,
+          "bottom": 587,
+          "left": 0
+        },
+        "rail": {
+          "x": 100.796875,
+          "y": 531,
+          "width": 1264.328125,
+          "height": 44,
+          "top": 531,
+          "right": 1365.125,
+          "bottom": 575,
+          "left": 100.796875
+        },
+        "header": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 94,
+          "top": 0,
+          "right": 1440,
+          "bottom": 94,
+          "left": 0
+        },
+        "name": {
+          "x": 74.875,
+          "y": 25,
+          "width": 216.078125,
+          "height": 44,
+          "top": 25,
+          "right": 290.953125,
+          "bottom": 69,
+          "left": 74.875
+        },
+        "contact": {
+          "x": 1273.328125,
+          "y": 25,
+          "width": 91.796875,
+          "height": 44,
+          "top": 25,
+          "right": 1365.125,
+          "bottom": 69,
+          "left": 1273.328125
+        },
+        "pause": {
+          "x": 1265.125,
+          "y": 531,
+          "width": 100,
+          "height": 44,
+          "top": 531,
+          "right": 1365.125,
+          "bottom": 575,
+          "left": 1265.125
+        },
+        "note": {
+          "x": 100.796875,
+          "y": 545.5,
+          "width": 186.078125,
+          "height": 15,
+          "top": 545.5,
+          "right": 286.875,
+          "bottom": 560.5,
+          "left": 100.796875
+        },
+        "program": {
+          "x": 120,
+          "y": 594,
+          "width": 1200,
+          "height": 545,
+          "top": 594,
+          "right": 1320,
+          "bottom": 1139,
+          "left": 120
+        },
+        "fonts": [
+          18,
+          16
+        ],
+        "heading": "Ideas on\na String",
+        "intro": "A little theater of how I think,\nmake, and stay curious."
+      }
+    },
+    {
+      "name": "1440x900 pause target",
+      "passed": true
+    },
+    {
+      "name": "1440x900 body >=16px",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 0 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 0 no overflow",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 0 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 1 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 1 no overflow",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 1 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 2 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 2 no overflow",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 2 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 3 rendered/current",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 3 no overflow",
+      "passed": true
+    },
+    {
+      "name": "1440x900 chapter 3 chapter controls target",
+      "passed": true
+    },
+    {
+      "name": "1440x900 contact reachable",
+      "passed": true
+    },
+    {
+      "name": "1440x900 extended leaf contact and next reachable",
+      "passed": true
+    },
+    {
+      "name": "1440x900 closing cue wraps",
+      "passed": true
+    },
+    {
+      "name": "1440x900 native pause activation",
+      "passed": true
+    },
+    {
+      "name": "Real Tab reaches identity link",
+      "passed": true
+    },
+    {
+      "name": "Real Tab reaches program link",
+      "passed": true
+    },
+    {
+      "name": "Enter navigates to program",
+      "passed": true
+    },
+    {
+      "name": "Tab reaches chapter I",
+      "passed": true
+    },
+    {
+      "name": "Enter activates making",
+      "passed": true
+    },
+    {
+      "name": "Space activates curiosity",
+      "passed": true
+    },
+    {
+      "name": "ArrowRight conversation",
+      "passed": true
+    },
+    {
+      "name": "ArrowLeft curiosity",
+      "passed": true
+    },
+    {
+      "name": "Escape pauses ambient stage",
+      "passed": true
+    },
+    {
+      "name": "Trusted desktop wheel changes chapter",
+      "passed": true,
+      "detail": {
+        "chapter": 3,
+        "scrollY": 0,
+        "hit": "<canvas data-engine=\"three.js r170\" width=\"1440\" height=\"492\" style=\"display: block;\"></canvas>",
+        "coarse": false
+      }
+    },
+    {
+      "name": "Mobile wheel scrolls document without changing chapter",
+      "passed": true
+    },
+    {
+      "name": "Reduced media / still truthful disabled control",
+      "passed": true
+    },
+    {
+      "name": "Reduced chapter visibly changes canvas and stays still",
+      "passed": true,
+      "detail": {
+        "before": "5cdd7cc0d1ff103b6a9390f76e3696e0bb5b89f3021e33b2b2df1f094aed472b",
+        "after": "3e4f40a93fad2b8385a476938627cf732f954c006ff177a4f1f7a7df6ce85d7b",
+        "stable": "3e4f40a93fad2b8385a476938627cf732f954c006ff177a4f1f7a7df6ce85d7b"
+      }
+    },
+    {
+      "name": "WebGL failure leaves readable conversation and contact",
+      "passed": true
+    },
+    {
+      "name": "No page errors or failed assets",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "passed": 139,
+  "total": 139,
+  "limits": [
+    "Chromium emulation, not physical Safari / iPhone",
+    "Historical detector not rerun",
+    "Parent visual acceptance pending"
+  ]
+}

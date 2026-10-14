@@ -1,0 +1,144 @@
+{
+  "assets": [
+    {
+      "asset": "assets/landscape.png",
+      "sha256": "36c0bfacddaeef508c42dac7ea81a3c5c076191639656f3a3c9ae36529f401e4",
+      "bytes": 251376,
+      "creator": "Original Work in Motion study / Victor Mendivil personal-site exploration",
+      "source": "Locally authored scene.js geometry; no source-site raster, model or code reuse",
+      "scene_sha256": "7efd643f322bc48d619067e06713c5dc480f8e3c7e4c40280022365732aee4c5",
+      "method": "Chromium WebGL canvas capture with self-hosted Three.js",
+      "dimensions": [
+        1440,
+        900
+      ],
+      "captured_at_utc": "2026-10-12T04:45:26.586432+00:00",
+      "illustrative": true,
+      "real_installation": false,
+      "view": {
+        "name": "hero fallback",
+        "size": 48
+      }
+    },
+    {
+      "asset": "assets/chapter-requirements.png",
+      "sha256": "08c0644ce05e467ec9bf0ba71fdf7097e831343e48c2c04c8e8c664af1b1c9ac",
+      "bytes": 161390,
+      "creator": "Original Work in Motion study / Victor Mendivil personal-site exploration",
+      "source": "Locally authored scene.js geometry; no source-site raster, model or code reuse",
+      "scene_sha256": "7efd643f322bc48d619067e06713c5dc480f8e3c7e4c40280022365732aee4c5",
+      "method": "Chromium WebGL canvas capture with self-hosted Three.js",
+      "dimensions": [
+        780,
+        900
+      ],
+      "captured_at_utc": "2026-10-12T04:45:26.587134+00:00",
+      "illustrative": true,
+      "real_installation": false,
+      "view": {
+        "name": "requirements",
+        "target": [
+          -10,
+          1,
+          -3
+        ],
+        "size": 18,
+        "width": 780,
+        "height": 900,
+        "asset": "assets/chapter-requirements.png",
+        "source": "scene.js original continuous modeled environment",
+        "method": "Chromium WebGL canvas capture, not a source-site image"
+      }
+    },
+    {
+      "asset": "assets/chapter-design.png",
+      "sha256": "6983b8201ee843867fcff1f0db3e832a762a7c9d4e96f1ef36cbe08e9324c9bc",
+      "bytes": 180012,
+      "creator": "Original Work in Motion study / Victor Mendivil personal-site exploration",
+      "source": "Locally authored scene.js geometry; no source-site raster, model or code reuse",
+      "scene_sha256": "7efd643f322bc48d619067e06713c5dc480f8e3c7e4c40280022365732aee4c5",
+      "method": "Chromium WebGL canvas capture with self-hosted Three.js",
+      "dimensions": [
+        780,
+        900
+      ],
+      "captured_at_utc": "2026-10-12T04:45:26.587576+00:00",
+      "illustrative": true,
+      "real_installation": false,
+      "view": {
+        "name": "design",
+        "target": [
+          -1,
+          1,
+          4
+        ],
+        "size": 18,
+        "width": 780,
+        "height": 900,
+        "asset": "assets/chapter-design.png",
+        "source": "scene.js original continuous modeled environment",
+        "method": "Chromium WebGL canvas capture, not a source-site image"
+      }
+    },
+    {
+      "asset": "assets/chapter-delivery.png",
+      "sha256": "740ec7942dbd2283d002709601ad21d1b5edb02419c9221dbd201d06d7e3d9b1",
+      "bytes": 198076,
+      "creator": "Original Work in Motion study / Victor Mendivil personal-site exploration",
+      "source": "Locally authored scene.js geometry; no source-site raster, model or code reuse",
+      "scene_sha256": "7efd643f322bc48d619067e06713c5dc480f8e3c7e4c40280022365732aee4c5",
+      "method": "Chromium WebGL canvas capture with self-hosted Three.js",
+      "dimensions": [
+        780,
+        900
+      ],
+      "captured_at_utc": "2026-10-12T04:45:26.587904+00:00",
+      "illustrative": true,
+      "real_installation": false,
+      "view": {
+        "name": "delivery",
+        "target": [
+          9,
+          1,
+          -3
+        ],
+        "size": 18,
+        "width": 780,
+        "height": 900,
+        "asset": "assets/chapter-delivery.png",
+        "source": "scene.js original continuous modeled environment",
+        "method": "Chromium WebGL canvas capture, not a source-site image"
+      }
+    },
+    {
+      "asset": "assets/chapter-support.png",
+      "sha256": "44e7b3c829c772af7ed44827daadbcd14f62b82eee58ae1d7dd1c1ef5ca9f30b",
+      "bytes": 181070,
+      "creator": "Original Work in Motion study / Victor Mendivil personal-site exploration",
+      "source": "Locally authored scene.js geometry; no source-site raster, model or code reuse",
+      "scene_sha256": "7efd643f322bc48d619067e06713c5dc480f8e3c7e4c40280022365732aee4c5",
+      "method": "Chromium WebGL canvas capture with self-hosted Three.js",
+      "dimensions": [
+        780,
+        900
+      ],
+      "captured_at_utc": "2026-10-12T04:45:26.588147+00:00",
+      "illustrative": true,
+      "real_installation": false,
+      "view": {
+        "name": "support",
+        "target": [
+          18,
+          1,
+          3
+        ],
+        "size": 17,
+        "width": 780,
+        "height": 900,
+        "asset": "assets/chapter-support.png",
+        "source": "scene.js original continuous modeled environment",
+        "method": "Chromium WebGL canvas capture, not a source-site image"
+      }
+    }
+  ]
+}

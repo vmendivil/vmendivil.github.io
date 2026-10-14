@@ -1,0 +1,128 @@
+{
+  "status": "passed",
+  "checks": 189,
+  "engine": "Chromium / Playwright",
+  "physicalSafari": false,
+  "viewports": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "states": [
+        "main",
+        "about",
+        "five expanded responsibilities",
+        "curiosities",
+        "contact",
+        "return"
+      ],
+      "keyboard": "actual Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap",
+      "overflow": false
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "states": [
+        "main",
+        "about",
+        "five expanded responsibilities",
+        "curiosities",
+        "contact",
+        "return"
+      ],
+      "keyboard": "actual Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap",
+      "overflow": false
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "states": [
+        "main",
+        "about",
+        "five expanded responsibilities",
+        "curiosities",
+        "contact",
+        "return"
+      ],
+      "keyboard": "actual Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap",
+      "overflow": false
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "states": [
+        "main",
+        "about",
+        "five expanded responsibilities",
+        "curiosities",
+        "contact",
+        "return"
+      ],
+      "keyboard": "actual Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap",
+      "overflow": false
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "states": [
+        "main",
+        "about",
+        "five expanded responsibilities",
+        "curiosities",
+        "contact",
+        "return"
+      ],
+      "keyboard": "actual Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap",
+      "overflow": false
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "states": [
+        "main",
+        "about",
+        "five expanded responsibilities",
+        "curiosities",
+        "contact",
+        "return"
+      ],
+      "keyboard": "actual Tab/Enter/Space/Escape",
+      "touch": "Playwright trusted touchscreen tap",
+      "overflow": false
+    }
+  ],
+  "jsDisabled": "native disclosure and contact passed",
+  "reducedMotion": "computed scroll-behavior auto at every viewport",
+  "errors": [],
+  "captures": [
+    "contact-desktop.png",
+    "contact-landscape.png",
+    "contact-mobile.png",
+    "content-desktop.png",
+    "content-landscape.png",
+    "content-mobile.png",
+    "desktop.png",
+    "inspection-board.jpg",
+    "landscape.png",
+    "long-desktop.png",
+    "long-landscape.png",
+    "long-mobile.png",
+    "mobile.png"
+  ]
+}

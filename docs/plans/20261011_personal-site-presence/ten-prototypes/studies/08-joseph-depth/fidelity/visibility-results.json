@@ -1,0 +1,359 @@
+{
+  "method": "Atomic simulated document-hidden event; not physical background tab certification",
+  "rows": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 9,
+        "renderMs": 1,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "hidden": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 9,
+        "renderMs": 1,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "resumed": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 13,
+        "renderMs": 0.3999999761581421,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 21,
+        "renderMs": 1.0999999046325684,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "hidden": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 21,
+        "renderMs": 1.0999999046325684,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "resumed": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 24,
+        "renderMs": 1.8000000715255737,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 31,
+        "renderMs": 3.100000023841858,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "hidden": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 31,
+        "renderMs": 3.100000023841858,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "resumed": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 34,
+        "renderMs": 0.20000004768371582,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 42,
+        "renderMs": 0.19999992847442627,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "hidden": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 42,
+        "renderMs": 0.19999992847442627,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "resumed": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 45,
+        "renderMs": 0.8000000715255737,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 53,
+        "renderMs": 0.2999999523162842,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "hidden": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 53,
+        "renderMs": 0.2999999523162842,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "resumed": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 56,
+        "renderMs": 2.1999999284744263,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "name": "atomic simulated visibility idle and resume",
+      "pass": true,
+      "initial": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 63,
+        "renderMs": 0.10000002384185791,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "hidden": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 63,
+        "renderMs": 0.10000002384185791,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      },
+      "resumed": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": false,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 66,
+        "renderMs": 0.8999999761581421,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    }
+  ]
+}

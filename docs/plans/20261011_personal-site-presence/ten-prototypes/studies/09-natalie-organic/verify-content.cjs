@@ -1,0 +1,43 @@
+const {chromium}=require('playwright');
+const fs=require('fs');
+(async()=>{
+ const browser=await chromium.launch({headless:true,args:['--no-sandbox','--enable-unsafe-swiftshader']});
+ const result={engine:'Playwright Chromium; emulated viewports and trusted touch input, not physical Safari',base:'http://127.0.0.1:9019/',checks:[],geometry:[],errors:[]};
+ const check=(name,value,state)=>result.checks.push({name,pass:!!value,state});
+ const ctx=await browser.newContext({viewport:{width:1440,height:900},hasTouch:true});const p=await ctx.newPage();
+ p.on('pageerror',e=>result.errors.push(e.message));p.on('console',m=>{if(m.type()==='error')result.errors.push(m.text())});p.on('response',r=>{if(r.status()>=400)result.errors.push(r.url()+': '+r.status())});
+ await p.goto(result.base);await p.waitForFunction(()=>window.galleryReady);await p.evaluate(()=>document.fonts.ready);await p.emulateMedia({reducedMotion:'reduce'});
+ for(const [width,height]of[[1440,900],[320,740],[390,844],[430,932],[844,390],[768,1024]]){
+  const state=`${width}x${height}`;await p.setViewportSize({width,height});await p.evaluate(()=>scrollTo(0,0));
+  check('document bounds',await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),state);
+  if(width===1440||width===390){await p.screenshot({path:`.impeccable/review/${width===1440?'desktop':'mobile'}.png`});await p.screenshot({path:`.impeccable/review/${width===1440?'desktop':'mobile'}-full.png`,fullPage:true});}
+  for(const index of[0,3]){
+   await p.locator(`[data-study="${index}"]`).tap();
+   const g=await p.evaluate(()=>{const rect=s=>{const r=document.querySelector(s).getBoundingClientRect();return {x:r.x,y:r.y,width:r.width,height:r.height,bottom:r.bottom,right:r.right}};return {dialog:rect('dialog'),close:rect('.close'),title:rect('#detail-title'),scroll:rect('.detail-scroll'),previous:rect('#previous'),next:rect('#next'),font:parseFloat(getComputedStyle(document.querySelector('#detail-description')).fontSize),overflow:document.querySelector('.detail-scroll').scrollWidth>document.querySelector('.detail-scroll').clientWidth,bodyLock:getComputedStyle(document.body).overflow,position:document.querySelector('#detail-position').textContent}});
+   result.geometry.push({state,index,...g});
+   check('modal bounds',g.dialog.x>=0&&g.dialog.y>=0&&g.dialog.right<=width+1&&g.dialog.bottom<=height+1,state+' study '+index);
+   check('close and paging 44px',g.close.height>=44&&g.close.width>=44&&g.previous.height>=44&&g.next.height>=44,state);
+   check('close independent of heading',g.close.bottom<=g.scroll.y+1&&g.title.y>=g.scroll.y,state);
+   check('reading 16px and no horizontal overflow',g.font>=16&&!g.overflow,state);
+   check('background locked',g.bodyLock==='hidden',state);
+   await p.locator('.detail-scroll').evaluate(e=>e.scrollTop=e.scrollHeight);
+   check('final disclosure reachable',await p.evaluate(()=>{const a=document.querySelector('.detail-copy small').getBoundingClientRect(),b=document.querySelector('.detail-scroll').getBoundingClientRect();return a.top>=b.top-1&&a.bottom<=b.bottom+1}),state+' study '+index);
+   check('close remains reachable after scroll',await p.locator('.close').isVisible(),state);
+   await p.locator('.detail-scroll').evaluate(e=>e.scrollTop=0);
+   if(index===0&&(width===1440||width===390||width===844))await p.screenshot({path:`.impeccable/review/content-${width===1440?'desktop':width===390?'mobile':'landscape'}.png`});
+   if(index===3&&(width===1440||width===390))await p.screenshot({path:`.impeccable/review/content-${width===1440?'desktop':'mobile'}-last.png`});
+   await p.locator('#next').tap();check('touch next wraps/advances',await p.locator('#detail-position').innerText()===`/ ${(index+1)%4+1} of 4`,state);
+   await p.locator('#previous').tap();check('touch previous restores study',await p.locator('dialog').getAttribute('data-specimen')===String(index),state);
+   await p.locator('.close').tap();check('touch close focus restoration',await p.evaluate(i=>!document.querySelector('dialog').open&&document.activeElement.dataset.study===String(i),index),state);
+  }
+  await p.locator('nav a[href="#about"]').tap();check('About anchor',await p.evaluate(()=>Math.abs(document.querySelector('#about').getBoundingClientRect().top)<100),state);
+  await p.locator('summary').focus();await p.keyboard.press('Enter');check('keyboard Approach disclosure',await p.locator('details').evaluate(e=>e.open),state);await p.keyboard.press('Space');check('Space closes Approach',await p.locator('details').evaluate(e=>!e.open),state);
+  await p.locator('nav a[href="#contact"]').tap();await p.locator('.contact-link').scrollIntoViewIfNeeded();check('Contact real route and disclosure',await p.locator('.contact-link').getAttribute('href')==='https://www.linkedin.com/in/vmendivilaxdeveloper'&&await p.locator('.contact small').isVisible(),state);
+  if(width===1440||width===390){await p.locator('#about').scrollIntoViewIfNeeded();await p.screenshot({path:`.impeccable/review/about-${width}.png`});await p.locator('#contact').scrollIntoViewIfNeeded();await p.screenshot({path:`.impeccable/review/contact-${width}.png`});}
+ }
+ await p.setViewportSize({width:1440,height:900});await p.goto(result.base);await p.waitForFunction(()=>window.galleryReady);await p.keyboard.press('Tab');check('real Tab skip',await p.evaluate(()=>document.activeElement.className==='skip'),'keyboard');for(let i=0;i<5;i++)await p.keyboard.press('Tab');check('Tab first art',await p.evaluate(()=>document.activeElement.dataset.study==='0'),'keyboard');await p.keyboard.press('Enter');check('Enter opens focus close',await p.evaluate(()=>document.querySelector('dialog').open&&document.activeElement.className==='close'),'keyboard');for(let i=0;i<4;i++){await p.keyboard.press('Tab');check('modal Tab contained',await p.evaluate(()=>document.querySelector('dialog').contains(document.activeElement)),'keyboard');}await p.locator('#previous').focus();await p.keyboard.press('Enter');check('keyboard previous wraps',await p.locator('dialog').getAttribute('data-specimen')==='3','keyboard');await p.locator('#next').focus();await p.keyboard.press('Space');check('keyboard Space next',await p.locator('dialog').getAttribute('data-specimen')==='0','keyboard');await p.keyboard.press('Escape');check('Escape restores opener',await p.evaluate(()=>!document.querySelector('dialog').open&&document.activeElement.dataset.study==='0'),'keyboard');await p.keyboard.press('Space');check('Space opens',await p.locator('dialog').evaluate(d=>d.open),'keyboard');await p.keyboard.press('Escape');
+ check('font ready',await p.evaluate(()=>document.fonts.check('17px Manrope')),'assets');
+ for(const [width,height]of[[320,740],[768,1024],[844,390]]){await p.setViewportSize({width,height});await p.locator('[data-study="0"]').click();await p.evaluate(()=>{const d=document.querySelector('#detail-description');d.textContent=Array(8).fill(d.textContent).join(' ')});await p.locator('.detail-scroll').focus();await p.keyboard.press('End');await p.waitForTimeout(600);check('long reading keyboard final disclosure',await p.evaluate(()=>{const a=document.querySelector('.detail-copy small').getBoundingClientRect(),b=document.querySelector('.detail-scroll').getBoundingClientRect();return a.bottom<=b.bottom+1&&a.top>=b.top}),`${width}x${height} test-only 8x description`);await p.locator('.close').focus();await p.keyboard.press('Shift+Tab');check('reverse focus wrap',await p.evaluate(()=>document.activeElement.id==='next'),'keyboard');await p.keyboard.press('Escape');}
+check('four static snapshots',await p.locator('.rendered-art').count()===4,'assets');check('reduced motion',await p.evaluate(()=>getComputedStyle(document.documentElement).scrollBehavior==='auto'),'motion');
+ const fallback=await ctx.newPage();await fallback.addInitScript(()=>{const old=HTMLCanvasElement.prototype.getContext;HTMLCanvasElement.prototype.getContext=function(t,...args){return t.includes('webgl')?null:old.call(this,t,...args)}});await fallback.goto(result.base);await fallback.waitForFunction(()=>window.galleryReady);await fallback.locator('[data-study="0"]').click();check('WebGL failure text usable',await fallback.locator('.art-unavailable').isVisible()&&(await fallback.locator('#detail-description').innerText()).length>0,'fallback');await fallback.close();await browser.close();result.total=result.checks.length;result.failed=result.checks.filter(x=>!x.pass);fs.writeFileSync('content-results.json',JSON.stringify(result,null,2));console.log(JSON.stringify({total:result.total,failed:result.failed,errors:result.errors},null,2));if(result.failed.length||result.errors.length)process.exitCode=1;
+})();

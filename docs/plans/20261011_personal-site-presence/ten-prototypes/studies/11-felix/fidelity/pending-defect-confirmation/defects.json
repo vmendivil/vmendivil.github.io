@@ -1,0 +1,497 @@
+{
+  "phase": "pending-defect-confirmation",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "states": [
+        {
+          "name": "paused-tuning",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 866.6929999725893
+              }
+            ]
+          },
+          "pass": true
+        },
+        {
+          "name": "reduced-tuning",
+          "state": {
+            "selected": "curiosity",
+            "reading": false,
+            "signalCount": 2,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": []
+          },
+          "pass": true
+        },
+        {
+          "name": "renderer-failure-controls",
+          "buttons": [
+            {
+              "id": "listen-light",
+              "disabled": true
+            },
+            {
+              "id": "receiver",
+              "disabled": true
+            },
+            {
+              "id": "ambience",
+              "disabled": true
+            }
+          ],
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 18,
+            "y": 345.484375,
+            "width": 174.671875,
+            "height": 48,
+            "top": 345.484375,
+            "right": 192.671875,
+            "bottom": 393.484375,
+            "left": 18
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "states": [
+        {
+          "name": "paused-tuning",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 799.9969999270364
+              }
+            ]
+          },
+          "pass": true
+        },
+        {
+          "name": "reduced-tuning",
+          "state": {
+            "selected": "curiosity",
+            "reading": false,
+            "signalCount": 2,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": []
+          },
+          "pass": true
+        },
+        {
+          "name": "renderer-failure-controls",
+          "buttons": [
+            {
+              "id": "listen-light",
+              "disabled": true
+            },
+            {
+              "id": "receiver",
+              "disabled": true
+            },
+            {
+              "id": "ambience",
+              "disabled": true
+            }
+          ],
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 22,
+            "y": 485.4375,
+            "width": 174.671875,
+            "height": 48,
+            "top": 485.4375,
+            "right": 196.671875,
+            "bottom": 533.4375,
+            "left": 22
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "states": [
+        {
+          "name": "paused-tuning",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 833.2970000617206
+              }
+            ]
+          },
+          "pass": true
+        },
+        {
+          "name": "reduced-tuning",
+          "state": {
+            "selected": "curiosity",
+            "reading": false,
+            "signalCount": 2,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": []
+          },
+          "pass": true
+        },
+        {
+          "name": "renderer-failure-controls",
+          "buttons": [
+            {
+              "id": "listen-light",
+              "disabled": true
+            },
+            {
+              "id": "receiver",
+              "disabled": true
+            },
+            {
+              "id": "ambience",
+              "disabled": true
+            }
+          ],
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 22,
+            "y": 573.65625,
+            "width": 174.671875,
+            "height": 48,
+            "top": 573.65625,
+            "right": 196.671875,
+            "bottom": 621.65625,
+            "left": 22
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "states": [
+        {
+          "name": "paused-tuning",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 783.3309999220073
+              }
+            ]
+          },
+          "pass": true
+        },
+        {
+          "name": "reduced-tuning",
+          "state": {
+            "selected": "curiosity",
+            "reading": false,
+            "signalCount": 2,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": []
+          },
+          "pass": true
+        },
+        {
+          "name": "renderer-failure-controls",
+          "buttons": [
+            {
+              "id": "listen-light",
+              "disabled": true
+            },
+            {
+              "id": "receiver",
+              "disabled": true
+            },
+            {
+              "id": "ambience",
+              "disabled": true
+            }
+          ],
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 261,
+            "y": 85.046875,
+            "width": 174.671875,
+            "height": 48,
+            "top": 85.046875,
+            "right": 435.671875,
+            "bottom": 133.046875,
+            "left": 261
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "states": [
+        {
+          "name": "paused-tuning",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 816.6789999991655
+              }
+            ]
+          },
+          "pass": true
+        },
+        {
+          "name": "reduced-tuning",
+          "state": {
+            "selected": "curiosity",
+            "reading": false,
+            "signalCount": 2,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": []
+          },
+          "pass": true
+        },
+        {
+          "name": "renderer-failure-controls",
+          "buttons": [
+            {
+              "id": "listen-light",
+              "disabled": true
+            },
+            {
+              "id": "receiver",
+              "disabled": true
+            },
+            {
+              "id": "ambience",
+              "disabled": true
+            }
+          ],
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 242,
+            "y": 719.5,
+            "width": 174.671875,
+            "height": 48,
+            "top": 719.5,
+            "right": 416.671875,
+            "bottom": 767.5,
+            "left": 242
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "states": [
+        {
+          "name": "paused-tuning",
+          "state": {
+            "selected": "practice",
+            "reading": false,
+            "signalCount": 1,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": [
+              {
+                "state": "paused",
+                "time": 666.7030000775903
+              }
+            ]
+          },
+          "pass": true
+        },
+        {
+          "name": "reduced-tuning",
+          "state": {
+            "selected": "curiosity",
+            "reading": false,
+            "signalCount": 2,
+            "paused": true,
+            "roomVisible": true,
+            "sceneAvailable": true,
+            "hidden": false,
+            "animations": []
+          },
+          "pass": true
+        },
+        {
+          "name": "renderer-failure-controls",
+          "buttons": [
+            {
+              "id": "listen-light",
+              "disabled": true
+            },
+            {
+              "id": "receiver",
+              "disabled": true
+            },
+            {
+              "id": "ambience",
+              "disabled": true
+            }
+          ],
+          "pass": true
+        },
+        {
+          "name": "fallback-contact",
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+          "visible": true,
+          "rect": {
+            "x": 425.1875,
+            "y": 595.375,
+            "width": 174.671875,
+            "height": 48,
+            "top": 595.375,
+            "right": 599.859375,
+            "bottom": 643.375,
+            "left": 425.1875
+          },
+          "pass": true
+        },
+        {
+          "name": "fallback-return",
+          "pass": true
+        }
+      ],
+      "errors": [],
+      "overflow": false,
+      "pass": true
+    }
+  ]
+}

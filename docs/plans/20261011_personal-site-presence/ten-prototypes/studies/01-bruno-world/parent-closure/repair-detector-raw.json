@@ -1,0 +1,100 @@
+[
+  {
+    "antipattern": "dark-glow",
+    "name": "Glowing shadow accents",
+    "description": "Colored glow shadows — a zero-offset chromatic halo (box- or text-shadow) on any background, or any colored blurred shadow on a dark background — are the default \"cool\" look of AI-generated UIs. Use neutral elevation shadows and subtle, purposeful lighting instead.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/index.html",
+    "line": 0,
+    "snippet": "Colored text-shadow glow (#163e43) on dark background"
+  },
+  {
+    "antipattern": "dark-glow",
+    "name": "Glowing shadow accents",
+    "description": "Colored glow shadows — a zero-offset chromatic halo (box- or text-shadow) on any background, or any colored blurred shadow on a dark background — are the default \"cool\" look of AI-generated UIs. Use neutral elevation shadows and subtle, purposeful lighting instead.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/index.html",
+    "line": 0,
+    "snippet": "Colored text-shadow glow (#12383b) on dark background"
+  },
+  {
+    "antipattern": "dark-glow",
+    "name": "Glowing shadow accents",
+    "description": "Colored glow shadows — a zero-offset chromatic halo (box- or text-shadow) on any background, or any colored blurred shadow on a dark background — are the default \"cool\" look of AI-generated UIs. Use neutral elevation shadows and subtle, purposeful lighting instead.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/index.html",
+    "line": 0,
+    "snippet": "Colored box-shadow glow (#092a30) on dark background"
+  },
+  {
+    "antipattern": "dark-glow",
+    "name": "Glowing shadow accents",
+    "description": "Colored glow shadows — a zero-offset chromatic halo (box- or text-shadow) on any background, or any colored blurred shadow on a dark background — are the default \"cool\" look of AI-generated UIs. Use neutral elevation shadows and subtle, purposeful lighting instead.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/index.html",
+    "line": 0,
+    "snippet": "Colored box-shadow glow (#082b35) on dark background"
+  },
+  {
+    "antipattern": "design-system-color",
+    "name": "Color outside DESIGN.md",
+    "description": "A literal color is outside the DESIGN.md palette and sidecar tonal ramps. This may be legitimate, but it should be an intentional design-system addition rather than drift.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/index.html",
+    "line": 0,
+    "snippet": "text color rgb(237, 219, 183) on span \"Explore with the rover. Or just pick a d\" is outside DESIGN.md colors",
+    "advisory": true,
+    "ignoreValue": "rgb(237, 219, 183)"
+  },
+  {
+    "antipattern": "design-system-radius",
+    "name": "Radius outside DESIGN.md",
+    "description": "A border-radius value is outside the DESIGN.md rounded scale. Use a documented radius token or update the design system if the new shape is intentional.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/index.html",
+    "line": 0,
+    "snippet": "border-radius 4px on button is outside the DESIGN.md rounded scale",
+    "advisory": true,
+    "ignoreValue": "4px"
+  },
+  {
+    "antipattern": "design-system-color",
+    "name": "Color outside DESIGN.md",
+    "description": "A literal color is outside the DESIGN.md palette and sidecar tonal ramps. This may be legitimate, but it should be an intentional design-system addition rather than drift.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/index.html",
+    "line": 0,
+    "snippet": "text color rgb(228, 214, 181) on footer \"Local exploration · not a live enquiry f\" is outside DESIGN.md colors",
+    "advisory": true,
+    "ignoreValue": "rgb(228, 214, 181)"
+  },
+  {
+    "antipattern": "design-system-font-size",
+    "name": "Font size outside DESIGN.md",
+    "description": "A literal font-size is off the type ramp documented in DESIGN.md typography. Use a documented size step or update the design system if the new step is intentional.",
+    "severity": "advisory",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/index.html",
+    "line": 13,
+    "snippet": "font-size: 18px is off the DESIGN.md type ramp",
+    "advisory": true,
+    "ignoreValue": "18px"
+  },
+  {
+    "antipattern": "dark-glow",
+    "name": "Glowing shadow accents",
+    "description": "Colored glow shadows — a zero-offset chromatic halo (box- or text-shadow) on any background, or any colored blurred shadow on a dark background — are the default \"cool\" look of AI-generated UIs. Use neutral elevation shadows and subtle, purposeful lighting instead.",
+    "severity": "warning",
+    "category": "slop",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/index.html",
+    "line": 0,
+    "snippet": "Colored text-shadow glow (#163e43) on dark page"
+  }
+]

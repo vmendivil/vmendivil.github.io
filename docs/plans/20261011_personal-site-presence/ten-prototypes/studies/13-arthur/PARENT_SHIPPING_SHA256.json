@@ -1,0 +1,88 @@
+{
+  "session": "pending-13-15",
+  "verdict": "HOLD",
+  "runtimeAllowlist": [
+    "index.html",
+    "style.css",
+    "fidelity.css",
+    "fidelity.js",
+    "scene.js",
+    "interface.js",
+    "assets/Barlow-LICENSE.txt",
+    "assets/BarlowCondensed-SemiBold.ttf",
+    "assets/contact-portrait.jpg",
+    "assets/contact-wide.jpg",
+    "assets/curiosity-portrait.jpg",
+    "assets/curiosity-wide.jpg",
+    "assets/practice-portrait.jpg",
+    "assets/practice-wide.jpg",
+    "assets/three-LICENSE.txt",
+    "assets/three.module.js",
+    "assets/threshold-portrait.jpg",
+    "assets/threshold-wide.jpg"
+  ],
+  "shippingSHA256": {
+    "index.html": "05d5312cd0dc8340af625072975e5d4df0d8e4d869f156377deee0c72a33ef52",
+    "style.css": "52a250ac786be05fc3036b91a1e97ad97280c0761070711f090cb276e8cb3df8",
+    "fidelity.css": "fb493c9bb556a65cc82d80fbeed92164d01f3745bcc9c71b967e7fe4d9e957ab",
+    "fidelity.js": "87039849dbdf6a06b70c992ee7fe2fde4fa6446ece3139885ca1380238e93beb",
+    "scene.js": "6b3a184f19da66a6bd956da91f1a2e6c4d8d0486d1a4843ff0efb28f3cd66d65",
+    "interface.js": "4369264d744aa61e0a66d5bc3c713e8014d3c9b2ec94801aa0bcf42336f0f6e0",
+    "assets/Barlow-LICENSE.txt": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+    "assets/BarlowCondensed-SemiBold.ttf": "7b619d14bc2327509a9ef32b0890f709626f7ecc9ff61191c2a4314c5499d2d9",
+    "assets/contact-portrait.jpg": "c332aaa63d3075c8695e9a862f0fd94a494b523b895191d3eb856469569cf45d",
+    "assets/contact-wide.jpg": "7d3442b08836dd7659e478aee7a8bb10ef7a38e4c15ae18b25dee3f79e15f1a1",
+    "assets/curiosity-portrait.jpg": "3b935ec423ff27cab433993310703a74c8d4a38747f905310593bcd715657427",
+    "assets/curiosity-wide.jpg": "598fed310733e8462be95a24564c500a33d710e0567331867da766b4dfb65f93",
+    "assets/practice-portrait.jpg": "e26eff5b5f2357b852b0fc9aebcec6d017a8fc4569d6cea7f99a03c9a29ebfcb",
+    "assets/practice-wide.jpg": "4a94cc004f4b1c7d49e7934f81ce372262c846770206f2baf256f010d99c1c27",
+    "assets/three-LICENSE.txt": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "assets/three.module.js": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb",
+    "assets/threshold-portrait.jpg": "4012bceda10a91b7d14901b12a00efe7e221c90750d20b4b8f6e99b9f79a5c44",
+    "assets/threshold-wide.jpg": "9252d23265ab1fe164f196a8f24df19227d4b5491fd82fc59023c0df1e720c82"
+  },
+  "changedAgainstPriorFidelity": {
+    "interface.js": {
+      "prior": "e73d7343a8d2fbc25eb50aea1a9b05d1a4d88b3ed7d40bc18c69a49d98c62b9b",
+      "current": "4369264d744aa61e0a66d5bc3c713e8014d3c9b2ec94801aa0bcf42336f0f6e0"
+    },
+    "index.html": {
+      "prior": "97f960100359482f5849f4a5151075f81a8c49004f2ca7312359a598c88c34e6",
+      "current": "05d5312cd0dc8340af625072975e5d4df0d8e4d869f156377deee0c72a33ef52"
+    },
+    "scene.js": {
+      "prior": "83b2bc0799ba44afead327d3ed48ff0ec6825730a19c2a3be4bda8ed1ec1d115",
+      "current": "6b3a184f19da66a6bd956da91f1a2e6c4d8d0486d1a4843ff0efb28f3cd66d65"
+    }
+  },
+  "sourceEvidenceSHA256": {
+    "group-a/13-arthur-landing-frame-3.png": "c51566e8d13b4f2e7034a410f8ac74765183149ccd1b0339ad61bb17684fd1ea",
+    "group-a/13-arthur-landing-frame-8.png": "5246405a5e69561af1caa0433029f66eeb1b60f7110e05b10e6e1f112fac1eaa",
+    "group-a/13-arthur-about-frame-12.png": "bc90c8ecb768b25114b47553aeec8aa8348a1e965b18a6aa80c75eed1f9b8f09",
+    "group-a/13-arthur-about-frame-20.png": "73df18eb5e3aeef0ebbbd95389e04ac3750c15216ce69e923d8e01031787c2b8"
+  },
+  "sourceEvidenceMatchesRecorded": true,
+  "freshResults": "fidelity-evidence/parent-confirmation/parent-confirmation-results.json",
+  "freshPasses": 1,
+  "freshErrors": [
+    {
+      "fatal": "page.screenshot: Timeout 60000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n\n    at capture (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/parent-verify.cjs:6:84)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/parent-verify.cjs:14:31"
+    }
+  ],
+  "freshCaptureSHA256": {},
+  "priorMatrix": {
+    "path": "fidelity-evidence/confirmation/confirmation-results.json",
+    "passed": 62,
+    "errors": [
+      {
+        "fatal": "page.screenshot: Timeout 60000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n\n    at capture (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-verify.cjs:6:84)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-verify.cjs:19:212"
+      }
+    ],
+    "interpretation": "Historical incomplete 13 desktop; not current closure"
+  },
+  "limits": [
+    "Loopback source only; parent owns runtime assembly and actual LAN/source links",
+    "No physical Safari/device or physical background-tab certification",
+    "Historical detector preserved, not rerun"
+  ]
+}

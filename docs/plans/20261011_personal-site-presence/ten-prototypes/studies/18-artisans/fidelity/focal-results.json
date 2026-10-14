@@ -1,0 +1,198 @@
+{
+  "engine": "Chromium / SwiftShader emulation",
+  "physicalDevice": false,
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "hiddenSimulationResumed": true,
+      "threeWorlds": true,
+      "readingOffscreenDraws": 0,
+      "passed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "hiddenSimulationResumed": true,
+      "threeWorlds": true,
+      "readingOffscreenDraws": 0,
+      "passed": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "hiddenSimulationResumed": true,
+      "threeWorlds": true,
+      "readingOffscreenDraws": 0,
+      "passed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "hiddenSimulationResumed": true,
+      "threeWorlds": true,
+      "readingOffscreenDraws": 0,
+      "passed": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "hiddenSimulationResumed": true,
+      "threeWorlds": true,
+      "readingOffscreenDraws": 0,
+      "passed": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "screenEvidence": "normal-motion chronological frames retained from initial captures; full-state legacy captures",
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "hiddenSimulationResumed": true,
+      "threeWorlds": true,
+      "readingOffscreenDraws": 0,
+      "passed": true
+    }
+  ],
+  "fallback": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "mode": "reduce",
+      "visibleIllumination": true,
+      "passed": true
+    },
+    {
+      "mode": "renderer-failure",
+      "passed": true
+    }
+  ],
+  "failures": []
+}

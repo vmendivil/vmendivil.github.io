@@ -1,0 +1,23 @@
+# Current verification — organic reading/mobile refinement
+`node verify-content.cjs` against loopback 9019: **171 checks passed, no console/page/HTTP errors**, raw states and geometry in `content-results.json`. Six viewports: 320×740, 390×844, 430×932, 844×390, 768×1024, 1440×900. First and last studies opened at each viewport; close/paging bounds and 44px heights, 17px body, panel/document width, final disclosure scroll reachability, body lock, touch next/previous/close and restored opener focus verified. Actual Tab, Enter, Space, Shift+Tab and Escape verified; About anchor, native Approach disclosure and Contact route exercised at every viewport. Test-only 8× descriptions at 320, tablet and landscape reached their final disclosure using keyboard End. WebGL failure remains text-browsable.
+
+Current captures: `.impeccable/review/desktop.png`, `mobile.png`, corresponding full pages, `content-desktop.png`, `content-mobile.png`, `content-landscape.png`, `content-desktop-last.png`, `content-mobile-last.png`, `about-1440.png`, `about-390.png`, `contact-1440.png`, `contact-390.png`. Before reading captures are `before-content-{1440,390}-{0,3}.png`. Two bounded final capture rounds; first exposed native focus leaving dialog at the end and Chromium tap-highlight overlays, corrected in one batch with explicit focus boundary wrapping and themed press feedback. A long-description test initially sampled End scrolling before its browser animation settled; waiting 600ms verifies the same unchanged UI. Final assertion-only rerun made no new captures.
+
+Accepted sculptural geometry, material assignments, camera, renderer and generated snapshot art are untouched. No detector rerun; original raw detector evidence and results.json describe historical batches, not current verification. Current screenshots were inspected for organic identity and readable layout; no physical Safari/iPhone, Firefox, dynamic browser chrome or hardware certification. Parent comparative acceptance remains pending. No preview/prod/root/sibling edits or commits.
+
+# Historical verification — material/icon fix batch
+## Real execution
+`node verify.cjs` ran against loopback HTTP using headless Chromium and regenerated results.json. Four original artworks rendered; all boolean checks passed and the art count was 4. No main-page console/page errors. Runtime requests are local only.
+
+Actual keyboard Tab traversal reaches the first specimen; Enter/Space open it; keyboard Enter previous and Space next change the title. Pointer next, previous wrapping, Escape and restored opener focus, modal focus containment, About navigation, approach disclosure, contact URL, reduced-motion CSS, font loading, and no horizontal overflow passed. Separate 390×844 mobile/touch context tapped open, next, previous and close, with focus restored. Blocked-WebGL text browsing remains usable.
+
+## Captures and material inspection
+Current evidence: `.impeccable/review/desktop.png` (1440×900), `mobile.png` (390×844), desktop-full.png, mobile-full.png, detail.png, mobile-detail.png. Previous same-size desktop/mobile are retained as *-before-transmission.png. Inspected desktop/mobile, desktop full page, and mobile detail together once after the fix. The first emerald sculpture now visibly reveals lighter underlying pearl forms and displaced background bands through its folded membranes; the violet spline has visible see-through segments against the authored bands. Opaque pearl cores/loops and emerald beads remain, rather than a wholesale glass recolor. All four silhouettes and the unequal staggered gallery remain intact. Mobile detail scrolls to controls below its readable explanation.
+
+## Bounded verification and issues
+One runtime fix batch, one final visual inspection. Initial verification harness used four Tabs after the skip link and reached Contact instead of the specimen; corrected the harness to five, then the complete run passed. This was a test-path error, not a UI correction. No detector rerun: `.impeccable/detector-raw.json` remains the original pre-fix output, not a post-fix clean claim.
+
+Art is deterministic runtime generation, not shipped rasters; no abandoned shipping rasters existed to delete. Exact material assignments and regeneration are in ASSET_PROVENANCE.md. Three.js screen-space transmission is not offline multi-bounce refraction; the thicker layered objects intentionally retain reflective edges. No Safari/Firefox or hardware performance benchmark. Text-only WebGL fallback remains intentional.
+
+## Disposition
+Ready for parent fix-list verdict, not independent aesthetic acceptance or production approval. No changes outside this owned study, no commits/deployment; temporary worker loopback server stopped after verification.

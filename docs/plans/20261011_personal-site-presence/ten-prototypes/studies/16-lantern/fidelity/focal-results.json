@@ -1,0 +1,209 @@
+{
+  "engine": "Chromium / SwiftShader emulation",
+  "physicalDevice": false,
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        141.06254741342238,
+        -42.05884998256143,
+        909.3686209070192,
+        606.2457472713461
+      ],
+      "end": [
+        199,
+        -59.333333333333314,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "interruptedRoomSwitch": true,
+      "reducedMotion": "immediate room framing retained",
+      "passed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        139.94098378011398,
+        -41.72444742522661,
+        911.6793801515239,
+        607.7862534343493
+      ],
+      "end": [
+        199,
+        -59.333333333333314,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "interruptedRoomSwitch": true,
+      "reducedMotion": "immediate room framing retained",
+      "passed": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        136.23246075174873,
+        -40.6187236412249,
+        919.3200557376031,
+        612.880037158402
+      ],
+      "end": [
+        199,
+        -59.333333333333314,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "interruptedRoomSwitch": true,
+      "reducedMotion": "immediate room framing retained",
+      "passed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        139.61081541467254,
+        -41.62600526601625,
+        912.3596265325842,
+        608.2397510217228
+      ],
+      "end": [
+        199,
+        -59.333333333333314,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "interruptedRoomSwitch": true,
+      "reducedMotion": "immediate room framing retained",
+      "passed": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        142.12231584937402,
+        -42.37482784118688,
+        907.1851784007872,
+        604.7901189338581
+      ],
+      "end": [
+        199,
+        -59.333333333333314,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "interruptedRoomSwitch": true,
+      "reducedMotion": "immediate room framing retained",
+      "passed": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "failed": [],
+      "mid": [
+        147.16209189504377,
+        -43.87747463537317,
+        896.8017202162415,
+        597.8678134774943
+      ],
+      "end": [
+        199,
+        -59.333333333333314,
+        790,
+        526.6666666666666
+      ],
+      "idleDraws": 0,
+      "interruptedRoomSwitch": true,
+      "reducedMotion": "immediate room framing retained",
+      "passed": true
+    }
+  ],
+  "fallback": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "mode": "noJS",
+      "passed": true
+    },
+    {
+      "mode": "reduce",
+      "passed": true
+    },
+    {
+      "mode": "renderer-failure",
+      "passed": true
+    }
+  ],
+  "failures": []
+}

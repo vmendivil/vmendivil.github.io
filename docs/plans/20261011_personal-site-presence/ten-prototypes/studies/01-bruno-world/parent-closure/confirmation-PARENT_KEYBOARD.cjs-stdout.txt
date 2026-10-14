@@ -1,0 +1,8 @@
+[
+  {
+    "name": "background visibility observation",
+    "hidden": false,
+    "certified": false
+  }
+]
+completeTab true

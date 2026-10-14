@@ -1,0 +1,70 @@
+{
+  "engine": "Chromium SwiftShader; real keyboard and trusted CDP touch; context-loss and partial-renderer injection",
+  "checks": [
+    {
+      "name": "1440 real Space toggles pause",
+      "pass": true
+    },
+    {
+      "name": "1440 Tab reaches contact",
+      "pass": true
+    },
+    {
+      "name": "1440 native contact activation",
+      "pass": true
+    },
+    {
+      "name": "1440 lost renderer truthful fallback",
+      "pass": true
+    },
+    {
+      "name": "1440 lost renderer control unavailable",
+      "pass": true
+    },
+    {
+      "name": "390 real Space toggles pause",
+      "pass": true
+    },
+    {
+      "name": "trusted touch swipe scroll",
+      "pass": true
+    },
+    {
+      "name": "390 Tab reaches contact",
+      "pass": true
+    },
+    {
+      "name": "390 native contact activation",
+      "pass": true
+    },
+    {
+      "name": "390 lost renderer truthful fallback",
+      "pass": true
+    },
+    {
+      "name": "390 lost renderer control unavailable",
+      "pass": true
+    },
+    {
+      "name": "844 real Space toggles pause",
+      "pass": true
+    },
+    {
+      "name": "844 Tab reaches contact",
+      "pass": true
+    },
+    {
+      "name": "844 native contact activation",
+      "pass": true
+    },
+    {
+      "name": "844 lost renderer truthful fallback",
+      "pass": true
+    },
+    {
+      "name": "844 lost renderer control unavailable",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

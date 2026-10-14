@@ -1,0 +1,112 @@
+{
+  "desktop": {
+    "scene": {
+      "ready": true,
+      "webgl": true,
+      "reduced": false,
+      "paused": true,
+      "progress": 0,
+      "drawCalls": 17,
+      "triangles": 209104
+    },
+    "errors": [],
+    "viewport": 1440,
+    "width": 1425,
+    "fonts": "loaded",
+    "tab": "identity",
+    "spaceResume": false,
+    "spacePause": true,
+    "enterAbout": {
+      "hash": "#about",
+      "progress": 0.2244640605296343
+    },
+    "pointerContact": {
+      "hash": "#contact",
+      "progress": 0.9974779319041615,
+      "errors": [],
+      "width": 1425
+    }
+  },
+  "mobile": {
+    "scene": {
+      "ready": true,
+      "webgl": true,
+      "reduced": false,
+      "paused": true,
+      "progress": 0.9972168104647926,
+      "drawCalls": 15,
+      "triangles": 209008
+    },
+    "errors": [],
+    "viewport": 390,
+    "width": 390,
+    "fonts": "loaded",
+    "tab": "identity",
+    "spaceResume": false,
+    "spacePause": true,
+    "enterAbout": {
+      "hash": "#about",
+      "progress": 0.0013915947676036739
+    },
+    "pointerContact": {
+      "hash": "#contact",
+      "progress": 0.9972168104647926,
+      "errors": [],
+      "width": 390
+    }
+  },
+  "reducedBefore": {
+    "scene": {
+      "ready": true,
+      "webgl": true,
+      "reduced": true,
+      "paused": false,
+      "progress": 0,
+      "drawCalls": 17,
+      "triangles": 209104
+    },
+    "disabled": true,
+    "label": "Motion reduced"
+  },
+  "reducedAfter": {
+    "scene": {
+      "ready": true,
+      "webgl": true,
+      "reduced": true,
+      "paused": false,
+      "progress": 0,
+      "drawCalls": 17,
+      "triangles": 209104
+    },
+    "errors": []
+  },
+  "fallback": {
+    "scene": {
+      "ready": false,
+      "fallback": true
+    },
+    "unavailable": true,
+    "sections": 5,
+    "disabled": true,
+    "width": 390,
+    "errors": [
+      "THREE.WebGLRenderer: Error creating WebGL context."
+    ]
+  },
+  "mobileOpening": {
+    "scene": {
+      "ready": true,
+      "webgl": true,
+      "reduced": false,
+      "paused": true,
+      "progress": 0,
+      "drawCalls": 17,
+      "triangles": 209104
+    },
+    "hash": "",
+    "scroll": 0,
+    "width": 390,
+    "viewport": 390,
+    "errors": []
+  }
+}

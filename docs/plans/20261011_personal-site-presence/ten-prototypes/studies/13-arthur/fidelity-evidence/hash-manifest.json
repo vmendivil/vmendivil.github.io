@@ -1,0 +1,17 @@
+{
+  "runtime": {
+    "fidelity.js": "87039849dbdf6a06b70c992ee7fe2fde4fa6446ece3139885ca1380238e93beb",
+    "interface.js": "e73d7343a8d2fbc25eb50aea1a9b05d1a4d88b3ed7d40bc18c69a49d98c62b9b",
+    "fidelity.css": "fb493c9bb556a65cc82d80fbeed92164d01f3745bcc9c71b967e7fe4d9e957ab",
+    "style.css": "52a250ac786be05fc3036b91a1e97ad97280c0761070711f090cb276e8cb3df8",
+    "index.html": "97f960100359482f5849f4a5151075f81a8c49004f2ca7312359a598c88c34e6",
+    "scene.js": "83b2bc0799ba44afead327d3ed48ff0ec6825730a19c2a3be4bda8ed1ec1d115"
+  },
+  "sourceEvidence": {
+    "group-a/13-arthur-landing-frame-3.png": "c51566e8d13b4f2e7034a410f8ac74765183149ccd1b0339ad61bb17684fd1ea",
+    "group-a/13-arthur-landing-frame-8.png": "5246405a5e69561af1caa0433029f66eeb1b60f7110e05b10e6e1f112fac1eaa",
+    "group-a/13-arthur-about-frame-12.png": "bc90c8ecb768b25114b47553aeec8aa8348a1e965b18a6aa80c75eed1f9b8f09",
+    "group-a/13-arthur-about-frame-20.png": "73df18eb5e3aeef0ebbbd95389e04ac3750c15216ce69e923d8e01031787c2b8"
+  },
+  "assetPolicy": "Reference media research only; existing shipping assets unchanged"
+}

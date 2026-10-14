@@ -1,0 +1,93 @@
+[
+  {
+    "name": "complete genuine Tab / Enter / Space / Escape path",
+    "pass": true,
+    "visited": [
+      "work",
+      "lab",
+      "human"
+    ],
+    "steps": [
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Victor MendivilSoftware developer · curious human",
+        "key": "home"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Say hello "
+      },
+      {
+        "tag": "CANVAS",
+        "id": "scene",
+        "text": ""
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "The workshopExplore my practice",
+        "key": "work"
+      },
+      {
+        "activated": "work",
+        "visible": true,
+        "text": "Whole archipelago\nThe workshop\n\nI like the moment a tangled requirement becomes something you can actually use.\n\nMy grou"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "The workshop",
+        "key": "work"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Pi harbour",
+        "key": "lab"
+      },
+      {
+        "activated": "lab",
+        "visible": true,
+        "text": "Whole archipelago\nPi harbour\n\nSome questions are best answered by building a little version and seeing what happens.\n\nI'"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "The workshop",
+        "key": "work"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Pi harbour",
+        "key": "lab"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "The lookout",
+        "key": "human"
+      },
+      {
+        "activated": "human",
+        "visible": true,
+        "text": "Whole archipelago\nThe lookout\n\nI'm Victor Mendivil. A software developer, problem solver, and a person who likes followi"
+      }
+    ]
+  },
+  {
+    "name": "background visibility observation",
+    "hidden": false,
+    "certified": false
+  },
+  {
+    "name": "fully offscreen narrow atlas",
+    "pass": true,
+    "delta": 0,
+    "renders": 14,
+    "worldBottom": -182,
+    "scroll": 532
+  }
+]

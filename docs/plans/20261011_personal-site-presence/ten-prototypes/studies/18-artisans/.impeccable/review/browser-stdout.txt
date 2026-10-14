@@ -1,0 +1,240 @@
+[
+  {
+    "viewport": [
+      320,
+      740
+    ],
+    "label": "narrow",
+    "checks": [
+      {
+        "id": "about",
+        "anchorTop": 110,
+        "bodyMin": 17
+      },
+      {
+        "id": "approach",
+        "anchorTop": 110.078125,
+        "bodyMin": 17
+      },
+      {
+        "id": "curiosity",
+        "anchorTop": 110.375,
+        "bodyMin": 16
+      },
+      {
+        "id": "contact",
+        "anchorTop": 109.796875,
+        "bodyMin": 17
+      },
+      {
+        "nativeJourney": "all six onward links and final return passed"
+      }
+    ],
+    "keyboard": "Tab/Space/Enter/Escape passed",
+    "touch": "trusted Playwright taps passed",
+    "errors": [],
+    "failed": [],
+    "renderers": 3
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "label": "mobile",
+    "checks": [
+      {
+        "id": "about",
+        "anchorTop": 110,
+        "bodyMin": 17
+      },
+      {
+        "id": "approach",
+        "anchorTop": 110.375,
+        "bodyMin": 17
+      },
+      {
+        "id": "curiosity",
+        "anchorTop": 109.703125,
+        "bodyMin": 16
+      },
+      {
+        "id": "contact",
+        "anchorTop": 110.015625,
+        "bodyMin": 17
+      },
+      {
+        "nativeJourney": "all six onward links and final return passed"
+      }
+    ],
+    "keyboard": "Tab/Space/Enter/Escape passed",
+    "touch": "trusted Playwright taps passed",
+    "errors": [],
+    "failed": [],
+    "renderers": 3
+  },
+  {
+    "viewport": [
+      430,
+      932
+    ],
+    "label": "wide-phone",
+    "checks": [
+      {
+        "id": "about",
+        "anchorTop": 110,
+        "bodyMin": 17
+      },
+      {
+        "id": "approach",
+        "anchorTop": 109.75,
+        "bodyMin": 17
+      },
+      {
+        "id": "curiosity",
+        "anchorTop": 109.765625,
+        "bodyMin": 16
+      },
+      {
+        "id": "contact",
+        "anchorTop": 110,
+        "bodyMin": 17
+      },
+      {
+        "nativeJourney": "all six onward links and final return passed"
+      }
+    ],
+    "keyboard": "Tab/Space/Enter/Escape passed",
+    "touch": "trusted Playwright taps passed",
+    "errors": [],
+    "failed": [],
+    "renderers": 3
+  },
+  {
+    "viewport": [
+      844,
+      390
+    ],
+    "label": "landscape",
+    "checks": [
+      {
+        "id": "about",
+        "anchorTop": 110,
+        "bodyMin": 18
+      },
+      {
+        "id": "approach",
+        "anchorTop": 110.40625,
+        "bodyMin": 18
+      },
+      {
+        "id": "curiosity",
+        "anchorTop": 109.921875,
+        "bodyMin": 17
+      },
+      {
+        "id": "contact",
+        "anchorTop": 110.0625,
+        "bodyMin": 18
+      },
+      {
+        "nativeJourney": "all six onward links and final return passed"
+      }
+    ],
+    "keyboard": "Tab/Space/Enter/Escape passed",
+    "touch": "trusted Playwright taps passed",
+    "errors": [],
+    "failed": [],
+    "renderers": 3
+  },
+  {
+    "viewport": [
+      768,
+      1024
+    ],
+    "label": "tablet",
+    "checks": [
+      {
+        "id": "about",
+        "anchorTop": 110,
+        "bodyMin": 18
+      },
+      {
+        "id": "approach",
+        "anchorTop": 109.6875,
+        "bodyMin": 18
+      },
+      {
+        "id": "curiosity",
+        "anchorTop": 109.625,
+        "bodyMin": 17
+      },
+      {
+        "id": "contact",
+        "anchorTop": 109.953125,
+        "bodyMin": 18
+      },
+      {
+        "nativeJourney": "all six onward links and final return passed"
+      }
+    ],
+    "keyboard": "Tab/Space/Enter/Escape passed",
+    "touch": "trusted Playwright taps passed",
+    "errors": [],
+    "failed": [],
+    "renderers": 3
+  },
+  {
+    "viewport": [
+      1440,
+      900
+    ],
+    "label": "desktop",
+    "checks": [
+      {
+        "id": "about",
+        "anchorTop": 110,
+        "bodyMin": 18
+      },
+      {
+        "id": "approach",
+        "anchorTop": 109.640625,
+        "bodyMin": 18
+      },
+      {
+        "id": "curiosity",
+        "anchorTop": 109.78125,
+        "bodyMin": 17
+      },
+      {
+        "id": "contact",
+        "anchorTop": 110,
+        "bodyMin": 18
+      },
+      {
+        "nativeJourney": "all six onward links and final return passed"
+      }
+    ],
+    "keyboard": "Tab/Space/Enter/Escape passed",
+    "touch": "not applicable",
+    "errors": [],
+    "failed": [],
+    "renderers": 3
+  },
+  {
+    "variant": "reduce",
+    "staticPosters": true,
+    "contentReachable": true,
+    "noRenderers": true,
+    "errors": [],
+    "failed": []
+  },
+  {
+    "variant": "webgl-disabled",
+    "staticPosters": true,
+    "contentReachable": true,
+    "noRenderers": true,
+    "errors": [],
+    "failed": []
+  }
+]

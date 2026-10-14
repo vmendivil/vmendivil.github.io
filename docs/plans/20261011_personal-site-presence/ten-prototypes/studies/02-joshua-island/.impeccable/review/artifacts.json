@@ -1,0 +1,62 @@
+{
+  "assets": {
+    "index.html": {
+      "status": 200,
+      "bytes": 2350
+    },
+    "style.css": {
+      "status": 200,
+      "bytes": 5207
+    },
+    "world.js": {
+      "status": 200,
+      "bytes": 14395
+    },
+    "assets/three.module.js": {
+      "status": 200,
+      "bytes": 1314681
+    },
+    "assets/Gloock-Regular.ttf": {
+      "status": 200,
+      "bytes": 98096
+    },
+    "assets/Figtree.ttf": {
+      "status": 200,
+      "bytes": 62712
+    },
+    "assets/favicon.svg": {
+      "status": 200,
+      "bytes": 230
+    }
+  },
+  "screenshots": {
+    "desktop-workshop.png": {
+      "dimensions": [
+        1440,
+        900
+      ],
+      "bytes": 498651
+    },
+    "mobile.png": {
+      "dimensions": [
+        390,
+        844
+      ],
+      "bytes": 113198
+    },
+    "desktop.png": {
+      "dimensions": [
+        1440,
+        900
+      ],
+      "bytes": 270194
+    },
+    "mobile-lookout.png": {
+      "dimensions": [
+        390,
+        1190
+      ],
+      "bytes": 147112
+    }
+  }
+}

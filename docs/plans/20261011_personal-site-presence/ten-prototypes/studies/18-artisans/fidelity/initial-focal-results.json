@@ -1,0 +1,119 @@
+{
+  "engine": "Chromium / SwiftShader emulation",
+  "physicalDevice": false,
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "illuminationChangedPixels": 98639,
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "hiddenSimulationResumed": true,
+      "threeWorlds": true,
+      "readingOffscreenDraws": 0,
+      "passed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "failure": "page.screenshot: Timeout 60000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n\n    at capture (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:4:751)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:7:644"
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        16,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "illuminationChangedPixels": 180840,
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "hiddenSimulationResumed": true,
+      "threeWorlds": true,
+      "readingOffscreenDraws": 0,
+      "passed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        11,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "failure": "page.screenshot: Timeout 60000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n\n    at capture (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:4:751)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/fidelity-verify.cjs:7:644"
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "errors": [],
+      "failed": [],
+      "activeDraws": [
+        13,
+        0,
+        0
+      ],
+      "pausedDraws": 0,
+      "illuminationChangedPixels": 393549,
+      "trustedTouch": "CDP native range scrub changed route",
+      "resumed": true,
+      "hiddenSimulationDraws": 0,
+      "hiddenSimulationResumed": true,
+      "threeWorlds": true,
+      "readingOffscreenDraws": 0,
+      "passed": true
+    }
+  ],
+  "fallback": [],
+  "failures": [
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "error": "page.screenshot: Timeout 60000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "error": "page.screenshot: Timeout 60000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n"
+    }
+  ]
+}

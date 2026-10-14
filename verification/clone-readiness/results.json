@@ -1,0 +1,622 @@
+{
+  "engine": "Chromium SwiftShader; viewport emulation, not physical Safari/GPU certification",
+  "scope": "All22 initial/source-link smoke; 10–12 served runtime hash readback and native Contact",
+  "results": [
+    {
+      "slug": "01-bruno-world",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "02-joshua-island",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "03-henry-workshop",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "04-bilal-theater",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "05-thibault-expedition",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "06-ameen-garden",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "07-rohit-future",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "08-joseph-depth",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "09-natalie-organic",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "10-peter-dioramas",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "11-felix",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "12-vectrfl",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "13-arthur",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "14-alex",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "15-preymaker",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "16-lantern",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "17-eddyos",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "18-artisans",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "19-rokumaruichi",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "20-alphamark",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "21-artemii",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "22-nickho",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "01-bruno-world",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "02-joshua-island",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "03-henry-workshop",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "04-bilal-theater",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "05-thibault-expedition",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "06-ameen-garden",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "07-rohit-future",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "08-joseph-depth",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "09-natalie-organic",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "10-peter-dioramas",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "11-felix",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "12-vectrfl",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "13-arthur",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "14-alex",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "15-preymaker",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "16-lantern",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "17-eddyos",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "18-artisans",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "19-rokumaruichi",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "20-alphamark",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "21-artemii",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    },
+    {
+      "slug": "22-nickho",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "normalMotion": true,
+      "sourceLink": true,
+      "overflow": false,
+      "errors": [],
+      "failed": [],
+      "brokenImages": [],
+      "pass": true
+    }
+  ]
+}

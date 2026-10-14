@@ -1,0 +1,29 @@
+{
+  "entries": 4,
+  "refs": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "all_required_keys_present": true,
+  "valid_image_count": 22,
+  "invalid_captures_removed": [
+    "15-preymaker-desktop.png",
+    "15-preymaker-work.png",
+    "16-lantern-project.png",
+    "17-eddyos-profile.png",
+    "17-eddyos-mobile.png",
+    "17-eddyos-mobile-profile.png",
+    "18-artisans-mobile.png",
+    "18-artisans-desktop.png",
+    "18-artisans-desktop-archive.jpg",
+    "18-artisans-mobile-archive.jpg",
+    "18-artisans-menu-archive.jpg",
+    "evidence-board.jpg"
+  ],
+  "screenshots_reviewed": "Each accepted capture inspected natively or in an image contact sheet; black/error/loading images rejected.",
+  "browser_session": "ref-exp-b",
+  "builds_performed": false,
+  "mobile_certification": false
+}

@@ -1,0 +1,87 @@
+{
+  "method": "independent Chromium real input; software WebGL; no physical device",
+  "contexts": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "all three renderers",
+        "visible-only normal water",
+        "paused draws stop"
+      ],
+      "passed": false,
+      "failure": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n\n    at shot (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:7:610)\n    at main (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/closure/review.cjs:13:542)"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "all three renderers",
+        "visible-only normal water",
+        "paused draws stop",
+        "start camera keyboard reversal",
+        "start trusted touch scrub",
+        "moonlight camera keyboard reversal",
+        "moonlight trusted touch scrub",
+        "threshold camera keyboard reversal",
+        "threshold trusted touch scrub",
+        "about complete reading",
+        "approach complete reading",
+        "curiosity complete reading",
+        "contact complete reading",
+        "reading offscreen water stopped",
+        "live preference change stops loop",
+        "no horizontal overflow",
+        "no page errors",
+        "no asset failures"
+      ],
+      "passed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "errors": [],
+      "httpFailures": [],
+      "checks": [
+        "all three renderers",
+        "visible-only normal water",
+        "paused draws stop",
+        "start camera keyboard reversal",
+        "start trusted touch scrub",
+        "moonlight camera keyboard reversal",
+        "moonlight trusted touch scrub",
+        "threshold camera keyboard reversal",
+        "threshold trusted touch scrub",
+        "about complete reading",
+        "approach complete reading",
+        "curiosity complete reading",
+        "contact complete reading",
+        "reading offscreen water stopped",
+        "live preference change stops loop",
+        "no horizontal overflow",
+        "no page errors",
+        "no asset failures"
+      ],
+      "passed": true
+    }
+  ],
+  "failures": [
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "error": "page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n"
+    }
+  ]
+}

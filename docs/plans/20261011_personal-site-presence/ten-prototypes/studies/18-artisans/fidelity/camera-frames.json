@@ -1,0 +1,239 @@
+{
+  "method": "Actual Chromium WebGL framebuffer capture immediately after trusted keyboard/touch controls. Normal motion preference; autonomous water explicitly paused to stabilize focal camera frames. Not generated replacement poster assets.",
+  "frames": [
+    {
+      "filename": "fidelity/camera-start-390-0.png",
+      "step": 0,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        8.35118519599929,
+        4.8,
+        20
+      ],
+      "draws": 3,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-start-390-1.png",
+      "step": 1,
+      "key": "End",
+      "illuminated": true,
+      "camera": [
+        -1.1720992313736645,
+        5.3,
+        -4
+      ],
+      "draws": 6,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-start-390-2.png",
+      "step": 2,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        8.35118519599929,
+        4.8,
+        20
+      ],
+      "draws": 9,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-moonlight-390-0.png",
+      "step": 0,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        8.351429502301837,
+        4.800175873815165,
+        19.993668542654028
+      ],
+      "draws": 2,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-moonlight-390-1.png",
+      "step": 1,
+      "key": "End",
+      "illuminated": true,
+      "camera": [
+        1.6420057951435447,
+        5.3,
+        2
+      ],
+      "draws": 5,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-moonlight-390-2.png",
+      "step": 2,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        8.351429502301837,
+        4.800175873815165,
+        19.993668542654028
+      ],
+      "draws": 8,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-threshold-390-0.png",
+      "step": 0,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        8.35118519599929,
+        6,
+        20
+      ],
+      "draws": 2,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-threshold-390-1.png",
+      "step": 1,
+      "key": "End",
+      "illuminated": true,
+      "camera": [
+        -2.9504698086936987,
+        7.4,
+        -8
+      ],
+      "draws": 5,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-threshold-390-2.png",
+      "step": 2,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        8.35118519599929,
+        6,
+        20
+      ],
+      "draws": 8,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-start-1440-0.png",
+      "step": 0,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        14.424518188117894,
+        3.7,
+        26
+      ],
+      "draws": 2,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-start-1440-1.png",
+      "step": 1,
+      "key": "End",
+      "illuminated": true,
+      "camera": [
+        3.742005795143544,
+        4.2,
+        2
+      ],
+      "draws": 5,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-start-1440-2.png",
+      "step": 2,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        14.424518188117894,
+        3.7,
+        26
+      ],
+      "draws": 8,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-moonlight-1440-0.png",
+      "step": 0,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        14.424487723027632,
+        3.700121527777778,
+        25.995625
+      ],
+      "draws": 2,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-moonlight-1440-1.png",
+      "step": 1,
+      "key": "End",
+      "illuminated": true,
+      "camera": [
+        6.450469808693699,
+        4.2,
+        8
+      ],
+      "draws": 5,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-moonlight-1440-2.png",
+      "step": 2,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        14.424487723027632,
+        3.700121527777778,
+        25.995625
+      ],
+      "draws": 8,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-threshold-1440-0.png",
+      "step": 0,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        14.424518188117894,
+        5.2,
+        26
+      ],
+      "draws": 2,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-threshold-1440-1.png",
+      "step": 1,
+      "key": "End",
+      "illuminated": true,
+      "camera": [
+        1.8579942048564555,
+        6.6,
+        -2
+      ],
+      "draws": 5,
+      "normalMotion": true
+    },
+    {
+      "filename": "fidelity/camera-threshold-1440-2.png",
+      "step": 2,
+      "key": "Home",
+      "illuminated": false,
+      "camera": [
+        14.424518188117894,
+        5.2,
+        26
+      ],
+      "draws": 8,
+      "normalMotion": true
+    }
+  ]
+}

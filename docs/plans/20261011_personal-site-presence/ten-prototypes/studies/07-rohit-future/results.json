@@ -1,0 +1,128 @@
+{
+  "phase": "content-mobile-refinement",
+  "pass": true,
+  "source": ".impeccable/review/content-results.json",
+  "viewports": [
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": true,
+        "contentInBounds": true,
+        "anchors": true,
+        "wordBoundaries": true,
+        "contactAndReturn": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": true,
+        "contentInBounds": true,
+        "anchors": true,
+        "wordBoundaries": true,
+        "contactAndReturn": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": true,
+        "contentInBounds": true,
+        "anchors": true,
+        "wordBoundaries": true,
+        "contactAndReturn": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": true,
+        "contentInBounds": true,
+        "anchors": true,
+        "wordBoundaries": true,
+        "contactAndReturn": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": true,
+        "contentInBounds": true,
+        "anchors": true,
+        "wordBoundaries": true,
+        "contactAndReturn": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": true,
+        "contentInBounds": true,
+        "anchors": true,
+        "wordBoundaries": true,
+        "contactAndReturn": true
+      }
+    }
+  ],
+  "interactions": {
+    "skip": {
+      "tabs": [
+        "Skip to the readable introduction",
+        "Skip to the readable introduction",
+        "VMVictor Mendivil",
+        "Context",
+        "Approach",
+        "Contact",
+        "Explore the archive",
+        "Pause motion"
+      ],
+      "hash": "#about"
+    },
+    "motionFocus": "motion",
+    "spacePaused": "true",
+    "pausePixelStable": true,
+    "enterResumed": "false",
+    "escapeNoTrap": true,
+    "afterMotionTab": "How I work",
+    "reduced": {
+      "matches": true,
+      "label": "Still view \u00b7 reduced motion",
+      "disabled": true,
+      "webgl": "ready"
+    },
+    "linkedin": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+  },
+  "errors": [],
+  "visualAcceptance": "pending parent comparison",
+  "detector": "historical preserved; not rerun"
+}

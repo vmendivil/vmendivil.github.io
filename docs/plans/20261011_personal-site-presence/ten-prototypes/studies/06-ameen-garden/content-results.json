@@ -1,0 +1,894 @@
+{
+  "engine": "Playwright Chromium, emulated viewports/touch; not physical Safari",
+  "viewports": [
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "geometry": {
+        "width": 320,
+        "docWidth": 320,
+        "header": {
+          "x": 0,
+          "y": 0,
+          "w": 320,
+          "h": 124.984375,
+          "bottom": 124.984375,
+          "right": 320
+        },
+        "welcome": {
+          "x": 22.390625,
+          "y": 177.59375,
+          "w": 275.1875,
+          "h": 196.734375,
+          "bottom": 374.328125,
+          "right": 297.578125
+        },
+        "controls": {
+          "x": 22.390625,
+          "y": 655,
+          "w": 275.21875,
+          "h": 63,
+          "bottom": 718,
+          "right": 297.609375
+        },
+        "garden": {
+          "x": 0,
+          "y": 0,
+          "w": 320,
+          "h": 740,
+          "bottom": 740,
+          "right": 320
+        },
+        "canvas": {
+          "x": 0,
+          "y": 0,
+          "w": 320,
+          "h": 740,
+          "bottom": 740,
+          "right": 320
+        },
+        "targets": [
+          {
+            "text": "Victor MendivilSoftware developer · problem solver",
+            "w": 192,
+            "h": 48.984375
+          },
+          {
+            "text": "Meet Victor",
+            "w": 78,
+            "h": 44
+          },
+          {
+            "text": "My practice",
+            "w": 80,
+            "h": 44
+          },
+          {
+            "text": "Say hello",
+            "w": 61,
+            "h": 44
+          },
+          {
+            "text": "Come sit by the water",
+            "w": 106.21875,
+            "h": 63
+          },
+          {
+            "text": "Still water · reduced motion",
+            "w": 155,
+            "h": 62.875
+          },
+          {
+            "text": "Find me on LinkedIn  (opens in a new tab)",
+            "w": 239,
+            "h": 48
+          },
+          {
+            "text": "Back to the garden",
+            "w": 152,
+            "h": 44
+          }
+        ],
+        "smallBody": [
+          21,
+          18,
+          17,
+          17,
+          17,
+          18,
+          18,
+          18,
+          21,
+          18,
+          18,
+          16,
+          18,
+          18
+        ],
+        "overflow": [],
+        "headings": [
+          "Good work starts with understanding.",
+          "From tangled to workable.",
+          "And beyond the day-to-day…",
+          "Something on your mind?"
+        ]
+      },
+      "anchors": [
+        {
+          "hash": "#about",
+          "top": 30
+        },
+        {
+          "hash": "#practice",
+          "top": 30.46875
+        },
+        {
+          "hash": "#contact",
+          "top": 30.359375
+        }
+      ],
+      "finalCTA": {
+        "x": 22.390625,
+        "y": 511.390625,
+        "width": 239,
+        "height": 48
+      },
+      "footer": {
+        "x": 22.390625,
+        "y": 559.390625,
+        "width": 275.21875,
+        "height": 152.875
+      },
+      "returnToGarden": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "header": {
+          "x": 0,
+          "y": 0,
+          "w": 390,
+          "h": 124.984375,
+          "bottom": 124.984375,
+          "right": 390
+        },
+        "welcome": {
+          "x": 27.296875,
+          "y": 202.546875,
+          "w": 310,
+          "h": 213.765625,
+          "bottom": 416.3125,
+          "right": 337.296875
+        },
+        "controls": {
+          "x": 27.296875,
+          "y": 759.125,
+          "w": 335.40625,
+          "h": 62.875,
+          "bottom": 822,
+          "right": 362.703125
+        },
+        "garden": {
+          "x": 0,
+          "y": 0,
+          "w": 390,
+          "h": 844,
+          "bottom": 844,
+          "right": 390
+        },
+        "canvas": {
+          "x": 0,
+          "y": 0,
+          "w": 390,
+          "h": 844,
+          "bottom": 844,
+          "right": 390
+        },
+        "targets": [
+          {
+            "text": "Victor MendivilSoftware developer · problem solver",
+            "w": 192,
+            "h": 48.984375
+          },
+          {
+            "text": "Meet Victor",
+            "w": 78,
+            "h": 44
+          },
+          {
+            "text": "My practice",
+            "w": 80,
+            "h": 44
+          },
+          {
+            "text": "Say hello",
+            "w": 61,
+            "h": 44
+          },
+          {
+            "text": "Come sit by the water",
+            "w": 165,
+            "h": 44
+          },
+          {
+            "text": "Still water · reduced motion",
+            "w": 155,
+            "h": 62.875
+          },
+          {
+            "text": "Find me on LinkedIn  (opens in a new tab)",
+            "w": 239,
+            "h": 48
+          },
+          {
+            "text": "Back to the garden",
+            "w": 152,
+            "h": 44
+          }
+        ],
+        "smallBody": [
+          21,
+          18,
+          17,
+          17,
+          17,
+          18,
+          18,
+          18,
+          21,
+          18,
+          18,
+          16,
+          18,
+          18
+        ],
+        "overflow": [],
+        "headings": [
+          "Good work starts with understanding.",
+          "From tangled to workable.",
+          "And beyond the day-to-day…",
+          "Something on your mind?"
+        ]
+      },
+      "anchors": [
+        {
+          "hash": "#about",
+          "top": 30
+        },
+        {
+          "hash": "#practice",
+          "top": 29.59375
+        },
+        {
+          "hash": "#contact",
+          "top": 59.546875
+        }
+      ],
+      "finalCTA": {
+        "x": 27.296875,
+        "y": 636.203125,
+        "width": 239,
+        "height": 48
+      },
+      "footer": {
+        "x": 27.296875,
+        "y": 684.203125,
+        "width": 335.40625,
+        "height": 131.4375
+      },
+      "returnToGarden": true
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "geometry": {
+        "width": 430,
+        "docWidth": 430,
+        "header": {
+          "x": 0,
+          "y": 0,
+          "w": 430,
+          "h": 124.984375,
+          "bottom": 124.984375,
+          "right": 430
+        },
+        "welcome": {
+          "x": 30.09375,
+          "y": 223.671875,
+          "w": 317.5,
+          "h": 224.453125,
+          "bottom": 448.125,
+          "right": 347.59375
+        },
+        "controls": {
+          "x": 30.09375,
+          "y": 847.125,
+          "w": 369.8125,
+          "h": 62.875,
+          "bottom": 910,
+          "right": 399.90625
+        },
+        "garden": {
+          "x": 0,
+          "y": 0,
+          "w": 430,
+          "h": 932,
+          "bottom": 932,
+          "right": 430
+        },
+        "canvas": {
+          "x": 0,
+          "y": 0,
+          "w": 430,
+          "h": 932,
+          "bottom": 932,
+          "right": 430
+        },
+        "targets": [
+          {
+            "text": "Victor MendivilSoftware developer · problem solver",
+            "w": 192,
+            "h": 48.984375
+          },
+          {
+            "text": "Meet Victor",
+            "w": 78,
+            "h": 44
+          },
+          {
+            "text": "My practice",
+            "w": 80,
+            "h": 44
+          },
+          {
+            "text": "Say hello",
+            "w": 61,
+            "h": 44
+          },
+          {
+            "text": "Come sit by the water",
+            "w": 165,
+            "h": 44
+          },
+          {
+            "text": "Still water · reduced motion",
+            "w": 155,
+            "h": 62.875
+          },
+          {
+            "text": "Find me on LinkedIn  (opens in a new tab)",
+            "w": 239,
+            "h": 48
+          },
+          {
+            "text": "Back to the garden",
+            "w": 152,
+            "h": 44
+          }
+        ],
+        "smallBody": [
+          21,
+          18,
+          17,
+          17,
+          17,
+          18,
+          18,
+          18,
+          21,
+          18,
+          18,
+          16,
+          18,
+          18
+        ],
+        "overflow": [],
+        "headings": [
+          "Good work starts with understanding.",
+          "From tangled to workable.",
+          "And beyond the day-to-day…",
+          "Something on your mind?"
+        ]
+      },
+      "anchors": [
+        {
+          "hash": "#about",
+          "top": 30
+        },
+        {
+          "hash": "#practice",
+          "top": 30.359375
+        },
+        {
+          "hash": "#contact",
+          "top": 206.8125
+        }
+      ],
+      "finalCTA": {
+        "x": 30.09375,
+        "y": 724.09375,
+        "width": 239,
+        "height": 48
+      },
+      "footer": {
+        "x": 30.09375,
+        "y": 772.09375,
+        "width": 369.8125,
+        "height": 131.4375
+      },
+      "returnToGarden": true
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "geometry": {
+        "width": 844,
+        "docWidth": 844,
+        "header": {
+          "x": 0,
+          "y": 0,
+          "w": 844,
+          "h": 92,
+          "bottom": 92,
+          "right": 844
+        },
+        "welcome": {
+          "x": 50.625,
+          "y": 113.09375,
+          "w": 294,
+          "h": 156.34375,
+          "bottom": 269.4375,
+          "right": 344.625
+        },
+        "controls": {
+          "x": 37.96875,
+          "y": 332,
+          "w": 768.0625,
+          "h": 44,
+          "bottom": 376,
+          "right": 806.03125
+        },
+        "garden": {
+          "x": 0,
+          "y": 0,
+          "w": 844,
+          "h": 390,
+          "bottom": 390,
+          "right": 844
+        },
+        "canvas": {
+          "x": 0,
+          "y": 0,
+          "w": 844,
+          "h": 390,
+          "bottom": 390,
+          "right": 844
+        },
+        "targets": [
+          {
+            "text": "Victor MendivilSoftware developer · problem solver",
+            "w": 192,
+            "h": 44
+          },
+          {
+            "text": "Meet Victor",
+            "w": 78,
+            "h": 44
+          },
+          {
+            "text": "My practice",
+            "w": 80,
+            "h": 44
+          },
+          {
+            "text": "Say hello",
+            "w": 61,
+            "h": 44
+          },
+          {
+            "text": "Come sit by the water",
+            "w": 184,
+            "h": 44
+          },
+          {
+            "text": "Still water · reduced motion",
+            "w": 211,
+            "h": 44
+          },
+          {
+            "text": "Find me on LinkedIn  (opens in a new tab)",
+            "w": 258,
+            "h": 48
+          },
+          {
+            "text": "Back to the garden",
+            "w": 152,
+            "h": 44
+          }
+        ],
+        "smallBody": [
+          23,
+          19,
+          16,
+          16,
+          17,
+          20,
+          20,
+          20,
+          23,
+          19,
+          19,
+          16,
+          19,
+          19
+        ],
+        "overflow": [],
+        "headings": [
+          "Good work starts\nwith understanding.",
+          "From tangled to workable.",
+          "And beyond the day-to-day…",
+          "Something on your mind?"
+        ]
+      },
+      "anchors": [
+        {
+          "hash": "#about",
+          "top": 30
+        },
+        {
+          "hash": "#practice",
+          "top": 29.875
+        },
+        {
+          "hash": "#contact",
+          "top": 30.25
+        }
+      ],
+      "finalCTA": {
+        "x": 167.953125,
+        "y": 189.5625,
+        "width": 258,
+        "height": 48
+      },
+      "footer": {
+        "x": 59.078125,
+        "y": 237.5625,
+        "width": 725.84375,
+        "height": 124
+      },
+      "returnToGarden": true
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "geometry": {
+        "width": 768,
+        "docWidth": 768,
+        "header": {
+          "x": 0,
+          "y": 0,
+          "w": 768,
+          "h": 118.59375,
+          "bottom": 118.59375,
+          "right": 768
+        },
+        "welcome": {
+          "x": 46.078125,
+          "y": 368.625,
+          "w": 351,
+          "h": 184,
+          "bottom": 552.625,
+          "right": 397.078125
+        },
+        "controls": {
+          "x": 34.546875,
+          "y": 950,
+          "w": 698.90625,
+          "h": 44,
+          "bottom": 994,
+          "right": 733.453125
+        },
+        "garden": {
+          "x": 0,
+          "y": 0,
+          "w": 768,
+          "h": 1024,
+          "bottom": 1024,
+          "right": 768
+        },
+        "canvas": {
+          "x": 0,
+          "y": 0,
+          "w": 768,
+          "h": 1024,
+          "bottom": 1024,
+          "right": 768
+        },
+        "targets": [
+          {
+            "text": "Victor MendivilSoftware developer · problem solver",
+            "w": 214,
+            "h": 54.59375
+          },
+          {
+            "text": "Meet Victor",
+            "w": 83,
+            "h": 44
+          },
+          {
+            "text": "My practice",
+            "w": 84,
+            "h": 44
+          },
+          {
+            "text": "Say hello",
+            "w": 65,
+            "h": 44
+          },
+          {
+            "text": "Come sit by the water",
+            "w": 192,
+            "h": 44
+          },
+          {
+            "text": "Still water · reduced motion",
+            "w": 211,
+            "h": 44
+          },
+          {
+            "text": "Find me on LinkedIn  (opens in a new tab)",
+            "w": 258,
+            "h": 48
+          },
+          {
+            "text": "Back to the garden",
+            "w": 152,
+            "h": 44
+          }
+        ],
+        "smallBody": [
+          23,
+          19,
+          16,
+          16,
+          17,
+          20,
+          20,
+          20,
+          23,
+          19,
+          19,
+          16,
+          19,
+          19
+        ],
+        "overflow": [],
+        "headings": [
+          "Good work starts\nwith understanding.",
+          "From tangled to workable.",
+          "And beyond the day-to-day…",
+          "Something on your mind?"
+        ]
+      },
+      "anchors": [
+        {
+          "hash": "#about",
+          "top": 30
+        },
+        {
+          "hash": "#practice",
+          "top": 29.875
+        },
+        {
+          "hash": "#contact",
+          "top": 337.25
+        }
+      ],
+      "finalCTA": {
+        "x": 152.8125,
+        "y": 824.203125,
+        "width": 258,
+        "height": 48
+      },
+      "footer": {
+        "x": 53.75,
+        "y": 872.203125,
+        "width": 660.5,
+        "height": 124
+      },
+      "returnToGarden": true
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "geometry": {
+        "width": 1440,
+        "docWidth": 1440,
+        "header": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 118.59375,
+          "bottom": 118.59375,
+          "right": 1440
+        },
+        "welcome": {
+          "x": 86.390625,
+          "y": 324,
+          "w": 437.15625,
+          "h": 247.34375,
+          "bottom": 571.34375,
+          "right": 523.546875
+        },
+        "controls": {
+          "x": 64.796875,
+          "y": 826,
+          "w": 1310.40625,
+          "h": 44,
+          "bottom": 870,
+          "right": 1375.203125
+        },
+        "garden": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 900,
+          "bottom": 900,
+          "right": 1440
+        },
+        "canvas": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 900,
+          "bottom": 900,
+          "right": 1440
+        },
+        "targets": [
+          {
+            "text": "Victor MendivilSoftware developer · problem solver",
+            "w": 214,
+            "h": 54.59375
+          },
+          {
+            "text": "Meet Victor",
+            "w": 83,
+            "h": 44
+          },
+          {
+            "text": "My practice",
+            "w": 84,
+            "h": 44
+          },
+          {
+            "text": "Say hello",
+            "w": 65,
+            "h": 44
+          },
+          {
+            "text": "Come sit by the water",
+            "w": 192,
+            "h": 44
+          },
+          {
+            "text": "Still water · reduced motion",
+            "w": 211,
+            "h": 44
+          },
+          {
+            "text": "Find me on LinkedIn  (opens in a new tab)",
+            "w": 258,
+            "h": 48
+          },
+          {
+            "text": "Back to the garden",
+            "w": 152,
+            "h": 44
+          }
+        ],
+        "smallBody": [
+          23,
+          19,
+          17,
+          17,
+          17,
+          20,
+          20,
+          20,
+          23,
+          19,
+          19,
+          16,
+          19,
+          19
+        ],
+        "overflow": [],
+        "headings": [
+          "Good work starts\nwith understanding.",
+          "From tangled to workable.",
+          "And beyond the day-to-day…",
+          "Something on your mind?"
+        ]
+      },
+      "anchors": [
+        {
+          "hash": "#about",
+          "top": 30
+        },
+        {
+          "hash": "#practice",
+          "top": 29.921875
+        },
+        {
+          "hash": "#contact",
+          "top": 142.0625
+        }
+      ],
+      "finalCTA": {
+        "x": 398,
+        "y": 699.53125,
+        "width": 258,
+        "height": 48
+      },
+      "footer": {
+        "x": 100.796875,
+        "y": 747.53125,
+        "width": 1238.40625,
+        "height": 124
+      },
+      "returnToGarden": true
+    }
+  ],
+  "errors": [],
+  "captures": [
+    "mobile.png",
+    "content-mobile.png",
+    "about-390.png",
+    "interests-390.png",
+    "contact-mobile.png",
+    "landscape.png",
+    "content-landscape.png",
+    "about-844.png",
+    "interests-844.png",
+    "desktop.png",
+    "content-desktop.png",
+    "about-1440.png",
+    "interests-1440.png"
+  ],
+  "keyboard": {
+    "tabEnterAnchor": true,
+    "spacePauseEnterResume": true
+  },
+  "reducedMotion": {
+    "matches": true,
+    "label": "Still water · reduced motion",
+    "disabled": true,
+    "scroll": "auto",
+    "frame": "23",
+    "pixelsStable": true
+  },
+  "escape": "No modal or trap; native document browsing retained",
+  "fallback": {
+    "canvasHidden": true,
+    "controlHidden": true,
+    "aboutVisible": true,
+    "forms": 0,
+    "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+  },
+  "status": "passed"
+}

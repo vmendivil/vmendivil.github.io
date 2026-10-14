@@ -1,0 +1,85 @@
+{
+  "study": "19-rokumaruichi",
+  "verdict": "HOLD",
+  "boundary": "worker-source local comparison only; parent LAN assembly still pending",
+  "runtimeAllowlist": [
+    "index.html",
+    "style.css",
+    "fidelity.css",
+    "app.js",
+    "scene.js",
+    "assets/afterlight.svg",
+    "assets/three.module.js",
+    "assets/Three-LICENSE.txt",
+    "assets/Michroma-Regular.ttf",
+    "assets/Michroma-LICENSE.txt"
+  ],
+  "shippingSHA256": {
+    "index.html": "f6aeac966f69678ad1eb0fc0e950a996afdd70f93f151b3c95ad81dabe1dbf10",
+    "style.css": "c8f116d331d61b7ce52b5ae62f17ce2629026415cd6980532398cc55b620ec82",
+    "fidelity.css": "a3314056550f06247be866d645adee4fc1c0ebf66da95f8809a907f608cbb951",
+    "app.js": "937b0c42abbe6f4abe5b88deac257320042bda7cc44ce9a4b6d61cf76f49cbe2",
+    "scene.js": "b5260c0d17ad93579ef564c2b57d64de1ed9677347f67810638bafaa2fd0edcb",
+    "assets/afterlight.svg": "26d9bbd181e4788bf014e19a45978f2588af18d5b00c99b8f47eecc4d240738c",
+    "assets/three.module.js": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb",
+    "assets/Three-LICENSE.txt": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "assets/Michroma-Regular.ttf": "b62301163788bc5b7f8fcac0b74b184e34e1827e577b499ecb724da065098f87",
+    "assets/Michroma-LICENSE.txt": "33c39ce59a45bfb0dae3280e98bdb46be59d6d68efc62d4dc5fae90a26d2f393"
+  },
+  "servedMatchesSource": true,
+  "historicalSixViewportStaleFiles": [
+    "scene.js"
+  ],
+  "freshAssertions": {
+    "passed": 166,
+    "failed": [
+      {
+        "label": "1440x900 interrupted reversal",
+        "pass": false
+      }
+    ],
+    "errors": []
+  },
+  "boundaryAssertions": {
+    "study": 19,
+    "results": [
+      {
+        "label": "context-loss floor navigation cannot restart renderer",
+        "pass": true,
+        "detail": {
+          "start": 18,
+          "end": 18
+        }
+      },
+      {
+        "label": "lost context play disabled",
+        "pass": true
+      },
+      {
+        "label": "settled animation count zero",
+        "pass": true
+      },
+      {
+        "label": "renderer failure offers truthful disabled control",
+        "pass": true,
+        "detail": "Static illustration \u2014 renderer unavailable"
+      }
+    ],
+    "errors": []
+  },
+  "coverage": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/19-rokumaruichi/fidelity/parent-confirmation/results.json",
+  "freshProof": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/19-rokumaruichi/fidelity/parent-inspection/results.json",
+  "motionProof": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/19-rokumaruichi/fidelity/parent-motion/results.json",
+  "sourceEvidenceSHA256": {
+    "fidelity/source/03-action.png": "47d93985f5e9622fb02f8a4fcdcfffc0e1ef68181fb207bef9bd85e04f85119a",
+    "fidelity/source/02-scroll.png": "a84d89d83adc77b13a6436f5695ea81fc3d7c1901f0d2e286cb3e2fd367e1bad",
+    "fidelity/source/01-opening.png": "0fa1794f4ea543e36764557b4503ac0f1bfe3d399e7aefac060d34928284a0fe",
+    "fidelity/source/observations.json": "389e14799643934993c3f78363cec264e5cf9bf3616a8352480707f5cffd978e"
+  },
+  "limits": [
+    "Chromium emulation only; no physical Safari/GPU proof",
+    "Parent owns served comparison chrome/source links and LAN validation",
+    "Original source film/commercial artwork scale not reproduced"
+  ],
+  "method": "Single-context independent review; no subagent tools exposed. Existing detector retained, explicitly no rerun."
+}

@@ -1,0 +1,132 @@
+{
+  "desktop": {
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "geometry": {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "scrollHeight": 900,
+      "hotspots": [
+        {
+          "part": "gpio",
+          "x": 701.796875,
+          "y": 281.890625,
+          "w": 126,
+          "h": 44
+        },
+        {
+          "part": "ethernet",
+          "x": 1095.390625,
+          "y": 358.546875,
+          "w": 104,
+          "h": 44
+        },
+        {
+          "part": "usb",
+          "x": 1087.1875,
+          "y": 550.203125,
+          "w": 112,
+          "h": 44
+        },
+        {
+          "part": "power",
+          "x": 374.609375,
+          "y": 736.375,
+          "w": 134,
+          "h": 44
+        }
+      ],
+      "headlineSize": "32px",
+      "footerBottom": 874,
+      "bodySize": "15px"
+    },
+    "keyboard": {
+      "tab_identity_to_gpio": true,
+      "enter_opens_gpio": true,
+      "space_opens_ethernet": true,
+      "escape_closes_returns_focus": true
+    },
+    "pointer": {
+      "gpio": "GPIO header",
+      "ethernet": "Gigabit Ethernet",
+      "usb": "USB ports",
+      "power": "USB-C power"
+    },
+    "errors": [],
+    "local_get_requests_only": true,
+    "no_forms_storage_canvas": true,
+    "font_loaded": true,
+    "capture": ".impeccable/review/desktop.png",
+    "captured_state": "Ethernet inspected"
+  },
+  "mobile": {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "geometry": {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "scrollHeight": 846,
+      "hotspots": [
+        {
+          "part": "gpio",
+          "x": 142.296875,
+          "y": 272.5625,
+          "w": 95,
+          "h": 44
+        },
+        {
+          "part": "ethernet",
+          "x": 278.6875,
+          "y": 322.21875,
+          "w": 56,
+          "h": 44
+        },
+        {
+          "part": "usb",
+          "x": 281.796875,
+          "y": 402.953125,
+          "w": 64,
+          "h": 44
+        },
+        {
+          "part": "power",
+          "x": 49.296875,
+          "y": 465.046875,
+          "w": 81,
+          "h": 44
+        }
+      ],
+      "headlineSize": "26px",
+      "footerBottom": 825.625,
+      "bodySize": "15px"
+    },
+    "keyboard": {
+      "tab_identity_to_gpio": true,
+      "enter_opens_gpio": true,
+      "space_opens_ethernet": true,
+      "escape_closes_returns_focus": true
+    },
+    "pointer": {
+      "gpio": "GPIO header",
+      "ethernet": "Gigabit Ethernet",
+      "usb": "USB ports",
+      "power": "USB-C power"
+    },
+    "errors": [],
+    "local_get_requests_only": true,
+    "no_forms_storage_canvas": true,
+    "font_loaded": true,
+    "capture": ".impeccable/review/mobile.png",
+    "captured_state": "Ethernet inspected"
+  },
+  "reduced_motion": {
+    "inspection_works": true,
+    "no_animation": true
+  }
+}

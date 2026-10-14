@@ -1,0 +1,12 @@
+{
+  "comparedTo": "currently retained public preview files (read only)",
+  "factualCopyIdentical": true,
+  "runtimeHashes": {
+    "fidelity.css": "bdb1d65424d30032393706b8882395082853ecebc09c5c8b906ecb49655260fd",
+    "style.css": "cef9deb91f27201a0f2a91c5546072ecd5dd8dd355b5c14feada63b43732c23f",
+    "main.js": "fc6fe004813a1adbf7212d3288a9ef5f8bca8b1a8a424dfce3ea4a206e4e9954",
+    "index.html": "39e0a23e59d1304d2033f9042b5c1d9cb8da977c2b32320e0df243702a550005",
+    "assets/lounge.svg": "658ef5649081804a9291b2341bbcdc2aa7f689f8797388f8f1d640367ab347d0",
+    "assets/favicon.svg": "409c89577a76e50a8e5f8dd39dc6ec423c9cba8fec66a3877dc6db1ac2a68ba9"
+  }
+}

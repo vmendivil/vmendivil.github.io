@@ -1,0 +1,495 @@
+{
+  "slug": "13-arthur",
+  "engine": "Chromium software ANGLE/SwiftShader; not physical GPU/Safari",
+  "pass": "inspection",
+  "checks": [
+    {
+      "name": "320 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "320 range keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "320 reveal high",
+      "pass": true
+    },
+    {
+      "name": "320 reveal reversal",
+      "pass": true
+    },
+    {
+      "name": "320 practice bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "320 practice final link reachable",
+      "pass": true
+    },
+    {
+      "name": "320 curiosity bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "320 curiosity final link reachable",
+      "pass": true
+    },
+    {
+      "name": "320 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "320 contact final link reachable",
+      "pass": true
+    },
+    {
+      "name": "320 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "390 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 range keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "390 reveal high",
+      "pass": true
+    },
+    {
+      "name": "390 reveal reversal",
+      "pass": true
+    },
+    {
+      "name": "trusted emulated range touch",
+      "pass": true
+    },
+    {
+      "name": "390 practice bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 practice final link reachable",
+      "pass": true
+    },
+    {
+      "name": "390 curiosity bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 curiosity final link reachable",
+      "pass": true
+    },
+    {
+      "name": "390 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "390 contact final link reachable",
+      "pass": true
+    },
+    {
+      "name": "390 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "430 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "430 range keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "430 reveal high",
+      "pass": true
+    },
+    {
+      "name": "430 reveal reversal",
+      "pass": true
+    },
+    {
+      "name": "430 practice bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "430 practice final link reachable",
+      "pass": true
+    },
+    {
+      "name": "430 curiosity bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "430 curiosity final link reachable",
+      "pass": true
+    },
+    {
+      "name": "430 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "430 contact final link reachable",
+      "pass": true
+    },
+    {
+      "name": "430 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "844 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 range keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "844 reveal high",
+      "pass": true
+    },
+    {
+      "name": "844 reveal reversal",
+      "pass": true
+    },
+    {
+      "name": "844 practice bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 practice final link reachable",
+      "pass": true
+    },
+    {
+      "name": "844 curiosity bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 curiosity final link reachable",
+      "pass": true
+    },
+    {
+      "name": "844 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scrollWidth": 844,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "844 contact final link reachable",
+      "pass": true
+    },
+    {
+      "name": "844 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "768 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 768,
+        "scrollWidth": 768,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "768 range keyboard traversal",
+      "pass": true
+    },
+    {
+      "name": "768 reveal high",
+      "pass": true
+    },
+    {
+      "name": "768 reveal reversal",
+      "pass": true
+    },
+    {
+      "name": "768 practice bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 768,
+        "scrollWidth": 768,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "768 practice final link reachable",
+      "pass": true
+    },
+    {
+      "name": "768 curiosity bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 768,
+        "scrollWidth": 768,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "768 curiosity final link reachable",
+      "pass": true
+    },
+    {
+      "name": "768 contact bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 768,
+        "scrollWidth": 768,
+        "bodyText": "17px",
+        "broken": []
+      }
+    },
+    {
+      "name": "768 contact final link reachable",
+      "pass": true
+    },
+    {
+      "name": "768 genuine contact",
+      "pass": true
+    },
+    {
+      "name": "1440 opening bounds/assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "bodyText": "17px",
+        "broken": []
+      }
+    }
+  ],
+  "captures": [
+    {
+      "name": "320-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/320-main.png",
+      "sha256": "68d2b9e680c8f86051089b9523cb8e1076890d9b82550f82cf11798c11fdfdb3"
+    },
+    {
+      "name": "320-reveal",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/320-reveal.png",
+      "sha256": "b9ea382dee5a1271c17fc86817424610a805532c9f3238700fc954a01b102ba9"
+    },
+    {
+      "name": "320-practice-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/320-practice-reading.png",
+      "sha256": "22ac99b94f83520f2a049dd848b797ad66b5c6fd3d45ab861e383a4f5f16ac37"
+    },
+    {
+      "name": "320-curiosity-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/320-curiosity-reading.png",
+      "sha256": "ecc85394a71e2470c26db980bcb3950b27d31be75d7a9fa9568f39d64df97c08"
+    },
+    {
+      "name": "320-contact-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/320-contact-reading.png",
+      "sha256": "f0ae74126d4d72ebd99b4a1735a836c666bc63a748963becb68a301d32cd1404"
+    },
+    {
+      "name": "390-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/390-main.png",
+      "sha256": "0e0d60b74e001ccba26839fbce24f9a030c96b92e5492c99ab26bc578001f722"
+    },
+    {
+      "name": "390-reveal",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/390-reveal.png",
+      "sha256": "c0d16cbd3ef0d42d2605bd618660524198b12a09e06f0fde377006c673bc39e7"
+    },
+    {
+      "name": "390-practice-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/390-practice-reading.png",
+      "sha256": "8ee3180c7eded468467d8b3946a8c73abff9f43c643c96c6f8818104b5f0085d"
+    },
+    {
+      "name": "390-curiosity-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/390-curiosity-reading.png",
+      "sha256": "855ebbb3e06fffe3c16f9b2290ab9d742821bddcb2468e2b67b6b66d9b4a6772"
+    },
+    {
+      "name": "390-contact-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/390-contact-reading.png",
+      "sha256": "8cee852adffb075f5211d711bd4b29b85e744206183c9324c53e9ccfa7df5e3a"
+    },
+    {
+      "name": "430-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/430-main.png",
+      "sha256": "fcc311e6527067903584171649eb63e42fac6c39c5a16780316e76056f4da259"
+    },
+    {
+      "name": "430-reveal",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/430-reveal.png",
+      "sha256": "b4ac724efa912c1a7ba4f89db6a2e6ff70d126c77f2002fe170aa866875fe653"
+    },
+    {
+      "name": "430-practice-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/430-practice-reading.png",
+      "sha256": "1b4fd2fd93aae97480d92f8d962371c11db498036342818e6e26b4f2ef2c2c0d"
+    },
+    {
+      "name": "430-curiosity-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/430-curiosity-reading.png",
+      "sha256": "79cd922a7a94f1045b23c70fd42d05471f748a219156a71efb1c28f5ffb4373c"
+    },
+    {
+      "name": "430-contact-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/430-contact-reading.png",
+      "sha256": "f82c9a2a47cb34ec3dcff9925efbbcc3b3d73e1655299a4d058377b367955f90"
+    },
+    {
+      "name": "844-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/844-main.png",
+      "sha256": "65d0ac2f15945cb5f40bdf9894440339143edd5eecd5a660d24bf54d2f6559b8"
+    },
+    {
+      "name": "844-reveal",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/844-reveal.png",
+      "sha256": "149136ab552f23804fef9dc01e314136b0e3ac5a4f1612354f47fae8c65b7346"
+    },
+    {
+      "name": "844-practice-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/844-practice-reading.png",
+      "sha256": "903a5d04972a4d25675dfca75cd6c07353465a4d690466f2a26af01893d15841"
+    },
+    {
+      "name": "844-curiosity-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/844-curiosity-reading.png",
+      "sha256": "dd1e49a4f5251d1498badd4214531e4ec43108bb565d4700ce60042b90807e46"
+    },
+    {
+      "name": "844-contact-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/844-contact-reading.png",
+      "sha256": "63ca37901c665d6bf6a18582aeccb8424b6053b68c24b08e70620e23a689921a"
+    },
+    {
+      "name": "768-main",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/768-main.png",
+      "sha256": "82f2783210bbcb0aee298cc77fcbde38082fcbb1574802e72a1f04e86285f476"
+    },
+    {
+      "name": "768-reveal",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/768-reveal.png",
+      "sha256": "2a257517c382d5bdf633454200766657fd1f5231abadf9b21023d1546d1ac5d4"
+    },
+    {
+      "name": "768-practice-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/768-practice-reading.png",
+      "sha256": "8c156503f3c321338471004d4eb0fb6a3122fcb64b09111ed65d1b8e37317d6d"
+    },
+    {
+      "name": "768-curiosity-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/768-curiosity-reading.png",
+      "sha256": "95e93e44bcc7fc1d5ebeb671e0a0ddf7e066b524abd507e2f319951a93f0b98c"
+    },
+    {
+      "name": "768-contact-reading",
+      "path": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-evidence/768-contact-reading.png",
+      "sha256": "a27f32027424cf22f93115f99b939de7f7c7bcefd1e08934a6aee5ca110f36a8"
+    }
+  ],
+  "errors": [
+    {
+      "fatal": "page.screenshot: Timeout 60000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n\n    at capture (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-verify.cjs:6:84)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/fidelity-verify.cjs:14:31"
+    }
+  ],
+  "passed": 57,
+  "failed": []
+}

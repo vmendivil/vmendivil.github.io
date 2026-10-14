@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-11T18:29:44Z",
+  "title": "Design System: Type Facet",
+  "extensions": {
+    "colorMeta": {
+      "copper": {"role":"primary","displayName":"Mineral copper"},
+      "ground": {"role":"neutral","displayName":"Graphite"},
+      "ink": {"role":"neutral","displayName":"Chalk"}
+    },
+    "typographyMeta": {"identity":{"displayName":"Identity lettering","purpose":"Name-based compositional identity only; not normal headings."}},
+    "shadows": [],
+    "motion": [{"name":"approach-turn","value":"420ms cubic-bezier(.16,1,.3,1)","purpose":"One clipped approach-panel reveal; removed by reduced-motion preference."}],
+    "breakpoints": [{"name":"narrow","value":"650px"},{"name":"compact-grid","value":"1000px"},{"name":"identity-cap","value":"1600px"}]
+  },
+  "components": [
+    {"name":"Primary action","kind":"button","refersTo":"button-primary","description":"Copper directional action on graphite.","html":"<button class=\"ds-action\">Start with your problem <svg width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M4 12h16m-7-7 7 7-7 7\"/></svg></button>","css":".ds-action{display:inline-flex;align-items:center;gap:24px;background:var(--color-copper,#c49173);color:var(--color-copper-ink,#28221d);border:0;border-radius:0;padding:15px 20px;font:700 14px Manrope,sans-serif;cursor:pointer}.ds-action:hover{background:var(--color-ink,#f1eee5)}.ds-action:focus-visible{outline:2px solid var(--color-copper,#c49173);outline-offset:6px}.ds-action:active{background:#ce9f82}"},
+    {"name":"Reversed action","kind":"button","description":"Dark action on a copper reading plane.","html":"<button class=\"ds-reverse\">Prepare a conversation outline</button>","css":".ds-reverse{background:var(--color-copper-ink,#28221d);color:var(--color-ink,#f1eee5);padding:15px 20px;border:0;font:700 14px Manrope,sans-serif;cursor:pointer}.ds-reverse:hover{background:#40332b}.ds-reverse:focus-visible{outline:2px solid #28221d;outline-offset:6px}.ds-reverse:active{background:#242521}"},
+    {"name":"Problem row","kind":"custom","description":"Open selectable index row, not a card.","html":"<button class=\"ds-row\" aria-pressed=\"true\">Too much manual work.<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M4 12h16m-7-7 7 7-7 7\"/></svg></button>","css":".ds-row{width:100%;display:flex;align-items:center;justify-content:space-between;background:#30322b;border:0;border-block:1px solid #5b5e50;text-align:left;color:#bebfb1;font:700 30px 'Barlow Condensed',sans-serif;padding:28px 0;cursor:pointer}.ds-row[aria-pressed=true],.ds-row:hover{color:#f1eee5}.ds-row[aria-pressed=true] svg{color:#c49173}.ds-row:focus-visible{outline:2px solid #c49173;outline-offset:6px}.ds-row:active{color:#c49173}"},
+    {"name":"Problem field","kind":"input","refersTo":"input","description":"Visible label, copper editable plane and dark focus.","html":"<label class=\"ds-label\" for=\"ds-problem\">Tell me about the problem</label><textarea class=\"ds-field\" id=\"ds-problem\" rows=\"3\" placeholder=\"What happens now?\"></textarea>","css":".ds-label{display:block;color:#28221d;font:700 13px Manrope,sans-serif;margin-bottom:10px}.ds-field{display:block;box-sizing:border-box;width:100%;border:1px solid #815a45;border-radius:0;background:#ce9f82;color:#28221d;padding:14px 16px;font:400 16px/1.65 Manrope,sans-serif;caret-color:#28221d}.ds-field::placeholder{color:#40332b;opacity:1}.ds-field:focus-visible{outline:2px solid #28221d;outline-offset:3px}"},
+    {"name":"Navigation","kind":"nav","description":"Unboxed textual wayfinding.","html":"<nav class=\"ds-nav\" aria-label=\"Sections\"><a href=\"#approach\">The approach</a><a href=\"#experience\">The experience</a></nav>","css":".ds-nav{display:flex;gap:36px;font:400 13px Manrope,sans-serif}.ds-nav a{color:#f1eee5;text-decoration:none}.ds-nav a:hover{text-decoration:underline;text-underline-offset:5px}.ds-nav a:focus-visible{outline:2px solid #c49173;outline-offset:6px}"}
+  ],
+  "narrative": {
+    "northStar": "The identity cut",
+    "overview": "A graphic personal identity built from strong lettering and mineral surfaces. The dark ground is suited to a focused evening read; generous chalk letterforms make the face and name recognizable before the detailed content begins. Copper carries a complete working region rather than decorative points of light.",
+    "keyCharacteristics": ["Condensed identity lettering, open geometric body text.","Planar sections rather than cards and floating surfaces.","Mineral copper used as a content-bearing field.","Portraits treated as authored illustrations, never presented as photography."],
+    "rules": [{"name":"The Field Rule","body":"A large copper region uses copper ink for every content-bearing element, not low-opacity white text.","section":"colors"},{"name":"The Voice Rule","body":"The name and headings are condensed; explanations and functional controls stay in the open body face. No technical monospace costume.","section":"typography"}],
+    "dos": ["Do use open rows and planar regions to organize connected content.","Do preserve a 12px minimum for supporting and functional text.","Do make copper a reading surface with dark ink."],
+    "donts": ["Don't introduce glow, decorative glass, generic icon cards or claim-based metrics.","Don't extend the identity-letter size to ordinary prose headings.","Don't imply that the local outline tool sends a message."]
+  }
+}

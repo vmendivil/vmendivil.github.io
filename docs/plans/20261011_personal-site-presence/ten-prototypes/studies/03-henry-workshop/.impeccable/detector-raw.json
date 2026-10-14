@@ -1,0 +1,12 @@
+[
+  {
+    "antipattern": "gray-on-color",
+    "name": "Gray text on colored background",
+    "description": "Gray text looks washed out on colored backgrounds. Use a darker shade of the background color instead, or white/near-white for contrast.",
+    "severity": "warning",
+    "category": "quality",
+    "file": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/03-henry-workshop/index.html",
+    "line": 0,
+    "snippet": "text #596049 on bg #f1dfb9"
+  }
+]

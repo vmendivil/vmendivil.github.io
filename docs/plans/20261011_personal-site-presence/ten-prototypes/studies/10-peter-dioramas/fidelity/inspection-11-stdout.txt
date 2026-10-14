@@ -1,0 +1,13 @@
+11-felix 320 FATAL page.waitForFunction: Timeout 20000ms exceeded.
+11-felix 390 FATAL page.waitForFunction: Timeout 20000ms exceeded.
+11-felix 430 FATAL page.waitForFunction: Timeout 20000ms exceeded.
+11-felix 844 FATAL page.waitForFunction: Timeout 20000ms exceeded.
+11-felix 768 FATAL page.waitForFunction: Timeout 20000ms exceeded.
+11-felix 1440 FATAL page.waitForFunction: Timeout 20000ms exceeded.
+page.evaluate: ReferenceError: fidelityState is not defined
+    at eval (eval at evaluate (:311:30), <anonymous>:1:5)
+    at UtilityScript.evaluate (<anonymous>:313:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/10-peter-dioramas/fidelity/verify.cjs:10:772 {
+  log: []
+}

@@ -1,0 +1,519 @@
+{
+  "engine": "Chromium Playwright",
+  "physicalDevice": false,
+  "viewports": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "states": [
+        {
+          "id": "home",
+          "width": 320,
+          "scrollWidth": 320,
+          "heading": "VICTOR\nMENDIVIL",
+          "bodySizes": [
+            17
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 1000
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "width": 320,
+          "scrollWidth": 320,
+          "heading": "The person\nbehind the work.",
+          "bodySizes": [
+            24,
+            17,
+            17
+          ],
+          "images": []
+        },
+        {
+          "id": "approach",
+          "width": 320,
+          "scrollWidth": 320,
+          "heading": "Look closer.",
+          "bodySizes": [
+            17,
+            17,
+            17,
+            17
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 2000
+            },
+            {
+              "loaded": true,
+              "width": 2000
+            }
+          ]
+        },
+        {
+          "id": "curiosity",
+          "width": 320,
+          "scrollWidth": 320,
+          "heading": "A little curiosity\ngoes a long way.",
+          "bodySizes": [
+            24,
+            17,
+            17
+          ],
+          "images": []
+        },
+        {
+          "id": "contact",
+          "width": 320,
+          "scrollWidth": 320,
+          "heading": "Start a conversation.",
+          "bodySizes": [
+            18,
+            17,
+            17
+          ],
+          "images": []
+        }
+      ],
+      "everyParagraphAndLinkScrollReachable": true,
+      "touchMenuAndChapter": true,
+      "escapeAndFocusRestore": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "states": [
+        {
+          "id": "home",
+          "width": 390,
+          "scrollWidth": 390,
+          "heading": "VICTOR\nMENDIVIL",
+          "bodySizes": [
+            17
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 1000
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "width": 390,
+          "scrollWidth": 390,
+          "heading": "The person\nbehind the work.",
+          "bodySizes": [
+            24,
+            17,
+            17
+          ],
+          "images": []
+        },
+        {
+          "id": "approach",
+          "width": 390,
+          "scrollWidth": 390,
+          "heading": "Look closer.",
+          "bodySizes": [
+            17,
+            17,
+            17,
+            17
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 2000
+            },
+            {
+              "loaded": true,
+              "width": 2000
+            }
+          ]
+        },
+        {
+          "id": "curiosity",
+          "width": 390,
+          "scrollWidth": 390,
+          "heading": "A little curiosity\ngoes a long way.",
+          "bodySizes": [
+            24,
+            17,
+            17
+          ],
+          "images": []
+        },
+        {
+          "id": "contact",
+          "width": 390,
+          "scrollWidth": 390,
+          "heading": "Start a conversation.",
+          "bodySizes": [
+            18,
+            17,
+            17
+          ],
+          "images": []
+        }
+      ],
+      "everyParagraphAndLinkScrollReachable": true,
+      "touchMenuAndChapter": true,
+      "escapeAndFocusRestore": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "states": [
+        {
+          "id": "home",
+          "width": 430,
+          "scrollWidth": 430,
+          "heading": "VICTOR\nMENDIVIL",
+          "bodySizes": [
+            17
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 1000
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "width": 430,
+          "scrollWidth": 430,
+          "heading": "The person\nbehind the work.",
+          "bodySizes": [
+            24,
+            17,
+            17
+          ],
+          "images": []
+        },
+        {
+          "id": "approach",
+          "width": 430,
+          "scrollWidth": 430,
+          "heading": "Look closer.",
+          "bodySizes": [
+            17,
+            17,
+            17,
+            17
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 2000
+            },
+            {
+              "loaded": true,
+              "width": 2000
+            }
+          ]
+        },
+        {
+          "id": "curiosity",
+          "width": 430,
+          "scrollWidth": 430,
+          "heading": "A little curiosity\ngoes a long way.",
+          "bodySizes": [
+            24,
+            17,
+            17
+          ],
+          "images": []
+        },
+        {
+          "id": "contact",
+          "width": 430,
+          "scrollWidth": 430,
+          "heading": "Start a conversation.",
+          "bodySizes": [
+            18,
+            17,
+            17
+          ],
+          "images": []
+        }
+      ],
+      "everyParagraphAndLinkScrollReachable": true,
+      "touchMenuAndChapter": true,
+      "escapeAndFocusRestore": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "states": [
+        {
+          "id": "home",
+          "width": 844,
+          "scrollWidth": 844,
+          "heading": "VICTOR\nMENDIVIL",
+          "bodySizes": [
+            16
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 2200
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "width": 844,
+          "scrollWidth": 844,
+          "heading": "The person\nbehind the work.",
+          "bodySizes": [
+            25.32,
+            18,
+            18
+          ],
+          "images": []
+        },
+        {
+          "id": "approach",
+          "width": 844,
+          "scrollWidth": 844,
+          "heading": "Look closer.",
+          "bodySizes": [
+            18,
+            18,
+            18,
+            18
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 2000
+            },
+            {
+              "loaded": true,
+              "width": 2000
+            }
+          ]
+        },
+        {
+          "id": "curiosity",
+          "width": 844,
+          "scrollWidth": 844,
+          "heading": "A little curiosity\ngoes a long way.",
+          "bodySizes": [
+            25.32,
+            17,
+            17
+          ],
+          "images": []
+        },
+        {
+          "id": "contact",
+          "width": 844,
+          "scrollWidth": 844,
+          "heading": "Start a conversation.",
+          "bodySizes": [
+            20,
+            17,
+            17
+          ],
+          "images": []
+        }
+      ],
+      "everyParagraphAndLinkScrollReachable": true,
+      "touchMenuAndChapter": true,
+      "escapeAndFocusRestore": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "states": [
+        {
+          "id": "home",
+          "width": 768,
+          "scrollWidth": 768,
+          "heading": "VICTOR\nMENDIVIL",
+          "bodySizes": [
+            18
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 2200
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "width": 768,
+          "scrollWidth": 768,
+          "heading": "The person\nbehind the work.",
+          "bodySizes": [
+            24,
+            18,
+            18
+          ],
+          "images": []
+        },
+        {
+          "id": "approach",
+          "width": 768,
+          "scrollWidth": 768,
+          "heading": "Look closer.",
+          "bodySizes": [
+            18,
+            18,
+            18,
+            18
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 2000
+            },
+            {
+              "loaded": true,
+              "width": 2000
+            }
+          ]
+        },
+        {
+          "id": "curiosity",
+          "width": 768,
+          "scrollWidth": 768,
+          "heading": "A little curiosity\ngoes a long way.",
+          "bodySizes": [
+            24,
+            17,
+            17
+          ],
+          "images": []
+        },
+        {
+          "id": "contact",
+          "width": 768,
+          "scrollWidth": 768,
+          "heading": "Start a conversation.",
+          "bodySizes": [
+            20,
+            17,
+            17
+          ],
+          "images": []
+        }
+      ],
+      "everyParagraphAndLinkScrollReachable": true,
+      "touchMenuAndChapter": true,
+      "escapeAndFocusRestore": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "states": [
+        {
+          "id": "home",
+          "width": 1440,
+          "scrollWidth": 1440,
+          "heading": "VICTOR\nMENDIVIL",
+          "bodySizes": [
+            18
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 2200
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "width": 1440,
+          "scrollWidth": 1440,
+          "heading": "The person\nbehind the work.",
+          "bodySizes": [
+            40,
+            18,
+            18
+          ],
+          "images": []
+        },
+        {
+          "id": "approach",
+          "width": 1440,
+          "scrollWidth": 1440,
+          "heading": "Look closer.",
+          "bodySizes": [
+            18,
+            18,
+            18,
+            18
+          ],
+          "images": [
+            {
+              "loaded": true,
+              "width": 2000
+            },
+            {
+              "loaded": true,
+              "width": 2000
+            }
+          ]
+        },
+        {
+          "id": "curiosity",
+          "width": 1440,
+          "scrollWidth": 1440,
+          "heading": "A little curiosity\ngoes a long way.",
+          "bodySizes": [
+            40,
+            17,
+            17
+          ],
+          "images": []
+        },
+        {
+          "id": "contact",
+          "width": 1440,
+          "scrollWidth": 1440,
+          "heading": "Start a conversation.",
+          "bodySizes": [
+            20,
+            17,
+            17
+          ],
+          "images": []
+        }
+      ],
+      "everyParagraphAndLinkScrollReachable": true,
+      "touchMenuAndChapter": true,
+      "escapeAndFocusRestore": true
+    }
+  ],
+  "errors": [],
+  "tests": [
+    "Actual Tab/Enter/Space menu open and close",
+    "Actual Tab/Enter chapter activation",
+    "Exact LinkedIn and visible fallback",
+    "Reduced motion instant visible still",
+    "No-JS document and poster fallback"
+  ],
+  "passed": true
+}

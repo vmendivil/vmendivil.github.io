@@ -1,0 +1,12 @@
+{
+  "slug": "13-arthur",
+  "pass": "parent-confirmation",
+  "passed": 1,
+  "failed": [],
+  "errors": [
+    {
+      "fatal": "page.screenshot: Timeout 60000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n\n    at capture (/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/parent-verify.cjs:6:84)\n    at /home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/parent-verify.cjs:14:31"
+    }
+  ],
+  "captures": 0
+}

@@ -1,0 +1,369 @@
+[
+  {
+    "slug": "01-bruno-world",
+    "files": [
+      "style.css",
+      "index.html",
+      "world.js",
+      "assets/OFL-BarlowCondensed.txt",
+      "assets/barlow-condensed.ttf",
+      "assets/coast.svg",
+      "assets/three.module.js",
+      "assets/THREE-LICENSE.txt",
+      "assets/BufferGeometryUtils.js",
+      "assets/barlow.ttf",
+      "assets/OFL-Barlow.txt"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "02-joshua-island",
+    "files": [
+      "style.css",
+      "index.html",
+      "world.js",
+      "assets/Figtree.ttf",
+      "assets/Figtree-OFL.txt",
+      "assets/three.module.js",
+      "assets/THREE-LICENSE.txt",
+      "assets/Gloock-OFL.txt",
+      "assets/favicon.svg",
+      "assets/Gloock-Regular.ttf"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/02-joshua-island/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "03-henry-workshop",
+    "files": [
+      "room.js",
+      "style.css",
+      "index.html",
+      "assets/VOLLKORN-OFL.txt",
+      "assets/vollkorn.ttf",
+      "assets/alegreya-sans.ttf",
+      "assets/three.module.js",
+      "assets/THREE-LICENSE.txt",
+      "assets/ALEGREYA-OFL.txt"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/03-henry-workshop/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "04-bilal-theater",
+    "files": [
+      "fidelity.css",
+      "program.css",
+      "style.css",
+      "main.js",
+      "index.html",
+      "assets/young-serif.ttf",
+      "assets/young-serif-OFL.txt",
+      "assets/three.module.js",
+      "assets/figtree.ttf",
+      "assets/figtree-OFL.txt",
+      "assets/three-LICENSE.txt",
+      "assets/favicon.svg"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/04-bilal-theater/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "05-thibault-expedition",
+    "files": [
+      "fidelity.css",
+      "style.css",
+      "index.html",
+      "world.js",
+      "assets/fredoka.ttf",
+      "assets/three.module.js",
+      "assets/NUNITO-OFL.txt",
+      "assets/THREE-LICENSE.txt",
+      "assets/FREDOKA-OFL.txt",
+      "assets/nunito.ttf"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/05-thibault-expedition/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "06-ameen-garden",
+    "files": [
+      "fidelity.css",
+      "style.css",
+      "landscape.js",
+      "index.html",
+      "assets/bellefair.ttf",
+      "assets/essay-stem.svg",
+      "assets/Bellefair-OFL.txt",
+      "assets/Karla-OFL.txt",
+      "assets/three.module.js",
+      "assets/leaf.svg",
+      "assets/three-LICENSE.txt",
+      "assets/karla.ttf"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/06-ameen-garden/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "07-rohit-future",
+    "files": [
+      "style.css",
+      "index.html",
+      "scene.js",
+      "assets/ChakraPetch-Medium.ttf",
+      "assets/three.module.js",
+      "assets/FONT-LICENSE.txt",
+      "assets/THREE-LICENSE.txt",
+      "assets/favicon.svg"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/07-rohit-future/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "08-joseph-depth",
+    "files": [
+      "app.js",
+      "style.css",
+      "index.html",
+      "assets/karla-OFL.txt",
+      "assets/tenor-OFL.txt",
+      "assets/tenor-sans.ttf",
+      "assets/three.module.js",
+      "assets/three-LICENSE.txt",
+      "assets/favicon.svg",
+      "assets/karla.ttf"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/08-joseph-depth/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "09-natalie-organic",
+    "files": [
+      "style.css",
+      "gallery.js",
+      "index.html",
+      "assets/three.module.js",
+      "assets/manrope.ttf",
+      "assets/THREE-LICENSE.txt",
+      "assets/Manrope-OFL.txt"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/09-natalie-organic/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "10-peter-dioramas",
+    "files": [
+      "fidelity.css",
+      "worlds.js",
+      "style.css",
+      "index.html",
+      "assets/world-3.png",
+      "assets/world-1.png",
+      "assets/MANROPE-LICENSE.txt",
+      "assets/three.module.js",
+      "assets/manrope.ttf",
+      "assets/world-2.png",
+      "assets/THREE-LICENSE.txt",
+      "assets/favicon.svg"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/10-peter-dioramas/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "11-felix",
+    "files": [
+      "fidelity.css",
+      "style.css",
+      "main.js",
+      "index.html",
+      "assets/lounge.svg",
+      "assets/OFL.txt",
+      "assets/archivo-black.ttf",
+      "assets/favicon.svg"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "12-vectrfl",
+    "files": [
+      "fidelity.css",
+      "style.css",
+      "index.html",
+      "scene.js",
+      "assets/chapter-design.png",
+      "assets/chapter-support.png",
+      "assets/landscape-fidelity.png",
+      "assets/chapter-delivery.png",
+      "assets/chapter-requirements.png",
+      "assets/fonts/barlow-extrabold.ttf",
+      "assets/fonts/barlow-regular.ttf",
+      "assets/fonts/OFL.txt",
+      "assets/vendor/three.module.js",
+      "assets/vendor/LICENSE.txt"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/12-vectrfl/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "13-arthur",
+    "files": [
+      "fidelity.js",
+      "interface.js",
+      "fidelity.css",
+      "style.css",
+      "index.html",
+      "scene.js",
+      "assets/curiosity-portrait.jpg",
+      "assets/curiosity-wide.jpg",
+      "assets/threshold-wide.jpg",
+      "assets/practice-wide.jpg",
+      "assets/contact-wide.jpg",
+      "assets/three.module.js",
+      "assets/practice-portrait.jpg",
+      "assets/threshold-portrait.jpg",
+      "assets/Barlow-LICENSE.txt",
+      "assets/BarlowCondensed-SemiBold.ttf",
+      "assets/three-LICENSE.txt",
+      "assets/contact-portrait.jpg"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/13-arthur/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "14-alex",
+    "files": [
+      "fidelity.js",
+      "fidelity.css",
+      "style.css",
+      "main.js",
+      "index.html",
+      "assets/public-sans-OFL.txt",
+      "assets/public-sans.ttf",
+      "assets/PROVENANCE.json"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/14-alex/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "15-preymaker",
+    "files": [
+      "app.js",
+      "fidelity.js",
+      "fidelity.css",
+      "style.css",
+      "index.html",
+      "assets/detail.jpg",
+      "assets/Archivo-OFL.txt",
+      "assets/notes.jpg",
+      "assets/wide.jpg",
+      "assets/Archivo.ttf",
+      "assets/portrait.jpg"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/15-preymaker/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "16-lantern",
+    "files": [
+      "room-camera.js",
+      "style.css",
+      "main.js",
+      "experience.css",
+      "index.html",
+      "assets/Karla-OFL.txt",
+      "assets/pavilion.svg",
+      "assets/karla.ttf"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/16-lantern/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "17-eddyos",
+    "files": [
+      "workbench-tools.js",
+      "style.css",
+      "main.js",
+      "experience.css",
+      "index.html"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/17-eddyos/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "18-artisans",
+    "files": [
+      "style.css",
+      "main.js",
+      "experience.css",
+      "index.html",
+      "assets/manrope-OFL.txt",
+      "assets/three.module.js",
+      "assets/manrope.ttf",
+      "assets/three-LICENSE.txt",
+      "assets/mint-wide.png",
+      "assets/ochre-wide.png",
+      "assets/ochre-portrait.png",
+      "assets/mint-portrait.png",
+      "assets/cyan-wide.png",
+      "assets/cyan-portrait.png"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/18-artisans/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "19-rokumaruichi",
+    "files": [
+      "app.js",
+      "fidelity.css",
+      "style.css",
+      "index.html",
+      "scene.js",
+      "assets/afterlight.svg",
+      "assets/three.module.js",
+      "assets/Three-LICENSE.txt",
+      "assets/Michroma-Regular.ttf",
+      "assets/Michroma-LICENSE.txt"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/19-rokumaruichi/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "20-alphamark",
+    "files": [
+      "fallback.css",
+      "ai-judgment.html",
+      "fidelity.css",
+      "after-hours.html",
+      "style.css",
+      "workable-system.html",
+      "main.js",
+      "index.html",
+      "assets/intent.svg",
+      "assets/manrope-OFL.txt",
+      "assets/manrope.ttf",
+      "assets/judgment.svg",
+      "assets/curiosity.svg",
+      "assets/intent-mobile.svg"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/20-alphamark/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "21-artemii",
+    "files": [
+      "fidelity.css",
+      "style.css",
+      "main.js",
+      "index.html",
+      "assets/plate-5.svg",
+      "assets/chivo-OFL.txt",
+      "assets/plate-2.svg",
+      "assets/chivo.ttf",
+      "assets/plate-1.svg",
+      "assets/plate-0.svg",
+      "assets/plate-4.svg",
+      "assets/PROVENANCE.json",
+      "assets/plate-3.svg"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/21-artemii/.impeccable/review/desktop.png"
+  },
+  {
+    "slug": "22-nickho",
+    "files": [
+      "app.js",
+      "style.css",
+      "index.html",
+      "assets/Anton-Regular.ttf",
+      "assets/web.svg",
+      "assets/process.svg",
+      "assets/portrait-depth.svg",
+      "assets/homelab.svg",
+      "assets/fold.svg",
+      "assets/portrait.jpg",
+      "assets/Anton-OFL.txt"
+    ],
+    "screenshot_source": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/22-nickho/.impeccable/review/desktop.png"
+  }
+]

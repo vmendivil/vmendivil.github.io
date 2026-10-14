@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T01:54:26.362182+00:00",
+  "title": "Design System: Future Archive",
+  "extensions": {
+    "breakpoints": [
+      {
+        "name": "single-column",
+        "value": "700px"
+      },
+      {
+        "name": "compact-portrait",
+        "value": "360px"
+      },
+      {
+        "name": "tablet",
+        "value": "1050px"
+      },
+      {
+        "name": "short-landscape",
+        "value": "max-height 500px and min-width 701px"
+      }
+    ],
+    "motion": [
+      {
+        "name": "native-scroll",
+        "value": "smooth",
+        "purpose": "Native section anchors, auto under reduced motion"
+      },
+      {
+        "name": "lens-ambient",
+        "value": "requestAnimationFrame",
+        "purpose": "One deduplicated render chain; no rendering while hidden/offscreen; pause supported"
+      }
+    ],
+    "shadows": [],
+    "directionalIcons": {
+      "format": "authored inline SVG",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "linecap": "square",
+      "linejoin": "miter",
+      "linkSize": "18px",
+      "linkStroke": "1.5px non-scaling",
+      "contextSize": "72px desktop; 48px tablet",
+      "contextStroke": "2px non-scaling",
+      "accessibility": "aria-hidden=true, focusable=false; text labels remain on native links"
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Squared future lettering",
+        "purpose": "Self-hosted Chakra Petch Medium; no monospace costume"
+      }
+    },
+    "colorMeta": {
+      "cobalt": {
+        "role": "primary",
+        "displayName": "Studio cobalt"
+      },
+      "ivory": {
+        "role": "neutral",
+        "displayName": "Ceramic ivory"
+      },
+      "signal": {
+        "role": "secondary",
+        "displayName": "Signal yellow"
+      }
+    },
+    "readingLayout": {
+      "context": "Full-width headline/baseline; declarative lead plus finely divided prose measure",
+      "approach": "Three phrase/prose rows, interleaved on mobile; compact curve colophon",
+      "interests": "Stepped full-width essays with subject footnotes; no tiles",
+      "contact": "Full-width invitation, paired prose and career note, external link, disclosure footer",
+      "mobileOpening": "Auto-height, min 100svh, title/marginal note, reserved 300px stage (260px at 320), note/Explore/caption",
+      "sectionInsets": "6% desktop; 24px mobile combined with safe-area env",
+      "sectionScrollPadding": "24px",
+      "bodyFont": "18px Arial / 1.6",
+      "utilityFont": "16px Chakra",
+      "tapMinimum": "44px by 44px",
+      "landscapeOpening": "660px scrollable; no viewport-forced shrinking"
+    },
+    "fidelity": {
+      "focal": "held lens opening shot",
+      "desktopHold": "180svh",
+      "cameraZ": [
+        10,
+        8.3
+      ],
+      "laminationTravel": "0.28 * band offset",
+      "entranceMs": 1600,
+      "mobile": "flowing stage; initial assembly and stage-visible scroll",
+      "reduced": "stationary accepted lens; disabled motion control",
+      "portraitTablet": {
+        "scale": 0.82,
+        "positionX": 1.2,
+        "cameraZ": [
+          14.5,
+          12.8
+        ],
+        "evidence": "fidelity/repair-tablet-overview.png; fidelity/repair-tablet-focal.png"
+      }
+    }
+  },
+  "components": [
+    {
+      "name": "Motion control",
+      "kind": "button",
+      "refersTo": "motion-button",
+      "description": "Pause or resume ambient sculptural rotation.",
+      "html": "<button class=\"ds-motion\">Pause motion</button>",
+      "css": ".ds-motion{font:500 16px Chakra,Arial,sans-serif;background:#153cff;color:#f3f1e5;border:1px solid #bcc8ff;padding:8px 15px;min-height:44px;cursor:pointer}.ds-motion:hover{background:#eff56c;color:#102faa}.ds-motion:focus-visible{outline:3px solid #eff56c;outline-offset:7px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The curiosity lens",
+    "overview": "A saturated studio and a reflective, folded object make technology feel personal without impersonating a robot. Real geometry carries the sculptural material; ordinary scrolling carries the visitor. Page-scale ivory, midnight and yellow fields change the pace of the readable sections.",
+    "keyCharacteristics": [
+      "Reflective lamination, rolled edges and concentric detail.",
+      "Wide squared lettering without diagnostic or terminal language.",
+      "Editorial spreads, aligned working-method rows, stepped interest essays and native navigation."
+    ],
+    "rules": [
+      {
+        "name": "The Field Rule",
+        "body": "Give a section a complete color field; do not distribute the palette into interchangeable cards.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do preserve readable, factual personal context and the real contact route.",
+      "Do self-host geometry runtime and display font."
+    ],
+    "donts": [
+      "Don't add fake diagnostics, progress percentages, achievements or dates.",
+      "Don't reinterpret the sculpture as proof of a specific technical mechanism."
+    ]
+  }
+}

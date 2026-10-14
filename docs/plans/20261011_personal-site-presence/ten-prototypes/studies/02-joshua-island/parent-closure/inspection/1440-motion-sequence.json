@@ -1,0 +1,72 @@
+[
+  {
+    "stage": "before",
+    "state": {
+      "renders": 104,
+      "camera": [
+        17.00461125293283,
+        14.029244139105167,
+        12.300770971329076
+      ],
+      "angle": 0,
+      "active": "home",
+      "paused": false
+    }
+  },
+  {
+    "stage": "progress-1",
+    "state": {
+      "renders": 137,
+      "camera": [
+        30.611762621927575,
+        24.965210115207,
+        24.664713584409856
+      ],
+      "angle": 0.25,
+      "active": "home",
+      "paused": false
+    }
+  },
+  {
+    "stage": "progress-2",
+    "state": {
+      "renders": 154,
+      "camera": [
+        31.04467646800132,
+        24.998204436148164,
+        24.272418271474248
+      ],
+      "angle": 0.25,
+      "active": "home",
+      "paused": false
+    }
+  },
+  {
+    "stage": "progress-3",
+    "state": {
+      "renders": 173,
+      "camera": [
+        31.067377843847265,
+        24.99993461060957,
+        24.251846872748335
+      ],
+      "angle": 0.25,
+      "active": "home",
+      "paused": false
+    }
+  },
+  {
+    "stage": "return",
+    "state": {
+      "renders": 196,
+      "camera": [
+        24.15254958816742,
+        24.99999881441999,
+        31.832756417895848
+      ],
+      "angle": 0,
+      "active": "home",
+      "paused": false
+    }
+  }
+]

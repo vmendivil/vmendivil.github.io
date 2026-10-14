@@ -1,0 +1,90 @@
+{
+  "noJavaScript": [
+    {
+      "route": "/",
+      "overflow": false,
+      "text": "Skip to reading\nVictor\nMendivil\n\nAFTERLIGHT\nFLOORS\n\n4\nContact\n3\nCuriosity\n2\nPractice\n1\nAbout\n1\n/\n4\n\nOriginal light studies\nFour chapters of a working life\n\nScreening room · Level 1\n\nAbout\n\nSoftware, systems, and the person behind them.\n\nEnter screening\nEnter reading\nVictor Mendivil\n\nI’m a software developer and problem solver grounded in Dynamics 365 F&O and ERP. My work spans requirements, technical design, implementation, testing, deployment, support and cross-team coordination.\n\nCuriosity after hours\n\nRaspberry Pi and homelab servers, AI-assisted work processes and AI-assisted web apps are interests I explore.\n\nWorking together\n\nI’m employed full-time and open to contained remote, evening or asynchronous freelance work, alongside senior and technical-lead career conversations.\n\nContact Victor on LinkedIn",
+      "notes": [],
+      "contact": [
+        {
+          "visible": true,
+          "href": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "4 Contact",
+          "visible": true,
+          "href": "#4f"
+        },
+        {
+          "text": "3 Curiosity",
+          "visible": true,
+          "href": "#3f"
+        },
+        {
+          "text": "2 Practice",
+          "visible": true,
+          "href": "#2f"
+        },
+        {
+          "text": "1 About",
+          "visible": true,
+          "href": "#1f"
+        }
+      ]
+    }
+  ],
+  "computedRuntime": {
+    "loadedFonts": [
+      {
+        "family": "Michroma",
+        "status": "loaded"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "AfterlightFloors",
+        "size": "11px",
+        "color": "rgb(238, 228, 176)"
+      },
+      {
+        "text": "Original light studiesFour chapters of a working life",
+        "size": "11px",
+        "color": "rgb(221, 213, 177)"
+      },
+      {
+        "text": "Screening room · Level 1",
+        "size": "11px",
+        "color": "rgb(221, 213, 177)"
+      },
+      {
+        "text": "Software, systems, and the person behind them.",
+        "size": "17px",
+        "color": "rgb(238, 228, 176)"
+      }
+    ],
+    "targets": [
+      {
+        "text": "VictorMendivil",
+        "height": 52.1875
+      },
+      {
+        "text": "4 Contact",
+        "height": 53
+      },
+      {
+        "text": "3 Curiosity",
+        "height": 53
+      },
+      {
+        "text": "2 Practice",
+        "height": 53
+      },
+      {
+        "text": "1 About",
+        "height": 53
+      }
+    ]
+  }
+}

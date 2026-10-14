@@ -1,0 +1,12 @@
+{
+  "report": "FIDELITY_REPORT.md",
+  "contract": "FIDELITY_CONTRACT.md",
+  "finalResults": "fidelity/confirmation/results.json",
+  "normalMotionRecording": "fidelity/motion/interaction.webm",
+  "recordingBytes": 520440,
+  "normalMotionTrace": "fidelity/motion/results.json",
+  "sourceObservations": "fidelity/source/observations.json",
+  "fallbackRaw": "fidelity/fallback-raw.json",
+  "detectorRaw": "fidelity/detector-raw.json",
+  "hashes": "fidelity/final-hashes.json"
+}

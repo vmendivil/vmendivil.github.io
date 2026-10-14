@@ -1,0 +1,212 @@
+{
+  "checks": [
+    {
+      "name": "WebGL initialized",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Local fonts loaded",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Opening contact link hidden",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Real Tab traversal reaches next cue",
+      "pass": true,
+      "detail": [
+        "name",
+        "contact-top",
+        "motion",
+        "next"
+      ]
+    },
+    {
+      "name": "Enter advances to making",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Space advances to curiosity",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Escape pauses ambient motion",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "ArrowRight advances to conversation",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Conversation real LinkedIn route",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "ArrowLeft returns to curiosity",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Pointer direct chapter 0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Desktop no overflow chapter 0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Pointer direct chapter 1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Desktop no overflow chapter 1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Pointer direct chapter 2",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Desktop no overflow chapter 2",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Pointer direct chapter 3",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Desktop no overflow chapter 3",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile next via DOM activation (native touch unverified)",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile direct chapter via DOM activation 0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile no horizontal overflow 0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile direct chapter via DOM activation 1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile no horizontal overflow 1",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile direct chapter via DOM activation 2",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile no horizontal overflow 2",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile direct chapter via DOM activation 3",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile no horizontal overflow 3",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "No browser errors",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Reduced motion starts still",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Reduced motion changes chapter semantics; visible static cut requires screenshot review",
+      "pass": true,
+      "detail": {
+        "before": "A handcrafted miniature theater, with wooden spools, suspended question cards, mint paper scenery and orange curtains",
+        "after": "Wooden gear wheels and a stitched paper conveyor move beneath suspended design, test and support notes."
+      }
+    },
+    {
+      "name": "Context loss shows readable fallback",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "name": "Fallback content and contact still reachable",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "capture_round": 2,
+  "limits": [
+    "CDP wheel dispatch timed out; wheel behavior not independently verified.",
+    "Surface screenshot transport timed out; settled captures retried separately."
+  ],
+  "warnings": [],
+  "resources": [
+    {
+      "name": "http://127.0.0.1:8914/style.css",
+      "status": 200,
+      "bytes": 0
+    },
+    {
+      "name": "http://127.0.0.1:8914/main.js",
+      "status": 200,
+      "bytes": 0
+    },
+    {
+      "name": "http://127.0.0.1:8914/assets/three.module.js",
+      "status": 200,
+      "bytes": 0
+    },
+    {
+      "name": "http://127.0.0.1:8914/assets/figtree.ttf",
+      "status": 200,
+      "bytes": 0
+    },
+    {
+      "name": "http://127.0.0.1:8914/assets/young-serif.ttf",
+      "status": 200,
+      "bytes": 0
+    },
+    {
+      "name": "http://127.0.0.1:8914/assets/favicon.svg",
+      "status": 200,
+      "bytes": 601
+    }
+  ],
+  "passed": 32,
+  "total": 32
+}

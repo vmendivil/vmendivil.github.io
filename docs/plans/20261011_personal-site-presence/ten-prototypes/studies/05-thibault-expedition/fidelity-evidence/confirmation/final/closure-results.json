@@ -1,0 +1,25 @@
+{
+  "study": 5,
+  "checks": [
+    {
+      "name": "320 rapid trusted touch last destination",
+      "pass": false,
+      "state": {
+        "selected": "erp",
+        "pos": {
+          "x": 5,
+          "z": -3.8
+        }
+      }
+    },
+    {
+      "name": "320 actual contact",
+      "pass": true
+    }
+  ],
+  "captures": [
+    "320-overview.png",
+    "320-interrupted-arrival.png",
+    "320-contact.png"
+  ]
+}

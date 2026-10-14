@@ -1,0 +1,157 @@
+{
+  "engine": "Chromium via Playwright",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "states": [
+        "main",
+        "about",
+        "practice",
+        "curiosity",
+        "contact",
+        "return"
+      ],
+      "overflow": false,
+      "keyboard": [
+        "Tab",
+        "Enter",
+        "Space",
+        "Escape"
+      ],
+      "input": "Chromium trusted synthetic touch",
+      "consoleErrors": [],
+      "assetErrors": []
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "states": [
+        "main",
+        "about",
+        "practice",
+        "curiosity",
+        "contact",
+        "return"
+      ],
+      "overflow": false,
+      "keyboard": [
+        "Tab",
+        "Enter",
+        "Space",
+        "Escape"
+      ],
+      "input": "Chromium trusted synthetic touch",
+      "consoleErrors": [],
+      "assetErrors": []
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "states": [
+        "main",
+        "about",
+        "practice",
+        "curiosity",
+        "contact",
+        "return"
+      ],
+      "overflow": false,
+      "keyboard": [
+        "Tab",
+        "Enter",
+        "Space",
+        "Escape"
+      ],
+      "input": "Chromium trusted synthetic touch",
+      "consoleErrors": [],
+      "assetErrors": []
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "states": [
+        "main",
+        "about",
+        "practice",
+        "curiosity",
+        "contact",
+        "return"
+      ],
+      "overflow": false,
+      "keyboard": [
+        "Tab",
+        "Enter",
+        "Space",
+        "Escape"
+      ],
+      "input": "Chromium trusted synthetic touch",
+      "consoleErrors": [],
+      "assetErrors": []
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "states": [
+        "main",
+        "about",
+        "practice",
+        "curiosity",
+        "contact",
+        "return"
+      ],
+      "overflow": false,
+      "keyboard": [
+        "Tab",
+        "Enter",
+        "Space",
+        "Escape"
+      ],
+      "input": "Chromium trusted synthetic touch",
+      "consoleErrors": [],
+      "assetErrors": []
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "states": [
+        "main",
+        "about",
+        "practice",
+        "curiosity",
+        "contact",
+        "return"
+      ],
+      "overflow": false,
+      "keyboard": [
+        "Tab",
+        "Enter",
+        "Space",
+        "Escape"
+      ],
+      "input": "pointer",
+      "consoleErrors": [],
+      "assetErrors": []
+    }
+  ],
+  "directBaySelection": true,
+  "backLink": true,
+  "deepLinkReload": true,
+  "browserHistoryBack": true,
+  "reducedMotion": true,
+  "noJavaScriptFallback": true,
+  "svgFetchFailureFallback": true,
+  "physicalSafari": false
+}

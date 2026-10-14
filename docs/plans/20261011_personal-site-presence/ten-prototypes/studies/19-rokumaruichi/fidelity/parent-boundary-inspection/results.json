@@ -1,0 +1,27 @@
+{
+  "study": 19,
+  "results": [
+    {
+      "label": "context-loss floor navigation cannot restart renderer",
+      "pass": false,
+      "detail": {
+        "start": 21,
+        "end": 53
+      }
+    },
+    {
+      "label": "lost context play disabled",
+      "pass": true
+    },
+    {
+      "label": "settled animation count zero",
+      "pass": true
+    },
+    {
+      "label": "renderer failure offers truthful disabled control",
+      "pass": false,
+      "detail": "Play light study"
+    }
+  ],
+  "errors": []
+}

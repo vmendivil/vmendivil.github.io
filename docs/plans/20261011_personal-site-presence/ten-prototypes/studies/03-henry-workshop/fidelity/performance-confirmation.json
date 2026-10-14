@@ -1,0 +1,229 @@
+[
+  {
+    "name": "actual geometry click about",
+    "pass": true
+  },
+  {
+    "name": "actual geometry click lab",
+    "pass": true
+  },
+  {
+    "name": "actual geometry click approach",
+    "pass": true
+  },
+  {
+    "name": "actual geometry click contact",
+    "pass": true
+  },
+  {
+    "name": "actual lamp dim state",
+    "pass": true
+  },
+  {
+    "name": "pause settles to zero render work",
+    "pass": true,
+    "samples": [
+      {
+        "elapsedMs": 500,
+        "renders": 60,
+        "camera": [
+          5.2642673937878435,
+          5.504418006405203,
+          7.963359987877799
+        ],
+        "pageAngle": -0.004096163826180585,
+        "envelopeY": 2.0284624210526134,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 1000,
+        "renders": 63,
+        "camera": [
+          5.27882114136763,
+          5.50261857006839,
+          7.978283318255123
+        ],
+        "pageAngle": -0.002427812684432537,
+        "envelopeY": 2.0250157108075686,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 1500,
+        "renders": 65,
+        "camera": [
+          5.285056197349,
+          5.501847663040255,
+          7.984676709360815
+        ],
+        "pageAngle": -0.0017130646301355978,
+        "envelopeY": 2.0235390855458206,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 2000,
+        "renders": 65,
+        "camera": [
+          5.285056197349,
+          5.501847663040255,
+          7.984676709360815
+        ],
+        "pageAngle": -0.0017130646301355978,
+        "envelopeY": 2.0235390855458206,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 2500,
+        "renders": 65,
+        "camera": [
+          5.285056197349,
+          5.501847663040255,
+          7.984676709360815
+        ],
+        "pageAngle": -0.0017130646301355978,
+        "envelopeY": 2.0235390855458206,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 3000,
+        "renders": 66,
+        "camera": [
+          5.2874472057731605,
+          5.5015520369538145,
+          7.9871284358630845
+        ],
+        "pageAngle": -0.001438974289313902,
+        "envelopeY": 2.0229728318584894,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 3500,
+        "renders": 67,
+        "camera": [
+          5.289455652849455,
+          5.501303711041204,
+          7.989187886124991
+        ],
+        "pageAngle": -0.0012087384030236776,
+        "envelopeY": 2.022497178761131,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 4000,
+        "renders": 68,
+        "camera": [
+          5.291142748393542,
+          5.501095117274611,
+          7.990917824344993
+        ],
+        "pageAngle": -0.0010153402585398891,
+        "envelopeY": 2.02209763015935,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 4500,
+        "renders": 69,
+        "camera": [
+          5.292559908650575,
+          5.500919898510673,
+          7.992370972449794
+        ],
+        "pageAngle": -0.0008528858171735069,
+        "envelopeY": 2.021762009333854,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 5000,
+        "renders": 70,
+        "camera": [
+          5.293750323266483,
+          5.500772714748965,
+          7.9935916168578265
+        ],
+        "pageAngle": -0.0007164240864257457,
+        "envelopeY": 2.0214800878404375,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 5500,
+        "renders": 72,
+        "camera": [
+          5.29559022809683,
+          5.50054522752687,
+          7.9954782448548825
+        ],
+        "pageAngle": -0.0005055088353820061,
+        "envelopeY": 2.0210443499802127,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 6000,
+        "renders": 74,
+        "camera": [
+          5.296888464945123,
+          5.500384712542959,
+          7.9968094495696045
+        ],
+        "pageAngle": -0.0003566870342455435,
+        "envelopeY": 2.0207368933460383,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 6500,
+        "renders": 74,
+        "camera": [
+          5.296888464945123,
+          5.500384712542959,
+          7.9968094495696045
+        ],
+        "pageAngle": -0.0003566870342455435,
+        "envelopeY": 2.0207368933460383,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 7000,
+        "renders": 74,
+        "camera": [
+          5.296888464945123,
+          5.500384712542959,
+          7.9968094495696045
+        ],
+        "pageAngle": -0.0003566870342455435,
+        "envelopeY": 2.0207368933460383,
+        "visible": true,
+        "selected": null
+      },
+      {
+        "elapsedMs": 7500,
+        "renders": 74,
+        "camera": [
+          5.296888464945123,
+          5.500384712542959,
+          7.9968094495696045
+        ],
+        "pageAngle": -0.0003566870342455435,
+        "envelopeY": 2.0207368933460383,
+        "visible": true,
+        "selected": null
+      }
+    ]
+  },
+  {
+    "name": "offscreen renderer stops",
+    "pass": true,
+    "delta": 0,
+    "actualScroll": 530
+  }
+]

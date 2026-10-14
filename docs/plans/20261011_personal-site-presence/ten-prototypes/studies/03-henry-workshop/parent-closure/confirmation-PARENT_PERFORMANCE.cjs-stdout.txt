@@ -1,0 +1,102 @@
+{
+  "n": 3,
+  "results": [
+    {
+      "name": "actual geometry click about",
+      "pass": true
+    },
+    {
+      "name": "actual geometry click lab",
+      "pass": true
+    },
+    {
+      "name": "actual geometry click approach",
+      "pass": true
+    },
+    {
+      "name": "actual geometry click contact",
+      "pass": true
+    },
+    {
+      "name": "actual lamp dim state",
+      "pass": true
+    },
+    {
+      "name": "pause settles to zero render work",
+      "pass": true,
+      "samples": [
+        {
+          "elapsedMs": 500,
+          "renders": 106,
+          "camera": [
+            5.2983699430108615,
+            5.500361768463759,
+            7.996730873542277
+          ],
+          "pageAngle": -0.00013665285840115223,
+          "envelopeY": 2.0212432737859674,
+          "visible": true,
+          "selected": null
+        },
+        {
+          "elapsedMs": 1000,
+          "renders": 108,
+          "camera": [
+            5.298849831788464,
+            5.500255263828029,
+            7.99769330437143
+          ],
+          "pageAngle": -0.00009642225688785301,
+          "envelopeY": 2.020877253983379,
+          "visible": true,
+          "selected": null
+        },
+        {
+          "elapsedMs": 1500,
+          "renders": 108,
+          "camera": [
+            5.298849831788464,
+            5.500255263828029,
+            7.99769330437143
+          ],
+          "pageAngle": -0.00009642225688785301,
+          "envelopeY": 2.020877253983379,
+          "visible": true,
+          "selected": null
+        },
+        {
+          "elapsedMs": 2000,
+          "renders": 108,
+          "camera": [
+            5.298849831788464,
+            5.500255263828029,
+            7.99769330437143
+          ],
+          "pageAngle": -0.00009642225688785301,
+          "envelopeY": 2.020877253983379,
+          "visible": true,
+          "selected": null
+        },
+        {
+          "elapsedMs": 2500,
+          "renders": 108,
+          "camera": [
+            5.298849831788464,
+            5.500255263828029,
+            7.99769330437143
+          ],
+          "pageAngle": -0.00009642225688785301,
+          "envelopeY": 2.020877253983379,
+          "visible": true,
+          "selected": null
+        }
+      ]
+    },
+    {
+      "name": "offscreen renderer stops",
+      "pass": true,
+      "delta": 0,
+      "actualScroll": 530
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "problem": "tools",
+    "state": {
+      "title": "Start with the work.\nThen fit the tool.",
+      "selected": 1
+    }
+  },
+  {
+    "problem": "dynamics",
+    "state": {
+      "title": "Trace the process.\nUnblock the system.",
+      "selected": 1
+    }
+  },
+  {
+    "problem": "manual",
+    "state": {
+      "title": "Find the repeat.\nRemove the friction.",
+      "selected": 1
+    }
+  },
+  {
+    "preselection": "dynamics",
+    "passed": true
+  },
+  {
+    "disclosure": "open/close",
+    "passed": true
+  },
+  {
+    "empty_submit": "visible error and focus",
+    "passed": true
+  },
+  {
+    "valid_submit": "visible text-only local outline",
+    "passed": true
+  },
+  {
+    "edit_focus": true,
+    "localStorageEntries": 0,
+    "sessionStorageEntries": 0
+  }
+]

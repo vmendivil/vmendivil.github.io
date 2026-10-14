@@ -1,0 +1,22 @@
+{
+  "16-lantern": {
+    "legacyContexts": 6,
+    "focalContexts": 6,
+    "focalFallbackContexts": 8,
+    "normalPageErrors": 0
+  },
+  "17-eddyos": {
+    "legacyContexts": 6,
+    "focalContexts": 6,
+    "focalFallbackContexts": 0,
+    "normalPageErrors": 0,
+    "restorationPairs": 54,
+    "legacyNoJSContexts": 6
+  },
+  "18-artisans": {
+    "legacyContexts": 8,
+    "focalContexts": 6,
+    "focalFallbackContexts": 8,
+    "normalPageErrors": 0
+  }
+}

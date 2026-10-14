@@ -1,0 +1,26 @@
+[
+  {
+    viewport: [ 320, 740 ],
+    overlaps: [ [Object], [Object], [Object] ]
+  },
+  {
+    viewport: [ 390, 844 ],
+    overlaps: [ [Object], [Object], [Object] ]
+  },
+  {
+    viewport: [ 430, 932 ],
+    overlaps: [ [Object], [Object], [Object] ]
+  },
+  {
+    viewport: [ 844, 390 ],
+    overlaps: [ [Object], [Object], [Object] ]
+  },
+  {
+    viewport: [ 768, 1024 ],
+    overlaps: [ [Object], [Object], [Object] ]
+  },
+  {
+    viewport: [ 1440, 900 ],
+    overlaps: [ [Object], [Object], [Object] ]
+  }
+]

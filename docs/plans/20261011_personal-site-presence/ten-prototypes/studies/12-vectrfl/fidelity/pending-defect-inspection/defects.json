@@ -1,0 +1,87 @@
+{
+  "phase": "pending-defect-inspection",
+  "results": [
+    {
+      "name": "orientation-return",
+      "liveMargins": 1,
+      "state": {
+        "draws": 83,
+        "frame": 0,
+        "currentX": 3.0765289621390233,
+        "targetX": 3,
+        "currentSize": 37,
+        "paused": false,
+        "visible": false,
+        "hidden": false,
+        "focusPart": -1,
+        "transfer": [
+          6,
+          0.28,
+          1.45
+        ]
+      }
+    },
+    {
+      "name": "context-loss",
+      "before": {
+        "draws": 85,
+        "frame": 0,
+        "currentX": -1,
+        "targetX": -1,
+        "currentSize": 18,
+        "paused": false,
+        "visible": true,
+        "hidden": false,
+        "focusPart": 1,
+        "transfer": [
+          2,
+          0.28,
+          1.45
+        ]
+      },
+      "after": {
+        "draws": 86,
+        "frame": 0,
+        "currentX": -1,
+        "targetX": -1,
+        "currentSize": 18,
+        "paused": false,
+        "visible": true,
+        "hidden": false,
+        "focusPart": 1,
+        "transfer": [
+          2,
+          0.28,
+          1.45
+        ]
+      },
+      "buttons": [
+        {
+          "id": "motion",
+          "disabled": false
+        },
+        {
+          "id": "0",
+          "disabled": false
+        },
+        {
+          "id": "1",
+          "disabled": false
+        },
+        {
+          "id": "2",
+          "disabled": false
+        },
+        {
+          "id": "3",
+          "disabled": false
+        }
+      ],
+      "liveMargins": 1,
+      "renderer": "webgl"
+    },
+    {
+      "errors": []
+    }
+  ]
+}

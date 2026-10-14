@@ -1,0 +1,199 @@
+{
+  "batch": "02-authored-svg-contact-back",
+  "url": "http://127.0.0.1:18912/",
+  "detector": "not rerun; prior run historical",
+  "views": [
+    {
+      "name": "desktop",
+      "meta": {
+        "width": 1440,
+        "height": 900,
+        "scrollWidth": 1440,
+        "fonts": true,
+        "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "contactText": "Say hello",
+        "backText": "Whole archipelago",
+        "errors": [],
+        "fallback": false
+      },
+      "tabOrder": [
+        "identity",
+        "contact",
+        "marker"
+      ],
+      "selected": {
+        "active": "work",
+        "camera": [
+          15.563713153419517,
+          17.692979896662575,
+          21.371607122418286
+        ],
+        "paused": false,
+        "noteHidden": false,
+        "title": "The workshop",
+        "focus": "exploring",
+        "overflow": false
+      },
+      "backTraversal": [
+        "back"
+      ],
+      "icons": [
+        {
+          "parent": "contact",
+          "width": 16,
+          "height": 16,
+          "stroke": "1.5",
+          "hidden": "true",
+          "focusable": "false"
+        },
+        {
+          "parent": "back",
+          "width": 16,
+          "height": 16,
+          "stroke": "1.5",
+          "hidden": "true",
+          "focusable": "false"
+        }
+      ],
+      "back": {
+        "active": "home",
+        "camera": [
+          18.751735031170913,
+          20.454258688415752,
+          25.388012637695635
+        ],
+        "paused": false,
+        "noteHidden": true,
+        "title": "The workshop",
+        "focus": "Whole map",
+        "overflow": false
+      },
+      "space": {
+        "active": "lab",
+        "camera": [
+          11.552818329488133,
+          17.134304756872407,
+          23.699777832807797
+        ],
+        "paused": false,
+        "noteHidden": false,
+        "title": "Pi harbour",
+        "focus": "Pi harbour",
+        "overflow": false
+      },
+      "escape": {
+        "active": "home",
+        "camera": [
+          18.4893043641974,
+          21.531931837669983,
+          28.361434546202638
+        ],
+        "paused": false,
+        "noteHidden": true,
+        "title": "Pi harbour",
+        "focus": "Whole map",
+        "overflow": false
+      },
+      "captures": [
+        "desktop.png",
+        "desktop-icon-back.png"
+      ]
+    },
+    {
+      "name": "mobile",
+      "meta": {
+        "width": 390,
+        "height": 844,
+        "scrollWidth": 390,
+        "fonts": true,
+        "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+        "contactText": "Say hello",
+        "backText": "Whole archipelago",
+        "errors": [],
+        "fallback": false
+      },
+      "tabOrder": [
+        "identity",
+        "contact",
+        "marker"
+      ],
+      "selected": {
+        "active": "work",
+        "camera": [
+          12.364950063969621,
+          20.266937157840733,
+          17.195239819128464
+        ],
+        "paused": false,
+        "noteHidden": false,
+        "title": "The workshop",
+        "focus": "exploring",
+        "overflow": false
+      },
+      "backTraversal": [
+        "back"
+      ],
+      "icons": [
+        {
+          "parent": "contact",
+          "width": 16,
+          "height": 16,
+          "stroke": "1.5",
+          "hidden": "true",
+          "focusable": "false"
+        },
+        {
+          "parent": "back",
+          "width": 16,
+          "height": 16,
+          "stroke": "1.5",
+          "hidden": "true",
+          "focusable": "false"
+        }
+      ],
+      "back": {
+        "active": "home",
+        "camera": [
+          25.856931080889336,
+          39.021806907702356,
+          41.189220577335995
+        ],
+        "paused": false,
+        "noteHidden": true,
+        "title": "The workshop",
+        "focus": "Whole map",
+        "overflow": false
+      },
+      "space": {
+        "active": "lab",
+        "camera": [
+          6.672107650251656,
+          19.75715473620881,
+          20.996368994206087
+        ],
+        "paused": false,
+        "noteHidden": false,
+        "title": "Pi harbour",
+        "focus": "Pi harbour",
+        "overflow": false
+      },
+      "escape": {
+        "active": "home",
+        "camera": [
+          24.162343845842503,
+          37.9977108561518,
+          40.680882070253055
+        ],
+        "paused": false,
+        "noteHidden": true,
+        "title": "Pi harbour",
+        "focus": "Whole map",
+        "overflow": false
+      },
+      "captures": [
+        "mobile.png",
+        "mobile-icon-back.png"
+      ]
+    }
+  ]
+}

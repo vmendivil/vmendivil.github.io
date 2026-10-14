@@ -1,0 +1,39 @@
+{
+  "viewports": 6,
+  "apps": 24,
+  "noJavaScript": 6,
+  "failures": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "mode": "JavaScript",
+      "error": "minimize/task restore page {\"expected\":{\"id\":\"about\",\"pane\":0,\"page\":370},\"got\":{\"id\":\"about\",\"pane\":0,\"page\":0}}"
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "mode": "JavaScript",
+      "error": "minimize/task restore page {\"expected\":{\"id\":\"about\",\"pane\":0,\"page\":370},\"got\":{\"id\":\"about\",\"pane\":0,\"page\":0}}"
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "mode": "JavaScript",
+      "error": "minimize/task restore page {\"expected\":{\"id\":\"about\",\"pane\":0,\"page\":370},\"got\":{\"id\":\"about\",\"pane\":0,\"page\":0}}"
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "mode": "JavaScript",
+      "error": "minimize/task restore page {\"expected\":{\"id\":\"about\",\"pane\":0,\"page\":370},\"got\":{\"id\":\"about\",\"pane\":0,\"page\":0}}"
+    }
+  ]
+}

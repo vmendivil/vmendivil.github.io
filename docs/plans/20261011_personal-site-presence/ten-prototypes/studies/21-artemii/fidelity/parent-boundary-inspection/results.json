@@ -1,0 +1,22 @@
+{
+  "study": 21,
+  "results": [
+    {
+      "label": "rapid reversed filters latest wins",
+      "pass": true
+    },
+    {
+      "label": "interrupted note reversed to register",
+      "pass": true
+    },
+    {
+      "label": "no note remains visible",
+      "pass": true
+    },
+    {
+      "label": "settled animation count zero",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

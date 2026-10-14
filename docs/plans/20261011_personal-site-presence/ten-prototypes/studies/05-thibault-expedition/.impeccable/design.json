@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T02:08:45.393838+00:00",
+  "title": "Design System: Signal from Elsewhere",
+  "extensions": {
+    "shadows": [
+      {
+        "name": "label",
+        "value": "0 6px 18px #00000033",
+        "purpose": "Landmark separation"
+      },
+      {
+        "name": "guide",
+        "value": "-12px 20px 60px #00000055",
+        "purpose": "Asymmetric mineral journal elevation"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "phone-scene",
+        "value": "650px"
+      },
+      {
+        "name": "journal-sheet",
+        "value": "900px"
+      },
+      {
+        "name": "narrow-phone",
+        "value": "360px"
+      },
+      {
+        "name": "short-landscape",
+        "value": "height 500px / min-width 651px"
+      }
+    ],
+    "motion": [
+      {
+        "name": "stationary-reduced",
+        "value": "disabled",
+        "purpose": "No movement under reduced-motion preference"
+      },
+      {
+        "name": "on-demand-pause",
+        "value": "one-frame-invalidation",
+        "purpose": "No continuous paused/hidden rendering; navigation remains responsive"
+      }
+    ],
+    "fidelity": {
+      "sourceFiles": [
+        "index.html",
+        "fidelity.css",
+        "world.js"
+      ],
+      "behavior": "Landmarks now send the original companion along an original mineral-impression route to an approach point. The camera leans toward that landmark (bounded dolly/zoom). Arrival exposes Read this landmark; Return to overview reverses the excursion. Field guide remains immediate bypass; the cyan journal and factual entries are unchanged. Repeated landmark selection replaces the route, arrows interrupt it, pause freezes progress. Reduced motion places the explorer at the actual destination and exposes the reading invitation without a journey. Native tap/keyboard controls, no required game completion. Rendering capped ~30fps, DPR1.4 /1024px shadows; hidden/offscreen/reading loops stop. Full journal/contact available without JavaScript.",
+      "verification": "FIDELITY_REPORT.md / fidelity-evidence/raw-results.json",
+      "oldVerification": "historical",
+      "shadowPolicy": "1024px cached environment; motion shadows approximate between invalidations",
+      "closure": "During a scenic route, projected landmark buttons hold their last on-screen coordinates so a second trusted tap cannot chase an animating target; they reproject when the explorer arrives. The selected cream landmark uses cobalt-blue caption text. Environment shadows cache at rest and refresh at arrival; moving companion shadows are approximate between stops. These are part of the named stability repair, not a new world."
+    },
+    "userFollowup": {
+      "changes": "Arrival labels/container are pointer-transparent; the actual Read / Return buttons retain pointer events. Exact ERP\u2192AI trusted touch and hit testing now pass at320 and390.",
+      "results": "fidelity-evidence/user-followup/results.json",
+      "passed": 13,
+      "total": 13,
+      "previousResidual": "superseded by exact browser recheck"
+    }
+  },
+  "components": [
+    {
+      "name": "Primary button",
+      "kind": "button",
+      "refersTo": "primary-button",
+      "description": "Direct field guide access",
+      "html": "<button class=\"ds-primary\">Field guide</button>",
+      "css": ".ds-primary{background:#fff9eb;color:#18367b;border:1px solid #fff9eb;border-radius:28px;padding:12px 19px;font:700 16px sans-serif}.ds-primary:hover{background:#e0e9ff}.ds-primary:focus-visible{outline:3px solid #ffec9d;outline-offset:5px}"
+    },
+    {
+      "name": "Landmark",
+      "kind": "custom",
+      "description": "Projected destination label",
+      "html": "<button class=\"ds-landmark\">ERP observatory</button>",
+      "css": ".ds-landmark{background:#18387e;color:#fff9eb;border:1px solid #87dcec;border-radius:28px;padding:10px 17px;box-shadow:0 6px 18px #00000033;font:16px sans-serif}.ds-landmark:hover{background:#3d539c}.ds-landmark:focus-visible{outline:3px solid #ffec9d;outline-offset:5px}"
+    },
+    {
+      "name": "Mineral field journal",
+      "kind": "custom",
+      "description": "Protected-focus reading layer with fixed close/contents, independent scroll and landmark specimen margin",
+      "html": "<section class=\"ds-journal\"><h2>Field journal</h2><p>Victor\u2019s unchanged personal entries</p></section>",
+      "css": ".ds-journal{background:#abeff1;color:#18367b;border-radius:90px 28px 40px 70px;padding:30px 32px 30px 46px;font:17px/1.65 Nunito,sans-serif}.ds-journal h2{font:500 31px/1.1 Fredoka,sans-serif}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Signal from Elsewhere",
+    "overview": "The accepted bright alien mineral garden remains unchanged. Its reading layer is an expedition journal with opaque cyan sediment-like corners, specimen sketches and unboxed first-person entries.",
+    "keyCharacteristics": [
+      "Cobalt geological perimeter and pale cyan basin.",
+      "Glossy pink organisms with curling mint stems.",
+      "Rounded Fredoka lettering, mineral-cyan journal leaf and original landmark specimens."
+    ],
+    "rules": [
+      "Reserve solid cobalt behind the entire desktop introduction with camera framing, not a text backing card.",
+      "Keep mobile AI plaque 44px clear of projected explorer center when overlap would occur; preserve 13px/11px label sizes.",
+      "Use authored 20px SVG paths for movement and close controls.",
+      "Paused/reduced motion has no continuous render chain; guide changes and resize get one frame. Hidden documents draw no frames; visibility restoration restarts enabled motion.",
+      "Journal desktop: 650px width, unequal 90/28/40/70px corners, 46px margin; body 17px/1.65, notes 16px/1.6.",
+      "Portrait \u2264900px: 150px real scene band and full-width leaf; at 320px use 100px band. Short landscape: 70% right journal, existing world shifted left.",
+      "Back to world and chapter contents never scroll; only the journal body scrolls. Safe-area padding and dvh height retain final paragraphs and contact.",
+      "Reading makes the scene inert and hides driving controls; capture original invoker once, retain chapter focus, trap Tab, close with Escape, return to original invoker."
+    ],
+    "dos": [
+      "Do retain direct readable access to every chapter.",
+      "Do distinguish illustrative scenery from professional facts."
+    ],
+    "donts": [
+      "Don't invent client results, mission achievements or contact details.",
+      "Don't treat the study as aesthetic acceptance or production authorization."
+    ]
+  }
+}

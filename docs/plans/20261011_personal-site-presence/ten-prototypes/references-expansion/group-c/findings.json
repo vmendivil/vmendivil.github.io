@@ -1,0 +1,274 @@
+[
+  {
+    "number": 19,
+    "exactURL": "https://www.rokumaruichi.tokyo/#4f",
+    "actualResolvedURL": "https://www.rokumaruichi.tokyo/#4f",
+    "title": "601 Inc.",
+    "evidenceClass": "mixed: live desktop/mobile; archived screenshots supplement non-working floor selection",
+    "versionViewed": "Live site during research; undated landing.love archive, not asserted current",
+    "palette": "Live black/charcoal architectural space, pale straw typography; archive additionally shows a light grey mode with charcoal type. Light-mode switching was not tested.",
+    "type": "Large extended geometric numerals and compact sans labels; computed heading family diagramm, sans-serif. Logo/numeral design is not an asset to reuse.",
+    "imagesMaterial": "Perspective screening room, matte dark walls, structural ceiling slabs, projected music-video imagery, subdued directional light. Archived views show polished floor reflections. Live mobile room had a black/unloaded projection.",
+    "topology": "Full-viewport perspective room with adjacent vertical architectural bays; fixed small perimeter controls, oversized studio identity and floor fraction, right-edge floor index; separate project/info, about and archive routes. Vertical floor index is observed, but actual floor-four camera selection is not verified.",
+    "navigation": {
+      "observed": [
+        "Opened exact lower-case #4f; desktop displayed 6/6 rather than assumed 4/6.",
+        "Invoked existing floor-4 anchor; address became #4F, but settled screenshot still displayed 6/6. Do not normalize the user URL or claim success.",
+        "Clicked Explore: URL /floor/oh/; visible camera composition showed stacked adjacent rooms and Honey screen despite route title Trippin. Route/media mismatch recorded.",
+        "Clicked Info: DOM exposed Trippin credits/date/category/YouTube destination; screenshot shows title over projection but not complete credits.",
+        "Navigated actual /about/ link destination; settled screenshot displays agency paragraph and horizontal contact details."
+      ],
+      "notVerified": [
+        "Working requested fourth-floor selection",
+        "Wheel floor movement: browser CDP event timed out",
+        "Mobile projection playback",
+        "Archive live interaction",
+        "Theme toggle"
+      ]
+    },
+    "fullReading": "Live About is an unboxed typographic spread with fine rules and address/contact/social columns. Info credits available as browser DOM text, not visually certified in full. Archive table with hovering preview is visible only in archived still, not tested hover.",
+    "mobile": "390x844 live: small logo and two top-right links, centered room/projection aperture, bottom Email/Explore/theme controls. Image aperture remained black; native mobile browsing/touch and physical Safari not tested.",
+    "captures": [
+      {
+        "path": "captures/19-selected-4F-desktop.png",
+        "class": "live",
+        "validity": "valid room scene; mislabeled floor in address versus visible 6/6 documented"
+      },
+      {
+        "path": "captures/19-explore-desktop.png",
+        "class": "live",
+        "validity": "valid adjacent-room composition; route/media mismatch documented"
+      },
+      {
+        "path": "captures/19-project-info-desktop.png",
+        "class": "live",
+        "validity": "valid title-on-projection; credits visually incomplete"
+      },
+      {
+        "path": "captures/19-about-desktop.png",
+        "class": "live",
+        "validity": "valid settled reading"
+      },
+      {
+        "path": "captures/19-exact-route-mobile.png",
+        "class": "live-limited",
+        "validity": "valid room composition, projection black; not a hero-quality evidence selection"
+      },
+      {
+        "path": "captures/19-fourth-floor-desktop.png",
+        "class": "live-invalid",
+        "validity": "blank transition; exclude from presentation"
+      },
+      {
+        "path": "captures/19-archive-rokumaruichi.webp",
+        "class": "archived",
+        "sourceURL": "https://cdn.landing.love/images/rokumaruichi.webp",
+        "validity": "visually inspected gallery still; no interaction claim"
+      },
+      {
+        "path": "captures/19-archive-rokumaruichi-01.webp",
+        "class": "archived",
+        "sourceURL": "https://cdn.landing.love/images/rokumaruichi-01.webp",
+        "validity": "visually inspected gallery still; no interaction claim"
+      },
+      {
+        "path": "captures/19-archive-rokumaruichi-02.webp",
+        "class": "archived",
+        "sourceURL": "https://cdn.landing.love/images/rokumaruichi-02.webp",
+        "validity": "visually inspected gallery still; no interaction claim"
+      },
+      {
+        "path": "captures/19-archive-rokumaruichi-03.webp",
+        "class": "archived",
+        "sourceURL": "https://cdn.landing.love/images/rokumaruichi-03.webp",
+        "validity": "visually inspected gallery still; no interaction claim"
+      },
+      {
+        "path": "captures/19-archive-rokumaruichi-04.webp",
+        "class": "archived",
+        "sourceURL": "https://cdn.landing.love/images/rokumaruichi-04.webp",
+        "validity": "visually inspected gallery still; no interaction claim"
+      }
+    ],
+    "directionPacket": "19-direction.md",
+    "issues": [
+      "Lower-case exact fragment did not resolve visually to expected fourth floor. Upper-case anchor changed address only in observed settled frame.",
+      "Browser Input.dispatchMouseEvent timeout; bounded fallback used web retrieval and five archived stills, not invented navigation."
+    ]
+  },
+  {
+    "number": 20,
+    "exactURL": "https://alphamark.design/?ref=refs.gallery",
+    "actualResolvedURL": "https://alphamark.design/?ref=refs.gallery",
+    "title": "Alphamark™ – A global B2B branding studio",
+    "evidenceClass": "live desktop and mobile; full project text corroborated by web extraction",
+    "versionViewed": "Current live homepage with B2B transformation headline; not assumed older refs.gallery design",
+    "palette": "Near-black field, white/off-white display text, grey body copy, electric yellow pill CTA; variable rich black/blue/gold project imagery.",
+    "type": "Computed Inter Display, sans-serif; large restrained tight sans headlines, moderate body text and small metadata.",
+    "imagesMaterial": "Large paired project artwork/reel stills: dark smooth product-like sculptural rendering and dramatic metallic folds; project-specific images form exhibition spreads, not site-wide 3D navigation.",
+    "topology": "Long vertical editorial landing page: hero/reel, featured pair, impact statement, services, selected projects, recognition, testimonials, insights and dense contact/navigation footer. Dedicated long project case-study route.",
+    "navigation": {
+      "observed": [
+        "Scrolled homepage at roughly 1050, 3500, 5200, 9500 desktop positions.",
+        "Opened linked /projects/monobotics, extracted project narrative and visited image spread.",
+        "Mobile scroll and hamburger activation: full-height dark menu with Projects/About/Services/Insights/Contact links and social buttons."
+      ],
+      "notVerified": [
+        "Reel playback",
+        "Form submission (intentionally not performed)",
+        "All project routes",
+        "Mobile project long reading"
+      ]
+    },
+    "fullReading": "Main reading switches between generous typographic statements, plain service lists, open image/caption pairs and dense footer lists. Monobotics body describes integration obstacles, identity rationale, typography and palette; browser text and extraction corroborate these, while valid deep screenshot is an image spread. Do not claim complete visual inspection of the 23,579px project page.",
+    "mobile": "390x844 live: wordmark/hamburger, multi-line large headline, grey explanatory copy, yellow CTA, reel below; scroll reveals impact paragraph/list. Mobile menu captured open. Sticky CTA and cookie banner consume bottom space.",
+    "captures": [
+      {
+        "path": "captures/20-home-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/20-featured-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/20-services-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/20-selected-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/20-footer-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/20-home-mobile.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/20-gallery-mobile.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/20-menu-mobile.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/20-project-reading-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/20-project-desktop.png",
+        "class": "live-limited",
+        "validity": "dark/dim transition overlay; do not select as headline evidence"
+      }
+    ],
+    "directionPacket": "20-direction.md",
+    "issues": [
+      "One Page.captureScreenshot timeout during project settling; new tab restored inspection.",
+      "Mobile file named gallery actually depicts impact reading, not gallery tiles.",
+      "Whole homepage DOM read, representative visual sections only; no exhaustive route test."
+    ]
+  },
+  {
+    "number": 21,
+    "exactURL": "https://artemiilebedev.com/work",
+    "actualResolvedURL": "https://artemiilebedev.com/work",
+    "title": "Work • Artemii Lebedev",
+    "evidenceClass": "live desktop/mobile work index, project reading and contact",
+    "versionViewed": "Current live Work index with 2026–2022 entries; current design is not a horizontal portfolio",
+    "palette": "Black backdrop, stark white identity/navigation sheet, pale mono labels; large project thumbnails supply teal, gold, cobalt and photographic tones.",
+    "type": "Computed Fragment Mono, sans-serif/monospace across identity, index and body. Tiny uppercase metadata forms a sparse utilitarian rhythm, contrasted with expressive image scale.",
+    "imagesMaterial": "Website mockups placed in cinematic photography/rendered environments: living room, open laptop in shadow, figure portrait, teal seafood presentation, amber organic sculpture. Artworks belong to creator/clients and are reference-only.",
+    "topology": "Desktop fixed white identity/nav sheet at upper left plus tight year/title/category work index below, oversized vertically stacked preview strip at right. Fixed top microcopy/location/time and bottom social/effects controls. Current route is vertical, not horizontal. Mobile replaces left index with single-column image/caption stream beneath compact fixed header.",
+    "navigation": {
+      "observed": [
+        "Opened exact /work, collected links and current project list.",
+        "Clicked desktop index Ponder AI row: URL remained /work; do not call it successful detail navigation.",
+        "Scrolled 1000px: large preview strip progressed while identity pane remained fixed.",
+        "Mobile scroll 700px; clicked Haven Foods artwork: navigated /work/haven-foods.",
+        "Scrolled mobile project reading; captured desktop version of same route.",
+        "Opened /information and /contact destinations; extracted full info/contact text and captured settled states. No form completed/submitted."
+      ],
+      "notVerified": [
+        "Expand behavior",
+        "Effects keyboard ritual",
+        "Every project",
+        "Working horizontal portfolio (not present)",
+        "Mobile menu expansion",
+        "Complete contact form interaction"
+      ]
+    },
+    "fullReading": "Haven Foods route has full-bleed project visual, plain mono About/Project Context text, Credits/Timeline/Services/Destinations metadata, subsequent imagery, More Work and View All Work return link. Mobile reading is visible unboxed text followed by large image; desktop opening is very large image stage. Information route first captured portrait but its deeper biography/awards layout is supported by DOM text only. Contact uses large white form sheet on expressive grey/black background with fixed identity pane.",
+    "mobile": "390x844 work becomes stacked images and year/title/category captions with narrow persistent white header: identity, Menu, Expand. Bottom social links remain fixed and overlap lowest content in captures; reproduce hierarchy, not overlap or tiny body type. Haven Foods long text is vertically readable though small reference scale should be improved for Victor.",
+    "captures": [
+      {
+        "path": "captures/21-work-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/21-project-reading-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/21-work-mobile.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/21-work-scroll-mobile.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/21-detail-mobile.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/21-detail-reading-mobile.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/21-detail-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/21-information-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/21-contact-desktop.png",
+        "class": "live",
+        "validity": "valid inspected capture"
+      },
+      {
+        "path": "captures/21-project-desktop.png",
+        "class": "live",
+        "validity": "duplicate work index after click; not project detail"
+      }
+    ],
+    "directionPacket": "21-direction.md",
+    "issues": [
+      "Desktop index click did not navigate; successful detail browsing demonstrated on mobile artwork instead.",
+      "Fixed small social/effects labels overlap bottom work index at 1280x577.",
+      "Reference body labels are tiny; prototype must use readable text without copying this defect."
+    ]
+  }
+]

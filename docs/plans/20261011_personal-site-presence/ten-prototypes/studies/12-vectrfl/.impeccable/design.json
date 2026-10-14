@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T03:47:31Z",
+  "title": "Design System: Work in Motion",
+  "extensions": {
+    "colorMeta": {
+      "landscape-blue": {
+        "role": "primary",
+        "displayName": "Powder-blue landscape"
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Deep navy reading ink"
+      },
+      "transfer-cyan": {
+        "role": "secondary",
+        "displayName": "Illustrative transfer route"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Dense Barlow display",
+        "purpose": "Personal statement and short section headings"
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "scroll-framing",
+        "value": "elapsed-time exponential convergence, 110ms time constant",
+        "purpose": "Demand-driven camera easing; reduced motion swaps immediately; rendering suspends outside scene"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow-phone",
+        "value": "359px"
+      },
+      {
+        "name": "mobile-composition",
+        "value": "650px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1000px"
+      }
+    ],
+    "scenery": {
+      "ground": "#b7d0e1",
+      "porcelain": "#f2f4ed",
+      "architectural-edge": "#a8c2d4",
+      "hemisphereIntensity": 1.05,
+      "keyIntensity": 3.2,
+      "exposure": 0.94,
+      "shadowMap": "2048 PCFSoft; cached static geometry",
+      "mobileChapterRaster": "780\u00d7900 / unboxed max-height 410px",
+      "provenance": "Embedded PNG tEXt + verification/asset-provenance.json"
+    },
+    "fidelity": {
+      "controls": [
+        "chapter anchors",
+        "mobile scene inspection",
+        "pause camera"
+      ],
+      "motion": "Demand-driven/interruption-aware; reduced/pause selects visible state; hidden/offscreen suspension",
+      "renderer": "Three.js original geometry; material batching",
+      "functionalClosure": "A real WebGL context loss cancels scheduled draws permanently for this page, restores the scene host to the opening, restores all chapter stills, disables renderer-only controls and leaves all ordinary reading/contact/return routes usable. Widening from a live phone inspection also clears the live-margin class so its still reappears on return to portrait."
+    }
+  },
+  "components": [
+    {
+      "name": "Ruled contact action",
+      "kind": "custom",
+      "refersTo": "contact-link",
+      "description": "A candid correspondence action, not a form",
+      "html": "<a class=\"ds-contact\" href=\"https://www.linkedin.com/in/vmendivilaxdeveloper\">Start a conversation on LinkedIn <svg viewBox=\"0 0 24 24\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a>",
+      "css": ".ds-contact{color:var(--ink,#142a3b);display:flex;justify-content:space-between;align-items:center;gap:18px;border-top:1px solid currentColor;border-bottom:1px solid currentColor;min-height:68px;font:800 21px Barlow,sans-serif;text-decoration:none}.ds-contact svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.7}.ds-contact:hover{text-decoration:underline;text-underline-offset:6px}.ds-contact:focus-visible{outline:3px solid #166686;outline-offset:5px}"
+    },
+    {
+      "name": "Inline question",
+      "kind": "custom",
+      "refersTo": "faq-summary",
+      "description": "Native details answer in ordinary document flow",
+      "html": "<details class=\"ds-question\"><summary>What kind of freelance work fits?<svg viewBox=\"0 0 24 24\"><path d=\"M5 12h14M12 5v14\"/></svg></summary><p>Contained remote, evening or asynchronous needs that fit alongside full-time employment.</p></details>",
+      "css": ".ds-question{color:var(--ink,#142a3b);border-block:1px solid #ccd9e2;font:18px/1.7 Barlow,sans-serif}.ds-question summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;min-height:76px;gap:20px;font-weight:800}.ds-question svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.7}.ds-question[open] svg{transform:rotate(45deg)}.ds-question summary:focus-visible{outline:3px solid #166686;outline-offset:5px}.ds-question summary:hover{text-decoration:underline;text-underline-offset:5px}"
+    },
+    {
+      "name": "Chapter anchor",
+      "kind": "nav",
+      "description": "An ordered process anchor, not a simulated control",
+      "html": "<nav class=\"ds-chapters\"><a href=\"#requirements\" aria-current=\"true\">01 Requirements</a><a href=\"#design\">02 Design</a></nav>",
+      "css": ".ds-chapters{background:var(--blue,#d8e8f3);display:flex;gap:32px;border-block:1px solid #afc6d7;font:15px Barlow,sans-serif}.ds-chapters a{min-height:44px;display:flex;align-items:center;color:#405b70;text-decoration:none}.ds-chapters a[aria-current=true]{font-weight:800;color:#142a3b}.ds-chapters a:hover{text-decoration:underline;text-underline-offset:6px}.ds-chapters a:focus-visible{outline:3px solid #166686;outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Work in Motion",
+    "overview": "A continuous original porcelain works gives ordinary software responsibilities a spatial rhythm. Powder-blue space and soft miniature architecture lead; uncluttered white prose takes over when the visitor wants to read. No invented company proof or installation claims belong to the visual language.",
+    "keyCharacteristics": [
+      "Continuous process landscape; smooth scroll camera and four live inspectable phone chapter margins with historical still fallback.",
+      "Dense Barlow display forms and generous reading measures.",
+      "Ruled inline questions, not repeated boxed content."
+    ],
+    "rules": [],
+    "dos": [
+      "Do preserve the separate scenic and white-reading rhythms.",
+      "Do preserve complete mobile paragraphs, normal scrolling and real contact.",
+      "Do label scenery illustrative wherever it could imply real installations."
+    ],
+    "donts": [
+      "Don't reuse source models, code, screenshots or business claims.",
+      "Don't turn independent software responsibilities into an agency-scale guarantee.",
+      "Don't canonize generic eyebrow/kicker styling from the sequence-specific labels."
+    ]
+  }
+}

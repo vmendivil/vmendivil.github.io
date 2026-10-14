@@ -1,0 +1,682 @@
+{
+  "browser": "Chromium / Playwright; software WebGL, trusted emulated touch; not physical hardware/Safari certification",
+  "session": "fidelity-03",
+  "url": "http://127.0.0.1:9403/",
+  "sizes": [
+    [
+      1440,
+      900
+    ],
+    [
+      320,
+      740
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      430,
+      932
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      768,
+      1024
+    ]
+  ],
+  "hashes": {
+    "index.html": "5360b46befea2d7f1fe413707dbb72706b99465d1fb888f452e75f920a12fc7b",
+    "style.css": "0dac550d8458a35a94859f8511849b495adef9ebe2a21ab6c0f69eb0e022dd02",
+    "room.js": "1450f885c6f34b5753217a2435c8914d4623d32e68a829b457bff869477e2c93"
+  },
+  "records": [
+    {
+      "name": "1440 overview overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 fonts",
+      "pass": true
+    },
+    {
+      "name": "1440 keyboard about",
+      "pass": true
+    },
+    {
+      "name": "about reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 about overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape",
+      "pass": true
+    },
+    {
+      "name": "1440 keyboard lab",
+      "pass": true
+    },
+    {
+      "name": "lab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 lab overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape",
+      "pass": true
+    },
+    {
+      "name": "1440 keyboard approach",
+      "pass": true
+    },
+    {
+      "name": "approach reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 approach overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape",
+      "pass": true
+    },
+    {
+      "name": "1440 keyboard contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 LinkedIn",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape",
+      "pass": true
+    },
+    {
+      "name": "1440 real Tab",
+      "pass": true
+    },
+    {
+      "name": "1440 keyboard approach",
+      "pass": true
+    },
+    {
+      "name": "approach reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 object camera approached",
+      "pass": true
+    },
+    {
+      "name": "1440 click about",
+      "pass": true
+    },
+    {
+      "name": "about reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 click contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 normal render rate",
+      "pass": true,
+      "rendersPerSecond": 4,
+      "softwareRendered": true
+    },
+    {
+      "name": "1440 paused settled render delta",
+      "pass": false,
+      "delta": 1
+    },
+    {
+      "name": "320 overview overflow",
+      "pass": true
+    },
+    {
+      "name": "320 fonts",
+      "pass": true
+    },
+    {
+      "name": "320 touch about",
+      "pass": true
+    },
+    {
+      "name": "about reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "320 about overflow",
+      "pass": true
+    },
+    {
+      "name": "320 Escape",
+      "pass": true
+    },
+    {
+      "name": "320 touch lab",
+      "pass": true
+    },
+    {
+      "name": "lab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "320 lab overflow",
+      "pass": true
+    },
+    {
+      "name": "320 Escape",
+      "pass": true
+    },
+    {
+      "name": "320 touch approach",
+      "pass": true
+    },
+    {
+      "name": "approach reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "320 approach overflow",
+      "pass": true
+    },
+    {
+      "name": "320 Escape",
+      "pass": true
+    },
+    {
+      "name": "320 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "320 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "320 LinkedIn",
+      "pass": true
+    },
+    {
+      "name": "320 Escape",
+      "pass": true
+    },
+    {
+      "name": "320 real Tab",
+      "pass": true
+    },
+    {
+      "name": "390 overview overflow",
+      "pass": true
+    },
+    {
+      "name": "390 fonts",
+      "pass": true
+    },
+    {
+      "name": "390 touch about",
+      "pass": true
+    },
+    {
+      "name": "about reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 about overflow",
+      "pass": true
+    },
+    {
+      "name": "390 Escape",
+      "pass": true
+    },
+    {
+      "name": "390 touch lab",
+      "pass": true
+    },
+    {
+      "name": "lab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 lab overflow",
+      "pass": true
+    },
+    {
+      "name": "390 Escape",
+      "pass": true
+    },
+    {
+      "name": "390 touch approach",
+      "pass": true
+    },
+    {
+      "name": "approach reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 approach overflow",
+      "pass": true
+    },
+    {
+      "name": "390 Escape",
+      "pass": true
+    },
+    {
+      "name": "390 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "390 LinkedIn",
+      "pass": true
+    },
+    {
+      "name": "390 Escape",
+      "pass": true
+    },
+    {
+      "name": "390 real Tab",
+      "pass": true
+    },
+    {
+      "name": "390 touch approach",
+      "pass": true
+    },
+    {
+      "name": "approach reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 object camera approached",
+      "pass": true
+    },
+    {
+      "name": "390 click about",
+      "pass": true
+    },
+    {
+      "name": "about reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 click contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 normal render rate",
+      "pass": true,
+      "rendersPerSecond": 8,
+      "softwareRendered": true
+    },
+    {
+      "name": "390 paused settled render delta",
+      "pass": true,
+      "delta": 0
+    },
+    {
+      "name": "430 overview overflow",
+      "pass": true
+    },
+    {
+      "name": "430 fonts",
+      "pass": true
+    },
+    {
+      "name": "430 touch about",
+      "pass": true
+    },
+    {
+      "name": "about reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "430 about overflow",
+      "pass": true
+    },
+    {
+      "name": "430 Escape",
+      "pass": true
+    },
+    {
+      "name": "430 touch lab",
+      "pass": true
+    },
+    {
+      "name": "lab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "430 lab overflow",
+      "pass": true
+    },
+    {
+      "name": "430 Escape",
+      "pass": true
+    },
+    {
+      "name": "430 touch approach",
+      "pass": true
+    },
+    {
+      "name": "approach reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "430 approach overflow",
+      "pass": true
+    },
+    {
+      "name": "430 Escape",
+      "pass": true
+    },
+    {
+      "name": "430 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "430 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "430 LinkedIn",
+      "pass": true
+    },
+    {
+      "name": "430 Escape",
+      "pass": true
+    },
+    {
+      "name": "430 real Tab",
+      "pass": true
+    },
+    {
+      "name": "844 overview overflow",
+      "pass": true
+    },
+    {
+      "name": "844 fonts",
+      "pass": true
+    },
+    {
+      "name": "844 touch about",
+      "pass": true
+    },
+    {
+      "name": "about reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "844 about overflow",
+      "pass": true
+    },
+    {
+      "name": "844 Escape",
+      "pass": true
+    },
+    {
+      "name": "844 touch lab",
+      "pass": true
+    },
+    {
+      "name": "lab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "844 lab overflow",
+      "pass": true
+    },
+    {
+      "name": "844 Escape",
+      "pass": true
+    },
+    {
+      "name": "844 touch approach",
+      "pass": true
+    },
+    {
+      "name": "approach reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "844 approach overflow",
+      "pass": true
+    },
+    {
+      "name": "844 Escape",
+      "pass": true
+    },
+    {
+      "name": "844 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "844 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "844 LinkedIn",
+      "pass": true
+    },
+    {
+      "name": "844 Escape",
+      "pass": true
+    },
+    {
+      "name": "844 real Tab",
+      "pass": true
+    },
+    {
+      "name": "768 overview overflow",
+      "pass": true
+    },
+    {
+      "name": "768 fonts",
+      "pass": true
+    },
+    {
+      "name": "768 touch about",
+      "pass": true
+    },
+    {
+      "name": "about reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "768 about overflow",
+      "pass": true
+    },
+    {
+      "name": "768 Escape",
+      "pass": true
+    },
+    {
+      "name": "768 touch lab",
+      "pass": true
+    },
+    {
+      "name": "lab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "768 lab overflow",
+      "pass": true
+    },
+    {
+      "name": "768 Escape",
+      "pass": true
+    },
+    {
+      "name": "768 touch approach",
+      "pass": true
+    },
+    {
+      "name": "approach reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "768 approach overflow",
+      "pass": true
+    },
+    {
+      "name": "768 Escape",
+      "pass": true
+    },
+    {
+      "name": "768 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "768 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "768 LinkedIn",
+      "pass": true
+    },
+    {
+      "name": "768 Escape",
+      "pass": true
+    },
+    {
+      "name": "768 real Tab",
+      "pass": true
+    },
+    {
+      "name": "390 touch about",
+      "pass": true
+    },
+    {
+      "name": "about reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch lab",
+      "pass": true
+    },
+    {
+      "name": "lab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch approach",
+      "pass": true
+    },
+    {
+      "name": "approach reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "reduced preference",
+      "pass": true
+    },
+    {
+      "name": "390 touch about",
+      "pass": true
+    },
+    {
+      "name": "about reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch lab",
+      "pass": true
+    },
+    {
+      "name": "lab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch approach",
+      "pass": true
+    },
+    {
+      "name": "approach reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "renderer failure fallback",
+      "pass": true
+    },
+    {
+      "name": "no-JS complete factual contact reading",
+      "pass": true
+    },
+    {
+      "name": "runtime page errors empty",
+      "pass": true,
+      "errors": []
+    },
+    {
+      "name": "HTTP failures empty",
+      "pass": true,
+      "responses": []
+    }
+  ]
+}

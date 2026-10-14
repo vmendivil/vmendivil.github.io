@@ -1,0 +1,163 @@
+12-vectrfl 320 FATAL locator.tap: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator('a[href="#about"]').first()
+    - locator resolved to <a class="skip" href="#about">Skip scenery, read about Victor</a>
+  - attempting tap action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+      - waiting 100ms
+    39 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - element is outside of the viewport
+     - retrying tap action
+       - waiting 500ms
+
+12-vectrfl 390 FATAL locator.tap: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator('a[href="#about"]').first()
+    - locator resolved to <a class="skip" href="#about">Skip scenery, read about Victor</a>
+  - attempting tap action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+      - waiting 100ms
+    39 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - element is outside of the viewport
+     - retrying tap action
+       - waiting 500ms
+
+12-vectrfl 430 FATAL locator.tap: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator('a[href="#about"]').first()
+    - locator resolved to <a class="skip" href="#about">Skip scenery, read about Victor</a>
+  - attempting tap action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+      - waiting 100ms
+    39 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - element is outside of the viewport
+     - retrying tap action
+       - waiting 500ms
+
+12-vectrfl 844 FATAL locator.tap: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator('a[href="#about"]').first()
+    - locator resolved to <a class="skip" href="#about">Skip scenery, read about Victor</a>
+  - attempting tap action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+      - waiting 100ms
+    38 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - element is outside of the viewport
+     - retrying tap action
+       - waiting 500ms
+
+12-vectrfl 768 FATAL locator.tap: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator('a[href="#about"]').first()
+    - locator resolved to <a class="skip" href="#about">Skip scenery, read about Victor</a>
+  - attempting tap action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+      - waiting 100ms
+    36 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - element is outside of the viewport
+     - retrying tap action
+       - waiting 500ms
+
+12-vectrfl 1440 FATAL locator.tap: Timeout 20000ms exceeded.
+Call log:
+  - waiting for locator('a[href="#about"]').first()
+    - locator resolved to <a class="skip" href="#about">Skip scenery, read about Victor</a>
+  - attempting tap action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - element is outside of the viewport
+    - retrying tap action
+      - waiting 100ms
+    39 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - element is outside of the viewport
+     - retrying tap action
+       - waiting 500ms
+
+COMPLETE 12-vectrfl 9

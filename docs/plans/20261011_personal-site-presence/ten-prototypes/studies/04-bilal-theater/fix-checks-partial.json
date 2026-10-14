@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Native Playwright mouse wheel advances chapter",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Mobile intro band ends above canvas",
+    "passed": true,
+    "detail": {
+      "introBottom": 280.875,
+      "stageTop": 280.875,
+      "paragraphSize": 16,
+      "captionSize": 14,
+      "pauseSize": 12,
+      "pauseHeight": 44,
+      "pauseWidth": 100,
+      "captionRight": 227.6875,
+      "pauseLeft": 266.609375
+    }
+  },
+  {
+    "name": "Mobile intro remains readable 16px",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Mobile caption 14px / pause 12px / target 44px",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Mobile caption and pause do not overlap",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Native Playwright touchscreen next tap",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Native touchscreen direct chapter 0",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Mobile chapter 0 no horizontal overflow",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Native touchscreen direct chapter 1",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Mobile chapter 1 no horizontal overflow",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Native touchscreen direct chapter 2",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Mobile chapter 2 no horizontal overflow",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Native touchscreen direct chapter 3",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Mobile chapter 3 no horizontal overflow",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Native touchscreen pause toggle",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Reduced motion starts paused",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Reduced motion visible changed canvas",
+    "passed": true,
+    "detail": {
+      "before_sha256": "978bab85899277a7d2c82fdebddd4ee586681e7bc230713dc99ea0eb1c716228",
+      "after_sha256": "1f3cd2135f053b3ef10d188ecbccd811e94c2cfd755440f713a936ea4581973a"
+    }
+  },
+  {
+    "name": "Reduced motion post-cut canvas remains still",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Reduced motion chapter changed to making",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "No browser page errors",
+    "passed": true,
+    "detail": []
+  }
+]

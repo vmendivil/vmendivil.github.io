@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-10-12T00:22:24.824923+00:00",
+  "rasterSource": "Original procedural worlds.js geometry rendered through Three.js r170 in Chromium WebGL, alpha crop with 18px padding. No copied models or reference pixels.",
+  "referenceUse": "Peter archive screenshot inspected for craft/material aspiration only; not shipped.",
+  "assets": [
+    {
+      "path": "assets/world-1.png",
+      "bytes": 111809,
+      "sha256": "c7b81593efb25fe7e9582d00cadf9d31c44a702416940199737d6e6cf6149909",
+      "dimensions": [
+        633,
+        532
+      ],
+      "embeddedSource": "Original procedural 3D geometry authored in worlds.js, rendered with Three.js r170 in local Chromium. No reference pixels or borrowed models. Transparent canvas render, cropped to alpha bounds with 18px padding."
+    },
+    {
+      "path": "assets/world-2.png",
+      "bytes": 109259,
+      "sha256": "8c4db20877860816dd92159dadbb61965023cb4f17d14bc094f3fbb32a513dea",
+      "dimensions": [
+        632,
+        483
+      ],
+      "embeddedSource": "Original procedural 3D geometry authored in worlds.js, rendered with Three.js r170 in local Chromium. No reference pixels or borrowed models. Transparent canvas render, cropped to alpha bounds with 18px padding."
+    },
+    {
+      "path": "assets/world-3.png",
+      "bytes": 109494,
+      "sha256": "c34002d10fa97bb9c65326e843ef47e8f3b2c8bd5c6c26f03fd1bc9215a8d94e",
+      "dimensions": [
+        623,
+        531
+      ],
+      "embeddedSource": "Original procedural 3D geometry authored in worlds.js, rendered with Three.js r170 in local Chromium. No reference pixels or borrowed models. Transparent canvas render, cropped to alpha bounds with 18px padding."
+    }
+  ]
+}

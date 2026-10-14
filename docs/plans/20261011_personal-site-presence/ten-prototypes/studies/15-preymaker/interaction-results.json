@@ -1,0 +1,71 @@
+{
+  "passed": true,
+  "evidence": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "allChaptersTouch": true,
+      "contactReturnTouch": true,
+      "nativeModalBackgroundFocusIsolation": true,
+      "closeTouch": true,
+      "finalProvenancedAssetsServed": true
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "allChaptersTouch": true,
+      "contactReturnTouch": true,
+      "nativeModalBackgroundFocusIsolation": true,
+      "closeTouch": true,
+      "finalProvenancedAssetsServed": true
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "allChaptersTouch": true,
+      "contactReturnTouch": true,
+      "nativeModalBackgroundFocusIsolation": true,
+      "closeTouch": true,
+      "finalProvenancedAssetsServed": true
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "allChaptersTouch": true,
+      "contactReturnTouch": true,
+      "nativeModalBackgroundFocusIsolation": true,
+      "closeTouch": true,
+      "finalProvenancedAssetsServed": true
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "allChaptersTouch": true,
+      "contactReturnTouch": true,
+      "nativeModalBackgroundFocusIsolation": true,
+      "closeTouch": true,
+      "finalProvenancedAssetsServed": true
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "allChaptersTouch": true,
+      "contactReturnTouch": true,
+      "nativeModalBackgroundFocusIsolation": true,
+      "closeTouch": true,
+      "finalProvenancedAssetsServed": true
+    }
+  ]
+}

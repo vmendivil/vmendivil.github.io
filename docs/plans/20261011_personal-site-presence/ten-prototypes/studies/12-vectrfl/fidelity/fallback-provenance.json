@@ -1,0 +1,10 @@
+{
+  "file": "assets/landscape-fidelity.png",
+  "origin": "Original authored geometry, actual Chromium WebGL capture",
+  "captureScript": "fidelity/capture-fallback.cjs",
+  "renderer": "Chromium SwiftShader software emulation",
+  "sourceSceneSHA256": "bd4b26da71870ceee293afea3b252497591e89b099ed283479ee29f8fe7220f3",
+  "sha256": "12aec614462e0a5426218cc65097394e46cad919fe1660b281b4e52209758d76",
+  "sourceAssetsCopied": false,
+  "historicalFallback": "assets/landscape.png retained, no longer referenced"
+}

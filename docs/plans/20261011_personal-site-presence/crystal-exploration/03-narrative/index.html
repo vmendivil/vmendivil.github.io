@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#21201d">
+  <meta name="description" content="Victor Mendivil — making complicated people, process and technology problems workable. A local personal-site concept.">
+  <title>Victor Mendivil — Make the complicated workable</title>
+  <link rel="preload" href="assets/archivo.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="site.js"></script>
+</head>
+<body>
+<a class="skip" href="#story">Skip to the story</a>
+<header class="masthead">
+  <a class="name" href="#opening">Victor Mendivil<span>People. Process. Technology.</span></a>
+  <a class="contact-link" href="#conversation">Bring a problem <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14"/></svg></a>
+</header>
+<nav class="chapters" aria-label="Story chapters">
+  <a href="#opening" aria-current="location">The perspective</a>
+  <a href="#friction">The friction</a>
+  <a href="#connections">The connection</a>
+  <a href="#conversation">The next step</a>
+</nav>
+<main id="story">
+  <section id="opening" class="opening" aria-labelledby="opening-title">
+    <img class="opening-portrait" src="assets/portrait-opening.webp" alt="A faceted, crystal-style illustration of Victor Mendivil" width="1254" height="1254" fetchpriority="high">
+    <div class="opening-copy">
+      <h1 id="opening-title">Make the<br>complicated<br><span>workable.</span></h1>
+      <div class="opening-foot">
+        <p>I’m Victor. I help connect what people need<br class="desktop-break"> with the processes and technology that get it done.</p>
+        <a class="text-link" href="#friction">A different angle <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v16m-6-6 6 6 6-6"/></svg></a>
+      </div>
+    </div>
+    <span class="art-note">Portrait illustration</span>
+  </section>
+
+  <section id="friction" class="friction" aria-labelledby="friction-title">
+    <div class="friction-image"><img src="assets/portrait-listening.webp" alt="Victor illustrated in profile, looking toward the story" loading="lazy" width="1254" height="1254"></div>
+    <div class="friction-copy">
+      <h2 id="friction-title">It rarely starts<br>with the software.</h2>
+      <p class="lead">It starts with something that makes the day harder than it should be.</p>
+      <div class="friction-lines"><p>The task you repeat by hand.</p><p>The tools that don’t quite fit.</p><p>The handoff where context disappears.</p></div>
+      <p>Before choosing a solution, I want to understand the work. Who needs it? What gets in the way? What would actually make it easier?</p>
+      <a class="text-link" href="#connections">Look at the whole picture <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></a>
+    </div>
+  </section>
+
+  <section id="connections" class="connections" aria-labelledby="connections-title">
+    <div class="connection-intro"><h2 id="connections-title">Different facets.<br>One piece of work.</h2><p>A useful solution isn’t just technically right.<br>It has to make sense to the people who live with it.</p></div>
+    <div class="facet facet-people"><h3>People</h3><p>Shared understanding.<br>Clear requirements.<br>Room for the real questions.</p></div>
+    <div class="facet facet-process"><h3>Process</h3><p>The steps, the exceptions,<br>and the handoffs between them.<br>A path people can follow.</p></div>
+    <div class="facet facet-technology"><h3>Technology</h3><p>The right tool for the work.<br>Implementation that holds up.<br>Testing before the handover.</p></div>
+    <p class="connection-close">My job is to make those pieces<br>work <em>together.</em></p>
+  </section>
+
+  <section class="experience" aria-labelledby="experience-title">
+    <h2 id="experience-title">A perspective built<br>in the actual work.</h2>
+    <div class="experience-copy">
+      <p class="lead">Over 15 years of employed experience, working across teams and across the life of a solution.</p>
+      <p>From requirements and technical design to implementation, testing, deployment and support. Not just getting something built, but understanding what happens before it starts and after it goes live.</p>
+      <p>Dynamics 365 Finance &amp; Operations is an important part of that experience. It’s evidence of the way I work—not the boundary of what I’m interested in solving.</p>
+    </div>
+    <p class="experience-caption">End-to-end thinking. Cross-team delivery.</p>
+  </section>
+
+  <section id="conversation" class="conversation" aria-labelledby="conversation-title">
+    <h2 id="conversation-title">Start small.<br>Make something<br><span>easier.</span></h2>
+    <div class="conversation-copy">
+      <p class="lead">A repetitive task. An awkward workflow. A Dynamics problem that needs a clearer path.</p>
+      <p>I’m interested in contained freelance work that can be scoped clearly and handled remotely, asynchronously, alongside existing commitments.</p>
+      <p>You don’t need a perfect brief. Start with what’s happening, what it costs you in effort, and what you’d like to change.</p>
+      <details class="draft-tool">
+        <summary>Shape a first message <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-7-7v14"/></svg></summary>
+        <div class="draft-body">
+          <p class="demo-note">Local demonstration only. No message is sent or stored. A contact route has not been selected.</p>
+          <label for="problem">What’s getting in the way?</label>
+          <textarea id="problem" rows="3" placeholder="For example: I copy the same information between two tools every week."></textarea>
+          <label for="change">What would better look like?</label>
+          <textarea id="change" rows="2" placeholder="Describe the part you would like to make easier."></textarea>
+          <button id="build-draft" type="button">Prepare my draft <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6"/></svg></button>
+          <p id="draft-status" role="status" aria-live="polite"></p>
+          <div id="draft-result" hidden><label for="draft">Your draft — select and copy when you’re ready</label><textarea id="draft" rows="7" readonly></textarea><button id="select-draft" type="button">Select draft</button></div>
+          <noscript><p>Draft preparation needs JavaScript. You can still write your notes above; nothing is submitted.</p></noscript>
+        </div>
+      </details>
+    </div>
+  </section>
+</main>
+<footer><a href="#opening">Victor Mendivil <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20V4m-6 6 6-6 6 6"/></svg></a><p>A local design exploration. Not a live contact service.</p></footer>
+</body>
+</html>

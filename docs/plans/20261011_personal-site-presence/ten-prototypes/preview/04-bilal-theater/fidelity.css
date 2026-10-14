@@ -1,0 +1,5 @@
+/* Stage-native cue handles; the printed program remains untouched. */
+.stage-cues{display:flex;gap:8px}.stage-cues button{min-height:44px;padding:8px 12px;border:1px solid #886f53;background:#f4eddd;color:#67503c;border-radius:0;font-size:14px}.stage-cues button:hover{background:#fff9e9;color:#95391f}
+@media(max-width:900px){.stage-cues{grid-column:1/-1;grid-row:3;flex-wrap:wrap}.stage-cues button{flex:1}.stage-rail{row-gap:8px}}
+@media(min-width:901px){.stage-note{max-width:160px}.stage-rail{gap:16px}.stage-cues button{white-space:nowrap}}
+@media(max-height:500px) and (min-width:701px){.stage-rail{flex-wrap:wrap}.stage-cues{order:4;width:100%}}

@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 2,
+  "title": "Design System: Ideas on a String",
+  "colors": {
+    "paper": "#f4eddd",
+    "stage-mint": "#d2e2cf",
+    "ink": "#342c23",
+    "secondary-ink": "#67503c",
+    "printed-accent": "#95391f",
+    "rule": "#c7b99f",
+    "curtain": "#b84226",
+    "maple": "#ca9768",
+    "wood-edge": "#9d6c42",
+    "paper-scenery": "#fff7e4",
+    "mint-scenery": "#a7c4a6",
+    "mint-leaf": "#769778",
+    "brass": "#b99149"
+  },
+  "typography": {
+    "display": {
+      "fontFamily": "Young, serif",
+      "fontSize": "clamp(52px,5vw,76px)",
+      "fontWeight": 400,
+      "lineHeight": 1.13,
+      "letterSpacing": "-0.035em"
+    },
+    "masthead": {
+      "fontFamily": "Young, serif",
+      "fontSize": "40px",
+      "mobileFontSize": "34px",
+      "lineHeight": 1.2
+    },
+    "headline": {
+      "fontFamily": "Young, serif",
+      "fontSize": "32px",
+      "mobileFontSize": "27px",
+      "narrowFontSize": "25px",
+      "lineHeight": 1.25
+    },
+    "body": {
+      "fontFamily": "Figtree, sans-serif",
+      "fontSize": "18px",
+      "mobileFontSize": "16px",
+      "lineHeight": 1.6
+    },
+    "detail": {
+      "fontFamily": "Figtree, sans-serif",
+      "fontSize": "16px",
+      "lineHeight": 1.65
+    }
+  },
+  "components": [
+    {
+      "name": "Printed program",
+      "kind": "section",
+      "description": "Masthead, contents, binding gutter, Roman chapter leaf and running colophon; inline, not a modal or card."
+    },
+    {
+      "name": "Chapter contents",
+      "kind": "navigation",
+      "description": "52px native chapter buttons, Roman numerals and aria-current step; two columns on phone, four on tablet/landscape, left leaf on desktop."
+    },
+    {
+      "name": "Page-turn cue",
+      "kind": "button",
+      "description": "Rust ink, transparent background, bottom rule; 48px target, no shadow or rounded card.",
+      "css": ".cue #next{background:none;color:#95391f;border:0;border-bottom:1px solid #95391f;border-radius:0;box-shadow:none;padding:8px 0;min-height:48px}"
+    },
+    {
+      "name": "Pause stage",
+      "kind": "button",
+      "description": "100x44px target. Reduced motion: disabled Stage is still; normal motion: Pause/Resume."
+    }
+  ],
+  "extensions": {
+    "sourceFiles": [
+      "style.css",
+      "program.css",
+      "index.html",
+      "main.js",
+      "fidelity.css"
+    ],
+    "preservation": "Accepted geometry, material/light world, desktop camera framing and chapter copy retained.",
+    "layout": {
+      "programMaxWidth": "1200px",
+      "desktopContents": "230px",
+      "desktopLeafFolio": "64px",
+      "desktopLeafGutter": "22px",
+      "paragraphMeasure": "69ch",
+      "mobileLayout": "Normal-flow intro, separate canvas, control rail, masthead/contents and readable leaf; no fixed desktop widgets or body lock.",
+      "phoneCanvas": "310px",
+      "tabletCanvas": "380px",
+      "shortLandscapeCanvas": "300px",
+      "safeArea": "env(safe-area-inset-*) and viewport-fit=cover"
+    },
+    "breakpoints": [
+      {
+        "name": "compact-reading",
+        "value": "900px"
+      },
+      {
+        "name": "narrow-phone",
+        "value": "360px"
+      },
+      {
+        "name": "tablet-reading",
+        "value": "701px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1100px"
+      }
+    ],
+    "focus": {
+      "value": "3px solid #85321e; outline-offset:3px"
+    },
+    "motion": [
+      {
+        "name": "physical-fly-cue",
+        "value": "1.1s accumulated rendered time",
+        "purpose": "Interruptible closure/exchange/string descent; visible cut for reduced/paused."
+      }
+    ],
+    "renderer": {
+      "library": "Three.js 0.170.0",
+      "pixelRatioCap": 1.5,
+      "shadows": "PCFSoftShadowMap1024 / cached settled sets",
+      "colorSpace": "SRGBColorSpace",
+      "toneMapping": "ACESFilmicToneMapping"
+    },
+    "verification": {
+      "results": "content-results.json",
+      "runner": "verify-content.cjs",
+      "passed": 139,
+      "total": 139,
+      "engine": "Existing Playwright Chromium 1243 software WebGL",
+      "input": "Trusted keyboard, touchscreen taps and mouse wheel",
+      "limits": [
+        "Physical phone/Safari not tested",
+        "Parent comparative visual acceptance pending"
+      ],
+      "detector": "Historical single run retained, not rerun",
+      "status": "historical"
+    },
+    "fidelity": {
+      "sourceFiles": [
+        "index.html",
+        "fidelity.css",
+        "main.js"
+      ],
+      "behavior": "The proscenium and camera remain fixed. Native Previous scene / Pull next thread handles close folded fly curtains, exchange the chapter scenery, lower suspended labels and accelerate brass gears; the original bobbin follows the red thread. The printed program updates immediately and retains its entire reading/contact path. Last input wins; pause/reduced motion produce actual final scene cuts. Phone receives the same cue machinery. Normal rendering is capped at ~30fps, 1024px shadows and DPR1.5; expensive work stops offscreen/hidden. Full program available without JavaScript.",
+      "verification": "FIDELITY_REPORT.md / fidelity-evidence/raw-results.json",
+      "oldVerification": "historical"
+    }
+  }
+}

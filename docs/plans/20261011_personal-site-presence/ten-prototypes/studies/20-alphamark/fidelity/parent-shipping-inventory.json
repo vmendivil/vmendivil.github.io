@@ -1,0 +1,71 @@
+{
+  "study": "20-alphamark",
+  "verdict": "READY",
+  "boundary": "worker-source local comparison only; parent LAN assembly pending",
+  "runtimeAllowlist": [
+    "index.html",
+    "workable-system.html",
+    "after-hours.html",
+    "ai-judgment.html",
+    "style.css",
+    "fidelity.css",
+    "fallback.css",
+    "main.js",
+    "assets/intent.svg",
+    "assets/intent-mobile.svg",
+    "assets/curiosity.svg",
+    "assets/judgment.svg",
+    "assets/manrope.ttf",
+    "assets/manrope-OFL.txt"
+  ],
+  "shippingSHA256": {
+    "index.html": "fbd42953aa74a6ad1e1ae0204278d387f730d8a08c5885ac695da74333ddfe69",
+    "workable-system.html": "c74a38aa86624a94c4959922df736df311af5649d3ba2f6c92cf8dc8ceab981d",
+    "after-hours.html": "0175583d0f1efa8ab3fcb5b16c329504f60cb3f990dcb40fa556e82848efaefd",
+    "ai-judgment.html": "729c0bab73cd5895063d306aba0f2e60f3c296ac5b55733ae20da210e51c39ed",
+    "style.css": "7ccb93d8c1007b537c53d95742fc90c123c5329629a409b1cbf010b00d7ace68",
+    "fidelity.css": "330930f432a283867de204f363b233afae27ba7b8fa59f1b0edd6afb74f56441",
+    "fallback.css": "db1917ccca066c419aff3f6dedc9062e7380046d85e2633acf9931d580867566",
+    "main.js": "0b9f77cb78483654223c485c9160d74bb98581e97c363021899d747f81fbcf2e",
+    "assets/intent.svg": "9f426ef6be6b7d1881cad3f368145bd20ed074fe956a7698df9bb93db170d79c",
+    "assets/intent-mobile.svg": "20a273b3ef9aafa19ad2331018f84fd9a0c63b97038ca20c6d68dc105cedad3a",
+    "assets/curiosity.svg": "04236383f51f3713e69090792e1cd3a61df2ff693f3d68c7ea65e79732f6d85f",
+    "assets/judgment.svg": "a3d5f8219aaacb7a633bc82d3893bb9742896c4d47c21b5ecabb75169794b2bd",
+    "assets/manrope.ttf": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+    "assets/manrope-OFL.txt": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+  },
+  "servedMatchesSource": true,
+  "historicalSixViewportStaleFiles": [],
+  "freshAssertions": {
+    "passed": 100,
+    "failed": [],
+    "errors": []
+  },
+  "boundaryAssertions": {
+    "study": 20,
+    "results": [
+      {
+        "label": "repeated cover settled closed",
+        "pass": true
+      },
+      {
+        "label": "cover trigger focus restored",
+        "pass": true
+      },
+      {
+        "label": "settled animation count zero",
+        "pass": true
+      }
+    ],
+    "errors": []
+  },
+  "coverage": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/20-alphamark/fidelity/confirmation/results.json",
+  "freshProof": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/20-alphamark/fidelity/parent-inspection/results.json",
+  "motionProof": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/20-alphamark/fidelity/parent-motion/results.json",
+  "sourceEvidenceSHA256": {
+    "fidelity/source/03-action.png": "a79272f1fd50eefb25a6cb59a2bf8d5399c334d736f2080ab55c959fb42caf5f",
+    "fidelity/source/02-scroll.png": "1f7cd6ed0803faf2b1dc2efed63604472e7750dfe15886db392c24d6e4fef4d3",
+    "fidelity/source/01-opening.png": "42efae3e58cd3ae443e88593f6bf11f949b05c69b2f3e61b5166e3f9c02b2385",
+    "fidelity/source/observations.json": "9671402665887c5bf16a4314813554392cff79ece076a4b10153415bcc3c9d3a"
+  }
+}

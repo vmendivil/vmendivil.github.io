@@ -1,0 +1,146 @@
+[
+  {
+    "file": "assets/contact-portrait.jpg",
+    "sha256": "c332aaa63d3075c8695e9a862f0fd94a494b523b895191d3eb856469569cf45d",
+    "origin": "Origin: original procedural WebGL artwork, rendered from scene.js with self-hosted Three.js r170 and render-assets.cjs in Chromium / ANGLE SwiftShader. Not AI image generation, sourced photography, or copied reference assets. Seven unchanged tapered translucent iridescent mineral membranes; five smoothly eroded cohesive mineral masses, world-space nonperiodic fBm grain and warped seams, localized moss, a displaced continuous mineral floor, bank-localized talus and soft directional contact shadows. Original painted radiance map, point/directional optical lights, dust and light shafts. Wide and portrait cameras independently framed; Threshold, Practice, Curiosity and Contact lateral optical views. No reference-source pixels, models, geometry or shaders reused. Exact renderer version, source/generator SHA256 and raster SHA256 recorded in raster-provenance.json; origin embedded in each JPEG COM marker.",
+    "generation": "Seven unchanged tapered optical membranes, physical transmission .94, iridescence .7, IOR 1.36; five smooth eroded mineral masses, 76 bank-localized talus pieces, displaced continuous ground; world-space interpolated value-noise/fBm grain, warped seams, localized moss and directional PCF-soft contact shadows. Original painted radiance environment, unchanged optical lights and lateral camera; four views with separately authored wide/portrait framing.",
+    "generatedAt": "2026-10-12T04:46:04.248Z",
+    "renderer": {
+      "library": "Three.js r170",
+      "browser": "Chromium 153.0.8010.12",
+      "backend": "ANGLE SwiftShader",
+      "toneMapping": "ACESFilmic",
+      "exposure": 1.35
+    },
+    "sourceSha256": "c523fa055b444d7c099e2710dcf9f24ed662509dfd3ffed713f5ded0409c4715",
+    "generator": "render-assets.cjs",
+    "generatorSha256": "9c4f9ebbf9cdbd20dbba8aa451488dba17bbf1df94fc092345b7c7916965e9b3",
+    "embeddedOrigin": "JPEG COM; artwork-origin.txt"
+  },
+  {
+    "file": "assets/contact-wide.jpg",
+    "sha256": "7d3442b08836dd7659e478aee7a8bb10ef7a38e4c15ae18b25dee3f79e15f1a1",
+    "origin": "Origin: original procedural WebGL artwork, rendered from scene.js with self-hosted Three.js r170 and render-assets.cjs in Chromium / ANGLE SwiftShader. Not AI image generation, sourced photography, or copied reference assets. Seven unchanged tapered translucent iridescent mineral membranes; five smoothly eroded cohesive mineral masses, world-space nonperiodic fBm grain and warped seams, localized moss, a displaced continuous mineral floor, bank-localized talus and soft directional contact shadows. Original painted radiance map, point/directional optical lights, dust and light shafts. Wide and portrait cameras independently framed; Threshold, Practice, Curiosity and Contact lateral optical views. No reference-source pixels, models, geometry or shaders reused. Exact renderer version, source/generator SHA256 and raster SHA256 recorded in raster-provenance.json; origin embedded in each JPEG COM marker.",
+    "generation": "Seven unchanged tapered optical membranes, physical transmission .94, iridescence .7, IOR 1.36; five smooth eroded mineral masses, 76 bank-localized talus pieces, displaced continuous ground; world-space interpolated value-noise/fBm grain, warped seams, localized moss and directional PCF-soft contact shadows. Original painted radiance environment, unchanged optical lights and lateral camera; four views with separately authored wide/portrait framing.",
+    "generatedAt": "2026-10-12T04:46:04.251Z",
+    "renderer": {
+      "library": "Three.js r170",
+      "browser": "Chromium 153.0.8010.12",
+      "backend": "ANGLE SwiftShader",
+      "toneMapping": "ACESFilmic",
+      "exposure": 1.35
+    },
+    "sourceSha256": "c523fa055b444d7c099e2710dcf9f24ed662509dfd3ffed713f5ded0409c4715",
+    "generator": "render-assets.cjs",
+    "generatorSha256": "9c4f9ebbf9cdbd20dbba8aa451488dba17bbf1df94fc092345b7c7916965e9b3",
+    "embeddedOrigin": "JPEG COM; artwork-origin.txt"
+  },
+  {
+    "file": "assets/curiosity-portrait.jpg",
+    "sha256": "3b935ec423ff27cab433993310703a74c8d4a38747f905310593bcd715657427",
+    "origin": "Origin: original procedural WebGL artwork, rendered from scene.js with self-hosted Three.js r170 and render-assets.cjs in Chromium / ANGLE SwiftShader. Not AI image generation, sourced photography, or copied reference assets. Seven unchanged tapered translucent iridescent mineral membranes; five smoothly eroded cohesive mineral masses, world-space nonperiodic fBm grain and warped seams, localized moss, a displaced continuous mineral floor, bank-localized talus and soft directional contact shadows. Original painted radiance map, point/directional optical lights, dust and light shafts. Wide and portrait cameras independently framed; Threshold, Practice, Curiosity and Contact lateral optical views. No reference-source pixels, models, geometry or shaders reused. Exact renderer version, source/generator SHA256 and raster SHA256 recorded in raster-provenance.json; origin embedded in each JPEG COM marker.",
+    "generation": "Seven unchanged tapered optical membranes, physical transmission .94, iridescence .7, IOR 1.36; five smooth eroded mineral masses, 76 bank-localized talus pieces, displaced continuous ground; world-space interpolated value-noise/fBm grain, warped seams, localized moss and directional PCF-soft contact shadows. Original painted radiance environment, unchanged optical lights and lateral camera; four views with separately authored wide/portrait framing.",
+    "generatedAt": "2026-10-12T04:46:04.252Z",
+    "renderer": {
+      "library": "Three.js r170",
+      "browser": "Chromium 153.0.8010.12",
+      "backend": "ANGLE SwiftShader",
+      "toneMapping": "ACESFilmic",
+      "exposure": 1.35
+    },
+    "sourceSha256": "c523fa055b444d7c099e2710dcf9f24ed662509dfd3ffed713f5ded0409c4715",
+    "generator": "render-assets.cjs",
+    "generatorSha256": "9c4f9ebbf9cdbd20dbba8aa451488dba17bbf1df94fc092345b7c7916965e9b3",
+    "embeddedOrigin": "JPEG COM; artwork-origin.txt"
+  },
+  {
+    "file": "assets/curiosity-wide.jpg",
+    "sha256": "598fed310733e8462be95a24564c500a33d710e0567331867da766b4dfb65f93",
+    "origin": "Origin: original procedural WebGL artwork, rendered from scene.js with self-hosted Three.js r170 and render-assets.cjs in Chromium / ANGLE SwiftShader. Not AI image generation, sourced photography, or copied reference assets. Seven unchanged tapered translucent iridescent mineral membranes; five smoothly eroded cohesive mineral masses, world-space nonperiodic fBm grain and warped seams, localized moss, a displaced continuous mineral floor, bank-localized talus and soft directional contact shadows. Original painted radiance map, point/directional optical lights, dust and light shafts. Wide and portrait cameras independently framed; Threshold, Practice, Curiosity and Contact lateral optical views. No reference-source pixels, models, geometry or shaders reused. Exact renderer version, source/generator SHA256 and raster SHA256 recorded in raster-provenance.json; origin embedded in each JPEG COM marker.",
+    "generation": "Seven unchanged tapered optical membranes, physical transmission .94, iridescence .7, IOR 1.36; five smooth eroded mineral masses, 76 bank-localized talus pieces, displaced continuous ground; world-space interpolated value-noise/fBm grain, warped seams, localized moss and directional PCF-soft contact shadows. Original painted radiance environment, unchanged optical lights and lateral camera; four views with separately authored wide/portrait framing.",
+    "generatedAt": "2026-10-12T04:46:04.252Z",
+    "renderer": {
+      "library": "Three.js r170",
+      "browser": "Chromium 153.0.8010.12",
+      "backend": "ANGLE SwiftShader",
+      "toneMapping": "ACESFilmic",
+      "exposure": 1.35
+    },
+    "sourceSha256": "c523fa055b444d7c099e2710dcf9f24ed662509dfd3ffed713f5ded0409c4715",
+    "generator": "render-assets.cjs",
+    "generatorSha256": "9c4f9ebbf9cdbd20dbba8aa451488dba17bbf1df94fc092345b7c7916965e9b3",
+    "embeddedOrigin": "JPEG COM; artwork-origin.txt"
+  },
+  {
+    "file": "assets/practice-portrait.jpg",
+    "sha256": "e26eff5b5f2357b852b0fc9aebcec6d017a8fc4569d6cea7f99a03c9a29ebfcb",
+    "origin": "Origin: original procedural WebGL artwork, rendered from scene.js with self-hosted Three.js r170 and render-assets.cjs in Chromium / ANGLE SwiftShader. Not AI image generation, sourced photography, or copied reference assets. Seven unchanged tapered translucent iridescent mineral membranes; five smoothly eroded cohesive mineral masses, world-space nonperiodic fBm grain and warped seams, localized moss, a displaced continuous mineral floor, bank-localized talus and soft directional contact shadows. Original painted radiance map, point/directional optical lights, dust and light shafts. Wide and portrait cameras independently framed; Threshold, Practice, Curiosity and Contact lateral optical views. No reference-source pixels, models, geometry or shaders reused. Exact renderer version, source/generator SHA256 and raster SHA256 recorded in raster-provenance.json; origin embedded in each JPEG COM marker.",
+    "generation": "Seven unchanged tapered optical membranes, physical transmission .94, iridescence .7, IOR 1.36; five smooth eroded mineral masses, 76 bank-localized talus pieces, displaced continuous ground; world-space interpolated value-noise/fBm grain, warped seams, localized moss and directional PCF-soft contact shadows. Original painted radiance environment, unchanged optical lights and lateral camera; four views with separately authored wide/portrait framing.",
+    "generatedAt": "2026-10-12T04:46:04.253Z",
+    "renderer": {
+      "library": "Three.js r170",
+      "browser": "Chromium 153.0.8010.12",
+      "backend": "ANGLE SwiftShader",
+      "toneMapping": "ACESFilmic",
+      "exposure": 1.35
+    },
+    "sourceSha256": "c523fa055b444d7c099e2710dcf9f24ed662509dfd3ffed713f5ded0409c4715",
+    "generator": "render-assets.cjs",
+    "generatorSha256": "9c4f9ebbf9cdbd20dbba8aa451488dba17bbf1df94fc092345b7c7916965e9b3",
+    "embeddedOrigin": "JPEG COM; artwork-origin.txt"
+  },
+  {
+    "file": "assets/practice-wide.jpg",
+    "sha256": "4a94cc004f4b1c7d49e7934f81ce372262c846770206f2baf256f010d99c1c27",
+    "origin": "Origin: original procedural WebGL artwork, rendered from scene.js with self-hosted Three.js r170 and render-assets.cjs in Chromium / ANGLE SwiftShader. Not AI image generation, sourced photography, or copied reference assets. Seven unchanged tapered translucent iridescent mineral membranes; five smoothly eroded cohesive mineral masses, world-space nonperiodic fBm grain and warped seams, localized moss, a displaced continuous mineral floor, bank-localized talus and soft directional contact shadows. Original painted radiance map, point/directional optical lights, dust and light shafts. Wide and portrait cameras independently framed; Threshold, Practice, Curiosity and Contact lateral optical views. No reference-source pixels, models, geometry or shaders reused. Exact renderer version, source/generator SHA256 and raster SHA256 recorded in raster-provenance.json; origin embedded in each JPEG COM marker.",
+    "generation": "Seven unchanged tapered optical membranes, physical transmission .94, iridescence .7, IOR 1.36; five smooth eroded mineral masses, 76 bank-localized talus pieces, displaced continuous ground; world-space interpolated value-noise/fBm grain, warped seams, localized moss and directional PCF-soft contact shadows. Original painted radiance environment, unchanged optical lights and lateral camera; four views with separately authored wide/portrait framing.",
+    "generatedAt": "2026-10-12T04:46:04.253Z",
+    "renderer": {
+      "library": "Three.js r170",
+      "browser": "Chromium 153.0.8010.12",
+      "backend": "ANGLE SwiftShader",
+      "toneMapping": "ACESFilmic",
+      "exposure": 1.35
+    },
+    "sourceSha256": "c523fa055b444d7c099e2710dcf9f24ed662509dfd3ffed713f5ded0409c4715",
+    "generator": "render-assets.cjs",
+    "generatorSha256": "9c4f9ebbf9cdbd20dbba8aa451488dba17bbf1df94fc092345b7c7916965e9b3",
+    "embeddedOrigin": "JPEG COM; artwork-origin.txt"
+  },
+  {
+    "file": "assets/threshold-portrait.jpg",
+    "sha256": "4012bceda10a91b7d14901b12a00efe7e221c90750d20b4b8f6e99b9f79a5c44",
+    "origin": "Origin: original procedural WebGL artwork, rendered from scene.js with self-hosted Three.js r170 and render-assets.cjs in Chromium / ANGLE SwiftShader. Not AI image generation, sourced photography, or copied reference assets. Seven unchanged tapered translucent iridescent mineral membranes; five smoothly eroded cohesive mineral masses, world-space nonperiodic fBm grain and warped seams, localized moss, a displaced continuous mineral floor, bank-localized talus and soft directional contact shadows. Original painted radiance map, point/directional optical lights, dust and light shafts. Wide and portrait cameras independently framed; Threshold, Practice, Curiosity and Contact lateral optical views. No reference-source pixels, models, geometry or shaders reused. Exact renderer version, source/generator SHA256 and raster SHA256 recorded in raster-provenance.json; origin embedded in each JPEG COM marker.",
+    "generation": "Seven unchanged tapered optical membranes, physical transmission .94, iridescence .7, IOR 1.36; five smooth eroded mineral masses, 76 bank-localized talus pieces, displaced continuous ground; world-space interpolated value-noise/fBm grain, warped seams, localized moss and directional PCF-soft contact shadows. Original painted radiance environment, unchanged optical lights and lateral camera; four views with separately authored wide/portrait framing.",
+    "generatedAt": "2026-10-12T04:46:04.254Z",
+    "renderer": {
+      "library": "Three.js r170",
+      "browser": "Chromium 153.0.8010.12",
+      "backend": "ANGLE SwiftShader",
+      "toneMapping": "ACESFilmic",
+      "exposure": 1.35
+    },
+    "sourceSha256": "c523fa055b444d7c099e2710dcf9f24ed662509dfd3ffed713f5ded0409c4715",
+    "generator": "render-assets.cjs",
+    "generatorSha256": "9c4f9ebbf9cdbd20dbba8aa451488dba17bbf1df94fc092345b7c7916965e9b3",
+    "embeddedOrigin": "JPEG COM; artwork-origin.txt"
+  },
+  {
+    "file": "assets/threshold-wide.jpg",
+    "sha256": "9252d23265ab1fe164f196a8f24df19227d4b5491fd82fc59023c0df1e720c82",
+    "origin": "Origin: original procedural WebGL artwork, rendered from scene.js with self-hosted Three.js r170 and render-assets.cjs in Chromium / ANGLE SwiftShader. Not AI image generation, sourced photography, or copied reference assets. Seven unchanged tapered translucent iridescent mineral membranes; five smoothly eroded cohesive mineral masses, world-space nonperiodic fBm grain and warped seams, localized moss, a displaced continuous mineral floor, bank-localized talus and soft directional contact shadows. Original painted radiance map, point/directional optical lights, dust and light shafts. Wide and portrait cameras independently framed; Threshold, Practice, Curiosity and Contact lateral optical views. No reference-source pixels, models, geometry or shaders reused. Exact renderer version, source/generator SHA256 and raster SHA256 recorded in raster-provenance.json; origin embedded in each JPEG COM marker.",
+    "generation": "Seven unchanged tapered optical membranes, physical transmission .94, iridescence .7, IOR 1.36; five smooth eroded mineral masses, 76 bank-localized talus pieces, displaced continuous ground; world-space interpolated value-noise/fBm grain, warped seams, localized moss and directional PCF-soft contact shadows. Original painted radiance environment, unchanged optical lights and lateral camera; four views with separately authored wide/portrait framing.",
+    "generatedAt": "2026-10-12T04:46:04.254Z",
+    "renderer": {
+      "library": "Three.js r170",
+      "browser": "Chromium 153.0.8010.12",
+      "backend": "ANGLE SwiftShader",
+      "toneMapping": "ACESFilmic",
+      "exposure": 1.35
+    },
+    "sourceSha256": "c523fa055b444d7c099e2710dcf9f24ed662509dfd3ffed713f5ded0409c4715",
+    "generator": "render-assets.cjs",
+    "generatorSha256": "9c4f9ebbf9cdbd20dbba8aa451488dba17bbf1df94fc092345b7c7916965e9b3",
+    "embeddedOrigin": "JPEG COM; artwork-origin.txt"
+  }
+]

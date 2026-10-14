@@ -1,0 +1,35 @@
+{
+  "main": {
+    "file": "completion-results.json",
+    "checks": 152,
+    "passed": 146,
+    "historical_visibility_sampling_failures": [
+      "1440x900 simulated hidden draw idle",
+      "320x740 simulated hidden draw idle",
+      "390x844 simulated hidden draw idle",
+      "430x932 simulated hidden draw idle",
+      "844x390 simulated hidden draw idle",
+      "768x1024 simulated hidden draw idle"
+    ],
+    "errors": [],
+    "chronological_frames": 72
+  },
+  "path": {
+    "checks": 33,
+    "passed": 33
+  },
+  "atomic_visibility": {
+    "checks": 6,
+    "passed": 6
+  },
+  "detector": {
+    "warning": 3,
+    "advisory": 56
+  },
+  "runtime_hashes": {
+    "index.html": "d2b05333d6c8426f417fff37e6e44260948d2e5f500b10f160e2e9124637c35e",
+    "style.css": "8648fe6099aa0fa7e8f8b64f101e78cea50d9e90ddcd1b3578f5e84fdb4abd5d",
+    "app.js": "6d3736dccc7643b2a7bf67a6117e535da4d58f4a5457a395c6cfdded208ac920"
+  },
+  "status": "Ready for independent parent source-fit and served-LAN review; no production or visual acceptance claim"
+}

@@ -1,0 +1,47 @@
+{
+  "root": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/02-joshua-island/fidelity",
+  "viewports": [
+    [
+      1440,
+      900
+    ],
+    [
+      320,
+      740
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      430,
+      932
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      768,
+      1024
+    ]
+  ],
+  "runtimeHashes": {
+    "index.html": "21c381321dbfe929dd4b3dbb64387c643f62507d275f2889cd6b4fd9f596010f",
+    "style.css": "12716b8b15f25ad886ab53f729a5981739d0870a861fabd4b4ebbaf3e80752bd",
+    "world.js": "2416bec27b45df926ec4ddf88dbf556d068d2de26dd0c5b3a3e66a4397796bd7"
+  },
+  "normalMotion": [
+    "1440-motion-sequence.json",
+    "390-motion-sequence.json"
+  ],
+  "rawResults": [
+    "results.json",
+    "performance-confirmation.json",
+    "keyboard-confirmation.json",
+    "detector-raw.json"
+  ],
+  "limits": "The source original stayed on LOADING during live revisit; drag instructions and retained archived imagery informed this interpretation, not a claimed successful live gesture test. No source-level populated character performance, day/night system or horizontal narrative world. Camera travel is frame-based and slows substantially in software rendering (4 desktop / 13 phone renders per second observed). A 2.5-second pause snapshot had four remaining approach frames; longer diagnostic reached zero. A 390px offscreen probe left a 15px scenic strip visible and therefore continued rendering; a truly offscreen 320px probe showed zero delta. Hidden-tab behavior could not be certified because the headless browser kept document.hidden false.",
+  "referenceCaptureSHA256": "32ca5966e98146c85d4cb01390699d17f52015b42c091dd418583914f55d499a",
+  "hashVerification": "All current runtime SHA256 values read back and matched results.json after implementation; six-size destination coverage aggregated programmatically."
+}

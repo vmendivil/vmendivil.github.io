@@ -1,0 +1,555 @@
+{
+  "scope": "Named fixes only; comparative fresh review pending",
+  "engine": "Chromium via Browser Use CDP; emulated CSS viewport, not physical devices",
+  "desktop": {
+    "ready": {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "document": {
+        "width": 1425,
+        "height": 933
+      },
+      "routes": [
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M259.9375 73 H476.859375 L648.4921875 125 L820.125 73 H1119.125"
+        },
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M228.21875 143 H476.859375 L648.4921875 125 L820.125 143 H1119.125"
+        },
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M238.265625 213 H476.859375 L648.4921875 125 L820.125 213 H1119.125"
+        }
+      ],
+      "labels": [
+        {
+          "text": "Technology, end to end.",
+          "size": 15
+        },
+        {
+          "text": "INPUT / mixed records",
+          "size": 12
+        },
+        {
+          "text": "OUTPUT / next actions",
+          "size": 12
+        }
+      ],
+      "descriptions": [
+        {
+          "text": "Synthetic example \u00b7 not a case study",
+          "size": 14
+        },
+        {
+          "text": "Raw requests. One explicit next step each.",
+          "size": 14
+        },
+        {
+          "text": "release requested",
+          "size": 14
+        },
+        {
+          "text": "approval missing",
+          "size": 14
+        },
+        {
+          "text": "release requested",
+          "size": 14
+        },
+        {
+          "text": "normalizethen route",
+          "size": 14
+        },
+        {
+          "text": "trim \u2192 uppercase",
+          "size": 14
+        },
+        {
+          "text": "awaiting run",
+          "size": 14
+        },
+        {
+          "text": "awaiting run",
+          "size": 14
+        },
+        {
+          "text": "awaiting run",
+          "size": 14
+        },
+        {
+          "text": "Intent \u2192 clean data \u2192 a usable next step.Illustrating an approach, not a client result.",
+          "size": 14
+        },
+        {
+          "text": "Dynamics 365 F&OProcess automationRaspberry Pi homelabAI-assisted work",
+          "size": 14
+        }
+      ],
+      "source": {
+        "x": 64,
+        "y": 482.46875,
+        "width": 492.859375,
+        "height": 250,
+        "bottom": 732.46875,
+        "right": 556.859375
+      },
+      "operator": {
+        "x": 556.859375,
+        "y": 482.46875,
+        "width": 311.265625,
+        "height": 250,
+        "bottom": 732.46875,
+        "right": 868.125
+      },
+      "result": {
+        "x": 868.125,
+        "y": 482.46875,
+        "width": 492.859375,
+        "height": 250,
+        "bottom": 732.46875,
+        "right": 1360.984375
+      },
+      "vertical": false,
+      "outputs": [
+        "PO-041awaiting run",
+        "PO-042awaiting run",
+        "PO-043awaiting run"
+      ],
+      "status": "Raw requests. One explicit next step each.",
+      "state": "ready"
+    },
+    "complete": {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "document": {
+        "width": 1425,
+        "height": 933
+      },
+      "routes": [
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M259.9375 73 H476.859375 L648.4921875 125 L820.125 73 H1112.71875"
+        },
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M228.21875 143 H476.859375 L648.4921875 125 L820.125 143 H1089.3125"
+        },
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M238.265625 213 H476.859375 L648.4921875 125 L820.125 213 H1112.71875"
+        }
+      ],
+      "labels": [
+        {
+          "text": "Technology, end to end.",
+          "size": 15
+        },
+        {
+          "text": "INPUT / mixed records",
+          "size": 12
+        },
+        {
+          "text": "OUTPUT / next actions",
+          "size": 12
+        }
+      ],
+      "descriptions": [
+        {
+          "text": "Synthetic example \u00b7 not a case study",
+          "size": 14
+        },
+        {
+          "text": "Complete. Two releases; one approval needed.",
+          "size": 14
+        },
+        {
+          "text": "release requested",
+          "size": 14
+        },
+        {
+          "text": "approval missing",
+          "size": 14
+        },
+        {
+          "text": "release requested",
+          "size": 14
+        },
+        {
+          "text": "normalizethen route",
+          "size": 14
+        },
+        {
+          "text": "clean \u2192 test \u2192 route",
+          "size": 14
+        },
+        {
+          "text": "release order",
+          "size": 14
+        },
+        {
+          "text": "request approval",
+          "size": 14
+        },
+        {
+          "text": "release order",
+          "size": 14
+        },
+        {
+          "text": "Every record has a next step. Exceptions stay visible.Illustrating an approach, not a client result.",
+          "size": 14
+        },
+        {
+          "text": "Dynamics 365 F&OProcess automationRaspberry Pi homelabAI-assisted work",
+          "size": 14
+        }
+      ],
+      "source": {
+        "x": 64,
+        "y": 482.46875,
+        "width": 492.859375,
+        "height": 250,
+        "bottom": 732.46875,
+        "right": 556.859375
+      },
+      "operator": {
+        "x": 556.859375,
+        "y": 482.46875,
+        "width": 311.265625,
+        "height": 250,
+        "bottom": 732.46875,
+        "right": 868.125
+      },
+      "result": {
+        "x": 868.125,
+        "y": 482.46875,
+        "width": 492.859375,
+        "height": 250,
+        "bottom": 732.46875,
+        "right": 1360.984375
+      },
+      "vertical": false,
+      "outputs": [
+        "PO-041release order",
+        "PO-042request approval",
+        "PO-043release order"
+      ],
+      "status": "Complete. Two releases; one approval needed.",
+      "state": "complete"
+    },
+    "keyboard": {
+      "focus": {
+        "id": "run",
+        "outline": "solid"
+      },
+      "activation": "Enter",
+      "loading": {
+        "state": "running",
+        "disabled": true
+      }
+    },
+    "assertions": {
+      "keyboardFocus": true,
+      "loading": true,
+      "outputs": true,
+      "endpoints": true,
+      "labels": true,
+      "descriptions": true,
+      "noHorizontalOverflow": true,
+      "flow": true
+    }
+  },
+  "mobile": {
+    "ready": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "document": {
+        "width": 375,
+        "height": 1407
+      },
+      "routes": [
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M307 62 H323 V230 H165.5 V246 M165.5 406.59375 V422.59375 H8 V500.59375 H24"
+        },
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M307 126 H319 V230 H165.5 V246 M165.5 406.59375 V422.59375 H12 V564.59375 H24"
+        },
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M307 190 H315 V230 H165.5 V246 M165.5 406.59375 V422.59375 H16 V628.59375 H24"
+        }
+      ],
+      "labels": [
+        {
+          "text": "Technology, end to end.",
+          "size": 12
+        },
+        {
+          "text": "INPUT / mixed records",
+          "size": 12
+        },
+        {
+          "text": "OUTPUT / next actions",
+          "size": 12
+        }
+      ],
+      "descriptions": [
+        {
+          "text": "Synthetic example \u00b7 not a case study",
+          "size": 14
+        },
+        {
+          "text": "Raw requests. One explicit next step each.",
+          "size": 14
+        },
+        {
+          "text": "release requested",
+          "size": 14
+        },
+        {
+          "text": "approval missing",
+          "size": 14
+        },
+        {
+          "text": "release requested",
+          "size": 14
+        },
+        {
+          "text": "normalizethen route",
+          "size": 14
+        },
+        {
+          "text": "trim \u2192 uppercase",
+          "size": 14
+        },
+        {
+          "text": "awaiting run",
+          "size": 14
+        },
+        {
+          "text": "awaiting run",
+          "size": 14
+        },
+        {
+          "text": "awaiting run",
+          "size": 14
+        },
+        {
+          "text": "Intent \u2192 clean data \u2192 a usable next step.Illustrating an approach, not a client result.",
+          "size": 14
+        },
+        {
+          "text": "Dynamics 365 F&OProcess automationRaspberry Pi homelabAI-assisted work",
+          "size": 14
+        }
+      ],
+      "source": {
+        "x": 22,
+        "y": 483.78125,
+        "width": 331,
+        "height": 214,
+        "bottom": 697.78125,
+        "right": 353
+      },
+      "operator": {
+        "x": 22,
+        "y": 729.78125,
+        "width": 331,
+        "height": 160.59375,
+        "bottom": 890.375,
+        "right": 353
+      },
+      "result": {
+        "x": 22,
+        "y": 922.375,
+        "width": 331,
+        "height": 214,
+        "bottom": 1136.375,
+        "right": 353
+      },
+      "vertical": true,
+      "outputs": [
+        "PO-041awaiting run",
+        "PO-042awaiting run",
+        "PO-043awaiting run"
+      ],
+      "status": "Raw requests. One explicit next step each.",
+      "state": "ready"
+    },
+    "complete": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "document": {
+        "width": 375,
+        "height": 1428
+      },
+      "routes": [
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M307 62 H323 V230 H165.5 V246 M165.5 406.59375 V422.59375 H8 V500.59375 H24"
+        },
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M307 126 H319 V230 H165.5 V246 M165.5 406.59375 V422.59375 H12 V564.59375 H24"
+        },
+        {
+          "startError": 0,
+          "endError": 0,
+          "d": "M307 190 H315 V230 H165.5 V246 M165.5 406.59375 V422.59375 H16 V628.59375 H24"
+        }
+      ],
+      "labels": [
+        {
+          "text": "Technology, end to end.",
+          "size": 12
+        },
+        {
+          "text": "INPUT / mixed records",
+          "size": 12
+        },
+        {
+          "text": "OUTPUT / next actions",
+          "size": 12
+        }
+      ],
+      "descriptions": [
+        {
+          "text": "Synthetic example \u00b7 not a case study",
+          "size": 14
+        },
+        {
+          "text": "Complete. Two releases; one approval needed.",
+          "size": 14
+        },
+        {
+          "text": "release requested",
+          "size": 14
+        },
+        {
+          "text": "approval missing",
+          "size": 14
+        },
+        {
+          "text": "release requested",
+          "size": 14
+        },
+        {
+          "text": "normalizethen route",
+          "size": 14
+        },
+        {
+          "text": "clean \u2192 test \u2192 route",
+          "size": 14
+        },
+        {
+          "text": "release order",
+          "size": 14
+        },
+        {
+          "text": "request approval",
+          "size": 14
+        },
+        {
+          "text": "release order",
+          "size": 14
+        },
+        {
+          "text": "Every record has a next step. Exceptions stay visible.Illustrating an approach, not a client result.",
+          "size": 14
+        },
+        {
+          "text": "Dynamics 365 F&OProcess automationRaspberry Pi homelabAI-assisted work",
+          "size": 14
+        }
+      ],
+      "source": {
+        "x": 22,
+        "y": 483.78125,
+        "width": 331,
+        "height": 214,
+        "bottom": 697.78125,
+        "right": 353
+      },
+      "operator": {
+        "x": 22,
+        "y": 729.78125,
+        "width": 331,
+        "height": 160.59375,
+        "bottom": 890.375,
+        "right": 353
+      },
+      "result": {
+        "x": 22,
+        "y": 922.375,
+        "width": 331,
+        "height": 214,
+        "bottom": 1136.375,
+        "right": 353
+      },
+      "vertical": true,
+      "outputs": [
+        "PO-041release order",
+        "PO-042request approval",
+        "PO-043release order"
+      ],
+      "status": "Complete. Two releases; one approval needed.",
+      "state": "complete"
+    },
+    "keyboard": {
+      "focus": {
+        "id": "run",
+        "outline": "solid"
+      },
+      "activation": "Space",
+      "loading": {
+        "state": "running",
+        "disabled": true
+      }
+    },
+    "assertions": {
+      "keyboardFocus": true,
+      "loading": true,
+      "outputs": true,
+      "endpoints": true,
+      "labels": true,
+      "descriptions": true,
+      "noHorizontalOverflow": true,
+      "flow": true
+    }
+  },
+  "detector": "Single earlier detector run retained unchanged; warnings historical, not rerun after fixes",
+  "captures": {
+    "desktop": "desktop.png \u2014 1440\u00d7900 viewport",
+    "mobile": "mobile.png \u2014 exact 390\u00d7844 viewport",
+    "mobileFull": "mobile-full.png \u2014 375\u00d71428 untiled complete route from 390\u00d7844 viewport; 15px scrollbar excluded"
+  },
+  "harnessNotes": [
+    "Enter without text did not activate; corrected native Enter with carriage-return text verified.",
+    "Browser-timed Promise waits replaced unreliable wall-clock sleep.",
+    "Immediate resize probe was unsettled; settled ready and complete probes passed.",
+    "Desktop capture timed out once; retried with explicit viewport clip.",
+    "Mobile explicit viewport capture timed out once; retry succeeded."
+  ]
+}

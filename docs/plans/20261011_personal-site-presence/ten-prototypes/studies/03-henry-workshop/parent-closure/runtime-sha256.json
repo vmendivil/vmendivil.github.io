@@ -1,0 +1,24 @@
+{
+  "allowlist": [
+    "index.html",
+    "style.css",
+    "room.js",
+    "assets/ALEGREYA-OFL.txt",
+    "assets/THREE-LICENSE.txt",
+    "assets/VOLLKORN-OFL.txt",
+    "assets/alegreya-sans.ttf",
+    "assets/three.module.js",
+    "assets/vollkorn.ttf"
+  ],
+  "sha256": {
+    "index.html": "24122041e33bc7330b913da789ec36ab5dd590f1629ff6e82125fa5ec182ff7b",
+    "style.css": "0dac550d8458a35a94859f8511849b495adef9ebe2a21ab6c0f69eb0e022dd02",
+    "room.js": "9957b96ba461626b32a9346ada4c23820ec681b7fce858b25c4739c9aec0cb0f",
+    "assets/ALEGREYA-OFL.txt": "0677891e6a143f297350d260ad766ad33bfc18ed5fa4f213acf648d6b597ec1a",
+    "assets/THREE-LICENSE.txt": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "assets/VOLLKORN-OFL.txt": "53f9c99fa3d47f7d632a42ee7bab4a834a60a744f6026d676c3a223cef2b2ef3",
+    "assets/alegreya-sans.ttf": "8fab634196007afca839f1e5a6fb300976daff55d8528b590ef032f01b14ea10",
+    "assets/three.module.js": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb",
+    "assets/vollkorn.ttf": "4ebef434f76f80286204840354a84db79a0dc3c87deeeb791e015b70b2ade49d"
+  }
+}

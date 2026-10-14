@@ -1,0 +1,60 @@
+{
+  "phase": "pending-defect-inspection",
+  "results": [
+    {
+      "name": "paused-tuning",
+      "state": {
+        "selected": "practice",
+        "reading": false,
+        "signalCount": 1,
+        "paused": true,
+        "roomVisible": true,
+        "hidden": false,
+        "animations": [
+          {
+            "state": "paused",
+            "time": 2149.9739999521375
+          },
+          {
+            "state": "running",
+            "time": 50.05799991654625
+          }
+        ]
+      }
+    },
+    {
+      "name": "reduced-tuning",
+      "state": {
+        "selected": "curiosity",
+        "reading": false,
+        "signalCount": 2,
+        "paused": true,
+        "roomVisible": true,
+        "hidden": false,
+        "animations": []
+      },
+      "reduced": true
+    },
+    {
+      "name": "renderer-failure-controls",
+      "buttons": [
+        {
+          "id": "listen-light",
+          "disabled": false
+        },
+        {
+          "id": "receiver",
+          "disabled": false
+        },
+        {
+          "id": "ambience",
+          "disabled": true
+        }
+      ],
+      "contact": 1
+    },
+    {
+      "errors": []
+    }
+  ]
+}

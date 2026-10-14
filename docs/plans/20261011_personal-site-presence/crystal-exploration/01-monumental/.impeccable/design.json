@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-11T18:17:20+00:00",
+  "title": "Design System: Monumental crystal",
+  "extensions": {
+    "shadows": [],
+    "motion": [{"name":"disclosure","value":"transform .3s cubic-bezier(.16,1,.3,1)","purpose":"Rotate the plus to communicate an open seam; disabled under reduced motion."}],
+    "breakpoints": [{"name":"stack","value":"640px"},{"name":"intermediate","value":"900px"}],
+    "typographyMeta": {"display":{"displayName":"Monumental condensed","purpose":"Names and central thesis; body is a distinct readable sans voice."}}
+  },
+  "components": [
+    {"name":"Action plaque","kind":"button","refersTo":"action","description":"Flat high-contrast action with a material field on hover.","html":"<button class=\"ds-action\">Prepare a conversation brief</button>","css":".ds-action{background:#f2eee6;color:#211e1b;border:0;border-radius:0;padding:16px 20px;font:600 15px Arial;cursor:pointer;min-height:54px}.ds-action:hover{background:#bf8968}.ds-action:focus-visible{outline:3px solid #bf8968;outline-offset:6px}"},
+    {"name":"Situation field","kind":"input","description":"Local-only problem description.","html":"<label class=\"ds-label\">A few words about the problem<textarea class=\"ds-input\" placeholder=\"What keeps repeating?\"></textarea></label>","css":".ds-label{font:15px Arial;color:#f2eee6}.ds-input{display:block;margin-top:12px;min-height:155px;width:100%;padding:18px;background:#21201e;color:#f2eee6;border:1px solid #686158;border-radius:0;caret-color:#bf8968;font:16px/1.65 Arial;box-sizing:border-box}.ds-input::placeholder{color:#c3bdb2}.ds-input:focus-visible{outline:3px solid #bf8968;outline-offset:6px}"},
+    {"name":"Disclosure seam","kind":"custom","description":"Native keyboard-operable problem exploration.","html":"<details class=\"ds-seam\"><summary>The tool doesn’t fit the workflow.</summary><p>Follow the work with the people doing it.</p></details>","css":".ds-seam{background:#bf8968;color:#211e1b;border-top:1px solid #735340;font:17px/1.65 Arial}.ds-seam summary{padding:26px 0;cursor:pointer;font-size:26px}.ds-seam p{padding-bottom:24px}.ds-seam summary:focus-visible{outline:3px solid #211e1b;outline-offset:6px}"}
+  ],
+  "narrative": {
+    "northStar": "The portrait installation",
+    "overview": "Dark gallery space gives a faceted portrait room to act as a sculpture. Warm stone lettering and clay-copper fields extend its material without adding synthetic crystal decorations. The palette matches an evening viewing scene rather than a generic technology aesthetic.",
+    "keyCharacteristics": ["Portrait material supplies the identity.","Condensed display lettering carries scale; body text stays conversational.","Flat action plaques and disclosure seams, not capability cards."],
+    "rules": [],
+    "dos": ["Do let the existing illustration carry the faceted material.","Do alternate large material fields with readable quiet passages."],
+    "donts": ["Don't add generic capability-card rows or invented social proof.","Don't treat the locally prepared conversation brief as contact delivery."]
+  }
+}

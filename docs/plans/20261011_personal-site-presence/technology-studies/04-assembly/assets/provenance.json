@@ -1,0 +1,37 @@
+[
+  {
+    "file": "barlow-regular.ttf",
+    "origin": "https://fonts.gstatic.com/s/barlow/v13/7cHpv4kjgoGqM7EPCw.ttf",
+    "family": "Barlow",
+    "author": "Jeremy Tribby",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "barlow-medium.ttf",
+    "origin": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E3_-gc4A.ttf",
+    "family": "Barlow",
+    "author": "Jeremy Tribby",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "barlow-semibold.ttf",
+    "origin": "https://fonts.gstatic.com/s/barlow/v13/7cHqv4kjgoGqM7E30-8c4A.ttf",
+    "family": "Barlow",
+    "author": "Jeremy Tribby",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "barlow-condensed-medium.ttf",
+    "origin": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lw_3E.ttf",
+    "family": "Barlow",
+    "author": "Jeremy Tribby",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "barlow-condensed-semibold.ttf",
+    "origin": "https://fonts.gstatic.com/s/barlowcondensed/v13/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873_3E.ttf",
+    "family": "Barlow",
+    "author": "Jeremy Tribby",
+    "license": "SIL Open Font License 1.1"
+  }
+]

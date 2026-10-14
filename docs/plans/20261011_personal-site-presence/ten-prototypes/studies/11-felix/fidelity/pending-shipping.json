@@ -1,0 +1,59 @@
+{
+  "study": "11-felix",
+  "verdict": "READY",
+  "boundary": "source-only readiness; assembled LAN copy and independent source comparison remain parent-owned",
+  "generatedAt": "2026-10-13T12:55:56.472360+00:00",
+  "runtimeAllowlist": [
+    "assets/OFL.txt",
+    "assets/archivo-black.ttf",
+    "assets/favicon.svg",
+    "assets/lounge.svg",
+    "fidelity.css",
+    "index.html",
+    "main.js",
+    "style.css"
+  ],
+  "shippingFileCount": 8,
+  "sha256": {
+    "assets/OFL.txt": "3173acd82f8c6159b5b1037b539fcbd4edff68e65c2ea8b9412b5a5ca97b08ff",
+    "assets/archivo-black.ttf": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180",
+    "assets/favicon.svg": "409c89577a76e50a8e5f8dd39dc6ec423c9cba8fec66a3877dc6db1ac2a68ba9",
+    "assets/lounge.svg": "658ef5649081804a9291b2341bbcdc2aa7f689f8797388f8f1d640367ab347d0",
+    "fidelity.css": "63d1bbbf6bd4401ac1305baf5b5d56b72d16f4aed95262b88f15b931552006ef",
+    "index.html": "39e0a23e59d1304d2033f9042b5c1d9cb8da977c2b32320e0df243702a550005",
+    "main.js": "c7ece42ef0e20a14c3b962204836b8ca8aee3b353a45c85e8b08787ddb7e7b96",
+    "style.css": "cef9deb91f27201a0f2a91c5546072ecd5dd8dd355b5c14feada63b43732c23f"
+  },
+  "priorRecordedHashMatches": {
+    "fidelity.css": false,
+    "style.css": true,
+    "main.js": false,
+    "index.html": true,
+    "assets/lounge.svg": true,
+    "assets/favicon.svg": true
+  },
+  "counts": {
+    "freshNormalPaths": 3,
+    "freshVariants": 3,
+    "freshNormalStateObservations": 42,
+    "freshHiddenSessions": 1,
+    "freshDefectPaths": 6,
+    "freshDefectStateAssertions": 30
+  },
+  "verifiedAbsoluteEvidencePaths": [
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/fidelity/pending-repair-confirmation/results.json",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/fidelity/pending-hidden-results.json",
+    "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/11-felix/fidelity/pending-defect-confirmation/defects.json"
+  ],
+  "sourceUnchangedInThisPass": false,
+  "privateDirectoriesNeverShip": [
+    "fidelity",
+    ".impeccable",
+    "verification"
+  ],
+  "limits": [
+    "Chromium SwiftShader software-rendered viewport emulation, not physical-device Safari/GPU certification",
+    "Prior six-size scenes/readings are retained historical evidence, not new-fix certification; targeted fixes tested fresh at all six sizes",
+    "Live source revisit not performed in this closure; retained original source evidence and chronological frames inspected"
+  ]
+}

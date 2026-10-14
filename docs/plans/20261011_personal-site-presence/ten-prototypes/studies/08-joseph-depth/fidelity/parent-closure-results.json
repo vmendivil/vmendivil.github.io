@@ -1,0 +1,417 @@
+{
+  "study": "08-joseph-depth",
+  "verdict": "READY",
+  "boundary": "local worker-source assembly candidate, not assembled/LAN/production approval",
+  "repair_batch": "context-loss-and-gallery-availability",
+  "functional_fix": "Context loss now permanently guards the renderer and animation scheduler for this page lifetime. Reduced-motion changes and scrolling cannot revive the unavailable scene or re-enable atmosphere.",
+  "current_checks": 93,
+  "current_passed": 93,
+  "current_errors": [],
+  "current_viewports": [
+    [
+      1440,
+      900
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      844,
+      390
+    ]
+  ],
+  "current_capture_count": 35,
+  "runtime_allowlist": [
+    "index.html",
+    "style.css",
+    "app.js",
+    "assets/favicon.svg",
+    "assets/karla-OFL.txt",
+    "assets/karla.ttf",
+    "assets/tenor-OFL.txt",
+    "assets/tenor-sans.ttf",
+    "assets/three-LICENSE.txt",
+    "assets/three.module.js"
+  ],
+  "runtime_inventory": {
+    "index.html": {
+      "sha256": "d2b05333d6c8426f417fff37e6e44260948d2e5f500b10f160e2e9124637c35e",
+      "bytes": 4659
+    },
+    "style.css": {
+      "sha256": "8648fe6099aa0fa7e8f8b64f101e78cea50d9e90ddcd1b3578f5e84fdb4abd5d",
+      "bytes": 11087
+    },
+    "app.js": {
+      "sha256": "2812f4d76f29136bed7efcb13f57e68ed4cdbed46625a20e16c092a0cd6c3e9b",
+      "bytes": 13544
+    },
+    "assets/favicon.svg": {
+      "sha256": "bcc10073e941448dd779764d81ba582232475582d64e9fab286f097b73886675",
+      "bytes": 227
+    },
+    "assets/karla-OFL.txt": {
+      "sha256": "edf2c840acb9570fe02f40721126aa0da4e4011a0030cc6dce30780569f609b6",
+      "bytes": 4384
+    },
+    "assets/karla.ttf": {
+      "sha256": "ed3ca4cd9bdd899c543927c30bf5ff50706b24b3f2b7328e64b25f7d2a9d23dc",
+      "bytes": 94016
+    },
+    "assets/tenor-OFL.txt": {
+      "sha256": "7b826efb1b74a50b1c1aef0a1ba4530925b993ceadc3016d1d787c68a61649dd",
+      "bytes": 4413
+    },
+    "assets/tenor-sans.ttf": {
+      "sha256": "350c882fa9f19927ed108371691d393d5dc1c209edde8472cab8aa8013241366",
+      "bytes": 131896
+    },
+    "assets/three-LICENSE.txt": {
+      "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
+      "bytes": 1081
+    },
+    "assets/three.module.js": {
+      "sha256": "76dea8151bc9352aef3528b4262e249b2604f62543828328db978d060d61a495",
+      "bytes": 1272972
+    }
+  },
+  "preclosure_runtime_match": {
+    "index.html": true,
+    "style.css": true,
+    "app.js": false
+  },
+  "source_frame_hash_match": {
+    "joseph-san-2-frame-1.jpg": true,
+    "joseph-san-2-frame-2.jpg": true,
+    "joseph-san-2-frame-0.jpg": true,
+    "joseph-san-2-frame-3.jpg": true
+  },
+  "historical_evidence_limit": "Old six-size results remain historical. HTML/CSS and assets unchanged; their unaffected reading geometry can support 320/430/tablet evidence. Changed JavaScript is covered freshly at desktop/390/landscape, not a fresh six-size certification. Old hidden-sample failures remain intact and are not relabeled green.",
+  "raw_results": [
+    "fidelity/parent-confirmation-results.json",
+    "fidelity/parent-edge-confirmation-results.json"
+  ],
+  "focal_chronology": [
+    {
+      "file": "parent-confirmation-1440x900-focal-before.png",
+      "state": "focal-before",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894906820,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 89,
+        "renderMs": 0.7999999523162842,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "file": "parent-confirmation-1440x900-focal-mid.png",
+      "state": "focal-mid",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894908083,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0.2727272727272727,
+        "targetProgress": 0.2727272727272727,
+        "draws": 90,
+        "renderMs": 0.2999999523162842,
+        "camera": [
+          -1.4742299023290761,
+          3.6720510894064615,
+          2.650638617580767
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "file": "parent-confirmation-1440x900-focal-after.png",
+      "state": "focal-after",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894909389,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0.7045454545454546,
+        "targetProgress": 0.7045454545454546,
+        "draws": 91,
+        "renderMs": 0.30000007152557373,
+        "camera": [
+          2.0655897821187077,
+          2.226145755071375,
+          -25.692712246431256
+        ],
+        "drawCalls": 15,
+        "triangles": 209008
+      }
+    },
+    {
+      "file": "parent-confirmation-1440x900-focal-reversal.png",
+      "state": "focal-reversal",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894910582,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 92,
+        "renderMs": 0.6000000238418579,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "file": "parent-confirmation-390x844-focal-before.png",
+      "state": "focal-before",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894946046,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 83,
+        "renderMs": 0.3999999761581421,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "file": "parent-confirmation-390x844-focal-mid.png",
+      "state": "focal-mid",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894947027,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0.27488151658767773,
+        "targetProgress": 0.27488151658767773,
+        "draws": 84,
+        "renderMs": 0.19999992847442627,
+        "camera": [
+          -1.4501790783858217,
+          3.666706461863516,
+          2.5838307732939487
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "file": "parent-confirmation-390x844-focal-after.png",
+      "state": "focal-after",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894948015,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0.7013358778625954,
+        "targetProgress": 0.7013358778625954,
+        "draws": 85,
+        "renderMs": 0.5,
+        "camera": [
+          2.087951666547306,
+          2.229676578928522,
+          -25.5161710535739
+        ],
+        "drawCalls": 15,
+        "triangles": 209008
+      }
+    },
+    {
+      "file": "parent-confirmation-390x844-focal-reversal.png",
+      "state": "focal-reversal",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894949005,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 86,
+        "renderMs": 0.3999999761581421,
+        "camera": [
+          -2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "file": "parent-confirmation-844x390-focal-before.png",
+      "state": "focal-before",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894975998,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 108,
+        "renderMs": 0.19999992847442627,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "file": "parent-confirmation-844x390-focal-mid.png",
+      "state": "focal-mid",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894976979,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0.2579298831385643,
+        "targetProgress": 0.2579298831385643,
+        "draws": 109,
+        "renderMs": 0.20000004768371582,
+        "camera": [
+          -1.5840453848052891,
+          3.696454529956731,
+          2.955681624459136
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "file": "parent-confirmation-844x390-focal-after.png",
+      "state": "focal-after",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894977964,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0.5549863387978142,
+        "targetProgress": 0.5549863387978142,
+        "draws": 110,
+        "renderMs": 0.2999999523162842,
+        "camera": [
+          3.5646892888285473,
+          2.462845677183455,
+          -13.857716140827256
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    },
+    {
+      "file": "parent-confirmation-844x390-focal-reversal.png",
+      "state": "focal-reversal",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894978937,
+      "renderer": {
+        "ready": true,
+        "webgl": true,
+        "reduced": false,
+        "paused": true,
+        "progress": 0,
+        "targetProgress": 0,
+        "draws": 111,
+        "renderMs": 0.20000004768371582,
+        "camera": [
+          -4.2,
+          5.3,
+          19
+        ],
+        "drawCalls": 17,
+        "triangles": 209104
+      }
+    }
+  ],
+  "material_source_limit": "Chapter-aligned camera travel, occluding piers and amber destination preserve the accepted architectural reading journey. The source includes broader scene/landscape changes; this remains one original colonnade. Existing measured geometry is 17 draw calls / 209104 triangles; CPU submission timing is not physical GPU FPS.",
+  "unresolved_reproducer": null,
+  "parent_remaining": [
+    "runtime-only assembly",
+    "served-byte hash comparison",
+    "source-link/comparison chrome checks",
+    "actual LAN verification"
+  ]
+}

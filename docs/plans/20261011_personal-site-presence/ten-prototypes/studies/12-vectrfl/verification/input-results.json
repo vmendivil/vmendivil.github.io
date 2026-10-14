@@ -1,0 +1,24 @@
+{
+  "session": "build12",
+  "engine": "Chromium",
+  "physicalDevice": false,
+  "trustedTouchAnchor": {
+    "hash": "#about",
+    "aboutTop": 74.609375
+  },
+  "touchSwipeScroll": {
+    "before": 5357,
+    "after": 7056,
+    "moved": true
+  },
+  "contactEnter": {
+    "popupOpened": true,
+    "requestedUrl": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "externalNavigationAbortedForTest": true
+  },
+  "reducedMotion": {
+    "chapter": "2",
+    "visibleSceneChanged": true,
+    "scrollBehavior": "auto"
+  }
+}

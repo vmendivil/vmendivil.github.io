@@ -1,0 +1,268 @@
+{
+  "study": 6,
+  "checks": [
+    {
+      "name": "320 petal inside viewport",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 99.609375,
+          "right": 297.609375,
+          "top": 620,
+          "bottom": 664
+        },
+        "xy": {
+          "x": 31.74691467353755,
+          "y": 664.3580207929683
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "320 invitation clear of petal",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 99.609375,
+          "right": 297.609375,
+          "top": 620,
+          "bottom": 664
+        },
+        "xy": {
+          "x": 31.74691467353755,
+          "y": 664.3580207929683
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "320 no overflow",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 99.609375,
+          "right": 297.609375,
+          "top": 620,
+          "bottom": 664
+        },
+        "xy": {
+          "x": 31.74691467353755,
+          "y": 664.3580207929683
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "320 still keyboard response",
+      "pass": true
+    },
+    {
+      "name": "320 contact remains",
+      "pass": true
+    },
+    {
+      "name": "390 petal inside viewport",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 164.703125,
+          "right": 362.703125,
+          "top": 724,
+          "bottom": 768
+        },
+        "xy": {
+          "x": 38.96196085233663,
+          "y": 757.7001840028379
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "390 invitation clear of petal",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 164.703125,
+          "right": 362.703125,
+          "top": 724,
+          "bottom": 768
+        },
+        "xy": {
+          "x": 38.96196085233663,
+          "y": 757.7001840028379
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "390 no overflow",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 164.703125,
+          "right": 362.703125,
+          "top": 724,
+          "bottom": 768
+        },
+        "xy": {
+          "x": 38.96196085233663,
+          "y": 757.7001840028379
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "390 still keyboard response",
+      "pass": true
+    },
+    {
+      "name": "390 contact remains",
+      "pass": true
+    },
+    {
+      "name": "430 petal inside viewport",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 201.90625,
+          "right": 399.90625,
+          "top": 812,
+          "bottom": 856
+        },
+        "xy": {
+          "x": 42.95088018173352,
+          "y": 836.6398716703957
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "430 invitation clear of petal",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 201.90625,
+          "right": 399.90625,
+          "top": 812,
+          "bottom": 856
+        },
+        "xy": {
+          "x": 42.95088018173352,
+          "y": 836.6398716703957
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "430 no overflow",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 201.90625,
+          "right": 399.90625,
+          "top": 812,
+          "bottom": 856
+        },
+        "xy": {
+          "x": 42.95088018173352,
+          "y": 836.6398716703957
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "430 still keyboard response",
+      "pass": true
+    },
+    {
+      "name": "430 contact remains",
+      "pass": true
+    },
+    {
+      "name": "844 petal inside viewport",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 37.96875,
+          "right": 221.96875,
+          "top": 332,
+          "bottom": 376
+        },
+        "xy": {
+          "x": 275.8389090032658,
+          "y": 355.1505574040035
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "844 invitation clear of petal",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 37.96875,
+          "right": 221.96875,
+          "top": 332,
+          "bottom": 376
+        },
+        "xy": {
+          "x": 275.8389090032658,
+          "y": 355.1505574040035
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "844 no overflow",
+      "pass": true,
+      "detail": {
+        "anchor": {
+          "left": 37.96875,
+          "right": 221.96875,
+          "top": 332,
+          "bottom": 376
+        },
+        "xy": {
+          "x": 275.8389090032658,
+          "y": 355.1505574040035
+        },
+        "overflow": false
+      }
+    },
+    {
+      "name": "844 still keyboard response",
+      "pass": true
+    },
+    {
+      "name": "844 contact remains",
+      "pass": true
+    },
+    {
+      "name": "no page errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "captures": [
+    "320-overview.png",
+    "320-landed.png",
+    "320-still-response.png",
+    "320-contact.png",
+    "390-overview.png",
+    "390-landed.png",
+    "390-still-response.png",
+    "390-contact.png",
+    "430-overview.png",
+    "430-landed.png",
+    "430-still-response.png",
+    "430-contact.png",
+    "844-overview.png",
+    "844-landed.png",
+    "844-still-response.png",
+    "844-contact.png"
+  ],
+  "total": 21,
+  "passed": 21,
+  "failed": []
+}

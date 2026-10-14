@@ -1,0 +1,71 @@
+{
+  "method": "Raw headed Chromium CDP under existing Xvfb, without Playwright focus emulation; real tab activation/hiding/restoration",
+  "before": {
+    "draws": 2,
+    "frame": 0,
+    "currentX": -8,
+    "targetX": -8,
+    "currentSize": 48,
+    "paused": false,
+    "visible": true,
+    "stopped": false,
+    "hidden": false,
+    "focusPart": -1,
+    "transfer": [
+      -5,
+      0.28,
+      1.45
+    ]
+  },
+  "hidden": {
+    "draws": 2,
+    "frame": 0,
+    "currentX": -8,
+    "targetX": -8,
+    "currentSize": 48,
+    "paused": false,
+    "visible": true,
+    "stopped": false,
+    "hidden": true,
+    "focusPart": -1,
+    "transfer": [
+      -5,
+      0.28,
+      1.45
+    ]
+  },
+  "hiddenAfter": {
+    "draws": 2,
+    "frame": 0,
+    "currentX": -8,
+    "targetX": -8,
+    "currentSize": 48,
+    "paused": false,
+    "visible": true,
+    "stopped": false,
+    "hidden": true,
+    "focusPart": -1,
+    "transfer": [
+      -5,
+      0.28,
+      1.45
+    ]
+  },
+  "restored": {
+    "draws": 3,
+    "frame": 0,
+    "currentX": -8,
+    "targetX": -8,
+    "currentSize": 48,
+    "paused": false,
+    "visible": true,
+    "stopped": false,
+    "hidden": false,
+    "focusPart": -1,
+    "transfer": [
+      -5,
+      0.28,
+      1.45
+    ]
+  }
+}

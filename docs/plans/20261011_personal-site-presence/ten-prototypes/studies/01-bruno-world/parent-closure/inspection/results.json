@@ -1,0 +1,542 @@
+{
+  "browser": "Chromium / Playwright; software WebGL, trusted emulated touch; not physical hardware/Safari certification",
+  "session": "pending-01-03",
+  "url": "http://127.0.0.1:9601/",
+  "sizes": [
+    [
+      1440,
+      900
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      844,
+      390
+    ]
+  ],
+  "hashes": {
+    "index.html": "73daada471244f4c356ce422a154819044be1953629d6f3bcd128107e1da8531",
+    "style.css": "6ce00435a13a0a318e3bc3d1ec75cd7a107408437a460275a9e5cbe1974190ce",
+    "world.js": "d48835c2e52a836f44938b3e54b8b8f7751992d687bc339507de441217aee9f3"
+  },
+  "records": [
+    {
+      "name": "1440 overview overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 fonts",
+      "pass": true
+    },
+    {
+      "name": "1440 keyboard welcome",
+      "pass": true
+    },
+    {
+      "name": "welcome reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 welcome overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape",
+      "pass": true
+    },
+    {
+      "name": "1440 welcome selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 keyboard craft",
+      "pass": true
+    },
+    {
+      "name": "craft reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 craft overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape",
+      "pass": true
+    },
+    {
+      "name": "1440 craft selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 keyboard homelab",
+      "pass": true
+    },
+    {
+      "name": "homelab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 homelab overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape",
+      "pass": true
+    },
+    {
+      "name": "1440 homelab selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 keyboard curiosity",
+      "pass": true
+    },
+    {
+      "name": "curiosity reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 curiosity overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape",
+      "pass": true
+    },
+    {
+      "name": "1440 curiosity selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 keyboard contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 LinkedIn",
+      "pass": true
+    },
+    {
+      "name": "1440 Escape",
+      "pass": true
+    },
+    {
+      "name": "1440 contact selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "1440 real Tab",
+      "pass": true
+    },
+    {
+      "name": "1440 rover really moved",
+      "pass": true
+    },
+    {
+      "name": "1440 click welcome",
+      "pass": true
+    },
+    {
+      "name": "welcome reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 click contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "1440 normal render rate",
+      "pass": true,
+      "rendersPerSecond": 5,
+      "softwareRendered": true
+    },
+    {
+      "name": "1440 paused settled render delta",
+      "pass": true,
+      "delta": 0
+    },
+    {
+      "name": "390 overview overflow",
+      "pass": true
+    },
+    {
+      "name": "390 fonts",
+      "pass": true
+    },
+    {
+      "name": "390 touch welcome",
+      "pass": true
+    },
+    {
+      "name": "welcome reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 welcome overflow",
+      "pass": true
+    },
+    {
+      "name": "390 Escape",
+      "pass": true
+    },
+    {
+      "name": "390 welcome selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 touch craft",
+      "pass": true
+    },
+    {
+      "name": "craft reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 craft overflow",
+      "pass": true
+    },
+    {
+      "name": "390 Escape",
+      "pass": true
+    },
+    {
+      "name": "390 craft selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 touch homelab",
+      "pass": true
+    },
+    {
+      "name": "homelab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 homelab overflow",
+      "pass": true
+    },
+    {
+      "name": "390 Escape",
+      "pass": true
+    },
+    {
+      "name": "390 homelab selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 touch curiosity",
+      "pass": true
+    },
+    {
+      "name": "curiosity reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 curiosity overflow",
+      "pass": true
+    },
+    {
+      "name": "390 Escape",
+      "pass": true
+    },
+    {
+      "name": "390 curiosity selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "390 LinkedIn",
+      "pass": true
+    },
+    {
+      "name": "390 Escape",
+      "pass": true
+    },
+    {
+      "name": "390 contact selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "390 real Tab",
+      "pass": true
+    },
+    {
+      "name": "390 rover really moved",
+      "pass": true
+    },
+    {
+      "name": "390 click welcome",
+      "pass": true
+    },
+    {
+      "name": "welcome reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 click contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 normal render rate",
+      "pass": true,
+      "rendersPerSecond": 5,
+      "softwareRendered": true
+    },
+    {
+      "name": "390 paused settled render delta",
+      "pass": true,
+      "delta": 0
+    },
+    {
+      "name": "844 overview overflow",
+      "pass": true
+    },
+    {
+      "name": "844 fonts",
+      "pass": true
+    },
+    {
+      "name": "844 touch welcome",
+      "pass": true
+    },
+    {
+      "name": "welcome reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "844 welcome overflow",
+      "pass": true
+    },
+    {
+      "name": "844 Escape",
+      "pass": true
+    },
+    {
+      "name": "844 welcome selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 touch craft",
+      "pass": true
+    },
+    {
+      "name": "craft reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "844 craft overflow",
+      "pass": true
+    },
+    {
+      "name": "844 Escape",
+      "pass": true
+    },
+    {
+      "name": "844 craft selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 touch homelab",
+      "pass": true
+    },
+    {
+      "name": "homelab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "844 homelab overflow",
+      "pass": true
+    },
+    {
+      "name": "844 Escape",
+      "pass": true
+    },
+    {
+      "name": "844 homelab selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 touch curiosity",
+      "pass": true
+    },
+    {
+      "name": "curiosity reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "844 curiosity overflow",
+      "pass": true
+    },
+    {
+      "name": "844 Escape",
+      "pass": true
+    },
+    {
+      "name": "844 curiosity selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "844 contact overflow",
+      "pass": true
+    },
+    {
+      "name": "844 LinkedIn",
+      "pass": true
+    },
+    {
+      "name": "844 Escape",
+      "pass": true
+    },
+    {
+      "name": "844 contact selected semantics cleared",
+      "pass": false
+    },
+    {
+      "name": "844 real Tab",
+      "pass": true
+    },
+    {
+      "name": "390 touch welcome",
+      "pass": true
+    },
+    {
+      "name": "welcome reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch craft",
+      "pass": true
+    },
+    {
+      "name": "craft reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch homelab",
+      "pass": true
+    },
+    {
+      "name": "homelab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch curiosity",
+      "pass": true
+    },
+    {
+      "name": "curiosity reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "reduced return restores camera",
+      "pass": false
+    },
+    {
+      "name": "reduced preference",
+      "pass": true
+    },
+    {
+      "name": "390 touch welcome",
+      "pass": true
+    },
+    {
+      "name": "welcome reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch craft",
+      "pass": true
+    },
+    {
+      "name": "craft reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch homelab",
+      "pass": true
+    },
+    {
+      "name": "homelab reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch curiosity",
+      "pass": true
+    },
+    {
+      "name": "curiosity reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "390 touch contact",
+      "pass": true
+    },
+    {
+      "name": "contact reading end reachable",
+      "pass": true
+    },
+    {
+      "name": "renderer failure fallback",
+      "pass": true
+    },
+    {
+      "name": "no-JS complete factual contact reading",
+      "pass": true
+    },
+    {
+      "name": "runtime page errors empty",
+      "pass": true,
+      "errors": []
+    },
+    {
+      "name": "HTTP failures empty",
+      "pass": true,
+      "responses": []
+    }
+  ]
+}

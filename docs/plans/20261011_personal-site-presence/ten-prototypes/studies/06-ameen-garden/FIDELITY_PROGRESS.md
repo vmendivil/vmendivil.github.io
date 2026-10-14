@@ -1,0 +1,6 @@
+## User follow-up — prior residual repaired
+The phone invitation now has its own right-aligned intrinsic hit area and a palette-native light backing. It no longer covers the petal landing strip or steals water input in that blank area. The caption foreground/background contrast is10.90:1; 320/390/430 portrait and844 landscape checks pass. The petal remains naturally small; source-level optical approval is separate.
+Executed `LP_NUM_THREADS=2 node verify-followup.cjs`: **21/21** focused browser assertions, no page errors. Current normal recordings/captures and raw results are under `fidelity-evidence/user-followup/`. Previous failures/overlap screenshots below remain historical and are superseded for these exact cases, not erased. Shared preview assembly and served-version/LAN verification remain outside this worker's write boundary. Existing detector output remains historical; no detector rerun.
+
+# Fidelity progress — implemented and browser-verified
+Full confirmation100/100; current landing/still-keyboard closure4/4; actual normal desktop/phone recordings retained. Accepted grove and botanical reading preserved. Phone petal optical prominence remains a candid parent-review gap (projection is not visibility certification). See FIDELITY_REPORT.md. No shared/production/remote writes.

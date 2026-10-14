@@ -1,0 +1,1018 @@
+{
+  "started": "2026-10-12T04:57:54.636Z",
+  "finished": "2026-10-12T04:59:06.960Z",
+  "url": "http://127.0.0.1:9113/",
+  "engine": "Playwright Chromium / ANGLE SwiftShader; emulated viewports and trusted synthetic touch; not physical Safari",
+  "runtime": {
+    "index.html": "19416ef1b6653234d399bf1a239ca4b672738ff09a01b146b96975832b231862",
+    "style.css": "52a250ac786be05fc3036b91a1e97ad97280c0761070711f090cb276e8cb3df8",
+    "interface.js": "e73d7343a8d2fbc25eb50aea1a9b05d1a4d88b3ed7d40bc18c69a49d98c62b9b",
+    "scene.js": "c523fa055b444d7c099e2710dcf9f24ed662509dfd3ffed713f5ded0409c4715",
+    "assets/BarlowCondensed-SemiBold.ttf": "7b619d14bc2327509a9ef32b0890f709626f7ecc9ff61191c2a4314c5499d2d9",
+    "assets/contact-portrait.jpg": "c332aaa63d3075c8695e9a862f0fd94a494b523b895191d3eb856469569cf45d",
+    "assets/contact-wide.jpg": "7d3442b08836dd7659e478aee7a8bb10ef7a38e4c15ae18b25dee3f79e15f1a1",
+    "assets/curiosity-portrait.jpg": "3b935ec423ff27cab433993310703a74c8d4a38747f905310593bcd715657427",
+    "assets/curiosity-wide.jpg": "598fed310733e8462be95a24564c500a33d710e0567331867da766b4dfb65f93",
+    "assets/practice-portrait.jpg": "e26eff5b5f2357b852b0fc9aebcec6d017a8fc4569d6cea7f99a03c9a29ebfcb",
+    "assets/practice-wide.jpg": "4a94cc004f4b1c7d49e7934f81ce372262c846770206f2baf256f010d99c1c27",
+    "assets/three.module.js": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb",
+    "assets/threshold-portrait.jpg": "4012bceda10a91b7d14901b12a00efe7e221c90750d20b4b8f6e99b9f79a5c44",
+    "assets/threshold-wide.jpg": "9252d23265ab1fe164f196a8f24df19227d4b5491fd82fc59023c0df1e720c82"
+  },
+  "viewports": [
+    {
+      "width": 320,
+      "height": 740,
+      "states": [
+        {
+          "id": "practice",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "curiosity",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "contact",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "loadedImages": true,
+      "tabToPractice": true,
+      "returnToStart": true,
+      "reducedMotion": true,
+      "responses": [
+        {
+          "url": "http://127.0.0.1:9113/",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/style.css",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-wide.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/scene.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/interface.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/practice-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/contact-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/curiosity-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/BarlowCondensed-SemiBold.ttf",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/three.module.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "states": [
+        {
+          "id": "practice",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "curiosity",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "contact",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "loadedImages": true,
+      "tabToPractice": true,
+      "returnToStart": true,
+      "reducedMotion": true,
+      "responses": [
+        {
+          "url": "http://127.0.0.1:9113/",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/style.css",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-wide.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/interface.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/scene.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/curiosity-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/practice-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/contact-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/BarlowCondensed-SemiBold.ttf",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/three.module.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "states": [
+        {
+          "id": "practice",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "curiosity",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "contact",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "loadedImages": true,
+      "tabToPractice": true,
+      "returnToStart": true,
+      "reducedMotion": true,
+      "responses": [
+        {
+          "url": "http://127.0.0.1:9113/",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-wide.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/style.css",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/interface.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/scene.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/curiosity-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/practice-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/contact-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/BarlowCondensed-SemiBold.ttf",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/three.module.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "states": [
+        {
+          "id": "practice",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "curiosity",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "contact",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "loadedImages": true,
+      "tabToPractice": true,
+      "returnToStart": true,
+      "reducedMotion": true,
+      "responses": [
+        {
+          "url": "http://127.0.0.1:9113/",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/style.css",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-wide.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/interface.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/scene.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/practice-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/curiosity-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/contact-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/BarlowCondensed-SemiBold.ttf",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/three.module.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "states": [
+        {
+          "id": "practice",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "curiosity",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "contact",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "loadedImages": true,
+      "tabToPractice": true,
+      "returnToStart": true,
+      "reducedMotion": true,
+      "responses": [
+        {
+          "url": "http://127.0.0.1:9113/",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/style.css",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-wide.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/interface.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/curiosity-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/scene.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/practice-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/contact-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/BarlowCondensed-SemiBold.ttf",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/three.module.js",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "states": [
+        {
+          "id": "practice",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "curiosity",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        },
+        {
+          "id": "contact",
+          "nativePointer": true,
+          "enterOpen": true,
+          "spaceClose": true,
+          "escapeCloseAndFocus": true,
+          "finalLinkReachable": true
+        }
+      ],
+      "errors": [],
+      "bad": [],
+      "loadedImages": true,
+      "tabToPractice": true,
+      "returnToStart": true,
+      "reducedMotion": true,
+      "responses": [
+        {
+          "url": "http://127.0.0.1:9113/",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-wide.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/threshold-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/style.css",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/scene.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/interface.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/BarlowCondensed-SemiBold.ttf",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/three.module.js",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/practice-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/curiosity-portrait.jpg",
+          "status": 200
+        },
+        {
+          "url": "http://127.0.0.1:9113/assets/contact-portrait.jpg",
+          "status": 200
+        }
+      ]
+    }
+  ],
+  "captures": [
+    {
+      "width": 320,
+      "height": 740,
+      "state": "main",
+      "file": ".impeccable/review/320-main.png",
+      "sha256": "8a1e860bce143b306006ebc30d7620d3c4d6ac2bd08423c85f64749f4ba14a69",
+      "capturedAt": "2026-10-12T04:57:55.140Z"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "state": "practice",
+      "file": ".impeccable/review/320-practice.png",
+      "sha256": "722da2f18e674469b2e8e8c36bcb2183effc7c09632bcf6108760e4bd047e0a8",
+      "capturedAt": "2026-10-12T04:57:55.452Z"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "state": "practice-chapter",
+      "file": ".impeccable/review/320-practice-chapter.png",
+      "sha256": "854617f291923b37f47812147157466c4feedee4145f68decfe9ab1408381fb5",
+      "capturedAt": "2026-10-12T04:57:55.537Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "state": "practice-reading",
+      "file": ".impeccable/review/320-practice-reading.png",
+      "sha256": "8019cdcdbb8da9773c3d2448e89f6ced8fd3fcf4109c7e1306a029324ba6fe93",
+      "capturedAt": "2026-10-12T04:57:55.893Z"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "state": "curiosity",
+      "file": ".impeccable/review/320-curiosity.png",
+      "sha256": "34a1699124e4db32bb5d0cc83d96367acae8d563db95f6654d51b70e0e6daebf",
+      "capturedAt": "2026-10-12T04:57:56.215Z"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "state": "curiosity-chapter",
+      "file": ".impeccable/review/320-curiosity-chapter.png",
+      "sha256": "62727111c607084daf1da9060e7230a155f8b2cb94595ca81964203ca185b6fb",
+      "capturedAt": "2026-10-12T04:57:56.310Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "state": "curiosity-reading",
+      "file": ".impeccable/review/320-curiosity-reading.png",
+      "sha256": "86d60e4fcc6627a6e97f0afbab7c8dc211dd15b88f2aaaa950fa339674a043c9",
+      "capturedAt": "2026-10-12T04:57:56.652Z"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "state": "contact",
+      "file": ".impeccable/review/320-contact.png",
+      "sha256": "f1d994482bd74bd7d32cb2b388c74b037938730c9c66e7a2c1913a0efb0ec19f",
+      "capturedAt": "2026-10-12T04:57:56.954Z"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "state": "contact-chapter",
+      "file": ".impeccable/review/320-contact-chapter.png",
+      "sha256": "cab787966cd9b75d76a3a521fdb19a1e23ca123595e536261550ea49e4c0197b",
+      "capturedAt": "2026-10-12T04:57:57.040Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "state": "contact-reading",
+      "file": ".impeccable/review/320-contact-reading.png",
+      "sha256": "9419e7fa4d1b58d1c446f16cf4e59e0340976cacbf0a39cf4d721969941ca80b",
+      "capturedAt": "2026-10-12T04:57:57.340Z"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "state": "main",
+      "file": ".impeccable/review/390-main.png",
+      "sha256": "7a5be7cc891fde24030be515076966adf9476810d322526493bcdb4f2216df1c",
+      "capturedAt": "2026-10-12T04:57:57.855Z"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "state": "practice",
+      "file": ".impeccable/review/390-practice.png",
+      "sha256": "fc8fe252a2e1f42e8d923b58395646a5fd8fcbb883a2024b7b7a0adf876079dc",
+      "capturedAt": "2026-10-12T04:57:58.234Z"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "state": "practice-chapter",
+      "file": ".impeccable/review/390-practice-chapter.png",
+      "sha256": "5b731d212ebc470a30c356880c2d3a66ab16bde9dda38a254da771fc45fb0ccb",
+      "capturedAt": "2026-10-12T04:57:58.316Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "state": "practice-reading",
+      "file": ".impeccable/review/390-practice-reading.png",
+      "sha256": "faf0ebe7522825619e061d71763950c9fa4bfcebf490a4d9d2937de563eec22a",
+      "capturedAt": "2026-10-12T04:57:58.601Z"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "state": "curiosity",
+      "file": ".impeccable/review/390-curiosity.png",
+      "sha256": "52a84f279fbfffe13c563bbc69787b465eb742cf4859c36ca36546b3c2511e33",
+      "capturedAt": "2026-10-12T04:57:59.002Z"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "state": "curiosity-chapter",
+      "file": ".impeccable/review/390-curiosity-chapter.png",
+      "sha256": "aa7d1a8eb9ffac87570dd3b0f13c61a70ff64a8b4d4e7bf6a4661d99f1e56306",
+      "capturedAt": "2026-10-12T04:57:59.088Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "state": "curiosity-reading",
+      "file": ".impeccable/review/390-curiosity-reading.png",
+      "sha256": "096e75f7afee1b78564b69b8b3df0344a2a6eccaf2f88c22fc4ef300eab16d40",
+      "capturedAt": "2026-10-12T04:57:59.368Z"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "state": "contact",
+      "file": ".impeccable/review/390-contact.png",
+      "sha256": "c2e84aee96e47c45c3426f7b0a89bc72272c066c79a9dc6c88dcb2d9c6b510c1",
+      "capturedAt": "2026-10-12T04:57:59.712Z"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "state": "contact-chapter",
+      "file": ".impeccable/review/390-contact-chapter.png",
+      "sha256": "d07210fe78bdd6e28391237f7f6107602a71cfa39925f2da0bd941997793df88",
+      "capturedAt": "2026-10-12T04:57:59.834Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "state": "contact-reading",
+      "file": ".impeccable/review/390-contact-reading.png",
+      "sha256": "74452149451c07a30103a4333bbbad8a5e38dd42b2c0d29726fea17e72248992",
+      "capturedAt": "2026-10-12T04:58:00.124Z"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "state": "main",
+      "file": ".impeccable/review/430-main.png",
+      "sha256": "59c6d8260e860fb0ba08b3d2b16df109fedd06920d462ce769ce59ff290f1d6f",
+      "capturedAt": "2026-10-12T04:58:00.663Z"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "state": "practice",
+      "file": ".impeccable/review/430-practice.png",
+      "sha256": "3d0788649012096fd0fdf3b1f6f3766ffca1f90bbd1e6d1749583f9cafed1d43",
+      "capturedAt": "2026-10-12T04:58:01.019Z"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "state": "practice-chapter",
+      "file": ".impeccable/review/430-practice-chapter.png",
+      "sha256": "f72961660da28b79163f90ebddb2aab98f2388de55b71c6a2789a4321554e7c1",
+      "capturedAt": "2026-10-12T04:58:01.121Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "state": "practice-reading",
+      "file": ".impeccable/review/430-practice-reading.png",
+      "sha256": "4d508aad4bffd2a3f1d68e5ad4799afd79705ff5fb09b507c1e9fc92c9591b66",
+      "capturedAt": "2026-10-12T04:58:01.453Z"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "state": "curiosity",
+      "file": ".impeccable/review/430-curiosity.png",
+      "sha256": "443f3e5f293128b40b02dab7cbc0f260a92bfc7aa4ed01dd83a742f907806231",
+      "capturedAt": "2026-10-12T04:58:01.797Z"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "state": "curiosity-chapter",
+      "file": ".impeccable/review/430-curiosity-chapter.png",
+      "sha256": "b15c82d2f4cb70bfe1c0218f31913dfd71ef417817fa5e3f9ebb4230ac685fea",
+      "capturedAt": "2026-10-12T04:58:01.927Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "state": "curiosity-reading",
+      "file": ".impeccable/review/430-curiosity-reading.png",
+      "sha256": "1a07cbae1f996a62e26b226149fcc644561c258b4598329e057cb009fb0f96cf",
+      "capturedAt": "2026-10-12T04:58:02.243Z"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "state": "contact",
+      "file": ".impeccable/review/430-contact.png",
+      "sha256": "5367802d7042dfa836686533ecb23c7c0799fbf72d5112997aad2d4c776522b9",
+      "capturedAt": "2026-10-12T04:58:02.527Z"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "state": "contact-chapter",
+      "file": ".impeccable/review/430-contact-chapter.png",
+      "sha256": "7629b9190699c09e4082d1c0f4b1bdf77d4b48f9779c7082ded0e59ea778124a",
+      "capturedAt": "2026-10-12T04:58:02.610Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "state": "contact-reading",
+      "file": ".impeccable/review/430-contact-reading.png",
+      "sha256": "2912d99445f53ba4972dacaac5cba3336a731b0c1e65cadcc3d90213fb9bc077",
+      "capturedAt": "2026-10-12T04:58:02.941Z"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "state": "main",
+      "file": ".impeccable/review/844-main.png",
+      "sha256": "3e083bdc246e04bbf241a2672b63b7715107c8778e300be553986879c0a005ec",
+      "capturedAt": "2026-10-12T04:58:03.373Z"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "state": "practice",
+      "file": ".impeccable/review/844-practice.png",
+      "sha256": "b1f181e93c96bdbc9746f6be368b146956ece2c120c8244428684b4153b40de1",
+      "capturedAt": "2026-10-12T04:58:03.648Z"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "state": "practice-chapter",
+      "file": ".impeccable/review/844-practice-chapter.png",
+      "sha256": "5abd3b538b0c17b8d161816a2a725057ae83c3c9bea00f4ba1ab2c53bee3565d",
+      "capturedAt": "2026-10-12T04:58:03.752Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "state": "practice-reading",
+      "file": ".impeccable/review/844-practice-reading.png",
+      "sha256": "bc3754240b32001d074d59d99dbacbc70fdf35bbdf8de8fb7721e02052151708",
+      "capturedAt": "2026-10-12T04:58:04.065Z"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "state": "curiosity",
+      "file": ".impeccable/review/844-curiosity.png",
+      "sha256": "644e521713afed946870a51fc337079f1b1cfd81417e37a4d9efc37bb121bda6",
+      "capturedAt": "2026-10-12T04:58:04.396Z"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "state": "curiosity-chapter",
+      "file": ".impeccable/review/844-curiosity-chapter.png",
+      "sha256": "ddd2e765b80e439112585c20c1391883289e5c058620ae594d84c1b971416495",
+      "capturedAt": "2026-10-12T04:58:04.510Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "state": "curiosity-reading",
+      "file": ".impeccable/review/844-curiosity-reading.png",
+      "sha256": "8a800a6f8c39fffd7f486f6e3e4fcf5be06d15035603a91d3fa0346dcb62612b",
+      "capturedAt": "2026-10-12T04:58:04.816Z"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "state": "contact",
+      "file": ".impeccable/review/844-contact.png",
+      "sha256": "393da048269bd3c0e2a927a38b9b90529414ed9005d198824330656c25ec4cdf",
+      "capturedAt": "2026-10-12T04:58:05.100Z"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "state": "contact-chapter",
+      "file": ".impeccable/review/844-contact-chapter.png",
+      "sha256": "dbcfc917bd13e67b560096b4791fd15c188c7a1d1da6d364131dc4ae78b2ffb5",
+      "capturedAt": "2026-10-12T04:58:05.276Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "state": "contact-reading",
+      "file": ".impeccable/review/844-contact-reading.png",
+      "sha256": "76904ec3d9ce636b1039c9291b5eae32cd02ec10149756a0ada8cb17475689bd",
+      "capturedAt": "2026-10-12T04:58:05.570Z"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "state": "main",
+      "file": ".impeccable/review/768-main.png",
+      "sha256": "ba3f2057e7fd4de933f1d1ad902892d278a7bb3867bf04bfdd7c02fdf74071af",
+      "capturedAt": "2026-10-12T04:58:06.094Z"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "state": "practice",
+      "file": ".impeccable/review/768-practice.png",
+      "sha256": "3e3edf8585aed16d697da1836ef016fc1497c0459b0fd40a175f425929ac057d",
+      "capturedAt": "2026-10-12T04:58:06.390Z"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "state": "practice-chapter",
+      "file": ".impeccable/review/768-practice-chapter.png",
+      "sha256": "59def19b79d3fb52433d9d49f9affc5ce15020d00190385294de3dcbdfd8fc27",
+      "capturedAt": "2026-10-12T04:58:06.531Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "state": "practice-reading",
+      "file": ".impeccable/review/768-practice-reading.png",
+      "sha256": "def5e6c2b9c4be2a82ef10dd2c63956b75853af2e0c5c2dfb153c570b1dc1984",
+      "capturedAt": "2026-10-12T04:58:06.851Z"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "state": "curiosity",
+      "file": ".impeccable/review/768-curiosity.png",
+      "sha256": "a185c0228a5380f330af87f428369957451840e01bb50166017cc47fd3682782",
+      "capturedAt": "2026-10-12T04:58:07.281Z"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "state": "curiosity-chapter",
+      "file": ".impeccable/review/768-curiosity-chapter.png",
+      "sha256": "f0c3288dbba791355153a6bf672d9e700ed85f9521f5a3e29bacf06788226b38",
+      "capturedAt": "2026-10-12T04:58:07.385Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "state": "curiosity-reading",
+      "file": ".impeccable/review/768-curiosity-reading.png",
+      "sha256": "75cf8cf4c2bc4cfdbf64ea24fd8a5a147af25021ea1928f69133f750a0da873e",
+      "capturedAt": "2026-10-12T04:58:07.731Z"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "state": "contact",
+      "file": ".impeccable/review/768-contact.png",
+      "sha256": "682c7cbd81142e190591f759df947a20ce2e9e6334ae014a556ddd64a4704ed7",
+      "capturedAt": "2026-10-12T04:58:08.039Z"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "state": "contact-chapter",
+      "file": ".impeccable/review/768-contact-chapter.png",
+      "sha256": "324fb5eb78db34531a6a2b7785987c04d26daecd6c12e4cac73aeaa400827bcb",
+      "capturedAt": "2026-10-12T04:58:08.239Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "state": "contact-reading",
+      "file": ".impeccable/review/768-contact-reading.png",
+      "sha256": "0f461c91ae13c7250981f7516eb434b1db422e2bffdf01b5c792a721269fc1fe",
+      "capturedAt": "2026-10-12T04:58:08.528Z"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "state": "main",
+      "file": ".impeccable/review/1440-main.png",
+      "sha256": "a44fccf7c4bfedf6e6329f4c7ce4b26b20878e7667e76690f8555a7ea5f95bc6",
+      "capturedAt": "2026-10-12T04:58:14.890Z"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "state": "practice",
+      "file": ".impeccable/review/1440-practice.png",
+      "sha256": "1379a8ba7b60dbbe2a96f617ab9d9e89e803666deb5d53a4f8f42e40e0b18e8c",
+      "capturedAt": "2026-10-12T04:58:20.548Z"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "state": "practice-chapter",
+      "file": ".impeccable/review/1440-practice-chapter.png",
+      "sha256": "7b1dbcdfd22f16f64c61442163a591407214b2828629232eba379a58dd3cb45d",
+      "capturedAt": "2026-10-12T04:58:24.223Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "state": "practice-reading",
+      "file": ".impeccable/review/1440-practice-reading.png",
+      "sha256": "d1551cf2edbee70e5c1141cfc74c071ff5d564c4892cf633bf996a2a6fd2cd9e",
+      "capturedAt": "2026-10-12T04:58:27.497Z"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "state": "curiosity",
+      "file": ".impeccable/review/1440-curiosity.png",
+      "sha256": "d07234292d4c16a7d0ab55a3b9503d869ec0ef8413e19eb585333e58a8a56bc6",
+      "capturedAt": "2026-10-12T04:58:31.018Z"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "state": "curiosity-chapter",
+      "file": ".impeccable/review/1440-curiosity-chapter.png",
+      "sha256": "fab762f55bad7d4547768a892ef7adf70b5cb88024f889c16ede2cf7cd1e5149",
+      "capturedAt": "2026-10-12T04:58:34.488Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "state": "curiosity-reading",
+      "file": ".impeccable/review/1440-curiosity-reading.png",
+      "sha256": "f14cf26439b0f2f7b439ba08d595539c8809307aa9e083b718b2adccf0ca5c9c",
+      "capturedAt": "2026-10-12T04:58:37.861Z"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "state": "contact",
+      "file": ".impeccable/review/1440-contact.png",
+      "sha256": "e367a2e5ee2767b52c5d8d6c1b3afaabb048452fa1d5a88459fc911ca8cfbfd5",
+      "capturedAt": "2026-10-12T04:58:41.400Z"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "state": "contact-chapter",
+      "file": ".impeccable/review/1440-contact-chapter.png",
+      "sha256": "65eb64246b35c9b17b627cea71c0b2ca1793f30a60647cf97fb909808dfa5c0d",
+      "capturedAt": "2026-10-12T04:58:44.895Z",
+      "framing": "Entire closed chapter, including its own artwork and all prose/actions"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "state": "contact-reading",
+      "file": ".impeccable/review/1440-contact-reading.png",
+      "sha256": "0016d527a8710d0445b7bc9f3db2d0722d9d90d91bfc07e918fc17f8644216f9",
+      "capturedAt": "2026-10-12T04:58:48.300Z"
+    }
+  ],
+  "fallback": true,
+  "allRuntimeUnchanged": true
+}

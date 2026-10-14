@@ -1,0 +1,45 @@
+{
+  "status": "workers-running",
+  "batch": "deleg_c4611596",
+  "groups": [
+    [
+      "01-bruno-world",
+      "02-joshua-island",
+      "03-henry-workshop"
+    ],
+    [
+      "04-bilal-theater",
+      "05-thibault-expedition",
+      "06-ameen-garden"
+    ],
+    [
+      "07-rohit-future",
+      "08-joseph-depth",
+      "09-natalie-organic"
+    ],
+    [
+      "10-peter-dioramas",
+      "11-felix",
+      "12-vectrfl"
+    ],
+    [
+      "13-arthur",
+      "14-alex",
+      "15-preymaker"
+    ],
+    [
+      "16-lantern",
+      "17-eddyos",
+      "18-artisans"
+    ],
+    [
+      "19-rokumaruichi",
+      "20-alphamark",
+      "21-artemii"
+    ]
+  ],
+  "approval": "1559312242619584554",
+  "live_versions": "previousverified21preserved",
+  "next": "independent review + parent stagedassembly and actualLAN verification",
+  "blocked_asset": "18 cyanportrait metadata unchanged; no retry"
+}

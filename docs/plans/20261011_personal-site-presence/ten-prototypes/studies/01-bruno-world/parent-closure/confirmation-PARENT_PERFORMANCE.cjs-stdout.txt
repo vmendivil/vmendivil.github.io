@@ -1,0 +1,231 @@
+{
+  "n": 1,
+  "results": [
+    {
+      "name": "pause settles to zero render work",
+      "pass": true,
+      "samples": [
+        {
+          "elapsedMs": 500,
+          "rover": {
+            "x": -8,
+            "z": 13,
+            "angle": 1.5707963267948966
+          },
+          "paused": true,
+          "reduced": false,
+          "active": null,
+          "near": -1,
+          "frames": 39,
+          "renders": 39,
+          "camera": [
+            54.24598496915113,
+            59,
+            78.47527442512941
+          ],
+          "speed": 0,
+          "webgl": true,
+          "drawCalls": 72
+        },
+        {
+          "elapsedMs": 1000,
+          "rover": {
+            "x": -8,
+            "z": 13,
+            "angle": 1.5707963267948966
+          },
+          "paused": true,
+          "reduced": false,
+          "active": null,
+          "near": -1,
+          "frames": 49,
+          "renders": 49,
+          "camera": [
+            54.21603396731166,
+            59,
+            78.52394480311855
+          ],
+          "speed": 0,
+          "webgl": true,
+          "drawCalls": 72
+        },
+        {
+          "elapsedMs": 1500,
+          "rover": {
+            "x": -8,
+            "z": 13,
+            "angle": 1.5707963267948966
+          },
+          "paused": true,
+          "reduced": false,
+          "active": null,
+          "near": -1,
+          "frames": 51,
+          "renders": 51,
+          "camera": [
+            54.21298751352245,
+            59,
+            78.52889529052602
+          ],
+          "speed": 0,
+          "webgl": true,
+          "drawCalls": 72
+        },
+        {
+          "elapsedMs": 2000,
+          "rover": {
+            "x": -8,
+            "z": 13,
+            "angle": 1.5707963267948966
+          },
+          "paused": true,
+          "reduced": false,
+          "active": null,
+          "near": -1,
+          "frames": 55,
+          "renders": 55,
+          "camera": [
+            54.208521107622076,
+            59,
+            78.53615320011413
+          ],
+          "speed": 0,
+          "webgl": true,
+          "drawCalls": 72
+        },
+        {
+          "elapsedMs": 2500,
+          "rover": {
+            "x": -8,
+            "z": 13,
+            "angle": 1.5707963267948966
+          },
+          "paused": true,
+          "reduced": false,
+          "active": null,
+          "near": -1,
+          "frames": 56,
+          "renders": 56,
+          "camera": [
+            54.207668996859866,
+            59,
+            78.53753788010272
+          ],
+          "speed": 0,
+          "webgl": true,
+          "drawCalls": 72
+        },
+        {
+          "elapsedMs": 3000,
+          "rover": {
+            "x": -8,
+            "z": 13,
+            "angle": 1.5707963267948966
+          },
+          "paused": true,
+          "reduced": false,
+          "active": null,
+          "near": -1,
+          "frames": 58,
+          "renders": 58,
+          "camera": [
+            54.20621188745649,
+            59,
+            78.5399056828832
+          ],
+          "speed": 0,
+          "webgl": true,
+          "drawCalls": 72
+        },
+        {
+          "elapsedMs": 3500,
+          "rover": {
+            "x": -8,
+            "z": 13,
+            "angle": 1.5707963267948966
+          },
+          "paused": true,
+          "reduced": false,
+          "active": null,
+          "near": -1,
+          "frames": 61,
+          "renders": 60,
+          "camera": [
+            54.20503162883976,
+            59,
+            78.54182360313538
+          ],
+          "speed": 0,
+          "webgl": true,
+          "drawCalls": 72
+        },
+        {
+          "elapsedMs": 4000,
+          "rover": {
+            "x": -8,
+            "z": 13,
+            "angle": 1.5707963267948966
+          },
+          "paused": true,
+          "reduced": false,
+          "active": null,
+          "near": -1,
+          "frames": 73,
+          "renders": 60,
+          "camera": [
+            54.20503162883976,
+            59,
+            78.54182360313538
+          ],
+          "speed": 0,
+          "webgl": true,
+          "drawCalls": 72
+        },
+        {
+          "elapsedMs": 4500,
+          "rover": {
+            "x": -8,
+            "z": 13,
+            "angle": 1.5707963267948966
+          },
+          "paused": true,
+          "reduced": false,
+          "active": null,
+          "near": -1,
+          "frames": 88,
+          "renders": 60,
+          "camera": [
+            54.20503162883976,
+            59,
+            78.54182360313538
+          ],
+          "speed": 0,
+          "webgl": true,
+          "drawCalls": 72
+        },
+        {
+          "elapsedMs": 5000,
+          "rover": {
+            "x": -8,
+            "z": 13,
+            "angle": 1.5707963267948966
+          },
+          "paused": true,
+          "reduced": false,
+          "active": null,
+          "near": -1,
+          "frames": 103,
+          "renders": 60,
+          "camera": [
+            54.20503162883976,
+            59,
+            78.54182360313538
+          ],
+          "speed": 0,
+          "webgl": true,
+          "drawCalls": 72
+        }
+      ]
+    }
+  ]
+}

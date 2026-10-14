@@ -1,0 +1,42 @@
+{
+  "index.html": {
+    "sha256": "d2b05333d6c8426f417fff37e6e44260948d2e5f500b10f160e2e9124637c35e",
+    "bytes": 4659
+  },
+  "style.css": {
+    "sha256": "8648fe6099aa0fa7e8f8b64f101e78cea50d9e90ddcd1b3578f5e84fdb4abd5d",
+    "bytes": 11087
+  },
+  "app.js": {
+    "sha256": "2812f4d76f29136bed7efcb13f57e68ed4cdbed46625a20e16c092a0cd6c3e9b",
+    "bytes": 13544
+  },
+  "assets/favicon.svg": {
+    "sha256": "bcc10073e941448dd779764d81ba582232475582d64e9fab286f097b73886675",
+    "bytes": 227
+  },
+  "assets/karla-OFL.txt": {
+    "sha256": "edf2c840acb9570fe02f40721126aa0da4e4011a0030cc6dce30780569f609b6",
+    "bytes": 4384
+  },
+  "assets/karla.ttf": {
+    "sha256": "ed3ca4cd9bdd899c543927c30bf5ff50706b24b3f2b7328e64b25f7d2a9d23dc",
+    "bytes": 94016
+  },
+  "assets/tenor-OFL.txt": {
+    "sha256": "7b826efb1b74a50b1c1aef0a1ba4530925b993ceadc3016d1d787c68a61649dd",
+    "bytes": 4413
+  },
+  "assets/tenor-sans.ttf": {
+    "sha256": "350c882fa9f19927ed108371691d393d5dc1c209edde8472cab8aa8013241366",
+    "bytes": 131896
+  },
+  "assets/three-LICENSE.txt": {
+    "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
+    "bytes": 1081
+  },
+  "assets/three.module.js": {
+    "sha256": "76dea8151bc9352aef3528b4262e249b2604f62543828328db978d060d61a495",
+    "bytes": 1272972
+  }
+}

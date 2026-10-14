@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "title": "Design System: Crystal narrative",
+  "extensions": {
+    "breakpoints": [{"name":"compact-desktop","value":"1000px"},{"name":"mobile","value":"650px"}],
+    "motion": [{"name":"anchor-navigation","value":"smooth","purpose":"Native chapter scrolling; auto under prefers-reduced-motion."}],
+    "shadows": [{"name":"headline-legibility","value":"0 3px 22px #21201d","purpose":"Dark text shadow protects the opening headline."}],
+    "typographyMeta": {"display":{"displayName":"Archivo display","purpose":"Scene headlines and oversized facets."},"body":{"displayName":"Public Sans reading","purpose":"Readable narrative and control text."}}
+  },
+  "components": [
+    {"name":"Primary draft action","kind":"button","refersTo":"button-primary","description":"Local draft preparation.","html":"<button class=\"ds-button\">Prepare my draft</button>","css":".ds-button{background:var(--copper,#dfac83);color:var(--carbon,#21201d);padding:13px 19px;border:1px solid var(--copper,#dfac83);border-radius:0;font:14px 'Public Sans',sans-serif;cursor:pointer}.ds-button:hover{background:var(--paper,#ece9dd);border-color:var(--paper,#ece9dd)}.ds-button:focus-visible{outline:2px solid var(--copper,#dfac83);outline-offset:6px}"},
+    {"name":"Draft input","kind":"input","description":"Labeled dark square textarea.","html":"<label class=\"ds-label\" for=\"ds-problem\">What’s getting in the way?</label><textarea class=\"ds-field\" id=\"ds-problem\" rows=\"3\"></textarea>","css":".ds-label{display:block;font:13px 'Public Sans',sans-serif;margin-bottom:8px;color:var(--paper,#ece9dd)}.ds-field{width:100%;box-sizing:border-box;background:#2c2d28;border:1px solid #777d70;border-radius:0;color:var(--paper,#ece9dd);padding:14px;caret-color:var(--copper,#dfac83);font:14px/1.5 'Public Sans',sans-serif}.ds-field:focus-visible{outline:2px solid var(--copper,#dfac83);outline-offset:6px}"},
+    {"name":"Chapter link","kind":"nav","description":"Current scene uses copper underline.","html":"<nav class=\"ds-nav\" aria-label=\"Example chapters\"><a href=\"#perspective\" aria-current=\"location\">The perspective</a><a href=\"#friction\">The friction</a></nav>","css":".ds-nav{display:flex;gap:32px;background:var(--carbon,#21201d);padding:16px;font:12px 'Public Sans',sans-serif}.ds-nav a{color:var(--muted,#c0c3b6);text-decoration:none;padding:4px 0}.ds-nav a[aria-current]{color:var(--paper,#ece9dd);text-decoration:underline;text-decoration-color:var(--copper,#dfac83);text-decoration-thickness:2px;text-underline-offset:8px}.ds-nav a:hover{text-decoration:underline}.ds-nav a:focus-visible{outline:2px solid var(--copper,#dfac83);outline-offset:6px}"}
+  ],
+  "narrative": {
+    "northStar":"A change of perspective",
+    "overview":"A dark mineral world drawn from the approved faceted illustrations. Portraits are substantial content, not avatars. Broad color fields and a measured sans-serif pairing let a person and their way of thinking lead the experience. The physical use scene is a quiet, low-light viewing session with time to read a personal story; the dark ground preserves the portraits’ own charcoal environment.",
+    "keyCharacteristics":["Warm carbon and mineral-green fields.","Large portrait illustration and restrained copper emphasis.","Flat square controls with clear, human labels."],
+    "rules":[{"name":"The Material Rule","body":"Keep the image’s copper, carbon and mineral tones connected to the surrounding field; do not recolor a portrait into an unrelated theme.","section":"colors"}],
+    "dos":["Do keep body copy readable against the field it inhabits.","Do identify stylized portrait imagery as illustration.","Do preserve native controls and no-script reading access."],
+    "donts":["Don't turn the portrait geometry into a decorative component costume.","Don't imply contact delivery or invent commercial evidence."]
+  }
+}

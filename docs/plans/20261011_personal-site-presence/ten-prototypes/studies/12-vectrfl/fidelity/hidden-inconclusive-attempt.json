@@ -1,0 +1,67 @@
+{
+  "method": "Actual headed Chromium tab switched away and restored under existing Xvfb; no visibility property injection",
+  "before": {
+    "draws": 2,
+    "frame": 0,
+    "currentX": -8,
+    "targetX": -8,
+    "currentSize": 48,
+    "paused": false,
+    "visible": true,
+    "hidden": false,
+    "focusPart": -1,
+    "transfer": [
+      -5,
+      0.28,
+      1.45
+    ]
+  },
+  "minimized": {
+    "draws": 2,
+    "frame": 0,
+    "currentX": -8,
+    "targetX": -8,
+    "currentSize": 48,
+    "paused": false,
+    "visible": true,
+    "hidden": false,
+    "focusPart": -1,
+    "transfer": [
+      -5,
+      0.28,
+      1.45
+    ]
+  },
+  "after": {
+    "draws": 2,
+    "frame": 0,
+    "currentX": -8,
+    "targetX": -8,
+    "currentSize": 48,
+    "paused": false,
+    "visible": true,
+    "hidden": false,
+    "focusPart": -1,
+    "transfer": [
+      -5,
+      0.28,
+      1.45
+    ]
+  },
+  "restored": {
+    "draws": 2,
+    "frame": 0,
+    "currentX": -8,
+    "targetX": -8,
+    "currentSize": 48,
+    "paused": false,
+    "visible": true,
+    "hidden": false,
+    "focusPart": -1,
+    "transfer": [
+      -5,
+      0.28,
+      1.45
+    ]
+  }
+}

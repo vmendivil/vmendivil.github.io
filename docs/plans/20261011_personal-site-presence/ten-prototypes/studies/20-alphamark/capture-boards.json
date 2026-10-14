@@ -1,0 +1,46 @@
+{
+  ".impeccable/review/board-mobile-0.png": [
+    ".impeccable/review/about-mobile.png",
+    ".impeccable/review/ai-mobile.png",
+    ".impeccable/review/approach-mobile.png"
+  ],
+  ".impeccable/review/board-mobile-1.png": [
+    ".impeccable/review/collection-mobile.png",
+    ".impeccable/review/contact-mobile.png",
+    ".impeccable/review/content-mobile.png"
+  ],
+  ".impeccable/review/board-mobile-2.png": [
+    ".impeccable/review/curiosity-mobile.png",
+    ".impeccable/review/menu-mobile.png",
+    ".impeccable/review/mobile.png"
+  ],
+  ".impeccable/review/board-mobile-3.png": [
+    ".impeccable/review/paired-mobile.png"
+  ],
+  ".impeccable/review/board-desktop-0.png": [
+    ".impeccable/review/about-desktop.png",
+    ".impeccable/review/ai-desktop.png",
+    ".impeccable/review/approach-desktop.png",
+    ".impeccable/review/collection-desktop.png"
+  ],
+  ".impeccable/review/board-desktop-1.png": [
+    ".impeccable/review/contact-desktop.png",
+    ".impeccable/review/content-desktop.png",
+    ".impeccable/review/curiosity-desktop.png",
+    ".impeccable/review/desktop.png"
+  ],
+  ".impeccable/review/board-desktop-2.png": [
+    ".impeccable/review/paired-desktop.png"
+  ],
+  ".impeccable/review/board-landscape-0.png": [
+    ".impeccable/review/ai-landscape.png",
+    ".impeccable/review/collection-landscape.png",
+    ".impeccable/review/contact-landscape.png",
+    ".impeccable/review/content-landscape.png"
+  ],
+  ".impeccable/review/board-landscape-1.png": [
+    ".impeccable/review/curiosity-landscape.png",
+    ".impeccable/review/landscape.png",
+    ".impeccable/review/menu-landscape.png"
+  ]
+}

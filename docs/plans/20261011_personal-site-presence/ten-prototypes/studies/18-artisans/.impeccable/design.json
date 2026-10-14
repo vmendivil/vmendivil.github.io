@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T03:59:31.359181+00:00",
+  "title": "Design System: A Thread Through Night",
+  "extensions": {
+    "scenicUtilityGrounds": {
+      "ochre": "#292619",
+      "cyan": "#123139",
+      "scope": "Opaque text-sized onward link and caption grounds only; reading chapters unboxed and mint label copy/grounds preserved; mobile utility spacing corrected."
+    },
+    "portraitMoon": {
+      "position": [4, 18, -145],
+      "widePosition": [20, 18, -145],
+      "fallback": "assets/cyan-portrait.png",
+      "status": "Blocked private raster is NOT publishable. Current served old PNGs are tested unchanged; provenance gate remains closed."
+    },
+    "shadows": [
+      {
+        "name": "menu-sheet",
+        "value": "0 12px 30px #0005",
+        "purpose": "Separate the direct chapter menu from scenery."
+      }
+    ],
+    "lightControls": "local filament/exposure feedback; native camera range; old-poster brightness reduced-motion alternative",
+    "ambientBudget": "visible-only water, 24fps maximum, pause/offscreen/hidden stop draws",
+    "motion": [
+      {
+        "name": "scene-ready",
+        "value": "opacity .5s",
+        "purpose": "Reveal a successfully rendered scene; removed under reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "portrait-reading",
+        "value": "700px"
+      },
+      {
+        "name": "portrait-camera",
+        "value": "600px"
+      },
+      {
+        "name": "short-landscape",
+        "value": "500px height"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Chapter menu",
+      "kind": "nav",
+      "refersTo": "chapter-menu",
+      "description": "Native direct-access disclosure.",
+      "html": "<details class=\"ds-menu\"><summary>Chapters</summary><nav><a href=\"#about\">About</a><a href=\"#contact\">Contact</a></nav></details>",
+      "css": ".ds-menu{font-family:Manrope,sans-serif;color:#edf3ed;background:#111512;padding:16px}.ds-menu summary{min-height:44px;cursor:pointer}.ds-menu nav{background:#edf3ed;color:#111512;width:230px;padding:16px 22px}.ds-menu a{display:flex;align-items:center;min-height:48px;font-size:22px;color:inherit}.ds-menu a:hover{text-decoration:underline}.ds-menu :focus-visible{outline:2px solid currentColor;outline-offset:5px}"
+    },
+    {
+      "name": "Onward text link",
+      "kind": "custom",
+      "description": "A plainly underlined native onward anchor.",
+      "html": "<a class=\"ds-onward\" href=\"#approach\">Follow the approach</a>",
+      "css": ".ds-onward{font-family:Manrope,sans-serif;display:inline-flex;align-items:center;min-height:48px;font-size:16px;color:#edf3ed;background:#111512;text-decoration:underline;text-underline-offset:7px}.ds-onward:hover{text-underline-offset:9px}.ds-onward:focus-visible{outline:2px solid currentColor;outline-offset:5px}"
+    },
+    {
+      "name": "LinkedIn contact",
+      "kind": "custom",
+      "refersTo": "contact-link",
+      "description": "The only real outbound contact route.",
+      "html": "<a class=\"ds-contact\" href=\"https://www.linkedin.com/in/vmendivilaxdeveloper\">Find me on LinkedIn</a>",
+      "css": ".ds-contact{font-family:Manrope,sans-serif;background:#dcebe0;color:#17372b;display:flex;align-items:center;min-height:60px;padding:20px 0;border-bottom:1px solid #17372b;font-size:32px}.ds-contact:hover{text-decoration:underline;text-underline-offset:6px}.ds-contact:focus-visible{outline:2px solid currentColor;outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "A Thread Through Night",
+    "overview": "An authored open-water landscape gives way to plain, spacious reading. The surface alternates physical depth and typographic quiet, instead of asking visitors to read substantial text on scenery. Original terrain is illustrative, not a claim about real places or projects.",
+    "keyCharacteristics": [
+      "Three continuous terrain/water compositions with palette shifts.",
+      "Lightweight, open sans display and ordinary readable body copy.",
+      "Native anchors and a disclosure menu; no content gates or scroll hijack."
+    ],
+    "rules": [
+      {
+        "name": "The Chapter Field Rule",
+        "body": "Color occupies whole chapters, not identical accent cards.",
+        "section": "colors"
+      },
+      {
+        "name": "The Plain Reading Rule",
+        "body": "Long factual text remains HTML on a quiet color field.",
+        "section": "typography"
+      }
+    ],
+    "dos": [
+      "Do preserve whole-field color and uninterrupted readable text.",
+      "Do keep visitor movement native and direct access immediate.",
+      "Do retain original asset provenance and local font/library licenses."
+    ],
+    "donts": [
+      "Don\u2019t introduce fabricated work or copied reference assets.",
+      "Don\u2019t turn paragraphs into interchangeable card grids.",
+      "Don\u2019t present technical test success as reference-level visual acceptance."
+    ]
+  }
+}

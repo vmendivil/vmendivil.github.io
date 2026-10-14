@@ -1,0 +1,19 @@
+{
+  "runtime": {
+    "index.html": "e2967c22d49013dd21d90ee8ad5ce87265b93b5349a369c07be3f2c4d0e1490e",
+    "style.css": "f352196ea195fb6adcfd850103f181c73b330a9c3bf8bf36ce92f15c1b0ca384",
+    "main.js": "72a48929b33e9241797651194778b3e0e32263131ce71129dbdec55a1c3a8c3c",
+    "experience.css": "411ff983eeac7fd319ff6ce1df873f234021245581b5760dd3260ff097837f99"
+  },
+  "referenceEvidence": {
+    "source-observations.json": "67b0cf9d4d8bcb8a8c3b4057dba07f4594d78e374812b95ade2b3df59ddd2bd8",
+    "source-live.png": "e924c7811ac96dc73aceb0389b22b2850f8c168dceed61eeb255170b0d9ccb24",
+    "source-next.png": "d07112e945be0dbcce52fc86fdf20ee3a2a2fab19d1c218e6c16e09fb9515058"
+  },
+  "verification": {
+    "legacyContexts": 8,
+    "focalContexts": 6,
+    "focalFallbackContexts": 8,
+    "normalPageErrors": 0
+  }
+}

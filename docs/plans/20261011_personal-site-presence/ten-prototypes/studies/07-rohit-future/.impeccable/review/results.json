@@ -1,0 +1,90 @@
+{
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390,
+    "bodyFont": "27px",
+    "webgl": "ready",
+    "errors": []
+  },
+  "reducedMotion": {
+    "matches": true,
+    "disabled": true,
+    "label": "Still view \u00b7 reduced motion",
+    "scrollBehavior": "auto"
+  },
+  "contact": {
+    "hash": "#contact",
+    "scrollY": 3349,
+    "link": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+  },
+  "assets": [
+    {
+      "url": "http://127.0.0.1:8917/style.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8917/scene.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8917/assets/three.module.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8917/assets/ChakraPetch-Medium.ttf",
+      "status": 200
+    }
+  ],
+  "firstTab": "Skip to the readable introduction",
+  "skipEnter": {
+    "hash": "#about",
+    "scrollY": 0
+  },
+  "spacePause": {
+    "pressed": "true",
+    "label": "Resume motion"
+  },
+  "escapeSafe": "motion",
+  "errorsFinal": [],
+  "skipSettled": {
+    "hash": "#about",
+    "scrollY": 0,
+    "top": 940
+  },
+  "navEnter": {
+    "hash": "#about",
+    "scrollY": 915,
+    "top": 25
+  },
+  "textSizes": [
+    "27px",
+    "18px",
+    "18px",
+    "18px",
+    "18px",
+    "25px",
+    "18px",
+    "18px",
+    "18px",
+    "18px"
+  ],
+  "skipReducedEnter": {
+    "hash": "#about",
+    "scrollY": 915,
+    "top": 25
+  },
+  "desktop": {
+    "width": 1440,
+    "scrollWidth": 1425,
+    "font": true,
+    "webgl": "ready",
+    "errors": []
+  },
+  "forcedFallback": {
+    "state": "fallback",
+    "canvasHidden": true,
+    "fallbackVisible": true,
+    "context": true,
+    "errors": []
+  }
+}

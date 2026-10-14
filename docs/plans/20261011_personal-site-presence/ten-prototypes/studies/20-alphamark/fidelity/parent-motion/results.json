@@ -1,0 +1,177 @@
+{
+  "checks": {
+    "returnScroll": 373,
+    "returnFocus": "lead-edition",
+    "settledAnimations": 0,
+    "computed": {
+      "background": "rgb(16, 17, 16)",
+      "bodyFont": "16px",
+      "paragraphFonts": [
+        "16px",
+        "16px"
+      ]
+    }
+  },
+  "evidence": [
+    {
+      "frame": 1,
+      "label": "selected-plate",
+      "url": "http://127.0.0.1:9620/",
+      "time": 1791894159406,
+      "metrics": null
+    },
+    {
+      "frame": 2,
+      "label": "edition-handoff",
+      "url": "http://127.0.0.1:9620/workable-system.html",
+      "time": 1791894160517,
+      "metrics": null
+    },
+    {
+      "frame": 3,
+      "label": "essay",
+      "url": "http://127.0.0.1:9620/workable-system.html",
+      "time": 1791894161133,
+      "metrics": null
+    },
+    {
+      "frame": 4,
+      "label": "edition-return",
+      "url": "http://127.0.0.1:9620/index.html#editions",
+      "time": 1791894162273,
+      "metrics": null
+    },
+    {
+      "frame": 5,
+      "label": "cover-opening",
+      "url": "http://127.0.0.1:9620/index.html#editions",
+      "time": 1791894162644,
+      "metrics": null
+    },
+    {
+      "frame": 6,
+      "label": "cover-open",
+      "url": "http://127.0.0.1:9620/index.html#editions",
+      "time": 1791894163144,
+      "metrics": null
+    },
+    {
+      "frame": 7,
+      "label": "cover-return",
+      "url": "http://127.0.0.1:9620/index.html#editions",
+      "time": 1791894163203,
+      "metrics": null
+    }
+  ],
+  "log": [
+    {
+      "name": "pagereveal",
+      "time": 68,
+      "animations": [],
+      "transition": false
+    },
+    {
+      "name": "pageswap",
+      "time": 1253.5,
+      "animations": [
+        {
+          "pseudo": null,
+          "playState": "running"
+        }
+      ],
+      "transition": true
+    },
+    {
+      "name": "pagereveal",
+      "time": 315.89999997615814,
+      "animations": [],
+      "transition": true
+    },
+    {
+      "name": "cross-document-ready",
+      "time": 317.1999999284744,
+      "animations": [
+        {
+          "name": "-ua-view-transition-group-anim-edition-plate",
+          "pseudo": "::view-transition-group(edition-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-group-anim-root",
+          "pseudo": "::view-transition-group(root)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-fade-in",
+          "pseudo": "::view-transition-new(edition-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-mix-blend-mode-plus-lighter",
+          "pseudo": "::view-transition-new(edition-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-fade-out",
+          "pseudo": "::view-transition-old(edition-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-mix-blend-mode-plus-lighter",
+          "pseudo": "::view-transition-old(edition-plate)",
+          "playState": "running"
+        }
+      ]
+    },
+    {
+      "name": "pageswap",
+      "time": 1774.8999999761581,
+      "animations": [],
+      "transition": true
+    },
+    {
+      "name": "pagereveal",
+      "time": 187.89999997615814,
+      "animations": [],
+      "transition": true
+    },
+    {
+      "name": "cross-document-ready",
+      "time": 190.5,
+      "animations": [
+        {
+          "name": "-ua-view-transition-group-anim-edition-plate",
+          "pseudo": "::view-transition-group(edition-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-group-anim-root",
+          "pseudo": "::view-transition-group(root)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-fade-in",
+          "pseudo": "::view-transition-new(edition-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-mix-blend-mode-plus-lighter",
+          "pseudo": "::view-transition-new(edition-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-view-transition-fade-out",
+          "pseudo": "::view-transition-old(edition-plate)",
+          "playState": "running"
+        },
+        {
+          "name": "-ua-mix-blend-mode-plus-lighter",
+          "pseudo": "::view-transition-old(edition-plate)",
+          "playState": "running"
+        }
+      ]
+    }
+  ],
+  "renderer": "Headless Chromium software-rendered emulation; not physical-device FPS",
+  "hiddenEvidence": "Actual tab visibility recorded; if browser keeps pages visible, synthetic visibility-handler coverage explicitly separated"
+}

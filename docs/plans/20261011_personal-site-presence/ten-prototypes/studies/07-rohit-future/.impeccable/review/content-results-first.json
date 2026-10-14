@@ -1,0 +1,2436 @@
+{
+  "engine": "Playwright Chromium, emulated viewports and trusted keyboard/touch input; not physical Safari certification",
+  "url": "http://127.0.0.1:9017",
+  "viewports": [
+    {
+      "width": 320,
+      "documentWidth": 320,
+      "webgl": "ready",
+      "font": true,
+      "sections": [
+        {
+          "id": "home",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 320,
+            "height": 846.53125,
+            "right": 320,
+            "bottom": 846.53125
+          }
+        },
+        {
+          "id": "about",
+          "rect": {
+            "x": 0,
+            "y": 846.53125,
+            "width": 320,
+            "height": 932.328125,
+            "right": 320,
+            "bottom": 1778.859375
+          }
+        },
+        {
+          "id": "approach",
+          "rect": {
+            "x": 0,
+            "y": 1778.859375,
+            "width": 320,
+            "height": 866.265625,
+            "right": 320,
+            "bottom": 2645.125
+          }
+        },
+        {
+          "id": "interests",
+          "rect": {
+            "x": 0,
+            "y": 2645.125,
+            "width": 320,
+            "height": 895.515625,
+            "right": 320,
+            "bottom": 3540.640625
+          }
+        },
+        {
+          "id": "contact",
+          "rect": {
+            "x": 0,
+            "y": 3540.640625,
+            "width": 320,
+            "height": 865.1875,
+            "right": 320,
+            "bottom": 4405.828125
+          }
+        }
+      ],
+      "controls": [
+        {
+          "text": "VMVictor Mendivil",
+          "rect": {
+            "x": 16,
+            "y": 16,
+            "width": 34,
+            "height": 44,
+            "right": 50,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Context",
+          "rect": {
+            "x": 79,
+            "y": 16,
+            "width": 59,
+            "height": 44,
+            "right": 138,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Approach",
+          "rect": {
+            "x": 146,
+            "y": 16,
+            "width": 70,
+            "height": 44,
+            "right": 216,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Contact",
+          "rect": {
+            "x": 224,
+            "y": 16,
+            "width": 80,
+            "height": 44,
+            "right": 304,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Explore the archive",
+          "rect": {
+            "x": 24,
+            "y": 651.53125,
+            "width": 272,
+            "height": 53,
+            "right": 296,
+            "bottom": 704.53125
+          }
+        },
+        {
+          "text": "Pause motion",
+          "rect": {
+            "x": 24,
+            "y": 782.53125,
+            "width": 122,
+            "height": 44,
+            "right": 146,
+            "bottom": 826.53125
+          }
+        },
+        {
+          "text": "How I work",
+          "rect": {
+            "x": 24,
+            "y": 1706.859375,
+            "width": 107,
+            "height": 44,
+            "right": 131,
+            "bottom": 1750.859375
+          }
+        },
+        {
+          "text": "Let’s connect on LinkedIn",
+          "rect": {
+            "x": 24,
+            "y": 4094.828125,
+            "width": 272,
+            "height": 87,
+            "right": 296,
+            "bottom": 4181.828125
+          }
+        },
+        {
+          "text": "Back to the beginning",
+          "rect": {
+            "x": 24,
+            "y": 4333.828125,
+            "width": 189,
+            "height": 44,
+            "right": 213,
+            "bottom": 4377.828125
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "Personal technology.Always a work in progress.",
+          "size": 16,
+          "rect": {
+            "x": 24,
+            "y": 222.15625,
+            "width": 272,
+            "height": 48,
+            "right": 296,
+            "bottom": 270.15625
+          }
+        },
+        {
+          "text": "I’m Victor, a software developer.I like looking closer — and turning complicated systems into things people can actually use.",
+          "size": 17,
+          "rect": {
+            "x": 24,
+            "y": 530.15625,
+            "width": 272,
+            "height": 105.375,
+            "right": 296,
+            "bottom": 635.53125
+          }
+        },
+        {
+          "text": "I work where software meets the everyday reality of a business.",
+          "size": 28,
+          "rect": {
+            "x": 24,
+            "y": 1091.09375,
+            "width": 272,
+            "height": 140,
+            "right": 296,
+            "bottom": 1231.09375
+          }
+        },
+        {
+          "text": "My foundation is Dynamics 365 Finance & Operations and ERP: understanding requirements, designing solutions, implementing them, testing, deploying and supporting what comes next.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1257.09375,
+            "width": 272,
+            "height": 172.78125,
+            "right": 296,
+            "bottom": 1429.875
+          }
+        },
+        {
+          "text": "The interesting part is rarely just the code. It’s connecting the technical details to the people, processes and decisions around them.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1453.875,
+            "width": 272,
+            "height": 143.984375,
+            "right": 296,
+            "bottom": 1597.859375
+          }
+        },
+        {
+          "text": "I start by making the problem clear. What needs to happen? What already exists? What would make the change useful?",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1875.171875,
+            "width": 272,
+            "height": 140.1875,
+            "right": 296,
+            "bottom": 2015.359375
+          }
+        },
+        {
+          "text": "From there, I work through technical design and implementation, test the details, and stay connected through deployment and support.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 2091.671875,
+            "width": 272,
+            "height": 168.984375,
+            "right": 296,
+            "bottom": 2260.65625
+          }
+        },
+        {
+          "text": "Cross-team coordination is part of the work, not an afterthought.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 2336.96875,
+            "width": 272,
+            "height": 82.59375,
+            "right": 296,
+            "bottom": 2419.5625
+          }
+        },
+        {
+          "text": "Less mystery.More shared understanding.",
+          "size": 24,
+          "rect": {
+            "x": 24,
+            "y": 2445.5625,
+            "width": 272,
+            "height": 93.5625,
+            "right": 296,
+            "bottom": 2539.125
+          }
+        },
+        {
+          "text": "Some of the things keeping me curious.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 2810.78125,
+            "width": 272,
+            "height": 57.59375,
+            "right": 296,
+            "bottom": 2868.375
+          }
+        },
+        {
+          "text": "Raspberry Pi, homelab and server experiments. I enjoy exploring what I can run, connect and understand for myself.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 3017.53125,
+            "width": 272,
+            "height": 115.1875,
+            "right": 296,
+            "bottom": 3132.71875
+          }
+        },
+        {
+          "text": "AI-assisted work processes and web apps. I’m interested in where these tools can help with the work — and where careful human judgment still matters.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 3326.265625,
+            "width": 272,
+            "height": 143.984375,
+            "right": 296,
+            "bottom": 3470.25
+          }
+        },
+        {
+          "text": "I’m open to conversations about contained software needs, especially work that fits remote, evening or asynchronous collaboration alongside my full-time role.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 3768.65625,
+            "width": 272,
+            "height": 172.78125,
+            "right": 296,
+            "bottom": 3941.4375
+          }
+        },
+        {
+          "text": "I’m also interested in senior and technical-lead opportunities.",
+          "size": 26,
+          "rect": {
+            "x": 24,
+            "y": 3965.4375,
+            "width": 272,
+            "height": 101.390625,
+            "right": 296,
+            "bottom": 4066.828125
+          }
+        }
+      ],
+      "opening": [
+        {
+          "class": "stage",
+          "rect": {
+            "x": 0,
+            "y": 270.15625,
+            "width": 320,
+            "height": 260,
+            "right": 320,
+            "bottom": 530.15625
+          }
+        },
+        {
+          "class": "scene-title",
+          "rect": {
+            "x": 24,
+            "y": 100,
+            "width": 272,
+            "height": 170.15625,
+            "right": 296,
+            "bottom": 270.15625
+          }
+        },
+        {
+          "class": "opening-note",
+          "rect": {
+            "x": 24,
+            "y": 530.15625,
+            "width": 272,
+            "height": 174.375,
+            "right": 296,
+            "bottom": 704.53125
+          }
+        },
+        {
+          "class": "scene-caption",
+          "rect": {
+            "x": 24,
+            "y": 732.53125,
+            "width": 272,
+            "height": 94,
+            "right": 296,
+            "bottom": 826.53125
+          }
+        }
+      ],
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": false,
+        "contentInBounds": true,
+        "anchors": true
+      },
+      "pause": "true",
+      "contextAnchor": {
+        "hash": "#about",
+        "top": 23.53125
+      },
+      "approachAnchor": {
+        "hash": "#approach",
+        "top": 23.859375
+      }
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "webgl": "ready",
+      "font": true,
+      "sections": [
+        {
+          "id": "home",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 844,
+            "right": 390,
+            "bottom": 844
+          }
+        },
+        {
+          "id": "about",
+          "rect": {
+            "x": 0,
+            "y": 844,
+            "width": 390,
+            "height": 821.359375,
+            "right": 390,
+            "bottom": 1665.359375
+          }
+        },
+        {
+          "id": "approach",
+          "rect": {
+            "x": 0,
+            "y": 1665.359375,
+            "width": 390,
+            "height": 790.9375,
+            "right": 390,
+            "bottom": 2456.296875
+          }
+        },
+        {
+          "id": "interests",
+          "rect": {
+            "x": 0,
+            "y": 2456.296875,
+            "width": 390,
+            "height": 809.125,
+            "right": 390,
+            "bottom": 3265.421875
+          }
+        },
+        {
+          "id": "contact",
+          "rect": {
+            "x": 0,
+            "y": 3265.421875,
+            "width": 390,
+            "height": 799.296875,
+            "right": 390,
+            "bottom": 4064.71875
+          }
+        }
+      ],
+      "controls": [
+        {
+          "text": "VMVictor Mendivil",
+          "rect": {
+            "x": 20,
+            "y": 16,
+            "width": 34,
+            "height": 44,
+            "right": 54,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Context",
+          "rect": {
+            "x": 137,
+            "y": 16,
+            "width": 59,
+            "height": 44,
+            "right": 196,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Approach",
+          "rect": {
+            "x": 208,
+            "y": 16,
+            "width": 70,
+            "height": 44,
+            "right": 278,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Contact",
+          "rect": {
+            "x": 290,
+            "y": 16,
+            "width": 80,
+            "height": 44,
+            "right": 370,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Explore the archive",
+          "rect": {
+            "x": 24,
+            "y": 639.6875,
+            "width": 342,
+            "height": 53,
+            "right": 366,
+            "bottom": 692.6875
+          }
+        },
+        {
+          "text": "Pause motion",
+          "rect": {
+            "x": 244,
+            "y": 733.6875,
+            "width": 122,
+            "height": 44,
+            "right": 366,
+            "bottom": 777.6875
+          }
+        },
+        {
+          "text": "How I work",
+          "rect": {
+            "x": 259,
+            "y": 1593.359375,
+            "width": 107,
+            "height": 44,
+            "right": 366,
+            "bottom": 1637.359375
+          }
+        },
+        {
+          "text": "Let’s connect on LinkedIn",
+          "rect": {
+            "x": 24,
+            "y": 3780.71875,
+            "width": 342,
+            "height": 60,
+            "right": 366,
+            "bottom": 3840.71875
+          }
+        },
+        {
+          "text": "Back to the beginning",
+          "rect": {
+            "x": 24,
+            "y": 3992.71875,
+            "width": 189,
+            "height": 44,
+            "right": 213,
+            "bottom": 4036.71875
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "Personal technology.Always a work in progress.",
+          "size": 16,
+          "rect": {
+            "x": 231,
+            "y": 122.3125,
+            "width": 135,
+            "height": 96,
+            "right": 366,
+            "bottom": 218.3125
+          }
+        },
+        {
+          "text": "I’m Victor, a software developer.I like looking closer — and turning complicated systems into things people can actually use.",
+          "size": 17,
+          "rect": {
+            "x": 24,
+            "y": 518.3125,
+            "width": 342,
+            "height": 105.375,
+            "right": 366,
+            "bottom": 623.6875
+          }
+        },
+        {
+          "text": "I work where software meets the everyday reality of a business.",
+          "size": 28,
+          "rect": {
+            "x": 24,
+            "y": 1106.1875,
+            "width": 342,
+            "height": 105,
+            "right": 366,
+            "bottom": 1211.1875
+          }
+        },
+        {
+          "text": "My foundation is Dynamics 365 Finance & Operations and ERP: understanding requirements, designing solutions, implementing them, testing, deploying and supporting what comes next.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1237.1875,
+            "width": 342,
+            "height": 143.984375,
+            "right": 366,
+            "bottom": 1381.171875
+          }
+        },
+        {
+          "text": "The interesting part is rarely just the code. It’s connecting the technical details to the people, processes and decisions around them.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1405.171875,
+            "width": 342,
+            "height": 115.1875,
+            "right": 366,
+            "bottom": 1520.359375
+          }
+        },
+        {
+          "text": "I start by making the problem clear. What needs to happen? What already exists? What would make the change useful?",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1766.15625,
+            "width": 342,
+            "height": 111.390625,
+            "right": 366,
+            "bottom": 1877.546875
+          }
+        },
+        {
+          "text": "From there, I work through technical design and implementation, test the details, and stay connected through deployment and support.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1958.34375,
+            "width": 342,
+            "height": 140.1875,
+            "right": 366,
+            "bottom": 2098.53125
+          }
+        },
+        {
+          "text": "Cross-team coordination is part of the work, not an afterthought.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 2179.328125,
+            "width": 342,
+            "height": 82.59375,
+            "right": 366,
+            "bottom": 2261.921875
+          }
+        },
+        {
+          "text": "Less mystery.More shared understanding.",
+          "size": 24,
+          "rect": {
+            "x": 24,
+            "y": 2287.921875,
+            "width": 342,
+            "height": 62.375,
+            "right": 366,
+            "bottom": 2350.296875
+          }
+        },
+        {
+          "text": "Some of the things keeping me curious.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 2621.953125,
+            "width": 342,
+            "height": 28.796875,
+            "right": 366,
+            "bottom": 2650.75
+          }
+        },
+        {
+          "text": "Raspberry Pi, homelab and server experiments. I enjoy exploring what I can run, connect and understand for myself.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 2799.90625,
+            "width": 342,
+            "height": 86.390625,
+            "right": 366,
+            "bottom": 2886.296875
+          }
+        },
+        {
+          "text": "AI-assisted work processes and web apps. I’m interested in where these tools can help with the work — and where careful human judgment still matters.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 3079.84375,
+            "width": 342,
+            "height": 115.1875,
+            "right": 366,
+            "bottom": 3195.03125
+          }
+        },
+        {
+          "text": "I’m open to conversations about contained software needs, especially work that fits remote, evening or asynchronous collaboration alongside my full-time role.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 3512.140625,
+            "width": 342,
+            "height": 115.1875,
+            "right": 366,
+            "bottom": 3627.328125
+          }
+        },
+        {
+          "text": "I’m also interested in senior and technical-lead opportunities.",
+          "size": 26,
+          "rect": {
+            "x": 24,
+            "y": 3651.328125,
+            "width": 342,
+            "height": 101.390625,
+            "right": 366,
+            "bottom": 3752.71875
+          }
+        }
+      ],
+      "opening": [
+        {
+          "class": "stage",
+          "rect": {
+            "x": 0,
+            "y": 218.3125,
+            "width": 390,
+            "height": 300,
+            "right": 390,
+            "bottom": 518.3125
+          }
+        },
+        {
+          "class": "scene-title",
+          "rect": {
+            "x": 24,
+            "y": 100,
+            "width": 342,
+            "height": 118.3125,
+            "right": 366,
+            "bottom": 218.3125
+          }
+        },
+        {
+          "class": "opening-note",
+          "rect": {
+            "x": 24,
+            "y": 518.3125,
+            "width": 342,
+            "height": 174.375,
+            "right": 366,
+            "bottom": 692.6875
+          }
+        },
+        {
+          "class": "scene-caption",
+          "rect": {
+            "x": 24,
+            "y": 720.6875,
+            "width": 342,
+            "height": 57,
+            "right": 366,
+            "bottom": 777.6875
+          }
+        }
+      ],
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": false,
+        "contentInBounds": true,
+        "anchors": true
+      },
+      "pause": "true",
+      "contextAnchor": {
+        "hash": "#about",
+        "top": 24
+      },
+      "approachAnchor": {
+        "hash": "#approach",
+        "top": 24.359375
+      }
+    },
+    {
+      "width": 430,
+      "documentWidth": 430,
+      "webgl": "ready",
+      "font": true,
+      "sections": [
+        {
+          "id": "home",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 430,
+            "height": 932,
+            "right": 430,
+            "bottom": 932
+          }
+        },
+        {
+          "id": "about",
+          "rect": {
+            "x": 0,
+            "y": 932,
+            "width": 430,
+            "height": 708.96875,
+            "right": 430,
+            "bottom": 1640.96875
+          }
+        },
+        {
+          "id": "approach",
+          "rect": {
+            "x": 0,
+            "y": 1640.96875,
+            "width": 430,
+            "height": 762.609375,
+            "right": 430,
+            "bottom": 2403.578125
+          }
+        },
+        {
+          "id": "interests",
+          "rect": {
+            "x": 0,
+            "y": 2403.578125,
+            "width": 430,
+            "height": 809.125,
+            "right": 430,
+            "bottom": 3212.703125
+          }
+        },
+        {
+          "id": "contact",
+          "rect": {
+            "x": 0,
+            "y": 3212.703125,
+            "width": 430,
+            "height": 749.390625,
+            "right": 430,
+            "bottom": 3962.09375
+          }
+        }
+      ],
+      "controls": [
+        {
+          "text": "VMVictor Mendivil",
+          "rect": {
+            "x": 20,
+            "y": 16,
+            "width": 34,
+            "height": 44,
+            "right": 54,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Context",
+          "rect": {
+            "x": 177,
+            "y": 16,
+            "width": 59,
+            "height": 44,
+            "right": 236,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Approach",
+          "rect": {
+            "x": 248,
+            "y": 16,
+            "width": 70,
+            "height": 44,
+            "right": 318,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Contact",
+          "rect": {
+            "x": 330,
+            "y": 16,
+            "width": 80,
+            "height": 44,
+            "right": 410,
+            "bottom": 60
+          }
+        },
+        {
+          "text": "Explore the archive",
+          "rect": {
+            "x": 24,
+            "y": 613.34375,
+            "width": 382,
+            "height": 53,
+            "right": 406,
+            "bottom": 666.34375
+          }
+        },
+        {
+          "text": "Pause motion",
+          "rect": {
+            "x": 284,
+            "y": 707.34375,
+            "width": 122,
+            "height": 44,
+            "right": 406,
+            "bottom": 751.34375
+          }
+        },
+        {
+          "text": "How I work",
+          "rect": {
+            "x": 299,
+            "y": 1568.96875,
+            "width": 107,
+            "height": 44,
+            "right": 406,
+            "bottom": 1612.96875
+          }
+        },
+        {
+          "text": "Let’s connect on LinkedIn",
+          "rect": {
+            "x": 24,
+            "y": 3678.09375,
+            "width": 382,
+            "height": 60,
+            "right": 406,
+            "bottom": 3738.09375
+          }
+        },
+        {
+          "text": "Back to the beginning",
+          "rect": {
+            "x": 24,
+            "y": 3890.09375,
+            "width": 189,
+            "height": 44,
+            "right": 213,
+            "bottom": 3934.09375
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "Personal technology.Always a work in progress.",
+          "size": 16,
+          "rect": {
+            "x": 271,
+            "y": 122.3125,
+            "width": 135,
+            "height": 96,
+            "right": 406,
+            "bottom": 218.3125
+          }
+        },
+        {
+          "text": "I’m Victor, a software developer.I like looking closer — and turning complicated systems into things people can actually use.",
+          "size": 17,
+          "rect": {
+            "x": 24,
+            "y": 518.3125,
+            "width": 382,
+            "height": 79.03125,
+            "right": 406,
+            "bottom": 597.34375
+          }
+        },
+        {
+          "text": "I work where software meets the everyday reality of a business.",
+          "size": 28,
+          "rect": {
+            "x": 24,
+            "y": 1110.59375,
+            "width": 382,
+            "height": 105,
+            "right": 406,
+            "bottom": 1215.59375
+          }
+        },
+        {
+          "text": "My foundation is Dynamics 365 Finance & Operations and ERP: understanding requirements, designing solutions, implementing them, testing, deploying and supporting what comes next.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1241.59375,
+            "width": 382,
+            "height": 143.984375,
+            "right": 406,
+            "bottom": 1385.578125
+          }
+        },
+        {
+          "text": "The interesting part is rarely just the code. It’s connecting the technical details to the people, processes and decisions around them.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1409.578125,
+            "width": 382,
+            "height": 86.390625,
+            "right": 406,
+            "bottom": 1495.96875
+          }
+        },
+        {
+          "text": "I start by making the problem clear. What needs to happen? What already exists? What would make the change useful?",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1741.765625,
+            "width": 382,
+            "height": 111.390625,
+            "right": 406,
+            "bottom": 1853.15625
+          }
+        },
+        {
+          "text": "From there, I work through technical design and implementation, test the details, and stay connected through deployment and support.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 1933.953125,
+            "width": 382,
+            "height": 111.390625,
+            "right": 406,
+            "bottom": 2045.34375
+          }
+        },
+        {
+          "text": "Cross-team coordination is part of the work, not an afterthought.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 2126.140625,
+            "width": 382,
+            "height": 82.59375,
+            "right": 406,
+            "bottom": 2208.734375
+          }
+        },
+        {
+          "text": "Less mystery.More shared understanding.",
+          "size": 24,
+          "rect": {
+            "x": 24,
+            "y": 2234.734375,
+            "width": 382,
+            "height": 62.375,
+            "right": 406,
+            "bottom": 2297.109375
+          }
+        },
+        {
+          "text": "Some of the things keeping me curious.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 2569.234375,
+            "width": 382,
+            "height": 28.796875,
+            "right": 406,
+            "bottom": 2598.03125
+          }
+        },
+        {
+          "text": "Raspberry Pi, homelab and server experiments. I enjoy exploring what I can run, connect and understand for myself.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 2747.1875,
+            "width": 382,
+            "height": 86.390625,
+            "right": 406,
+            "bottom": 2833.578125
+          }
+        },
+        {
+          "text": "AI-assisted work processes and web apps. I’m interested in where these tools can help with the work — and where careful human judgment still matters.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 3027.125,
+            "width": 382,
+            "height": 115.1875,
+            "right": 406,
+            "bottom": 3142.3125
+          }
+        },
+        {
+          "text": "I’m open to conversations about contained software needs, especially work that fits remote, evening or asynchronous collaboration alongside my full-time role.",
+          "size": 18,
+          "rect": {
+            "x": 24,
+            "y": 3409.515625,
+            "width": 382,
+            "height": 115.1875,
+            "right": 406,
+            "bottom": 3524.703125
+          }
+        },
+        {
+          "text": "I’m also interested in senior and technical-lead opportunities.",
+          "size": 26,
+          "rect": {
+            "x": 24,
+            "y": 3548.703125,
+            "width": 382,
+            "height": 101.390625,
+            "right": 406,
+            "bottom": 3650.09375
+          }
+        }
+      ],
+      "opening": [
+        {
+          "class": "stage",
+          "rect": {
+            "x": 0,
+            "y": 218.3125,
+            "width": 430,
+            "height": 300,
+            "right": 430,
+            "bottom": 518.3125
+          }
+        },
+        {
+          "class": "scene-title",
+          "rect": {
+            "x": 24,
+            "y": 100,
+            "width": 382,
+            "height": 118.3125,
+            "right": 406,
+            "bottom": 218.3125
+          }
+        },
+        {
+          "class": "opening-note",
+          "rect": {
+            "x": 24,
+            "y": 518.3125,
+            "width": 382,
+            "height": 148.03125,
+            "right": 406,
+            "bottom": 666.34375
+          }
+        },
+        {
+          "class": "scene-caption",
+          "rect": {
+            "x": 24,
+            "y": 694.34375,
+            "width": 382,
+            "height": 57,
+            "right": 406,
+            "bottom": 751.34375
+          }
+        }
+      ],
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": false,
+        "contentInBounds": true,
+        "anchors": true
+      },
+      "pause": "true",
+      "contextAnchor": {
+        "hash": "#about",
+        "top": 24
+      },
+      "approachAnchor": {
+        "hash": "#approach",
+        "top": 23.96875
+      }
+    },
+    {
+      "width": 844,
+      "documentWidth": 844,
+      "webgl": "ready",
+      "font": true,
+      "sections": [
+        {
+          "id": "home",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 844,
+            "height": 660,
+            "right": 844,
+            "bottom": 660
+          }
+        },
+        {
+          "id": "about",
+          "rect": {
+            "x": 0,
+            "y": 660,
+            "width": 844,
+            "height": 701.6875,
+            "right": 844,
+            "bottom": 1361.6875
+          }
+        },
+        {
+          "id": "approach",
+          "rect": {
+            "x": 0,
+            "y": 1361.6875,
+            "width": 844,
+            "height": 884.15625,
+            "right": 844,
+            "bottom": 2245.84375
+          }
+        },
+        {
+          "id": "interests",
+          "rect": {
+            "x": 0,
+            "y": 2245.84375,
+            "width": 844,
+            "height": 715.78125,
+            "right": 844,
+            "bottom": 2961.625
+          }
+        },
+        {
+          "id": "contact",
+          "rect": {
+            "x": 0,
+            "y": 2961.625,
+            "width": 844,
+            "height": 673.90625,
+            "right": 844,
+            "bottom": 3635.53125
+          }
+        }
+      ],
+      "controls": [
+        {
+          "text": "VMVictor Mendivil",
+          "rect": {
+            "x": 29.53125,
+            "y": 12,
+            "width": 164,
+            "height": 44,
+            "right": 193.53125,
+            "bottom": 56
+          }
+        },
+        {
+          "text": "Context",
+          "rect": {
+            "x": 519.46875,
+            "y": 12,
+            "width": 59,
+            "height": 44,
+            "right": 578.46875,
+            "bottom": 56
+          }
+        },
+        {
+          "text": "Approach",
+          "rect": {
+            "x": 616.46875,
+            "y": 12,
+            "width": 70,
+            "height": 44,
+            "right": 686.46875,
+            "bottom": 56
+          }
+        },
+        {
+          "text": "Contact",
+          "rect": {
+            "x": 724.46875,
+            "y": 12,
+            "width": 90,
+            "height": 44,
+            "right": 814.46875,
+            "bottom": 56
+          }
+        },
+        {
+          "text": "Explore the archive",
+          "rect": {
+            "x": 50.625,
+            "y": 507,
+            "width": 388.234375,
+            "height": 53,
+            "right": 438.859375,
+            "bottom": 560
+          }
+        },
+        {
+          "text": "Pause motion",
+          "rect": {
+            "x": 688,
+            "y": 596,
+            "width": 132,
+            "height": 44,
+            "right": 820,
+            "bottom": 640
+          }
+        },
+        {
+          "text": "How I work",
+          "rect": {
+            "x": 686.375,
+            "y": 1285.6875,
+            "width": 107,
+            "height": 44,
+            "right": 793.375,
+            "bottom": 1329.6875
+          }
+        },
+        {
+          "text": "Let’s connect on LinkedIn",
+          "rect": {
+            "x": 451.703125,
+            "y": 3346.53125,
+            "width": 341.671875,
+            "height": 62,
+            "right": 793.375,
+            "bottom": 3408.53125
+          }
+        },
+        {
+          "text": "Back to the beginning",
+          "rect": {
+            "x": 50.625,
+            "y": 3559.53125,
+            "width": 189,
+            "height": 44,
+            "right": 239.625,
+            "bottom": 3603.53125
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "Personal technology.Always a work in progress.",
+          "size": 16,
+          "rect": {
+            "x": 50.625,
+            "y": 263.3125,
+            "width": 192.78125,
+            "height": 48,
+            "right": 243.40625,
+            "bottom": 311.3125
+          }
+        },
+        {
+          "text": "I’m Victor, a software developer.I like looking closer — and turning complicated systems into things people can actually use.",
+          "size": 17,
+          "rect": {
+            "x": 50.625,
+            "y": 399.96875,
+            "width": 388.234375,
+            "height": 79.03125,
+            "right": 438.859375,
+            "bottom": 479
+          }
+        },
+        {
+          "text": "I work where software meets the everyday reality of a business.",
+          "size": 28,
+          "rect": {
+            "x": 50.625,
+            "y": 908.71875,
+            "width": 341.671875,
+            "height": 311.96875,
+            "right": 392.296875,
+            "bottom": 1220.6875
+          }
+        },
+        {
+          "text": "My foundation is Dynamics 365 Finance & Operations and ERP: understanding requirements, designing solutions, implementing them, testing, deploying and supporting what comes next.",
+          "size": 18,
+          "rect": {
+            "x": 476.703125,
+            "y": 908.71875,
+            "width": 316.671875,
+            "height": 172.78125,
+            "right": 793.375,
+            "bottom": 1081.5
+          }
+        },
+        {
+          "text": "The interesting part is rarely just the code. It’s connecting the technical details to the people, processes and decisions around them.",
+          "size": 18,
+          "rect": {
+            "x": 476.703125,
+            "y": 1105.5,
+            "width": 316.671875,
+            "height": 115.1875,
+            "right": 793.375,
+            "bottom": 1220.6875
+          }
+        },
+        {
+          "text": "I start by making the problem clear. What needs to happen? What already exists? What would make the change useful?",
+          "size": 18,
+          "rect": {
+            "x": 475.53125,
+            "y": 1409.6875,
+            "width": 317.828125,
+            "height": 175,
+            "right": 793.359375,
+            "bottom": 1584.6875
+          }
+        },
+        {
+          "text": "From there, I work through technical design and implementation, test the details, and stay connected through deployment and support.",
+          "size": 18,
+          "rect": {
+            "x": 475.53125,
+            "y": 1584.6875,
+            "width": 317.828125,
+            "height": 175,
+            "right": 793.359375,
+            "bottom": 1759.6875
+          }
+        },
+        {
+          "text": "Cross-team coordination is part of the work, not an afterthought.",
+          "size": 18,
+          "rect": {
+            "x": 475.53125,
+            "y": 1759.6875,
+            "width": 317.828125,
+            "height": 175,
+            "right": 793.359375,
+            "bottom": 1934.6875
+          }
+        },
+        {
+          "text": "Less mystery.More shared understanding.",
+          "size": 24,
+          "rect": {
+            "x": 50.625,
+            "y": 1966.6875,
+            "width": 282.6875,
+            "height": 93.5625,
+            "right": 333.3125,
+            "bottom": 2060.25
+          }
+        },
+        {
+          "text": "Some of the things keeping me curious.",
+          "size": 18,
+          "rect": {
+            "x": 533.375,
+            "y": 2368.875,
+            "width": 260,
+            "height": 57.59375,
+            "right": 793.375,
+            "bottom": 2426.46875
+          }
+        },
+        {
+          "text": "Raspberry Pi, homelab and server experiments. I enjoy exploring what I can run, connect and understand for myself.",
+          "size": 18,
+          "rect": {
+            "x": 489.65625,
+            "y": 2497.46875,
+            "width": 303.71875,
+            "height": 115.1875,
+            "right": 793.375,
+            "bottom": 2612.65625
+          }
+        },
+        {
+          "text": "AI-assisted work processes and web apps. I’m interested in where these tools can help with the work — and where careful human judgment still matters.",
+          "size": 18,
+          "rect": {
+            "x": 467.96875,
+            "y": 2736.046875,
+            "width": 325.40625,
+            "height": 115.1875,
+            "right": 793.375,
+            "bottom": 2851.234375
+          }
+        },
+        {
+          "text": "I’m open to conversations about contained software needs, especially work that fits remote, evening or asynchronous collaboration alongside my full-time role.",
+          "size": 18,
+          "rect": {
+            "x": 50.625,
+            "y": 3207.34375,
+            "width": 341.671875,
+            "height": 115.1875,
+            "right": 392.296875,
+            "bottom": 3322.53125
+          }
+        },
+        {
+          "text": "I’m also interested in senior and technical-lead opportunities.",
+          "size": 28,
+          "rect": {
+            "x": 451.703125,
+            "y": 3207.34375,
+            "width": 341.671875,
+            "height": 109.171875,
+            "right": 793.375,
+            "bottom": 3316.515625
+          }
+        }
+      ],
+      "opening": [
+        {
+          "class": "stage",
+          "rect": {
+            "x": 303.828125,
+            "y": 80,
+            "width": 540.171875,
+            "height": 390,
+            "right": 844,
+            "bottom": 470
+          }
+        },
+        {
+          "class": "scene-title",
+          "rect": {
+            "x": 50.625,
+            "y": 120,
+            "width": 192.78125,
+            "height": 191.3125,
+            "right": 243.40625,
+            "bottom": 311.3125
+          }
+        },
+        {
+          "class": "opening-note",
+          "rect": {
+            "x": 50.625,
+            "y": 399.96875,
+            "width": 388.234375,
+            "height": 160.03125,
+            "right": 438.859375,
+            "bottom": 560
+          }
+        },
+        {
+          "class": "scene-caption",
+          "rect": {
+            "x": 24,
+            "y": 577,
+            "width": 796,
+            "height": 63,
+            "right": 820,
+            "bottom": 640
+          }
+        }
+      ],
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": true,
+        "contentInBounds": true,
+        "anchors": true
+      },
+      "pause": "true",
+      "contextAnchor": {
+        "hash": "#about",
+        "top": 24
+      },
+      "approachAnchor": {
+        "hash": "#approach",
+        "top": 23.6875
+      }
+    },
+    {
+      "width": 768,
+      "documentWidth": 768,
+      "webgl": "ready",
+      "font": true,
+      "sections": [
+        {
+          "id": "home",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 1024,
+            "right": 768,
+            "bottom": 1024
+          }
+        },
+        {
+          "id": "about",
+          "rect": {
+            "x": 0,
+            "y": 1024,
+            "width": 768,
+            "height": 720.984375,
+            "right": 768,
+            "bottom": 1744.984375
+          }
+        },
+        {
+          "id": "approach",
+          "rect": {
+            "x": 0,
+            "y": 1744.984375,
+            "width": 768,
+            "height": 873.5625,
+            "right": 768,
+            "bottom": 2618.546875
+          }
+        },
+        {
+          "id": "interests",
+          "rect": {
+            "x": 0,
+            "y": 2618.546875,
+            "width": 768,
+            "height": 744.578125,
+            "right": 768,
+            "bottom": 3363.125
+          }
+        },
+        {
+          "id": "contact",
+          "rect": {
+            "x": 0,
+            "y": 3363.125,
+            "width": 768,
+            "height": 692.203125,
+            "right": 768,
+            "bottom": 4055.328125
+          }
+        }
+      ],
+      "controls": [
+        {
+          "text": "VMVictor Mendivil",
+          "rect": {
+            "x": 26.875,
+            "y": 24,
+            "width": 164,
+            "height": 44,
+            "right": 190.875,
+            "bottom": 68
+          }
+        },
+        {
+          "text": "Context",
+          "rect": {
+            "x": 446.125,
+            "y": 24,
+            "width": 59,
+            "height": 44,
+            "right": 505.125,
+            "bottom": 68
+          }
+        },
+        {
+          "text": "Approach",
+          "rect": {
+            "x": 543.125,
+            "y": 24,
+            "width": 70,
+            "height": 44,
+            "right": 613.125,
+            "bottom": 68
+          }
+        },
+        {
+          "text": "Contact",
+          "rect": {
+            "x": 651.125,
+            "y": 24,
+            "width": 90,
+            "height": 44,
+            "right": 741.125,
+            "bottom": 68
+          }
+        },
+        {
+          "text": "Explore the archive",
+          "rect": {
+            "x": 46.078125,
+            "y": 851,
+            "width": 290,
+            "height": 53,
+            "right": 336.078125,
+            "bottom": 904
+          }
+        },
+        {
+          "text": "Pause motion",
+          "rect": {
+            "x": 609.125,
+            "y": 950,
+            "width": 132,
+            "height": 44,
+            "right": 741.125,
+            "bottom": 994
+          }
+        },
+        {
+          "text": "How I work",
+          "rect": {
+            "x": 614.921875,
+            "y": 1668.984375,
+            "width": 107,
+            "height": 44,
+            "right": 721.921875,
+            "bottom": 1712.984375
+          }
+        },
+        {
+          "text": "Let’s connect on LinkedIn",
+          "rect": {
+            "x": 411.03125,
+            "y": 3766.328125,
+            "width": 310.890625,
+            "height": 62,
+            "right": 721.921875,
+            "bottom": 3828.328125
+          }
+        },
+        {
+          "text": "Back to the beginning",
+          "rect": {
+            "x": 46.078125,
+            "y": 3979.328125,
+            "width": 189,
+            "height": 44,
+            "right": 235.078125,
+            "bottom": 4023.328125
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "Personal technology.Always a work in progress.",
+          "size": 16,
+          "rect": {
+            "x": 46.078125,
+            "y": 350.078125,
+            "width": 211.09375,
+            "height": 48,
+            "right": 257.171875,
+            "bottom": 398.078125
+          }
+        },
+        {
+          "text": "I’m Victor, a software developer.I like looking closer — and turning complicated systems into things people can actually use.",
+          "size": 17,
+          "rect": {
+            "x": 46.078125,
+            "y": 717.625,
+            "width": 290,
+            "height": 105.375,
+            "right": 336.078125,
+            "bottom": 823
+          }
+        },
+        {
+          "text": "I work where software meets the everyday reality of a business.",
+          "size": 28,
+          "rect": {
+            "x": 46.078125,
+            "y": 1263.21875,
+            "width": 310.890625,
+            "height": 340.765625,
+            "right": 356.96875,
+            "bottom": 1603.984375
+          }
+        },
+        {
+          "text": "My foundation is Dynamics 365 Finance & Operations and ERP: understanding requirements, designing solutions, implementing them, testing, deploying and supporting what comes next.",
+          "size": 18,
+          "rect": {
+            "x": 436.03125,
+            "y": 1263.21875,
+            "width": 285.890625,
+            "height": 172.78125,
+            "right": 721.921875,
+            "bottom": 1436
+          }
+        },
+        {
+          "text": "The interesting part is rarely just the code. It’s connecting the technical details to the people, processes and decisions around them.",
+          "size": 18,
+          "rect": {
+            "x": 436.03125,
+            "y": 1460,
+            "width": 285.890625,
+            "height": 143.984375,
+            "right": 721.921875,
+            "bottom": 1603.984375
+          }
+        },
+        {
+          "text": "I start by making the problem clear. What needs to happen? What already exists? What would make the change useful?",
+          "size": 18,
+          "rect": {
+            "x": 432.71875,
+            "y": 1792.984375,
+            "width": 289.1875,
+            "height": 175,
+            "right": 721.90625,
+            "bottom": 1967.984375
+          }
+        },
+        {
+          "text": "From there, I work through technical design and implementation, test the details, and stay connected through deployment and support.",
+          "size": 18,
+          "rect": {
+            "x": 432.71875,
+            "y": 1967.984375,
+            "width": 289.1875,
+            "height": 175,
+            "right": 721.90625,
+            "bottom": 2142.984375
+          }
+        },
+        {
+          "text": "Cross-team coordination is part of the work, not an afterthought.",
+          "size": 18,
+          "rect": {
+            "x": 432.71875,
+            "y": 2142.984375,
+            "width": 289.1875,
+            "height": 175,
+            "right": 721.90625,
+            "bottom": 2317.984375
+          }
+        },
+        {
+          "text": "Less mystery.More shared understanding.",
+          "size": 24,
+          "rect": {
+            "x": 46.078125,
+            "y": 2349.984375,
+            "width": 255.921875,
+            "height": 93.5625,
+            "right": 302,
+            "bottom": 2443.546875
+          }
+        },
+        {
+          "text": "Some of the things keeping me curious.",
+          "size": 18,
+          "rect": {
+            "x": 461.921875,
+            "y": 2741.578125,
+            "width": 260,
+            "height": 57.59375,
+            "right": 721.921875,
+            "bottom": 2799.171875
+          }
+        },
+        {
+          "text": "Raspberry Pi, homelab and server experiments. I enjoy exploring what I can run, connect and understand for myself.",
+          "size": 18,
+          "rect": {
+            "x": 445.5625,
+            "y": 2870.171875,
+            "width": 276.359375,
+            "height": 115.1875,
+            "right": 721.921875,
+            "bottom": 2985.359375
+          }
+        },
+        {
+          "text": "AI-assisted work processes and web apps. I’m interested in where these tools can help with the work — and where careful human judgment still matters.",
+          "size": 18,
+          "rect": {
+            "x": 425.828125,
+            "y": 3108.75,
+            "width": 296.09375,
+            "height": 143.984375,
+            "right": 721.921875,
+            "bottom": 3252.734375
+          }
+        },
+        {
+          "text": "I’m open to conversations about contained software needs, especially work that fits remote, evening or asynchronous collaboration alongside my full-time role.",
+          "size": 18,
+          "rect": {
+            "x": 46.078125,
+            "y": 3598.34375,
+            "width": 310.890625,
+            "height": 143.984375,
+            "right": 356.96875,
+            "bottom": 3742.328125
+          }
+        },
+        {
+          "text": "I’m also interested in senior and technical-lead opportunities.",
+          "size": 28,
+          "rect": {
+            "x": 411.03125,
+            "y": 3598.34375,
+            "width": 310.890625,
+            "height": 109.171875,
+            "right": 721.921875,
+            "bottom": 3707.515625
+          }
+        }
+      ],
+      "opening": [
+        {
+          "class": "stage",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 1024,
+            "right": 768,
+            "bottom": 1024
+          }
+        },
+        {
+          "class": "scene-title",
+          "rect": {
+            "x": 46.078125,
+            "y": 194.546875,
+            "width": 211.09375,
+            "height": 203.53125,
+            "right": 257.171875,
+            "bottom": 398.078125
+          }
+        },
+        {
+          "class": "opening-note",
+          "rect": {
+            "x": 46.078125,
+            "y": 717.625,
+            "width": 290,
+            "height": 186.375,
+            "right": 336.078125,
+            "bottom": 904
+          }
+        },
+        {
+          "class": "scene-caption",
+          "rect": {
+            "x": 26.875,
+            "y": 931,
+            "width": 714.25,
+            "height": 63,
+            "right": 741.125,
+            "bottom": 994
+          }
+        }
+      ],
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": true,
+        "contentInBounds": true,
+        "anchors": true
+      },
+      "pause": "true",
+      "contextAnchor": {
+        "hash": "#about",
+        "top": 24
+      },
+      "approachAnchor": {
+        "hash": "#approach",
+        "top": 23.984375
+      }
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "webgl": "ready",
+      "font": true,
+      "sections": [
+        {
+          "id": "home",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 900,
+            "right": 1440,
+            "bottom": 900
+          }
+        },
+        {
+          "id": "about",
+          "rect": {
+            "x": 0,
+            "y": 900,
+            "width": 1440,
+            "height": 661.15625,
+            "right": 1440,
+            "bottom": 1561.15625
+          }
+        },
+        {
+          "id": "approach",
+          "rect": {
+            "x": 0,
+            "y": 1561.15625,
+            "width": 1440,
+            "height": 807,
+            "right": 1440,
+            "bottom": 2368.15625
+          }
+        },
+        {
+          "id": "interests",
+          "rect": {
+            "x": 0,
+            "y": 2368.15625,
+            "width": 1440,
+            "height": 716.96875,
+            "right": 1440,
+            "bottom": 3085.125
+          }
+        },
+        {
+          "id": "contact",
+          "rect": {
+            "x": 0,
+            "y": 3085.125,
+            "width": 1440,
+            "height": 663.578125,
+            "right": 1440,
+            "bottom": 3748.703125
+          }
+        }
+      ],
+      "controls": [
+        {
+          "text": "VMVictor Mendivil",
+          "rect": {
+            "x": 50.390625,
+            "y": 24,
+            "width": 164,
+            "height": 44,
+            "right": 214.390625,
+            "bottom": 68
+          }
+        },
+        {
+          "text": "Context",
+          "rect": {
+            "x": 1094.609375,
+            "y": 24,
+            "width": 59,
+            "height": 44,
+            "right": 1153.609375,
+            "bottom": 68
+          }
+        },
+        {
+          "text": "Approach",
+          "rect": {
+            "x": 1191.609375,
+            "y": 24,
+            "width": 70,
+            "height": 44,
+            "right": 1261.609375,
+            "bottom": 68
+          }
+        },
+        {
+          "text": "Contact",
+          "rect": {
+            "x": 1299.609375,
+            "y": 24,
+            "width": 90,
+            "height": 44,
+            "right": 1389.609375,
+            "bottom": 68
+          }
+        },
+        {
+          "text": "Explore the archive",
+          "rect": {
+            "x": 86.390625,
+            "y": 727,
+            "width": 340,
+            "height": 53,
+            "right": 426.390625,
+            "bottom": 780
+          }
+        },
+        {
+          "text": "Pause motion",
+          "rect": {
+            "x": 1257.609375,
+            "y": 826,
+            "width": 132,
+            "height": 44,
+            "right": 1389.609375,
+            "bottom": 870
+          }
+        },
+        {
+          "text": "How I work",
+          "rect": {
+            "x": 1246.609375,
+            "y": 1485.15625,
+            "width": 107,
+            "height": 44,
+            "right": 1353.609375,
+            "bottom": 1529.15625
+          }
+        },
+        {
+          "text": "Let’s connect on LinkedIn",
+          "rect": {
+            "x": 770.6875,
+            "y": 3523.703125,
+            "width": 582.921875,
+            "height": 64,
+            "right": 1353.609375,
+            "bottom": 3587.703125
+          }
+        },
+        {
+          "text": "Back to the beginning",
+          "rect": {
+            "x": 1164.609375,
+            "y": 3672.703125,
+            "width": 189,
+            "height": 44,
+            "right": 1353.609375,
+            "bottom": 3716.703125
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "text": "Personal technology.Always a work in progress.",
+          "size": 16,
+          "rect": {
+            "x": 86.390625,
+            "y": 445.34375,
+            "width": 321.203125,
+            "height": 48,
+            "right": 407.59375,
+            "bottom": 493.34375
+          }
+        },
+        {
+          "text": "I’m Victor, a software developer.I like looking closer — and turning complicated systems into things people can actually use.",
+          "size": 17,
+          "rect": {
+            "x": 86.390625,
+            "y": 593.625,
+            "width": 340,
+            "height": 105.375,
+            "right": 426.390625,
+            "bottom": 699
+          }
+        },
+        {
+          "text": "I work where software meets the everyday reality of a business.",
+          "size": 42,
+          "rect": {
+            "x": 86.390625,
+            "y": 1223.375,
+            "width": 530,
+            "height": 196.78125,
+            "right": 616.390625,
+            "bottom": 1420.15625
+          }
+        },
+        {
+          "text": "My foundation is Dynamics 365 Finance & Operations and ERP: understanding requirements, designing solutions, implementing them, testing, deploying and supporting what comes next.",
+          "size": 18,
+          "rect": {
+            "x": 811.6875,
+            "y": 1223.375,
+            "width": 541.921875,
+            "height": 86.390625,
+            "right": 1353.609375,
+            "bottom": 1309.765625
+          }
+        },
+        {
+          "text": "The interesting part is rarely just the code. It’s connecting the technical details to the people, processes and decisions around them.",
+          "size": 18,
+          "rect": {
+            "x": 811.6875,
+            "y": 1333.765625,
+            "width": 541.921875,
+            "height": 86.390625,
+            "right": 1353.609375,
+            "bottom": 1420.15625
+          }
+        },
+        {
+          "text": "I start by making the problem clear. What needs to happen? What already exists? What would make the change useful?",
+          "size": 18,
+          "rect": {
+            "x": 811.34375,
+            "y": 1609.15625,
+            "width": 542.25,
+            "height": 132,
+            "right": 1353.59375,
+            "bottom": 1741.15625
+          }
+        },
+        {
+          "text": "From there, I work through technical design and implementation, test the details, and stay connected through deployment and support.",
+          "size": 18,
+          "rect": {
+            "x": 811.34375,
+            "y": 1741.15625,
+            "width": 542.25,
+            "height": 132,
+            "right": 1353.59375,
+            "bottom": 1873.15625
+          }
+        },
+        {
+          "text": "Cross-team coordination is part of the work, not an afterthought.",
+          "size": 18,
+          "rect": {
+            "x": 811.34375,
+            "y": 1873.15625,
+            "width": 542.25,
+            "height": 132,
+            "right": 1353.59375,
+            "bottom": 2005.15625
+          }
+        },
+        {
+          "text": "Less mystery.More shared understanding.",
+          "size": 24,
+          "rect": {
+            "x": 86.390625,
+            "y": 2037.15625,
+            "width": 492.46875,
+            "height": 62.375,
+            "right": 578.859375,
+            "bottom": 2099.53125
+          }
+        },
+        {
+          "text": "Some of the things keeping me curious.",
+          "size": 18,
+          "rect": {
+            "x": 1093.609375,
+            "y": 2464.75,
+            "width": 260,
+            "height": 57.59375,
+            "right": 1353.609375,
+            "bottom": 2522.34375
+          }
+        },
+        {
+          "text": "Raspberry Pi, homelab and server experiments. I enjoy exploring what I can run, connect and understand for myself.",
+          "size": 18,
+          "rect": {
+            "x": 835.453125,
+            "y": 2593.34375,
+            "width": 518.15625,
+            "height": 129,
+            "right": 1353.609375,
+            "bottom": 2722.34375
+          }
+        },
+        {
+          "text": "AI-assisted work processes and web apps. I’m interested in where these tools can help with the work — and where careful human judgment still matters.",
+          "size": 18,
+          "rect": {
+            "x": 865.046875,
+            "y": 2845.734375,
+            "width": 488.5625,
+            "height": 129,
+            "right": 1353.609375,
+            "bottom": 2974.734375
+          }
+        },
+        {
+          "text": "I’m open to conversations about contained software needs, especially work that fits remote, evening or asynchronous collaboration alongside my full-time role.",
+          "size": 18,
+          "rect": {
+            "x": 86.390625,
+            "y": 3413.3125,
+            "width": 582.921875,
+            "height": 86.390625,
+            "right": 669.3125,
+            "bottom": 3499.703125
+          }
+        },
+        {
+          "text": "I’m also interested in senior and technical-lead opportunities.",
+          "size": 28,
+          "rect": {
+            "x": 770.6875,
+            "y": 3413.3125,
+            "width": 582.921875,
+            "height": 72.78125,
+            "right": 1353.609375,
+            "bottom": 3486.09375
+          }
+        }
+      ],
+      "opening": [
+        {
+          "class": "stage",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 900,
+            "right": 1440,
+            "bottom": 900
+          }
+        },
+        {
+          "class": "scene-title",
+          "rect": {
+            "x": 86.390625,
+            "y": 225,
+            "width": 321.203125,
+            "height": 268.34375,
+            "right": 407.59375,
+            "bottom": 493.34375
+          }
+        },
+        {
+          "class": "opening-note",
+          "rect": {
+            "x": 86.390625,
+            "y": 593.625,
+            "width": 340,
+            "height": 186.375,
+            "right": 426.390625,
+            "bottom": 780
+          }
+        },
+        {
+          "class": "scene-caption",
+          "rect": {
+            "x": 50.390625,
+            "y": 807,
+            "width": 1339.21875,
+            "height": 63,
+            "right": 1389.609375,
+            "bottom": 870
+          }
+        }
+      ],
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "checks": {
+        "noHorizontalOverflow": true,
+        "bodyAtLeast16": true,
+        "targets44": true,
+        "contentInBounds": true,
+        "anchors": true
+      },
+      "pause": "true",
+      "contextAnchor": {
+        "hash": "#about",
+        "top": 24
+      },
+      "approachAnchor": {
+        "hash": "#approach",
+        "top": 24.15625
+      }
+    }
+  ],
+  "interactions": {
+    "skip": {
+      "tabs": [
+        "Skip to the readable introduction",
+        "Skip to the readable introduction",
+        "VMVictor Mendivil",
+        "Context",
+        "Approach",
+        "Contact",
+        "Explore the archive",
+        "Pause motion"
+      ],
+      "hash": "#about"
+    },
+    "motionFocus": "motion",
+    "spacePaused": "true",
+    "pausePixelStable": true,
+    "enterResumed": "false",
+    "escapeNoTrap": true,
+    "afterMotionTab": "How I work",
+    "reduced": {
+      "matches": true,
+      "label": "Still view · reduced motion",
+      "disabled": true,
+      "webgl": "ready"
+    },
+    "linkedin": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+  },
+  "errors": [],
+  "pass": false
+}

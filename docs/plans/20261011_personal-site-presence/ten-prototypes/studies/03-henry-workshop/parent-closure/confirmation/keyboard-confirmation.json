@@ -1,0 +1,73 @@
+[
+  {
+    "name": "complete genuine Tab / Enter / Space / Escape path",
+    "pass": true,
+    "visited": [
+      "about",
+      "lab",
+      "approach",
+      "contact"
+    ],
+    "steps": [
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Skip the room, read about Victor"
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "text": "Victor MendivilSoftware developer & problem solver"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Monitor",
+        "key": "about"
+      },
+      {
+        "activated": "about",
+        "visible": true,
+        "text": "Monitor · expanded view\nBack to room\nHello, I’m Victor.\n\nI’m a software developer and problem solver, grounded in Dynami"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Little server",
+        "key": "lab"
+      },
+      {
+        "activated": "lab",
+        "visible": true,
+        "text": "Monitor · off the clock\nBack to room\nCuriosity stays switched on.\n\nOff the clock, I’m interested in Raspberry Pi homelab"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Notebook",
+        "key": "approach"
+      },
+      {
+        "activated": "approach",
+        "visible": true,
+        "text": "Notebook · working notes\nBack to room\nUnderstand it. Then build it.\n\nFirst, I want to understand the requirement and the"
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "text": "Envelope",
+        "key": "contact"
+      },
+      {
+        "activated": "contact",
+        "visible": true,
+        "text": "Envelope · a conversation\nBack to room\nLet’s start with the problem.\n\nIf you’re an individual or a small business with a"
+      }
+    ]
+  },
+  {
+    "name": "background visibility observation",
+    "hidden": false,
+    "certified": false
+  }
+]

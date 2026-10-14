@@ -1,0 +1,360 @@
+{
+  "engine": "Chromium / Playwright",
+  "physicalSafari": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "main": {
+        "width": 320,
+        "scrollWidth": 320,
+        "renderer": "webgl",
+        "heading": "Work,\nin motion.",
+        "font": "Barlow, sans-serif",
+        "paragraphSize": "18px"
+      },
+      "chapterStates": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "current": "true",
+          "scroll": 871,
+          "overflow": false
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "current": "true",
+          "scroll": 1628,
+          "overflow": false
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "current": "true",
+          "scroll": 2385,
+          "overflow": false
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "current": "true",
+          "scroll": 3202,
+          "overflow": false
+        }
+      ],
+      "keyboardEnter": true,
+      "keyboardSpace": true,
+      "tab": true,
+      "escape": true,
+      "touch": "trusted Playwright tap opens FAQ",
+      "faqOpen": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "contactKeyboard": true,
+      "returned": false,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "main": {
+        "width": 390,
+        "scrollWidth": 390,
+        "renderer": "webgl",
+        "heading": "Work,\nin motion.",
+        "font": "Barlow, sans-serif",
+        "paragraphSize": "18px"
+      },
+      "chapterStates": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "current": "true",
+          "scroll": 851,
+          "overflow": false
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "current": "true",
+          "scroll": 1486,
+          "overflow": false
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "current": "true",
+          "scroll": 2121,
+          "overflow": false
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "current": "true",
+          "scroll": 2798,
+          "overflow": false
+        }
+      ],
+      "keyboardEnter": true,
+      "keyboardSpace": true,
+      "tab": true,
+      "escape": true,
+      "touch": "trusted Playwright tap opens FAQ",
+      "faqOpen": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "contactKeyboard": true,
+      "returned": false,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "main": {
+        "width": 430,
+        "scrollWidth": 430,
+        "renderer": "webgl",
+        "heading": "Work,\nin motion.",
+        "font": "Barlow, sans-serif",
+        "paragraphSize": "18px"
+      },
+      "chapterStates": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "current": "true",
+          "scroll": 851,
+          "overflow": false
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "current": "true",
+          "scroll": 1427,
+          "overflow": false
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "current": "true",
+          "scroll": 2032,
+          "overflow": false
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "current": "true",
+          "scroll": 2667,
+          "overflow": false
+        }
+      ],
+      "keyboardEnter": true,
+      "keyboardSpace": true,
+      "tab": true,
+      "escape": true,
+      "touch": "trusted Playwright tap opens FAQ",
+      "faqOpen": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "contactKeyboard": true,
+      "returned": false,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "main": {
+        "width": 844,
+        "scrollWidth": 844,
+        "renderer": "webgl",
+        "heading": "Work,\nin motion.",
+        "font": "Barlow, sans-serif",
+        "paragraphSize": "18px"
+      },
+      "chapterStates": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "current": "true",
+          "scroll": 696,
+          "overflow": false
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "current": "true",
+          "scroll": 1438,
+          "overflow": false
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "current": "true",
+          "scroll": 2180,
+          "overflow": false
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "current": "true",
+          "scroll": 2981,
+          "overflow": false
+        }
+      ],
+      "keyboardEnter": true,
+      "keyboardSpace": true,
+      "tab": true,
+      "escape": true,
+      "touch": "trusted Playwright tap opens FAQ",
+      "faqOpen": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "contactKeyboard": true,
+      "returned": false,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "main": {
+        "width": 768,
+        "scrollWidth": 768,
+        "renderer": "webgl",
+        "heading": "Work,\nin motion.",
+        "font": "Barlow, sans-serif",
+        "paragraphSize": "18px"
+      },
+      "chapterStates": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "current": "true",
+          "scroll": 966,
+          "overflow": false
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "current": "true",
+          "scroll": 1990,
+          "overflow": false
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "current": "true",
+          "scroll": 3014,
+          "overflow": false
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "current": "true",
+          "scroll": 4038,
+          "overflow": false
+        }
+      ],
+      "keyboardEnter": true,
+      "keyboardSpace": true,
+      "tab": true,
+      "escape": true,
+      "touch": "trusted Playwright tap opens FAQ",
+      "faqOpen": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "contactKeyboard": true,
+      "returned": false,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "main": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "renderer": "webgl",
+        "heading": "Work,\nin motion.",
+        "font": "Barlow, sans-serif",
+        "paragraphSize": "18px"
+      },
+      "chapterStates": [
+        {
+          "id": "requirements",
+          "hash": "#requirements",
+          "current": "true",
+          "scroll": 842,
+          "overflow": false
+        },
+        {
+          "id": "design",
+          "hash": "#design",
+          "current": "true",
+          "scroll": 1742,
+          "overflow": false
+        },
+        {
+          "id": "delivery",
+          "hash": "#delivery",
+          "current": "true",
+          "scroll": 2642,
+          "overflow": false
+        },
+        {
+          "id": "support",
+          "hash": "#support",
+          "current": "true",
+          "scroll": 3542,
+          "overflow": false
+        }
+      ],
+      "keyboardEnter": true,
+      "keyboardSpace": true,
+      "tab": true,
+      "escape": true,
+      "touch": "mouse click opens FAQ",
+      "faqOpen": true,
+      "contact": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+      "contactKeyboard": true,
+      "returned": false,
+      "errors": [],
+      "failedRequests": []
+    },
+    {
+      "variant": "reduced",
+      "readingVisible": true,
+      "faqWorks": true,
+      "renderer": "webgl",
+      "fallbackImage": true,
+      "overflow": false
+    },
+    {
+      "variant": "fallback",
+      "readingVisible": true,
+      "faqWorks": true,
+      "renderer": "static",
+      "fallbackImage": true,
+      "overflow": false
+    },
+    {
+      "variant": "no-js",
+      "readingVisible": true,
+      "faqWorks": true,
+      "renderer": null,
+      "fallbackImage": true,
+      "overflow": false
+    }
+  ]
+}

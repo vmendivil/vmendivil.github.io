@@ -1,0 +1,27 @@
+{
+  "slug": "15-preymaker",
+  "pass": "parent-inspection",
+  "passed": 46,
+  "failed": [
+    {
+      "name": "offscreen visible state and loop stop",
+      "pass": false,
+      "detail": {
+        "label": "Play sequence",
+        "state": {
+          "shot": 1,
+          "playing": true,
+          "changes": 9
+        },
+        "animations": [
+          {
+            "id": "shot-travel",
+            "state": "paused"
+          }
+        ]
+      }
+    }
+  ],
+  "errors": [],
+  "captures": 23
+}

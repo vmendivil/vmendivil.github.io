@@ -1,0 +1,3441 @@
+{
+  "runner": "Playwright Chromium, native keyboard + trusted touchscreen/CDP touch",
+  "url": "http://127.0.0.1:9015",
+  "viewports": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "entries": [
+        {
+          "id": "about",
+          "title": "Hi, I’m Victor.",
+          "geometry": {
+            "width": 320,
+            "height": 740,
+            "documentWidth": 320,
+            "guide": {
+              "x": 0,
+              "y": 100,
+              "w": 320,
+              "h": 640,
+              "bottom": 740,
+              "right": 320
+            },
+            "close": {
+              "x": 174,
+              "y": 120,
+              "w": 130,
+              "h": 44,
+              "bottom": 164,
+              "right": 304
+            },
+            "header": {
+              "x": 16,
+              "y": 120,
+              "w": 288,
+              "h": 44,
+              "bottom": 164,
+              "right": 304
+            },
+            "scroll": {
+              "x": 16,
+              "y": 235,
+              "w": 288,
+              "h": 505,
+              "bottom": 740,
+              "right": 304
+            },
+            "scrollHeight": 730,
+            "clientHeight": 505,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 130,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 50,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 69,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 62,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "erp",
+          "title": "From requirement\nto reliable change.",
+          "geometry": {
+            "width": 320,
+            "height": 740,
+            "documentWidth": 320,
+            "guide": {
+              "x": 0,
+              "y": 100,
+              "w": 320,
+              "h": 640,
+              "bottom": 740,
+              "right": 320
+            },
+            "close": {
+              "x": 174,
+              "y": 120,
+              "w": 130,
+              "h": 44,
+              "bottom": 164,
+              "right": 304
+            },
+            "header": {
+              "x": 16,
+              "y": 120,
+              "w": 288,
+              "h": 44,
+              "bottom": 164,
+              "right": 304
+            },
+            "scroll": {
+              "x": 16,
+              "y": 235,
+              "w": 288,
+              "h": 505,
+              "bottom": 740,
+              "right": 304
+            },
+            "scrollHeight": 736,
+            "clientHeight": 505,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 130,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 50,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 69,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 62,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "lab",
+          "title": "Small machines.\nBig curiosity.",
+          "geometry": {
+            "width": 320,
+            "height": 740,
+            "documentWidth": 320,
+            "guide": {
+              "x": 0,
+              "y": 100,
+              "w": 320,
+              "h": 640,
+              "bottom": 740,
+              "right": 320
+            },
+            "close": {
+              "x": 174,
+              "y": 120,
+              "w": 130,
+              "h": 44,
+              "bottom": 164,
+              "right": 304
+            },
+            "header": {
+              "x": 16,
+              "y": 120,
+              "w": 288,
+              "h": 44,
+              "bottom": 164,
+              "right": 304
+            },
+            "scroll": {
+              "x": 16,
+              "y": 235,
+              "w": 288,
+              "h": 505,
+              "bottom": 740,
+              "right": 304
+            },
+            "scrollHeight": 709,
+            "clientHeight": 505,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 130,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 50,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 69,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 62,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "ai",
+          "title": "Useful ideas,\nnot magic.",
+          "geometry": {
+            "width": 320,
+            "height": 740,
+            "documentWidth": 320,
+            "guide": {
+              "x": 0,
+              "y": 100,
+              "w": 320,
+              "h": 640,
+              "bottom": 740,
+              "right": 320
+            },
+            "close": {
+              "x": 174,
+              "y": 120,
+              "w": 130,
+              "h": 44,
+              "bottom": 164,
+              "right": 304
+            },
+            "header": {
+              "x": 16,
+              "y": 120,
+              "w": 288,
+              "h": 44,
+              "bottom": 164,
+              "right": 304
+            },
+            "scroll": {
+              "x": 16,
+              "y": 235,
+              "w": 288,
+              "h": 505,
+              "bottom": 740,
+              "right": 304
+            },
+            "scrollHeight": 737,
+            "clientHeight": 505,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 130,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 50,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 69,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 62,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "contact",
+          "title": "Let’s talk about\nsomething workable.",
+          "geometry": {
+            "width": 320,
+            "height": 740,
+            "documentWidth": 320,
+            "guide": {
+              "x": 0,
+              "y": 100,
+              "w": 320,
+              "h": 640,
+              "bottom": 740,
+              "right": 320
+            },
+            "close": {
+              "x": 174,
+              "y": 120,
+              "w": 130,
+              "h": 44,
+              "bottom": 164,
+              "right": 304
+            },
+            "header": {
+              "x": 16,
+              "y": 120,
+              "w": 288,
+              "h": 44,
+              "bottom": 164,
+              "right": 304
+            },
+            "scroll": {
+              "x": 16,
+              "y": 235,
+              "w": 288,
+              "h": 505,
+              "bottom": 740,
+              "right": 304
+            },
+            "scrollHeight": 782,
+            "clientHeight": 505,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 130,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 50,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 69,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 62,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        }
+      ],
+      "main": {
+        "documentWidth": 320,
+        "bodyHeight": 740,
+        "controls": [
+          {
+            "id": "pause",
+            "x": 196,
+            "y": 21,
+            "w": 104,
+            "h": 44
+          },
+          {
+            "id": "guide-open",
+            "x": 196,
+            "y": 71,
+            "w": 104,
+            "h": 44
+          },
+          {
+            "id": "erp",
+            "x": 189,
+            "y": 271.0625,
+            "w": 123,
+            "h": 57
+          },
+          {
+            "id": "lab",
+            "x": 8,
+            "y": 267.125,
+            "w": 148,
+            "h": 57
+          },
+          {
+            "id": "ai",
+            "x": 122.6875,
+            "y": 427.1875,
+            "w": 124,
+            "h": 57
+          },
+          {
+            "id": "left",
+            "x": 22,
+            "y": 673,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "up",
+            "x": 72,
+            "y": 673,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "down",
+            "x": 122,
+            "y": 673,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "right",
+            "x": 172,
+            "y": 673,
+            "w": 44,
+            "h": 44
+          }
+        ]
+      },
+      "longContent": {
+        "scrollTop": 3116,
+        "close": {
+          "x": 174,
+          "y": 120,
+          "width": 130,
+          "height": 44
+        },
+        "end": {
+          "x": 16,
+          "y": 650.28125,
+          "width": 283,
+          "height": 60
+        }
+      },
+      "touchOpenChangeReadClose": true,
+      "landmarkReturn": true,
+      "dynamicHeight": {
+        "width": 320,
+        "height": 620,
+        "documentWidth": 320,
+        "guide": {
+          "x": 0,
+          "y": 100,
+          "w": 320,
+          "h": 520,
+          "bottom": 620,
+          "right": 320
+        },
+        "close": {
+          "x": 174,
+          "y": 120,
+          "w": 130,
+          "h": 44,
+          "bottom": 164,
+          "right": 304
+        },
+        "header": {
+          "x": 16,
+          "y": 120,
+          "w": 288,
+          "h": 44,
+          "bottom": 164,
+          "right": 304
+        },
+        "scroll": {
+          "x": 16,
+          "y": 235,
+          "w": 288,
+          "h": 385,
+          "bottom": 620,
+          "right": 304
+        },
+        "scrollHeight": 730,
+        "clientHeight": 385,
+        "inert": true,
+        "bodyOverflow": "hidden",
+        "controlsHidden": "hidden",
+        "bodyType": 17,
+        "targets": [
+          {
+            "id": "guide-close",
+            "w": 130,
+            "h": 44
+          },
+          {
+            "id": "about",
+            "w": 50,
+            "h": 44
+          },
+          {
+            "id": "erp",
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "lab",
+            "w": 69,
+            "h": 44
+          },
+          {
+            "id": "ai",
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "contact",
+            "w": 62,
+            "h": 44
+          }
+        ],
+        "fonts": "loaded"
+      }
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "entries": [
+        {
+          "id": "about",
+          "title": "Hi, I’m Victor.",
+          "geometry": {
+            "width": 390,
+            "height": 844,
+            "documentWidth": 390,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 390,
+              "h": 694,
+              "bottom": 844,
+              "right": 390
+            },
+            "close": {
+              "x": 229,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 370
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 350,
+              "h": 44,
+              "bottom": 217,
+              "right": 370
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 350,
+              "h": 556,
+              "bottom": 844,
+              "right": 370
+            },
+            "scrollHeight": 621,
+            "clientHeight": 556,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "erp",
+          "title": "From requirement\nto reliable change.",
+          "geometry": {
+            "width": 390,
+            "height": 844,
+            "documentWidth": 390,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 390,
+              "h": 694,
+              "bottom": 844,
+              "right": 390
+            },
+            "close": {
+              "x": 229,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 370
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 350,
+              "h": 44,
+              "bottom": 217,
+              "right": 370
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 350,
+              "h": 556,
+              "bottom": 844,
+              "right": 370
+            },
+            "scrollHeight": 686,
+            "clientHeight": 556,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "lab",
+          "title": "Small machines.\nBig curiosity.",
+          "geometry": {
+            "width": 390,
+            "height": 844,
+            "documentWidth": 390,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 390,
+              "h": 694,
+              "bottom": 844,
+              "right": 390
+            },
+            "close": {
+              "x": 229,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 370
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 350,
+              "h": 44,
+              "bottom": 217,
+              "right": 370
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 350,
+              "h": 556,
+              "bottom": 844,
+              "right": 370
+            },
+            "scrollHeight": 634,
+            "clientHeight": 556,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "ai",
+          "title": "Useful ideas,\nnot magic.",
+          "geometry": {
+            "width": 390,
+            "height": 844,
+            "documentWidth": 390,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 390,
+              "h": 694,
+              "bottom": 844,
+              "right": 390
+            },
+            "close": {
+              "x": 229,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 370
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 350,
+              "h": 44,
+              "bottom": 217,
+              "right": 370
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 350,
+              "h": 556,
+              "bottom": 844,
+              "right": 370
+            },
+            "scrollHeight": 688,
+            "clientHeight": 556,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "contact",
+          "title": "Let’s talk about\nsomething workable.",
+          "geometry": {
+            "width": 390,
+            "height": 844,
+            "documentWidth": 390,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 390,
+              "h": 694,
+              "bottom": 844,
+              "right": 390
+            },
+            "close": {
+              "x": 229,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 370
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 350,
+              "h": 44,
+              "bottom": 217,
+              "right": 370
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 350,
+              "h": 556,
+              "bottom": 844,
+              "right": 370
+            },
+            "scrollHeight": 699,
+            "clientHeight": 556,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        }
+      ],
+      "main": {
+        "documentWidth": 390,
+        "bodyHeight": 844,
+        "controls": [
+          {
+            "id": "pause",
+            "x": 171,
+            "y": 41,
+            "w": 104,
+            "h": 44
+          },
+          {
+            "id": "guide-open",
+            "x": 282,
+            "y": 41,
+            "w": 88,
+            "h": 44
+          },
+          {
+            "id": "erp",
+            "x": 259,
+            "y": 317.390625,
+            "w": 123,
+            "h": 57
+          },
+          {
+            "id": "lab",
+            "x": 19.40625,
+            "y": 312.890625,
+            "w": 148,
+            "h": 57
+          },
+          {
+            "id": "ai",
+            "x": 161.171875,
+            "y": 481.046875,
+            "w": 124,
+            "h": 57
+          },
+          {
+            "id": "left",
+            "x": 22,
+            "y": 777,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "up",
+            "x": 72,
+            "y": 777,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "down",
+            "x": 122,
+            "y": 777,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "right",
+            "x": 172,
+            "y": 777,
+            "w": 44,
+            "h": 44
+          }
+        ]
+      },
+      "trustedTouchReadScroll": 279,
+      "longContent": {
+        "scrollTop": 2562,
+        "close": {
+          "x": 229,
+          "y": 173,
+          "width": 141,
+          "height": 44
+        },
+        "end": {
+          "x": 20,
+          "y": 753.515625,
+          "width": 345,
+          "height": 60
+        }
+      },
+      "touchOpenChangeReadClose": true,
+      "landmarkReturn": true,
+      "dynamicHeight": {
+        "width": 390,
+        "height": 724,
+        "documentWidth": 390,
+        "guide": {
+          "x": 0,
+          "y": 150,
+          "w": 390,
+          "h": 574,
+          "bottom": 724,
+          "right": 390
+        },
+        "close": {
+          "x": 229,
+          "y": 173,
+          "w": 141,
+          "h": 44,
+          "bottom": 217,
+          "right": 370
+        },
+        "header": {
+          "x": 20,
+          "y": 173,
+          "w": 350,
+          "h": 44,
+          "bottom": 217,
+          "right": 370
+        },
+        "scroll": {
+          "x": 20,
+          "y": 288,
+          "w": 350,
+          "h": 436,
+          "bottom": 724,
+          "right": 370
+        },
+        "scrollHeight": 621,
+        "clientHeight": 436,
+        "inert": true,
+        "bodyOverflow": "hidden",
+        "controlsHidden": "hidden",
+        "bodyType": 17,
+        "targets": [
+          {
+            "id": "guide-close",
+            "w": 141,
+            "h": 44
+          },
+          {
+            "id": "about",
+            "w": 59,
+            "h": 44
+          },
+          {
+            "id": "erp",
+            "w": 45,
+            "h": 44
+          },
+          {
+            "id": "lab",
+            "w": 78,
+            "h": 44
+          },
+          {
+            "id": "ai",
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "contact",
+            "w": 71,
+            "h": 44
+          }
+        ],
+        "fonts": "loaded"
+      }
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "entries": [
+        {
+          "id": "about",
+          "title": "Hi, I’m Victor.",
+          "geometry": {
+            "width": 430,
+            "height": 932,
+            "documentWidth": 430,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 430,
+              "h": 782,
+              "bottom": 932,
+              "right": 430
+            },
+            "close": {
+              "x": 269,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 410
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 390,
+              "h": 44,
+              "bottom": 217,
+              "right": 410
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 390,
+              "h": 601.734375,
+              "bottom": 889.734375,
+              "right": 410
+            },
+            "scrollHeight": 602,
+            "clientHeight": 602,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "erp",
+          "title": "From requirement\nto reliable change.",
+          "geometry": {
+            "width": 430,
+            "height": 932,
+            "documentWidth": 430,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 430,
+              "h": 782,
+              "bottom": 932,
+              "right": 430
+            },
+            "close": {
+              "x": 269,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 410
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 390,
+              "h": 44,
+              "bottom": 217,
+              "right": 410
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 390,
+              "h": 638.453125,
+              "bottom": 926.453125,
+              "right": 410
+            },
+            "scrollHeight": 638,
+            "clientHeight": 638,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "lab",
+          "title": "Small machines.\nBig curiosity.",
+          "geometry": {
+            "width": 430,
+            "height": 932,
+            "documentWidth": 430,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 430,
+              "h": 782,
+              "bottom": 932,
+              "right": 430
+            },
+            "close": {
+              "x": 269,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 410
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 390,
+              "h": 44,
+              "bottom": 217,
+              "right": 410
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 390,
+              "h": 614.5,
+              "bottom": 902.5,
+              "right": 410
+            },
+            "scrollHeight": 615,
+            "clientHeight": 615,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "ai",
+          "title": "Useful ideas,\nnot magic.",
+          "geometry": {
+            "width": 430,
+            "height": 932,
+            "documentWidth": 430,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 430,
+              "h": 782,
+              "bottom": 932,
+              "right": 430
+            },
+            "close": {
+              "x": 269,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 410
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 390,
+              "h": 44,
+              "bottom": 217,
+              "right": 410
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 390,
+              "h": 586.453125,
+              "bottom": 874.453125,
+              "right": 410
+            },
+            "scrollHeight": 586,
+            "clientHeight": 586,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "contact",
+          "title": "Let’s talk about\nsomething workable.",
+          "geometry": {
+            "width": 430,
+            "height": 932,
+            "documentWidth": 430,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 430,
+              "h": 782,
+              "bottom": 932,
+              "right": 430
+            },
+            "close": {
+              "x": 269,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 410
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 390,
+              "h": 44,
+              "bottom": 217,
+              "right": 410
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 390,
+              "h": 625.859375,
+              "bottom": 913.859375,
+              "right": 410
+            },
+            "scrollHeight": 626,
+            "clientHeight": 626,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        }
+      ],
+      "main": {
+        "documentWidth": 430,
+        "bodyHeight": 932,
+        "controls": [
+          {
+            "id": "pause",
+            "x": 211,
+            "y": 28.5,
+            "w": 104,
+            "h": 44
+          },
+          {
+            "id": "guide-open",
+            "x": 322,
+            "y": 28.5,
+            "w": 88,
+            "h": 44
+          },
+          {
+            "id": "erp",
+            "x": 299,
+            "y": 356.578125,
+            "w": 123,
+            "h": 57
+          },
+          {
+            "id": "lab",
+            "x": 28.828125,
+            "y": 351.609375,
+            "w": 148,
+            "h": 57
+          },
+          {
+            "id": "ai",
+            "x": 184.109375,
+            "y": 526.609375,
+            "w": 124,
+            "h": 57
+          },
+          {
+            "id": "left",
+            "x": 22,
+            "y": 865,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "up",
+            "x": 72,
+            "y": 865,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "down",
+            "x": 122,
+            "y": 865,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "right",
+            "x": 172,
+            "y": 865,
+            "w": 44,
+            "h": 44
+          }
+        ]
+      },
+      "longContent": {
+        "scrollTop": 1980,
+        "close": {
+          "x": 269,
+          "y": 173,
+          "width": 141,
+          "height": 44
+        },
+        "end": {
+          "x": 20,
+          "y": 861.171875,
+          "width": 385,
+          "height": 40.5
+        }
+      },
+      "touchOpenChangeReadClose": true,
+      "landmarkReturn": true,
+      "dynamicHeight": {
+        "width": 430,
+        "height": 812,
+        "documentWidth": 430,
+        "guide": {
+          "x": 0,
+          "y": 150,
+          "w": 430,
+          "h": 662,
+          "bottom": 812,
+          "right": 430
+        },
+        "close": {
+          "x": 269,
+          "y": 173,
+          "w": 141,
+          "h": 44,
+          "bottom": 217,
+          "right": 410
+        },
+        "header": {
+          "x": 20,
+          "y": 173,
+          "w": 390,
+          "h": 44,
+          "bottom": 217,
+          "right": 410
+        },
+        "scroll": {
+          "x": 20,
+          "y": 288,
+          "w": 390,
+          "h": 524,
+          "bottom": 812,
+          "right": 410
+        },
+        "scrollHeight": 602,
+        "clientHeight": 524,
+        "inert": true,
+        "bodyOverflow": "hidden",
+        "controlsHidden": "hidden",
+        "bodyType": 17,
+        "targets": [
+          {
+            "id": "guide-close",
+            "w": 141,
+            "h": 44
+          },
+          {
+            "id": "about",
+            "w": 59,
+            "h": 44
+          },
+          {
+            "id": "erp",
+            "w": 45,
+            "h": 44
+          },
+          {
+            "id": "lab",
+            "w": 78,
+            "h": 44
+          },
+          {
+            "id": "ai",
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "contact",
+            "w": 71,
+            "h": 44
+          }
+        ],
+        "fonts": "loaded"
+      }
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "entries": [
+        {
+          "id": "about",
+          "title": "Hi, I’m Victor.",
+          "geometry": {
+            "width": 844,
+            "height": 390,
+            "documentWidth": 844,
+            "guide": {
+              "x": 253.203125,
+              "y": 0,
+              "w": 590.796875,
+              "h": 390,
+              "bottom": 390,
+              "right": 844
+            },
+            "close": {
+              "x": 683,
+              "y": 16,
+              "w": 141,
+              "h": 44,
+              "bottom": 60,
+              "right": 824
+            },
+            "header": {
+              "x": 279.203125,
+              "y": 16,
+              "w": 544.796875,
+              "h": 44,
+              "bottom": 60,
+              "right": 824
+            },
+            "scroll": {
+              "x": 279.203125,
+              "y": 123,
+              "w": 544.796875,
+              "h": 267,
+              "bottom": 390,
+              "right": 824
+            },
+            "scrollHeight": 444,
+            "clientHeight": 267,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "erp",
+          "title": "From requirement\nto reliable change.",
+          "geometry": {
+            "width": 844,
+            "height": 390,
+            "documentWidth": 844,
+            "guide": {
+              "x": 253.203125,
+              "y": 0,
+              "w": 590.796875,
+              "h": 390,
+              "bottom": 390,
+              "right": 844
+            },
+            "close": {
+              "x": 683,
+              "y": 16,
+              "w": 141,
+              "h": 44,
+              "bottom": 60,
+              "right": 824
+            },
+            "header": {
+              "x": 279.203125,
+              "y": 16,
+              "w": 544.796875,
+              "h": 44,
+              "bottom": 60,
+              "right": 824
+            },
+            "scroll": {
+              "x": 279.203125,
+              "y": 123,
+              "w": 544.796875,
+              "h": 267,
+              "bottom": 390,
+              "right": 824
+            },
+            "scrollHeight": 479,
+            "clientHeight": 267,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "lab",
+          "title": "Small machines.\nBig curiosity.",
+          "geometry": {
+            "width": 844,
+            "height": 390,
+            "documentWidth": 844,
+            "guide": {
+              "x": 253.203125,
+              "y": 0,
+              "w": 590.796875,
+              "h": 390,
+              "bottom": 390,
+              "right": 844
+            },
+            "close": {
+              "x": 683,
+              "y": 16,
+              "w": 141,
+              "h": 44,
+              "bottom": 60,
+              "right": 824
+            },
+            "header": {
+              "x": 279.203125,
+              "y": 16,
+              "w": 544.796875,
+              "h": 44,
+              "bottom": 60,
+              "right": 824
+            },
+            "scroll": {
+              "x": 279.203125,
+              "y": 123,
+              "w": 544.796875,
+              "h": 267,
+              "bottom": 390,
+              "right": 824
+            },
+            "scrollHeight": 483,
+            "clientHeight": 267,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "ai",
+          "title": "Useful ideas,\nnot magic.",
+          "geometry": {
+            "width": 844,
+            "height": 390,
+            "documentWidth": 844,
+            "guide": {
+              "x": 253.203125,
+              "y": 0,
+              "w": 590.796875,
+              "h": 390,
+              "bottom": 390,
+              "right": 844
+            },
+            "close": {
+              "x": 683,
+              "y": 16,
+              "w": 141,
+              "h": 44,
+              "bottom": 60,
+              "right": 824
+            },
+            "header": {
+              "x": 279.203125,
+              "y": 16,
+              "w": 544.796875,
+              "h": 44,
+              "bottom": 60,
+              "right": 824
+            },
+            "scroll": {
+              "x": 279.203125,
+              "y": 123,
+              "w": 544.796875,
+              "h": 267,
+              "bottom": 390,
+              "right": 824
+            },
+            "scrollHeight": 483,
+            "clientHeight": 267,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "contact",
+          "title": "Let’s talk about\nsomething workable.",
+          "geometry": {
+            "width": 844,
+            "height": 390,
+            "documentWidth": 844,
+            "guide": {
+              "x": 253.203125,
+              "y": 0,
+              "w": 590.796875,
+              "h": 390,
+              "bottom": 390,
+              "right": 844
+            },
+            "close": {
+              "x": 683,
+              "y": 16,
+              "w": 141,
+              "h": 44,
+              "bottom": 60,
+              "right": 824
+            },
+            "header": {
+              "x": 279.203125,
+              "y": 16,
+              "w": 544.796875,
+              "h": 44,
+              "bottom": 60,
+              "right": 824
+            },
+            "scroll": {
+              "x": 279.203125,
+              "y": 123,
+              "w": 544.796875,
+              "h": 267,
+              "bottom": 390,
+              "right": 824
+            },
+            "scrollHeight": 494,
+            "clientHeight": 267,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        }
+      ],
+      "main": {
+        "documentWidth": 844,
+        "bodyHeight": 390,
+        "controls": [
+          {
+            "id": "pause",
+            "x": 502,
+            "y": 16,
+            "w": 146,
+            "h": 48
+          },
+          {
+            "id": "guide-open",
+            "x": 660,
+            "y": 16,
+            "w": 160,
+            "h": 48
+          },
+          {
+            "id": "erp",
+            "x": 549.703125,
+            "y": 99.515625,
+            "w": 123,
+            "h": 57
+          },
+          {
+            "id": "lab",
+            "x": 386.0625,
+            "y": 97.265625,
+            "w": 148,
+            "h": 57
+          },
+          {
+            "id": "ai",
+            "x": 481.53125,
+            "y": 167.6875,
+            "w": 124,
+            "h": 57
+          },
+          {
+            "id": "left",
+            "x": 626,
+            "y": 323,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "up",
+            "x": 676,
+            "y": 323,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "down",
+            "x": 726,
+            "y": 323,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "right",
+            "x": 776,
+            "y": 323,
+            "w": 44,
+            "h": 44
+          }
+        ]
+      },
+      "longContent": {
+        "scrollTop": 1805,
+        "close": {
+          "x": 683,
+          "y": 16,
+          "width": 141,
+          "height": 44
+        },
+        "end": {
+          "x": 279.203125,
+          "y": 319.03125,
+          "width": 539.796875,
+          "height": 40.5
+        }
+      },
+      "touchOpenChangeReadClose": true,
+      "landmarkReturn": true,
+      "dynamicHeight": {
+        "width": 844,
+        "height": 340,
+        "documentWidth": 844,
+        "guide": {
+          "x": 253.203125,
+          "y": 0,
+          "w": 590.796875,
+          "h": 340,
+          "bottom": 340,
+          "right": 844
+        },
+        "close": {
+          "x": 683,
+          "y": 16,
+          "w": 141,
+          "h": 44,
+          "bottom": 60,
+          "right": 824
+        },
+        "header": {
+          "x": 279.203125,
+          "y": 16,
+          "w": 544.796875,
+          "h": 44,
+          "bottom": 60,
+          "right": 824
+        },
+        "scroll": {
+          "x": 279.203125,
+          "y": 123,
+          "w": 544.796875,
+          "h": 217,
+          "bottom": 340,
+          "right": 824
+        },
+        "scrollHeight": 444,
+        "clientHeight": 217,
+        "inert": true,
+        "bodyOverflow": "hidden",
+        "controlsHidden": "hidden",
+        "bodyType": 17,
+        "targets": [
+          {
+            "id": "guide-close",
+            "w": 141,
+            "h": 44
+          },
+          {
+            "id": "about",
+            "w": 59,
+            "h": 44
+          },
+          {
+            "id": "erp",
+            "w": 45,
+            "h": 44
+          },
+          {
+            "id": "lab",
+            "w": 78,
+            "h": 44
+          },
+          {
+            "id": "ai",
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "contact",
+            "w": 71,
+            "h": 44
+          }
+        ],
+        "fonts": "loaded"
+      }
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "entries": [
+        {
+          "id": "about",
+          "title": "Hi, I’m Victor.",
+          "geometry": {
+            "width": 768,
+            "height": 1024,
+            "documentWidth": 768,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 768,
+              "h": 874,
+              "bottom": 1024,
+              "right": 768
+            },
+            "close": {
+              "x": 607,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 748
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 728,
+              "h": 44,
+              "bottom": 217,
+              "right": 748
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 728,
+              "h": 461.5,
+              "bottom": 749.5,
+              "right": 748
+            },
+            "scrollHeight": 462,
+            "clientHeight": 462,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "erp",
+          "title": "From requirement\nto reliable change.",
+          "geometry": {
+            "width": 768,
+            "height": 1024,
+            "documentWidth": 768,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 768,
+              "h": 874,
+              "bottom": 1024,
+              "right": 768
+            },
+            "close": {
+              "x": 607,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 748
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 728,
+              "h": 44,
+              "bottom": 217,
+              "right": 748
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 728,
+              "h": 498.21875,
+              "bottom": 786.21875,
+              "right": 748
+            },
+            "scrollHeight": 498,
+            "clientHeight": 498,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "lab",
+          "title": "Small machines.\nBig curiosity.",
+          "geometry": {
+            "width": 768,
+            "height": 1024,
+            "documentWidth": 768,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 768,
+              "h": 874,
+              "bottom": 1024,
+              "right": 768
+            },
+            "close": {
+              "x": 607,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 748
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 728,
+              "h": 44,
+              "bottom": 217,
+              "right": 748
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 728,
+              "h": 476.71875,
+              "bottom": 764.71875,
+              "right": 748
+            },
+            "scrollHeight": 477,
+            "clientHeight": 477,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "ai",
+          "title": "Useful ideas,\nnot magic.",
+          "geometry": {
+            "width": 768,
+            "height": 1024,
+            "documentWidth": 768,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 768,
+              "h": 874,
+              "bottom": 1024,
+              "right": 768
+            },
+            "close": {
+              "x": 607,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 748
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 728,
+              "h": 44,
+              "bottom": 217,
+              "right": 748
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 728,
+              "h": 476.71875,
+              "bottom": 764.71875,
+              "right": 748
+            },
+            "scrollHeight": 477,
+            "clientHeight": 477,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "contact",
+          "title": "Let’s talk about\nsomething workable.",
+          "geometry": {
+            "width": 768,
+            "height": 1024,
+            "documentWidth": 768,
+            "guide": {
+              "x": 0,
+              "y": 150,
+              "w": 768,
+              "h": 874,
+              "bottom": 1024,
+              "right": 768
+            },
+            "close": {
+              "x": 607,
+              "y": 173,
+              "w": 141,
+              "h": 44,
+              "bottom": 217,
+              "right": 748
+            },
+            "header": {
+              "x": 20,
+              "y": 173,
+              "w": 728,
+              "h": 44,
+              "bottom": 217,
+              "right": 748
+            },
+            "scroll": {
+              "x": 20,
+              "y": 288,
+              "w": 728,
+              "h": 541.71875,
+              "bottom": 829.71875,
+              "right": 748
+            },
+            "scrollHeight": 542,
+            "clientHeight": 542,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 141,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 59,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 78,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 44,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 71,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        }
+      ],
+      "main": {
+        "documentWidth": 768,
+        "bodyHeight": 1024,
+        "controls": [
+          {
+            "id": "pause",
+            "x": 410,
+            "y": 32,
+            "w": 146,
+            "h": 48
+          },
+          {
+            "id": "guide-open",
+            "x": 568,
+            "y": 32,
+            "w": 160,
+            "h": 48
+          },
+          {
+            "id": "erp",
+            "x": 595,
+            "y": 483.890625,
+            "w": 165,
+            "h": 62
+          },
+          {
+            "id": "lab",
+            "x": 292.890625,
+            "y": 478.015625,
+            "w": 197,
+            "h": 62
+          },
+          {
+            "id": "ai",
+            "x": 543.046875,
+            "y": 662.890625,
+            "w": 135,
+            "h": 62
+          },
+          {
+            "id": "left",
+            "x": 340,
+            "y": 942,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "up",
+            "x": 390,
+            "y": 942,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "down",
+            "x": 440,
+            "y": 942,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "right",
+            "x": 490,
+            "y": 942,
+            "w": 44,
+            "h": 44
+          }
+        ]
+      },
+      "longContent": {
+        "scrollTop": 962,
+        "close": {
+          "x": 607,
+          "y": 173,
+          "width": 141,
+          "height": 44
+        },
+        "end": {
+          "x": 20,
+          "y": 953.625,
+          "width": 723,
+          "height": 40.5
+        }
+      },
+      "touchOpenChangeReadClose": true,
+      "landmarkReturn": true,
+      "dynamicHeight": {
+        "width": 768,
+        "height": 904,
+        "documentWidth": 768,
+        "guide": {
+          "x": 0,
+          "y": 150,
+          "w": 768,
+          "h": 754,
+          "bottom": 904,
+          "right": 768
+        },
+        "close": {
+          "x": 607,
+          "y": 173,
+          "w": 141,
+          "h": 44,
+          "bottom": 217,
+          "right": 748
+        },
+        "header": {
+          "x": 20,
+          "y": 173,
+          "w": 728,
+          "h": 44,
+          "bottom": 217,
+          "right": 748
+        },
+        "scroll": {
+          "x": 20,
+          "y": 288,
+          "w": 728,
+          "h": 461.5,
+          "bottom": 749.5,
+          "right": 748
+        },
+        "scrollHeight": 462,
+        "clientHeight": 462,
+        "inert": true,
+        "bodyOverflow": "hidden",
+        "controlsHidden": "hidden",
+        "bodyType": 17,
+        "targets": [
+          {
+            "id": "guide-close",
+            "w": 141,
+            "h": 44
+          },
+          {
+            "id": "about",
+            "w": 59,
+            "h": 44
+          },
+          {
+            "id": "erp",
+            "w": 45,
+            "h": 44
+          },
+          {
+            "id": "lab",
+            "w": 78,
+            "h": 44
+          },
+          {
+            "id": "ai",
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "contact",
+            "w": 71,
+            "h": 44
+          }
+        ],
+        "fonts": "loaded"
+      }
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "entries": [
+        {
+          "id": "about",
+          "title": "Hi, I’m Victor.",
+          "geometry": {
+            "width": 1440,
+            "height": 900,
+            "documentWidth": 1440,
+            "guide": {
+              "x": 768,
+              "y": 22,
+              "w": 650,
+              "h": 856,
+              "bottom": 878,
+              "right": 1418
+            },
+            "close": {
+              "x": 1227,
+              "y": 52,
+              "w": 159,
+              "h": 44,
+              "bottom": 96,
+              "right": 1386
+            },
+            "header": {
+              "x": 814,
+              "y": 52,
+              "w": 572,
+              "h": 44,
+              "bottom": 96,
+              "right": 1386
+            },
+            "scroll": {
+              "x": 814,
+              "y": 176,
+              "w": 572,
+              "h": 551.078125,
+              "bottom": 727.078125,
+              "right": 1386
+            },
+            "scrollHeight": 551,
+            "clientHeight": 551,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 159,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 73,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 60,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 96,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 85,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "erp",
+          "title": "From requirement\nto reliable change.",
+          "geometry": {
+            "width": 1440,
+            "height": 900,
+            "documentWidth": 1440,
+            "guide": {
+              "x": 768,
+              "y": 22,
+              "w": 650,
+              "h": 856,
+              "bottom": 878,
+              "right": 1418
+            },
+            "close": {
+              "x": 1227,
+              "y": 52,
+              "w": 159,
+              "h": 44,
+              "bottom": 96,
+              "right": 1386
+            },
+            "header": {
+              "x": 814,
+              "y": 52,
+              "w": 572,
+              "h": 44,
+              "bottom": 96,
+              "right": 1386
+            },
+            "scroll": {
+              "x": 814,
+              "y": 176,
+              "w": 572,
+              "h": 599.28125,
+              "bottom": 775.28125,
+              "right": 1386
+            },
+            "scrollHeight": 599,
+            "clientHeight": 599,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 159,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 73,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 60,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 96,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 85,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "lab",
+          "title": "Small machines.\nBig curiosity.",
+          "geometry": {
+            "width": 1440,
+            "height": 900,
+            "documentWidth": 1440,
+            "guide": {
+              "x": 768,
+              "y": 22,
+              "w": 650,
+              "h": 856,
+              "bottom": 878,
+              "right": 1418
+            },
+            "close": {
+              "x": 1227,
+              "y": 52,
+              "w": 159,
+              "h": 44,
+              "bottom": 96,
+              "right": 1386
+            },
+            "header": {
+              "x": 814,
+              "y": 52,
+              "w": 572,
+              "h": 44,
+              "bottom": 96,
+              "right": 1386
+            },
+            "scroll": {
+              "x": 814,
+              "y": 176,
+              "w": 572,
+              "h": 603.375,
+              "bottom": 779.375,
+              "right": 1386
+            },
+            "scrollHeight": 603,
+            "clientHeight": 603,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 159,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 73,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 60,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 96,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 85,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "ai",
+          "title": "Useful ideas,\nnot magic.",
+          "geometry": {
+            "width": 1440,
+            "height": 900,
+            "documentWidth": 1440,
+            "guide": {
+              "x": 768,
+              "y": 22,
+              "w": 650,
+              "h": 856,
+              "bottom": 878,
+              "right": 1418
+            },
+            "close": {
+              "x": 1227,
+              "y": 52,
+              "w": 159,
+              "h": 44,
+              "bottom": 96,
+              "right": 1386
+            },
+            "header": {
+              "x": 814,
+              "y": 52,
+              "w": 572,
+              "h": 44,
+              "bottom": 96,
+              "right": 1386
+            },
+            "scroll": {
+              "x": 814,
+              "y": 176,
+              "w": 572,
+              "h": 575.328125,
+              "bottom": 751.328125,
+              "right": 1386
+            },
+            "scrollHeight": 575,
+            "clientHeight": 575,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 159,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 73,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 60,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 96,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 85,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        },
+        {
+          "id": "contact",
+          "title": "Let’s talk about\nsomething workable.",
+          "geometry": {
+            "width": 1440,
+            "height": 900,
+            "documentWidth": 1440,
+            "guide": {
+              "x": 768,
+              "y": 22,
+              "w": 650,
+              "h": 856,
+              "bottom": 878,
+              "right": 1418
+            },
+            "close": {
+              "x": 1227,
+              "y": 52,
+              "w": 159,
+              "h": 44,
+              "bottom": 96,
+              "right": 1386
+            },
+            "header": {
+              "x": 814,
+              "y": 52,
+              "w": 572,
+              "h": 44,
+              "bottom": 96,
+              "right": 1386
+            },
+            "scroll": {
+              "x": 814,
+              "y": 176,
+              "w": 572,
+              "h": 614.734375,
+              "bottom": 790.734375,
+              "right": 1386
+            },
+            "scrollHeight": 615,
+            "clientHeight": 615,
+            "inert": true,
+            "bodyOverflow": "hidden",
+            "controlsHidden": "hidden",
+            "bodyType": 17,
+            "targets": [
+              {
+                "id": "guide-close",
+                "w": 159,
+                "h": 44
+              },
+              {
+                "id": "about",
+                "w": 73,
+                "h": 44
+              },
+              {
+                "id": "erp",
+                "w": 60,
+                "h": 44
+              },
+              {
+                "id": "lab",
+                "w": 96,
+                "h": 44
+              },
+              {
+                "id": "ai",
+                "w": 45,
+                "h": 44
+              },
+              {
+                "id": "contact",
+                "w": 85,
+                "h": 44
+              }
+            ],
+            "fonts": "loaded"
+          }
+        }
+      ],
+      "main": {
+        "documentWidth": 1440,
+        "bodyHeight": 900,
+        "controls": [
+          {
+            "id": "pause",
+            "x": 1082,
+            "y": 32,
+            "w": 146,
+            "h": 48
+          },
+          {
+            "id": "guide-open",
+            "x": 1240,
+            "y": 32,
+            "w": 160,
+            "h": 48
+          },
+          {
+            "id": "erp",
+            "x": 1013.375,
+            "y": 433.640625,
+            "w": 165,
+            "h": 62
+          },
+          {
+            "id": "lab",
+            "x": 648.578125,
+            "y": 428.484375,
+            "w": 197,
+            "h": 62
+          },
+          {
+            "id": "ai",
+            "x": 872.203125,
+            "y": 590.96875,
+            "w": 135,
+            "h": 62
+          },
+          {
+            "id": "left",
+            "x": 693,
+            "y": 827,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "up",
+            "x": 743,
+            "y": 827,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "down",
+            "x": 793,
+            "y": 827,
+            "w": 44,
+            "h": 44
+          },
+          {
+            "id": "right",
+            "x": 843,
+            "y": 827,
+            "w": 44,
+            "h": 44
+          }
+        ]
+      },
+      "longContent": {
+        "scrollTop": 1490,
+        "close": {
+          "x": 1227,
+          "y": 52,
+          "width": 159,
+          "height": 44
+        },
+        "end": {
+          "x": 814,
+          "y": 807.34375,
+          "width": 560,
+          "height": 40.5
+        }
+      },
+      "touchOpenChangeReadClose": true,
+      "landmarkReturn": true,
+      "dynamicHeight": {
+        "width": 1440,
+        "height": 780,
+        "documentWidth": 1440,
+        "guide": {
+          "x": 768,
+          "y": 22,
+          "w": 650,
+          "h": 736,
+          "bottom": 758,
+          "right": 1418
+        },
+        "close": {
+          "x": 1227,
+          "y": 52,
+          "w": 159,
+          "h": 44,
+          "bottom": 96,
+          "right": 1386
+        },
+        "header": {
+          "x": 814,
+          "y": 52,
+          "w": 572,
+          "h": 44,
+          "bottom": 96,
+          "right": 1386
+        },
+        "scroll": {
+          "x": 814,
+          "y": 176,
+          "w": 572,
+          "h": 551.078125,
+          "bottom": 727.078125,
+          "right": 1386
+        },
+        "scrollHeight": 551,
+        "clientHeight": 551,
+        "inert": true,
+        "bodyOverflow": "hidden",
+        "controlsHidden": "hidden",
+        "bodyType": 17,
+        "targets": [
+          {
+            "id": "guide-close",
+            "w": 159,
+            "h": 44
+          },
+          {
+            "id": "about",
+            "w": 73,
+            "h": 44
+          },
+          {
+            "id": "erp",
+            "w": 60,
+            "h": 44
+          },
+          {
+            "id": "lab",
+            "w": 96,
+            "h": 44
+          },
+          {
+            "id": "ai",
+            "w": 45,
+            "h": 44
+          },
+          {
+            "id": "contact",
+            "w": 85,
+            "h": 44
+          }
+        ],
+        "fonts": "loaded"
+      }
+    }
+  ],
+  "errors": [],
+  "requestsFailed": [],
+  "consoleErrors": [],
+  "pausedIdleDraws": 0,
+  "pausedNavigationDraws": 1,
+  "nativeTabEnterSpaceEscapeAndTrap": true,
+  "resumedDraws": 11,
+  "hiddenVisibility": "visible",
+  "hiddenDraws": 0,
+  "hiddenCheck": "unavailable in Xvfb windowless lifecycle; see content-hidden-results.json from the actual hidden browser-use daemon",
+  "visibilityReturnDraws": 16,
+  "reducedIdleDraws": 0,
+  "fallbackReadable": true,
+  "status": "passed"
+}

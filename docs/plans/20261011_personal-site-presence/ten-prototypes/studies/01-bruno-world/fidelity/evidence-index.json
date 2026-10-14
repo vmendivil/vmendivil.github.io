@@ -1,0 +1,47 @@
+{
+  "root": "/home/trex/vhmc/projects/vmendivil.github.io/docs/plans/20261011_personal-site-presence/ten-prototypes/studies/01-bruno-world/fidelity",
+  "viewports": [
+    [
+      1440,
+      900
+    ],
+    [
+      320,
+      740
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      430,
+      932
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      768,
+      1024
+    ]
+  ],
+  "runtimeHashes": {
+    "index.html": "73daada471244f4c356ce422a154819044be1953629d6f3bcd128107e1da8531",
+    "style.css": "6ce00435a13a0a318e3bc3d1ec75cd7a107408437a460275a9e5cbe1974190ce",
+    "world.js": "d48835c2e52a836f44938b3e54b8b8f7751992d687bc339507de441217aee9f3"
+  },
+  "normalMotion": [
+    "1440-motion-sequence.json",
+    "390-motion-sequence.json"
+  ],
+  "rawResults": [
+    "results.json",
+    "performance-confirmation.json",
+    "keyboard-confirmation.json",
+    "detector-raw.json"
+  ],
+  "limits": "Kinematic keep-out boxes, not rigid-body vehicle physics; no source-level physics toys, weather or reflections. Coast rendering measured only 2 desktop / 4 phone renders per second under this heavily concurrent software-WebGL run. This is not a smoothness pass. Initial 2.5-second paused snapshots had 1/2 residual camera frames; the diagnostic confirmed zero work after settling, but settling took ~15 seconds in this environment. One inherited hover contrast advisory is 4.46:1 vs 4.5:1; it remains unresolved. Tinted offset shadow warnings are retained accepted elevation, not newly added effects.",
+  "referenceCaptureSHA256": "d9a405cd520f059c2a452ef03cd0f48cdd846d924edb44c9891c1a8e4d027595",
+  "hashVerification": "All current runtime SHA256 values read back and matched results.json after implementation; six-size destination coverage aggregated programmatically."
+}

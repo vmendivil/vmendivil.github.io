@@ -1,0 +1,249 @@
+{
+  "desktopInitial": {
+    "debug": {
+      "rover": {
+        "x": -8,
+        "z": 13,
+        "angle": 1.5707963267948966
+      },
+      "paused": false,
+      "reduced": false,
+      "active": null,
+      "near": -1,
+      "frames": 11,
+      "webgl": true,
+      "drawCalls": 72
+    },
+    "errors": [],
+    "fonts": "loaded",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "assets": [
+      {
+        "url": "http://127.0.0.1:8911/style.css",
+        "size": 6850
+      },
+      {
+        "url": "http://127.0.0.1:8911/world.js",
+        "size": 22015
+      },
+      {
+        "url": "http://127.0.0.1:8911/assets/BufferGeometryUtils.js",
+        "size": 32080
+      },
+      {
+        "url": "http://127.0.0.1:8911/assets/three.module.js",
+        "size": 1314981
+      },
+      {
+        "url": "http://127.0.0.1:8911/assets/barlow.ttf",
+        "size": 82924
+      },
+      {
+        "url": "http://127.0.0.1:8911/assets/barlow-condensed.ttf",
+        "size": 86936
+      },
+      {
+        "url": "http://127.0.0.1:8911/favicon.ico",
+        "size": 760
+      }
+    ]
+  },
+  "tabTarget": "<button data-place=\"craft\">Software craft</button>",
+  "enterActivation": {
+    "active": null,
+    "focus": ""
+  },
+  "escapeActivation": {
+    "hidden": true,
+    "focus": "BUTTON"
+  },
+  "keyboardDrive": {
+    "before": {
+      "x": -8,
+      "z": 13,
+      "angle": 1.5707963267948966
+    },
+    "after": {
+      "x": -7.0528250411094575,
+      "z": 13,
+      "angle": 1.5707963267948966
+    }
+  },
+  "pause": {
+    "paused": true,
+    "positionUnchanged": true
+  },
+  "spaceActivation": {
+    "paused": false,
+    "label": "Pause world"
+  },
+  "destinations": [
+    {
+      "active": "welcome",
+      "title": "Hello, I\u2019m Victor.",
+      "text": "I\u2019m a software developer and problem solver. I like taking something tangled, understanding how it fits together, and making it workable.\n\nMy grounding is in Dynamics 365 Finance & Operations and ERP. That means thinking beyond a single screen: requirements, people, processes, and what happens after the code ships.\n\nA little off the main road\n\nAt home, I\u2019m curious about Raspberry Pi servers, AI-assisted work, and useful web apps. This coast is an imaginary map of those interests\u2014not a map of client projects.",
+      "visible": true
+    },
+    {
+      "active": "craft",
+      "title": "From the question to the working thing.",
+      "text": "Good software starts with understanding what someone actually needs. I work through requirements and technical design, then implementation, testing, deployment and support.\n\nMy working rhythm\nClarify the requirement and its edges.\nMake the design understandable.\nBuild, test, and coordinate across teams.\nStay attentive when it reaches real users.\n\nDynamics 365 F&O / ERP is my professional foundation. I\u2019m interested in growing toward senior and technical-lead roles.",
+      "visible": true
+    },
+    {
+      "active": "homelab",
+      "title": "Small machines. Plenty to learn.",
+      "text": "I\u2019m interested in Raspberry Pi homelabs and servers: a small place to explore how software lives beyond my own laptop.\n\nThere\u2019s something satisfying about following a request through the layers\u2014an app, a service, a machine, a network\u2014and understanding where things fit.\n\nThe greenhouse idea\n\nThe miniature racks here are an illustration of that curiosity. They aren\u2019t an inventory, a published tutorial, or a claim about production infrastructure.",
+      "visible": true
+    },
+    {
+      "active": "curiosity",
+      "title": "A better question is a good start.",
+      "text": "I\u2019m exploring AI-assisted work processes and AI-assisted web apps. What interests me is the useful part: helping turn an idea into something you can inspect, test, and improve.\n\nCurious, not uncritical\n\nI want to understand where assistance makes work clearer\u2014and where careful human judgement still matters. An answer isn\u2019t finished just because it sounds confident.\n\nThis observatory is a playful illustration, not a product demo or evidence of client outcomes.",
+      "visible": true
+    },
+    {
+      "active": "contact",
+      "title": "Let\u2019s find a workable next step.",
+      "text": "Have a contained problem or a small idea that needs a developer? I\u2019m open to a conversation.\n\nI\u2019m employed full-time. Freelance work needs to fit remote, evening, or asynchronous collaboration, with a clear and manageable scope.\n\nFind me on LinkedIn\n\u2197\n\nLinkedIn opens in a new tab. This is a local design preview; there is no enquiry form, message delivery, or stored submission here.",
+      "visible": true
+    }
+  ],
+  "contact": {
+    "url": "https://www.linkedin.com/in/vmendivilaxdeveloper",
+    "target": "_blank",
+    "note": "LinkedIn opens in a new tab. This is a local design preview; there is no enquiry form, message delivery, or stored submission here."
+  },
+  "retabTarget": "<button data-place=\"craft\">Software craft</button>",
+  "enterSettled": {
+    "active": null,
+    "focus": ""
+  },
+  "mobileInitial": {
+    "width": 390,
+    "scrollWidth": 390,
+    "fonts": "loaded",
+    "debug": {
+      "rover": {
+        "x": -8,
+        "z": 13,
+        "angle": 1.5707963267948966
+      },
+      "paused": false,
+      "reduced": false,
+      "active": null,
+      "near": -1,
+      "frames": 11,
+      "webgl": true,
+      "drawCalls": 71
+    },
+    "errors": []
+  },
+  "mobileTouchDrive": {
+    "before": {
+      "x": -8,
+      "z": 13,
+      "angle": 1.5707963267948966
+    },
+    "after": {
+      "x": -6.1186539769055655,
+      "z": 13,
+      "angle": 1.5707963267948966
+    }
+  },
+  "mobileMenu": {
+    "expanded": "true",
+    "visible": "flex"
+  },
+  "mobileContact": {
+    "active": "contact",
+    "visible": true,
+    "panelWidth": 362,
+    "scrollHeight": 699,
+    "clientHeight": 684,
+    "bodyFont": "17px"
+  },
+  "reducedMotion": {
+    "matches": true,
+    "debug": {
+      "rover": {
+        "x": -8,
+        "z": 13,
+        "angle": 1.5707963267948966
+      },
+      "paused": true,
+      "reduced": true,
+      "active": null,
+      "near": -1,
+      "frames": 32,
+      "webgl": true,
+      "drawCalls": 71
+    },
+    "instruction": "Motion is off. Choose any destination to explore.",
+    "touchDisplay": "none",
+    "menuDisplay": "flex"
+  },
+  "reducedNavigation": {
+    "active": "homelab",
+    "title": "Small machines. Plenty to learn.",
+    "rover": {
+      "x": 1,
+      "z": -8,
+      "angle": 0
+    }
+  },
+  "finalErrors": [],
+  "completeEnterBefore": "<button data-place=\"welcome\">Meet Victor</button>",
+  "completeNativeEnter": {
+    "active": "welcome",
+    "focus": "close",
+    "title": "Hello, I\u2019m Victor."
+  },
+  "completeNativeEscape": {
+    "active": null,
+    "hidden": true,
+    "focus": "CANVAS"
+  },
+  "canvasFailure": {
+    "message": "The coast is taking a rest.\n\nYour browser couldn't open the 3D world. Every destination is still available from the navigation above.",
+    "visible": true,
+    "navDisplay": "flex"
+  },
+  "fallbackContact": {
+    "visible": true,
+    "url": "https://www.linkedin.com/in/vmendivilaxdeveloper"
+  },
+  "reproducibleScript": {
+    "path": "VERIFY_BROWSER.py",
+    "outcome": "all assertions completed",
+    "testCorrection": "Reset heading before asserting x movement; destination selection faces rover along z."
+  },
+  "shippingResourceCheck": [
+    {
+      "url": "http://127.0.0.1:8911/style.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8911/world.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8911/assets/three.module.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8911/assets/BufferGeometryUtils.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8911/assets/barlow-condensed.ttf",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8911/assets/barlow.ttf",
+      "status": 200
+    }
+  ],
+  "shippingErrors": []
+}

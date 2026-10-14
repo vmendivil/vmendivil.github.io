@@ -1,0 +1,1538 @@
+{
+  "engine": "Playwright Chromium; emulated viewports and trusted touch input, not physical Safari",
+  "base": "http://127.0.0.1:9019/",
+  "checks": [
+    {
+      "name": "document bounds",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "1440x900 study 0"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "1440x900 study 0"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "1440x900 study 3"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "1440x900 study 3"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "About anchor",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "keyboard Approach disclosure",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "Space closes Approach",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "Contact real route and disclosure",
+      "pass": true,
+      "state": "1440x900"
+    },
+    {
+      "name": "document bounds",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "320x740 study 0"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "320x740 study 0"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "320x740 study 3"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "320x740 study 3"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "About anchor",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "keyboard Approach disclosure",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "Space closes Approach",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "Contact real route and disclosure",
+      "pass": true,
+      "state": "320x740"
+    },
+    {
+      "name": "document bounds",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "390x844 study 0"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "390x844 study 0"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "390x844 study 3"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "390x844 study 3"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "About anchor",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "keyboard Approach disclosure",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "Space closes Approach",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "Contact real route and disclosure",
+      "pass": true,
+      "state": "390x844"
+    },
+    {
+      "name": "document bounds",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "430x932 study 0"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "430x932 study 0"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "430x932 study 3"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "430x932 study 3"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "About anchor",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "keyboard Approach disclosure",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "Space closes Approach",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "Contact real route and disclosure",
+      "pass": true,
+      "state": "430x932"
+    },
+    {
+      "name": "document bounds",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "844x390 study 0"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "844x390 study 0"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "844x390 study 3"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "844x390 study 3"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "About anchor",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "keyboard Approach disclosure",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "Space closes Approach",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "Contact real route and disclosure",
+      "pass": true,
+      "state": "844x390"
+    },
+    {
+      "name": "document bounds",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "768x1024 study 0"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "768x1024 study 0"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "modal bounds",
+      "pass": true,
+      "state": "768x1024 study 3"
+    },
+    {
+      "name": "close and paging 44px",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "close independent of heading",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "reading 16px and no horizontal overflow",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "background locked",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "final disclosure reachable",
+      "pass": true,
+      "state": "768x1024 study 3"
+    },
+    {
+      "name": "close remains reachable after scroll",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "touch next wraps/advances",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "touch previous restores study",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "touch close focus restoration",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "About anchor",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "keyboard Approach disclosure",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "Space closes Approach",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "Contact real route and disclosure",
+      "pass": true,
+      "state": "768x1024"
+    },
+    {
+      "name": "real Tab skip",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "Tab first art",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "Enter opens focus close",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "modal Tab contained",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "modal Tab contained",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "modal Tab contained",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "modal Tab contained",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "keyboard previous wraps",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "keyboard Space next",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "Escape restores opener",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "Space opens",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "font ready",
+      "pass": true,
+      "state": "assets"
+    },
+    {
+      "name": "long reading keyboard final disclosure",
+      "pass": true,
+      "state": "320x740 test-only 8x description"
+    },
+    {
+      "name": "reverse focus wrap",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "long reading keyboard final disclosure",
+      "pass": true,
+      "state": "768x1024 test-only 8x description"
+    },
+    {
+      "name": "reverse focus wrap",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "long reading keyboard final disclosure",
+      "pass": true,
+      "state": "844x390 test-only 8x description"
+    },
+    {
+      "name": "reverse focus wrap",
+      "pass": true,
+      "state": "keyboard"
+    },
+    {
+      "name": "four static snapshots",
+      "pass": true,
+      "state": "assets"
+    },
+    {
+      "name": "reduced motion",
+      "pass": true,
+      "state": "motion"
+    },
+    {
+      "name": "WebGL failure text usable",
+      "pass": true,
+      "state": "fallback"
+    }
+  ],
+  "geometry": [
+    {
+      "state": "1440x900",
+      "index": 0,
+      "dialog": {
+        "x": 60,
+        "y": 20,
+        "width": 1320,
+        "height": 860,
+        "bottom": 880,
+        "right": 1380
+      },
+      "close": {
+        "x": 1174,
+        "y": 44,
+        "width": 158,
+        "height": 44,
+        "bottom": 88,
+        "right": 1332
+      },
+      "title": {
+        "x": 802.140625,
+        "y": 255.078125,
+        "width": 480,
+        "height": 56.109375,
+        "bottom": 311.1875,
+        "right": 1282.140625
+      },
+      "scroll": {
+        "x": 108,
+        "y": 101,
+        "width": 1224,
+        "height": 698,
+        "bottom": 799,
+        "right": 1332
+      },
+      "previous": {
+        "x": 108,
+        "y": 812,
+        "width": 145,
+        "height": 44,
+        "bottom": 856,
+        "right": 253
+      },
+      "next": {
+        "x": 1210,
+        "y": 812,
+        "width": 122,
+        "height": 44,
+        "bottom": 856,
+        "right": 1332
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 1 of 4"
+    },
+    {
+      "state": "1440x900",
+      "index": 3,
+      "dialog": {
+        "x": 60,
+        "y": 20,
+        "width": 1320,
+        "height": 860,
+        "bottom": 880,
+        "right": 1380
+      },
+      "close": {
+        "x": 1174,
+        "y": 44,
+        "width": 158,
+        "height": 44,
+        "bottom": 88,
+        "right": 1332
+      },
+      "title": {
+        "x": 802.140625,
+        "y": 255.078125,
+        "width": 480,
+        "height": 56.109375,
+        "bottom": 311.1875,
+        "right": 1282.140625
+      },
+      "scroll": {
+        "x": 108,
+        "y": 101,
+        "width": 1224,
+        "height": 698,
+        "bottom": 799,
+        "right": 1332
+      },
+      "previous": {
+        "x": 108,
+        "y": 812,
+        "width": 145,
+        "height": 44,
+        "bottom": 856,
+        "right": 253
+      },
+      "next": {
+        "x": 1210,
+        "y": 812,
+        "width": 122,
+        "height": 44,
+        "bottom": 856,
+        "right": 1332
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 4 of 4"
+    },
+    {
+      "state": "320x740",
+      "index": 0,
+      "dialog": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 740,
+        "bottom": 740,
+        "right": 320
+      },
+      "close": {
+        "x": 185,
+        "y": 10,
+        "width": 117,
+        "height": 44,
+        "bottom": 54,
+        "right": 302
+      },
+      "title": {
+        "x": 26,
+        "y": 329,
+        "width": 268,
+        "height": 36.59375,
+        "bottom": 365.59375,
+        "right": 294
+      },
+      "scroll": {
+        "x": 18,
+        "y": 61,
+        "width": 284,
+        "height": 618,
+        "bottom": 679,
+        "right": 302
+      },
+      "previous": {
+        "x": 18,
+        "y": 686,
+        "width": 129,
+        "height": 44,
+        "bottom": 730,
+        "right": 147
+      },
+      "next": {
+        "x": 196,
+        "y": 686,
+        "width": 106,
+        "height": 44,
+        "bottom": 730,
+        "right": 302
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 1 of 4"
+    },
+    {
+      "state": "320x740",
+      "index": 3,
+      "dialog": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 740,
+        "bottom": 740,
+        "right": 320
+      },
+      "close": {
+        "x": 185,
+        "y": 10,
+        "width": 117,
+        "height": 44,
+        "bottom": 54,
+        "right": 302
+      },
+      "title": {
+        "x": 26,
+        "y": 329,
+        "width": 268,
+        "height": 73.1875,
+        "bottom": 402.1875,
+        "right": 294
+      },
+      "scroll": {
+        "x": 18,
+        "y": 61,
+        "width": 284,
+        "height": 618,
+        "bottom": 679,
+        "right": 302
+      },
+      "previous": {
+        "x": 18,
+        "y": 686,
+        "width": 129,
+        "height": 44,
+        "bottom": 730,
+        "right": 147
+      },
+      "next": {
+        "x": 196,
+        "y": 686,
+        "width": 106,
+        "height": 44,
+        "bottom": 730,
+        "right": 302
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 4 of 4"
+    },
+    {
+      "state": "390x844",
+      "index": 0,
+      "dialog": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "bottom": 844,
+        "right": 390
+      },
+      "close": {
+        "x": 244,
+        "y": 10,
+        "width": 128,
+        "height": 44,
+        "bottom": 54,
+        "right": 372
+      },
+      "title": {
+        "x": 26,
+        "y": 379,
+        "width": 338,
+        "height": 39.03125,
+        "bottom": 418.03125,
+        "right": 364
+      },
+      "scroll": {
+        "x": 18,
+        "y": 61,
+        "width": 354,
+        "height": 722,
+        "bottom": 783,
+        "right": 372
+      },
+      "previous": {
+        "x": 18,
+        "y": 790,
+        "width": 129,
+        "height": 44,
+        "bottom": 834,
+        "right": 147
+      },
+      "next": {
+        "x": 266,
+        "y": 790,
+        "width": 106,
+        "height": 44,
+        "bottom": 834,
+        "right": 372
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 1 of 4"
+    },
+    {
+      "state": "390x844",
+      "index": 3,
+      "dialog": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "bottom": 844,
+        "right": 390
+      },
+      "close": {
+        "x": 244,
+        "y": 10,
+        "width": 128,
+        "height": 44,
+        "bottom": 54,
+        "right": 372
+      },
+      "title": {
+        "x": 26,
+        "y": 379,
+        "width": 338,
+        "height": 39.03125,
+        "bottom": 418.03125,
+        "right": 364
+      },
+      "scroll": {
+        "x": 18,
+        "y": 61,
+        "width": 354,
+        "height": 722,
+        "bottom": 783,
+        "right": 372
+      },
+      "previous": {
+        "x": 18,
+        "y": 790,
+        "width": 129,
+        "height": 44,
+        "bottom": 834,
+        "right": 147
+      },
+      "next": {
+        "x": 266,
+        "y": 790,
+        "width": 106,
+        "height": 44,
+        "bottom": 834,
+        "right": 372
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 4 of 4"
+    },
+    {
+      "state": "430x932",
+      "index": 0,
+      "dialog": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "bottom": 932,
+        "right": 430
+      },
+      "close": {
+        "x": 284,
+        "y": 10,
+        "width": 128,
+        "height": 44,
+        "bottom": 54,
+        "right": 412
+      },
+      "title": {
+        "x": 26,
+        "y": 379,
+        "width": 378,
+        "height": 39.03125,
+        "bottom": 418.03125,
+        "right": 404
+      },
+      "scroll": {
+        "x": 18,
+        "y": 61,
+        "width": 394,
+        "height": 810,
+        "bottom": 871,
+        "right": 412
+      },
+      "previous": {
+        "x": 18,
+        "y": 878,
+        "width": 129,
+        "height": 44,
+        "bottom": 922,
+        "right": 147
+      },
+      "next": {
+        "x": 306,
+        "y": 878,
+        "width": 106,
+        "height": 44,
+        "bottom": 922,
+        "right": 412
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 1 of 4"
+    },
+    {
+      "state": "430x932",
+      "index": 3,
+      "dialog": {
+        "x": 0,
+        "y": 0,
+        "width": 430,
+        "height": 932,
+        "bottom": 932,
+        "right": 430
+      },
+      "close": {
+        "x": 284,
+        "y": 10,
+        "width": 128,
+        "height": 44,
+        "bottom": 54,
+        "right": 412
+      },
+      "title": {
+        "x": 26,
+        "y": 379,
+        "width": 378,
+        "height": 39.03125,
+        "bottom": 418.03125,
+        "right": 404
+      },
+      "scroll": {
+        "x": 18,
+        "y": 61,
+        "width": 394,
+        "height": 810,
+        "bottom": 871,
+        "right": 412
+      },
+      "previous": {
+        "x": 18,
+        "y": 878,
+        "width": 129,
+        "height": 44,
+        "bottom": 922,
+        "right": 147
+      },
+      "next": {
+        "x": 306,
+        "y": 878,
+        "width": 106,
+        "height": 44,
+        "bottom": 922,
+        "right": 412
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 4 of 4"
+    },
+    {
+      "state": "844x390",
+      "index": 0,
+      "dialog": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 390,
+        "bottom": 390,
+        "right": 844
+      },
+      "close": {
+        "x": 662,
+        "y": 8,
+        "width": 158,
+        "height": 44,
+        "bottom": 52,
+        "right": 820
+      },
+      "title": {
+        "x": 367.390625,
+        "y": 77,
+        "width": 444.609375,
+        "height": 36.59375,
+        "bottom": 113.59375,
+        "right": 812
+      },
+      "scroll": {
+        "x": 24,
+        "y": 57,
+        "width": 796,
+        "height": 276,
+        "bottom": 333,
+        "right": 820
+      },
+      "previous": {
+        "x": 24,
+        "y": 338,
+        "width": 145,
+        "height": 44,
+        "bottom": 382,
+        "right": 169
+      },
+      "next": {
+        "x": 698,
+        "y": 338,
+        "width": 122,
+        "height": 44,
+        "bottom": 382,
+        "right": 820
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 1 of 4"
+    },
+    {
+      "state": "844x390",
+      "index": 3,
+      "dialog": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 390,
+        "bottom": 390,
+        "right": 844
+      },
+      "close": {
+        "x": 662,
+        "y": 8,
+        "width": 158,
+        "height": 44,
+        "bottom": 52,
+        "right": 820
+      },
+      "title": {
+        "x": 367.390625,
+        "y": 77,
+        "width": 444.609375,
+        "height": 36.59375,
+        "bottom": 113.59375,
+        "right": 812
+      },
+      "scroll": {
+        "x": 24,
+        "y": 57,
+        "width": 796,
+        "height": 276,
+        "bottom": 333,
+        "right": 820
+      },
+      "previous": {
+        "x": 24,
+        "y": 338,
+        "width": 145,
+        "height": 44,
+        "bottom": 382,
+        "right": 169
+      },
+      "next": {
+        "x": 698,
+        "y": 338,
+        "width": 122,
+        "height": 44,
+        "bottom": 382,
+        "right": 820
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 4 of 4"
+    },
+    {
+      "state": "768x1024",
+      "index": 0,
+      "dialog": {
+        "x": 0,
+        "y": 82,
+        "width": 768,
+        "height": 860,
+        "bottom": 942,
+        "right": 768
+      },
+      "close": {
+        "x": 582,
+        "y": 102,
+        "width": 158,
+        "height": 44,
+        "bottom": 146,
+        "right": 740
+      },
+      "title": {
+        "x": 425.71875,
+        "y": 266.0625,
+        "width": 302.28125,
+        "height": 41.46875,
+        "bottom": 307.53125,
+        "right": 728
+      },
+      "scroll": {
+        "x": 28,
+        "y": 159,
+        "width": 712,
+        "height": 706,
+        "bottom": 865,
+        "right": 740
+      },
+      "previous": {
+        "x": 28,
+        "y": 878,
+        "width": 145,
+        "height": 44,
+        "bottom": 922,
+        "right": 173
+      },
+      "next": {
+        "x": 618,
+        "y": 878,
+        "width": 122,
+        "height": 44,
+        "bottom": 922,
+        "right": 740
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 1 of 4"
+    },
+    {
+      "state": "768x1024",
+      "index": 3,
+      "dialog": {
+        "x": 0,
+        "y": 82,
+        "width": 768,
+        "height": 860,
+        "bottom": 942,
+        "right": 768
+      },
+      "close": {
+        "x": 582,
+        "y": 102,
+        "width": 158,
+        "height": 44,
+        "bottom": 146,
+        "right": 740
+      },
+      "title": {
+        "x": 425.71875,
+        "y": 245.328125,
+        "width": 302.28125,
+        "height": 82.9375,
+        "bottom": 328.265625,
+        "right": 728
+      },
+      "scroll": {
+        "x": 28,
+        "y": 159,
+        "width": 712,
+        "height": 706,
+        "bottom": 865,
+        "right": 740
+      },
+      "previous": {
+        "x": 28,
+        "y": 878,
+        "width": 145,
+        "height": 44,
+        "bottom": 922,
+        "right": 173
+      },
+      "next": {
+        "x": 618,
+        "y": 878,
+        "width": 122,
+        "height": 44,
+        "bottom": 922,
+        "right": 740
+      },
+      "font": 17,
+      "overflow": false,
+      "bodyLock": "hidden",
+      "position": " / 4 of 4"
+    }
+  ],
+  "errors": [],
+  "total": 171,
+  "failed": []
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "stage": "before",
+    "state": {
+      "rover": {
+        "x": -8,
+        "z": 13,
+        "angle": 1.5707963267948966
+      },
+      "paused": false,
+      "reduced": false,
+      "active": null,
+      "near": -1,
+      "frames": 189,
+      "renders": 189,
+      "camera": [
+        59.51437171074384,
+        59,
+        77.59103779956222
+      ],
+      "speed": 0,
+      "webgl": true,
+      "drawCalls": 69
+    }
+  },
+  {
+    "stage": "progress-1",
+    "state": {
+      "rover": {
+        "x": -3.442638448433553,
+        "z": 13,
+        "angle": 1.5707963267948966
+      },
+      "paused": false,
+      "reduced": false,
+      "active": null,
+      "near": -1,
+      "frames": 233,
+      "renders": 233,
+      "camera": [
+        55.14132175178261,
+        59,
+        78.54070023650156
+      ],
+      "speed": 7.267588450172404,
+      "webgl": true,
+      "drawCalls": 69
+    }
+  },
+  {
+    "stage": "progress-2",
+    "state": {
+      "rover": {
+        "x": 5.654956782827982,
+        "z": 13,
+        "angle": 1.5707963267948966
+      },
+      "paused": false,
+      "reduced": false,
+      "active": null,
+      "near": -1,
+      "frames": 255,
+      "renders": 255,
+      "camera": [
+        57.74392680134955,
+        59,
+        78.54908418635095
+      ],
+      "speed": 8,
+      "webgl": true,
+      "drawCalls": 69
+    }
+  },
+  {
+    "stage": "progress-3",
+    "state": {
+      "rover": {
+        "x": 8.5,
+        "z": 13,
+        "angle": 1.5707963267948966
+      },
+      "paused": false,
+      "reduced": false,
+      "active": null,
+      "near": -1,
+      "frames": 277,
+      "renders": 277,
+      "camera": [
+        59.712626517100794,
+        59,
+        78.54990981333665
+      ],
+      "speed": 0.1542205576971425,
+      "webgl": true,
+      "drawCalls": 70
+    }
+  },
+  {
+    "stage": "return",
+    "state": {
+      "rover": {
+        "x": -8,
+        "z": 13,
+        "angle": 1.5707963267948966
+      },
+      "paused": false,
+      "reduced": false,
+      "active": null,
+      "near": -1,
+      "frames": 317,
+      "renders": 317,
+      "camera": [
+        54.31321324489715,
+        59,
+        78.54999866696149
+      ],
+      "speed": 0,
+      "webgl": true,
+      "drawCalls": 70
+    }
+  }
+]

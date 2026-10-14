@@ -1,0 +1,771 @@
+{
+  "phase": "repair-confirmation",
+  "engine": "Chromium Playwright; SwiftShader software emulation; physical Safari not tested",
+  "results": [
+    {
+      "viewport": [
+        320,
+        740
+      ],
+      "fatal": "locator.tap: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator('a[href=\"#about\"]').first()\n    - locator resolved to <a class=\"skip\" href=\"#about\">Skip scenery, read about Victor</a>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n      - waiting 100ms\n    39 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying tap action\n       - waiting 500ms\n",
+      "errors": [],
+      "failed": [],
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 28,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 1476,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 52,
+            "frame": 0,
+            "currentX": -10,
+            "targetX": -10,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 0,
+            "transfer": [
+              -7,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 2732,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 57,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 4047,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 60,
+            "frame": 0,
+            "currentX": 9,
+            "targetX": 9,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 2,
+            "transfer": [
+              12,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 5357,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 64,
+            "frame": 0,
+            "currentX": 18,
+            "targetX": 18,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 3,
+            "transfer": [
+              21,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "fatal": "locator.tap: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator('a[href=\"#about\"]').first()\n    - locator resolved to <a class=\"skip\" href=\"#about\">Skip scenery, read about Victor</a>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n      - waiting 100ms\n    39 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying tap action\n       - waiting 500ms\n",
+      "errors": [],
+      "failed": [],
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 27,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 1251,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 56,
+            "frame": 0,
+            "currentX": -10,
+            "targetX": -10,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 0,
+            "transfer": [
+              -7,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 2425,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 75,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 3641,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 79,
+            "frame": 0,
+            "currentX": 9,
+            "targetX": 9,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 2,
+            "transfer": [
+              12,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 4860,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 83,
+            "frame": 0,
+            "currentX": 18,
+            "targetX": 18,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 3,
+            "transfer": [
+              21,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "viewport": [
+        430,
+        932
+      ],
+      "fatal": "locator.tap: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator('a[href=\"#about\"]').first()\n    - locator resolved to <a class=\"skip\" href=\"#about\">Skip scenery, read about Victor</a>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n      - waiting 100ms\n    39 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying tap action\n       - waiting 500ms\n",
+      "errors": [],
+      "failed": [],
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 29,
+            "frame": 0,
+            "currentX": 3,
+            "targetX": 3,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              6,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 1081,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 59,
+            "frame": 0,
+            "currentX": -10,
+            "targetX": -10,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 0,
+            "transfer": [
+              -7,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 2226,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 69,
+            "frame": 0,
+            "currentX": -1,
+            "targetX": -1,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 1,
+            "transfer": [
+              2,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 3400,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 73,
+            "frame": 0,
+            "currentX": 9,
+            "targetX": 9,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 2,
+            "transfer": [
+              12,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 4589,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nWork,\nin motion.\n\nI’m Victor. I turn software requirements into something people can use — and ke",
+          "state": {
+            "draws": 77,
+            "frame": 0,
+            "currentX": 18,
+            "targetX": 18,
+            "currentSize": 18,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": 3,
+            "transfer": [
+              21,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "fatal": "locator.tap: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator('a[href=\"#about\"]').first()\n    - locator resolved to <a class=\"skip\" href=\"#about\">Skip scenery, read about Victor</a>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n      - waiting 100ms\n    38 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying tap action\n       - waiting 500ms\n",
+      "errors": [],
+      "failed": [],
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 776,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 31,
+            "frame": 0,
+            "currentX": -7.413566739606127,
+            "targetX": -7.413566739606127,
+            "currentSize": 46.70984682713348,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -4.413566739606127,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 1518,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 36,
+            "frame": 0,
+            "currentX": -0.9190371991247268,
+            "targetX": -0.9190371991247268,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              2.080962800875273,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 2259,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 41,
+            "frame": 0,
+            "currentX": 5.566739606126914,
+            "targetX": 5.566739606126914,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              8.566739606126914,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 3061,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 43,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "viewport": [
+        768,
+        1024
+      ],
+      "fatal": "locator.tap: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator('a[href=\"#about\"]').first()\n    - locator resolved to <a class=\"skip\" href=\"#about\">Skip scenery, read about Victor</a>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n      - waiting 100ms\n    36 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying tap action\n       - waiting 500ms\n",
+      "errors": [],
+      "failed": [],
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 1046,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 31,
+            "frame": 0,
+            "currentX": -5.5,
+            "targetX": -5.5,
+            "currentSize": 42.5,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -2.5,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 2070,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 35,
+            "frame": 0,
+            "currentX": 1.166666666666666,
+            "targetX": 1.166666666666666,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              4.166666666666666,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 3094,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 40,
+            "frame": 0,
+            "currentX": 7.833333333333332,
+            "targetX": 7.833333333333332,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              10.833333333333332,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 2565,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 41,
+            "frame": 0,
+            "currentX": 4.389322916666668,
+            "targetX": 4.389322916666668,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              7.389322916666668,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "viewport": [
+        1440,
+        900
+      ],
+      "fatal": "locator.tap: Timeout 20000ms exceeded.\nCall log:\n  - waiting for locator('a[href=\"#about\"]').first()\n    - locator resolved to <a class=\"skip\" href=\"#about\">Skip scenery, read about Victor</a>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying tap action\n      - waiting 100ms\n    39 × waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying tap action\n       - waiting 500ms\n",
+      "errors": [],
+      "failed": [],
+      "states": [
+        {
+          "name": "opening",
+          "scroll": 0,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 2,
+            "frame": 0,
+            "currentX": -8,
+            "targetX": -8,
+            "currentSize": 48,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -5,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-requirements",
+          "scroll": 922,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 30,
+            "frame": 0,
+            "currentX": -5.614814814814815,
+            "targetX": -5.614814814814815,
+            "currentSize": 42.75259259259259,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              -2.6148148148148147,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-design",
+          "scroll": 1822,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 58,
+            "frame": 0,
+            "currentX": 1.0518518518518523,
+            "targetX": 1.0518518518518523,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              4.051851851851852,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-delivery",
+          "scroll": 2722,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 87,
+            "frame": 0,
+            "currentX": 7.718518518518518,
+            "targetX": 7.718518518518518,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              10.718518518518518,
+              0.28,
+              1.45
+            ]
+          }
+        },
+        {
+          "name": "chapter-support",
+          "scroll": 3622,
+          "overflow": false,
+          "body": "Skip scenery, read about Victor\nVictor Mendivil\nSoftware developer\nPractice\nAbout\nCuriosity\nLet’s talk\nAn original, illustrative landscape. Not a real installation.\nWork,\nin motion.\n\nI’m Victor. I tur",
+          "state": {
+            "draws": 116,
+            "frame": 0,
+            "currentX": 12,
+            "targetX": 12,
+            "currentSize": 37,
+            "paused": false,
+            "visible": true,
+            "hidden": false,
+            "focusPart": -1,
+            "transfer": [
+              15,
+              0.28,
+              1.45
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "variant": "reduced",
+      "reduced": true,
+      "changed": {
+        "draws": 2,
+        "frame": 5,
+        "currentX": -1,
+        "targetX": -1,
+        "currentSize": 18,
+        "paused": false,
+        "visible": true,
+        "hidden": false,
+        "focusPart": 1,
+        "transfer": [
+          2,
+          0.28,
+          1.45
+        ]
+      },
+      "contact": 1,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "variant": "fallback",
+      "reduced": false,
+      "changed": null,
+      "contact": 1,
+      "overflow": false,
+      "errors": []
+    },
+    {
+      "variant": "no-js",
+      "reduced": false,
+      "changed": null,
+      "contact": 1,
+      "overflow": false,
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "runtimeArtwork": {
+    "assets/afterlight.svg": "Original authored SVG architectural fallback, created in this study.",
+    "scene.js::study(n)": "Original deterministic 1200\u00d7660 canvas horizon/structural landscape studies. Four mineral/dusk palettes, seeded grain, layered contours; no sourced footage or model. Generated at runtime, no shipping raster."
+  },
+  "thirdParty": {
+    "assets/three.module.js": "Three.js r170 MIT, downloaded from https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js; license included.",
+    "assets/Michroma-Regular.ttf": "Michroma, Google Fonts repository, SIL OFL; license included."
+  },
+  "referenceOnly": "Reference captures remain in references-expansion/group-c, none copied into runtime. Exact #4f and observed #4F mismatches retained privately in SURFACE.md.",
+  "captures": "Playwright Chromium local source capture; screenshots are verification artifacts and never runtime illustrations."
+}

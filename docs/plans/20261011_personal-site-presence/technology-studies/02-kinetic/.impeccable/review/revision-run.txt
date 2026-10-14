@@ -1,0 +1,163 @@
+{
+  "layouts": [
+    {
+      "name": "desktop",
+      "reduced": false,
+      "value": "0",
+      "gap": 33.09375,
+      "intersectionArea": 0,
+      "documentHeight": 900
+    },
+    {
+      "name": "desktop",
+      "reduced": false,
+      "value": "50",
+      "gap": 33.09375,
+      "intersectionArea": 0,
+      "documentHeight": 900
+    },
+    {
+      "name": "desktop",
+      "reduced": false,
+      "value": "100",
+      "gap": 33.09375,
+      "intersectionArea": 0,
+      "documentHeight": 900
+    },
+    {
+      "name": "desktop",
+      "reduced": true,
+      "value": "0",
+      "gap": 33.09375,
+      "intersectionArea": 0,
+      "documentHeight": 900
+    },
+    {
+      "name": "desktop",
+      "reduced": true,
+      "value": "50",
+      "gap": 33.09375,
+      "intersectionArea": 0,
+      "documentHeight": 900
+    },
+    {
+      "name": "desktop",
+      "reduced": true,
+      "value": "100",
+      "gap": 33.09375,
+      "intersectionArea": 0,
+      "documentHeight": 900
+    },
+    {
+      "name": "mobile",
+      "reduced": false,
+      "value": "0",
+      "gap": 45.734375,
+      "intersectionArea": 0,
+      "documentHeight": 844
+    },
+    {
+      "name": "mobile",
+      "reduced": false,
+      "value": "50",
+      "gap": 45.734375,
+      "intersectionArea": 0,
+      "documentHeight": 844
+    },
+    {
+      "name": "mobile",
+      "reduced": false,
+      "value": "100",
+      "gap": 45.734375,
+      "intersectionArea": 0,
+      "documentHeight": 844
+    },
+    {
+      "name": "mobile",
+      "reduced": true,
+      "value": "0",
+      "gap": 45.734375,
+      "intersectionArea": 0,
+      "documentHeight": 844
+    },
+    {
+      "name": "mobile",
+      "reduced": true,
+      "value": "50",
+      "gap": 45.734375,
+      "intersectionArea": 0,
+      "documentHeight": 844
+    },
+    {
+      "name": "mobile",
+      "reduced": true,
+      "value": "100",
+      "gap": 45.734375,
+      "intersectionArea": 0,
+      "documentHeight": 844
+    }
+  ],
+  "keyboard": [
+    {
+      "name": "desktop",
+      "reduced": false,
+      "tab1": "alignment",
+      "arrowRight": "66",
+      "tab2": "align",
+      "enter": "100",
+      "space": "15",
+      "state": "A little scattered"
+    },
+    {
+      "name": "desktop",
+      "reduced": true,
+      "tab1": "",
+      "arrowRight": "65",
+      "tab2": "",
+      "enter": "65",
+      "space": "65",
+      "state": "Movement off"
+    },
+    {
+      "name": "desktop",
+      "livePreferenceChange": "normal → reduce → normal; controls and labels updated without reload"
+    },
+    {
+      "name": "mobile",
+      "reduced": false,
+      "tab1": "alignment",
+      "arrowRight": "66",
+      "tab2": "align",
+      "enter": "100",
+      "space": "15",
+      "state": "A little scattered"
+    },
+    {
+      "name": "mobile",
+      "reduced": true,
+      "tab1": "",
+      "arrowRight": "65",
+      "tab2": "",
+      "enter": "65",
+      "space": "65",
+      "state": "Movement off"
+    },
+    {
+      "name": "mobile",
+      "livePreferenceChange": "normal → reduce → normal; controls and labels updated without reload"
+    }
+  ],
+  "touch": [
+    {
+      "gesture": "CDP native range drag 65% to 20%",
+      "value": "20",
+      "state": "A little scattered"
+    },
+    {
+      "gesture": "CDP native range tap at 80%",
+      "value": "80",
+      "state": "Finding the rhythm"
+    }
+  ],
+  "errors": []
+}

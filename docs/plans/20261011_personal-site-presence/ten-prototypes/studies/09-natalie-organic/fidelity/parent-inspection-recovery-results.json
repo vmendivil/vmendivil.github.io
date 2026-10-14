@@ -1,0 +1,679 @@
+{
+  "engine": "Chromium / SwiftShader software WebGL",
+  "input": "real Playwright keyboard and trusted emulated touch; wheel scroll; not physical-device/Safari certification",
+  "pass": "parent-inspection-recovery",
+  "viewports": [
+    [
+      1440,
+      900
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      844,
+      390
+    ]
+  ],
+  "checks": [
+    {
+      "name": "1440x900 overview bounds",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 overview assets",
+      "pass": true,
+      "detail": {
+        "width": 1440,
+        "scroll": 1440,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "1440x900 practical controls",
+      "pass": true
+    },
+    {
+      "name": "1440x900 keyboard skip",
+      "pass": true
+    },
+    {
+      "name": "1440x900 skip enters About",
+      "pass": true
+    },
+    {
+      "name": "1440x900 touch gallery opens",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 0 text",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 0 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 0 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 1 text",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 1 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 1 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 2 text",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 2 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 2 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 3 text",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 3 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "1440x900 study 3 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "1440x900 collection wraps",
+      "pass": true
+    },
+    {
+      "name": "1440x900 focus restored",
+      "pass": true
+    },
+    {
+      "name": "1440x900 Enter opens",
+      "pass": true
+    },
+    {
+      "name": "1440x900 backward trap",
+      "pass": true
+    },
+    {
+      "name": "1440x900 forward trap",
+      "pass": true
+    },
+    {
+      "name": "1440x900 Space opens",
+      "pass": true
+    },
+    {
+      "name": "1440x900 approach expanded",
+      "pass": true
+    },
+    {
+      "name": "1440x900 truthful contact",
+      "pass": true
+    },
+    {
+      "name": "1440x900 no fake form",
+      "pass": true
+    },
+    {
+      "name": "1440x900 reduced media",
+      "pass": true
+    },
+    {
+      "name": "1440x900 reduced no flight",
+      "pass": true
+    },
+    {
+      "name": "1440x900 reduced meaningful perspective",
+      "pass": true
+    },
+    {
+      "name": "390x844 overview bounds",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 overview assets",
+      "pass": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "390x844 practical controls",
+      "pass": true
+    },
+    {
+      "name": "390x844 keyboard skip",
+      "pass": true
+    },
+    {
+      "name": "390x844 skip enters About",
+      "pass": true
+    },
+    {
+      "name": "390x844 touch gallery opens",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 0 text",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 0 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 0 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 1 text",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 1 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 1 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 2 text",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 2 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 2 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 3 text",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 3 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "390x844 study 3 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "390x844 collection wraps",
+      "pass": true
+    },
+    {
+      "name": "390x844 focus restored",
+      "pass": true
+    },
+    {
+      "name": "390x844 Enter opens",
+      "pass": true
+    },
+    {
+      "name": "390x844 backward trap",
+      "pass": true
+    },
+    {
+      "name": "390x844 forward trap",
+      "pass": true
+    },
+    {
+      "name": "390x844 Space opens",
+      "pass": true
+    },
+    {
+      "name": "390x844 approach expanded",
+      "pass": true
+    },
+    {
+      "name": "390x844 truthful contact",
+      "pass": true
+    },
+    {
+      "name": "390x844 no fake form",
+      "pass": true
+    },
+    {
+      "name": "390x844 reduced media",
+      "pass": true
+    },
+    {
+      "name": "390x844 reduced no flight",
+      "pass": true
+    },
+    {
+      "name": "390x844 reduced meaningful perspective",
+      "pass": true
+    },
+    {
+      "name": "844x390 overview bounds",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 overview assets",
+      "pass": true,
+      "detail": {
+        "width": 844,
+        "scroll": 844,
+        "fonts": "loaded",
+        "broken": 0
+      }
+    },
+    {
+      "name": "844x390 practical controls",
+      "pass": true
+    },
+    {
+      "name": "844x390 keyboard skip",
+      "pass": true
+    },
+    {
+      "name": "844x390 skip enters About",
+      "pass": true
+    },
+    {
+      "name": "844x390 touch gallery opens",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 0 text",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 0 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 0 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 1 text",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 1 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 1 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 2 text",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 2 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 2 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 3 text",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 3 actual perspective",
+      "pass": true
+    },
+    {
+      "name": "844x390 study 3 final disclosure reachable",
+      "pass": true
+    },
+    {
+      "name": "844x390 collection wraps",
+      "pass": true
+    },
+    {
+      "name": "844x390 focus restored",
+      "pass": true
+    },
+    {
+      "name": "844x390 Enter opens",
+      "pass": true
+    },
+    {
+      "name": "844x390 backward trap",
+      "pass": true
+    },
+    {
+      "name": "844x390 forward trap",
+      "pass": true
+    },
+    {
+      "name": "844x390 Space opens",
+      "pass": true
+    },
+    {
+      "name": "844x390 approach expanded",
+      "pass": true
+    },
+    {
+      "name": "844x390 truthful contact",
+      "pass": true
+    },
+    {
+      "name": "844x390 no fake form",
+      "pass": true
+    },
+    {
+      "name": "844x390 reduced media",
+      "pass": true
+    },
+    {
+      "name": "844x390 reduced no flight",
+      "pass": true
+    },
+    {
+      "name": "844x390 reduced meaningful perspective",
+      "pass": true
+    },
+    {
+      "name": "no-js About and Contact remain",
+      "pass": true
+    },
+    {
+      "name": "webgl-failure About and Contact remain",
+      "pass": true
+    },
+    {
+      "name": "failed renderer study text",
+      "pass": true
+    },
+    {
+      "name": "failed renderer perspective disabled",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "frames": [
+    {
+      "file": "parent-inspection-recovery-1440x900-overview.png",
+      "state": "overview",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894184179
+    },
+    {
+      "file": "parent-inspection-recovery-1440x900-study-0.png",
+      "state": "study-0",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894187514
+    },
+    {
+      "file": "parent-inspection-recovery-1440x900-study-0-angle-2.png",
+      "state": "study-0-angle-2",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894188498
+    },
+    {
+      "file": "parent-inspection-recovery-1440x900-study-1-angle-2.png",
+      "state": "study-1-angle-2",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894189764
+    },
+    {
+      "file": "parent-inspection-recovery-1440x900-study-2-angle-2.png",
+      "state": "study-2-angle-2",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894190980
+    },
+    {
+      "file": "parent-inspection-recovery-1440x900-study-3-angle-2.png",
+      "state": "study-3-angle-2",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894192098
+    },
+    {
+      "file": "parent-inspection-recovery-1440x900-contact.png",
+      "state": "contact",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894195736
+    },
+    {
+      "file": "parent-inspection-recovery-1440x900-return.png",
+      "state": "return",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894196956
+    },
+    {
+      "file": "parent-inspection-recovery-1440x900-reduced.png",
+      "state": "reduced",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894197414
+    },
+    {
+      "file": "parent-inspection-recovery-390x844-overview.png",
+      "state": "overview",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894238191
+    },
+    {
+      "file": "parent-inspection-recovery-390x844-study-0.png",
+      "state": "study-0",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894241694
+    },
+    {
+      "file": "parent-inspection-recovery-390x844-study-0-angle-2.png",
+      "state": "study-0-angle-2",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894242121
+    },
+    {
+      "file": "parent-inspection-recovery-390x844-study-1-angle-2.png",
+      "state": "study-1-angle-2",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894243079
+    },
+    {
+      "file": "parent-inspection-recovery-390x844-study-2-angle-2.png",
+      "state": "study-2-angle-2",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894244058
+    },
+    {
+      "file": "parent-inspection-recovery-390x844-study-3-angle-2.png",
+      "state": "study-3-angle-2",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894245054
+    },
+    {
+      "file": "parent-inspection-recovery-390x844-contact.png",
+      "state": "contact",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894248568
+    },
+    {
+      "file": "parent-inspection-recovery-390x844-return.png",
+      "state": "return",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894249706
+    },
+    {
+      "file": "parent-inspection-recovery-390x844-reduced.png",
+      "state": "reduced",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894250043
+    },
+    {
+      "file": "parent-inspection-recovery-844x390-overview.png",
+      "state": "overview",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894287882
+    },
+    {
+      "file": "parent-inspection-recovery-844x390-study-0.png",
+      "state": "study-0",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894290839
+    },
+    {
+      "file": "parent-inspection-recovery-844x390-study-0-angle-2.png",
+      "state": "study-0-angle-2",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894291273
+    },
+    {
+      "file": "parent-inspection-recovery-844x390-study-1-angle-2.png",
+      "state": "study-1-angle-2",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894292234
+    },
+    {
+      "file": "parent-inspection-recovery-844x390-study-2-angle-2.png",
+      "state": "study-2-angle-2",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894293205
+    },
+    {
+      "file": "parent-inspection-recovery-844x390-study-3-angle-2.png",
+      "state": "study-3-angle-2",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894294165
+    },
+    {
+      "file": "parent-inspection-recovery-844x390-contact.png",
+      "state": "contact",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894297605
+    },
+    {
+      "file": "parent-inspection-recovery-844x390-return.png",
+      "state": "return",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894298718
+    },
+    {
+      "file": "parent-inspection-recovery-844x390-reduced.png",
+      "state": "reduced",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894299092
+    }
+  ]
+}

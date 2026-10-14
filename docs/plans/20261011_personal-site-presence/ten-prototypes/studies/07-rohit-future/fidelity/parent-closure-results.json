@@ -1,0 +1,359 @@
+{
+  "study": "07-rohit-future",
+  "verdict": "READY",
+  "boundary": "local worker-source assembly candidate, not assembled/LAN/production approval",
+  "repair_batch": "context-loss-and-gallery-availability",
+  "functional_fix": "WebGL context loss now enters the existing text fallback, hides/disables motion, and prevents queued, scroll, preference and resize rendering until reload.",
+  "current_checks": 93,
+  "current_passed": 93,
+  "current_errors": [],
+  "current_viewports": [
+    [
+      1440,
+      900
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      844,
+      390
+    ]
+  ],
+  "current_capture_count": 35,
+  "runtime_allowlist": [
+    "index.html",
+    "style.css",
+    "scene.js",
+    "assets/ChakraPetch-Medium.ttf",
+    "assets/FONT-LICENSE.txt",
+    "assets/THREE-LICENSE.txt",
+    "assets/favicon.svg",
+    "assets/three.module.js"
+  ],
+  "runtime_inventory": {
+    "index.html": {
+      "sha256": "c6f5fabee4295266eb753ea7e1812bf27286695235323b9233299811a34e3630",
+      "bytes": 5956
+    },
+    "style.css": {
+      "sha256": "394cd2926840f76dcec91ff350fd4400443f228c16a405833c5e9bbae5c02e3d",
+      "bytes": 14570
+    },
+    "scene.js": {
+      "sha256": "6a7059814d0d6d6dbb1cfdb9a482a8312dedc91e6acd8254d0ce21e9a2578035",
+      "bytes": 6924
+    },
+    "assets/ChakraPetch-Medium.ttf": {
+      "sha256": "d480f4f97405fac3600652e2e14fd0b14339031c0af4da11582994878f04d919",
+      "bytes": 78600
+    },
+    "assets/FONT-LICENSE.txt": {
+      "sha256": "13831d02389d917d22fcfa6c79f98f8acbf61d230add0e73a4d4dc5f3bfb9e56",
+      "bytes": 4396
+    },
+    "assets/THREE-LICENSE.txt": {
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+      "bytes": 1081
+    },
+    "assets/favicon.svg": {
+      "sha256": "88a9d7555b4990e3183d7d305dfa529a8e261ebbbf9faa3351c83a77faa03353",
+      "bytes": 216
+    },
+    "assets/three.module.js": {
+      "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb",
+      "bytes": 1314681
+    }
+  },
+  "preclosure_runtime_match": {
+    "index.html": true,
+    "style.css": true,
+    "scene.js": false
+  },
+  "source_frame_hash_match": {
+    "rohit-harish-frame-0.jpg": true,
+    "rohit-harish-frame-1.jpg": true,
+    "rohit-harish-frame-2.jpg": true,
+    "rohit-harish-frame-3.jpg": true
+  },
+  "historical_evidence_limit": "Old six-size results remain historical. HTML/CSS and assets unchanged; their unaffected reading geometry can support 320/430/tablet evidence. Changed JavaScript is covered freshly at desktop/390/landscape, not a fresh six-size certification. Old hidden-sample failures remain intact and are not relabeled green.",
+  "raw_results": [
+    "fidelity/parent-confirmation-results.json",
+    "fidelity/parent-edge-confirmation-results.json"
+  ],
+  "focal_chronology": [
+    {
+      "file": "parent-confirmation-1440x900-focal-before.png",
+      "state": "focal-before",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894777300,
+      "renderer": {
+        "draws": 54,
+        "renderMs": 0.7000000476837158,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-1440x900-focal-mid.png",
+      "state": "focal-mid",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894778292,
+      "renderer": {
+        "draws": 55,
+        "renderMs": 2.600000023841858,
+        "progress": 0.4375,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          9.308544921875
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-1440x900-focal-after.png",
+      "state": "focal-after",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894779280,
+      "renderer": {
+        "draws": 56,
+        "renderMs": 0.40000009536743164,
+        "progress": 0.9,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          8.3476
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-1440x900-focal-reversal.png",
+      "state": "focal-reversal",
+      "viewport": [
+        1440,
+        900
+      ],
+      "time": 1791894780279,
+      "renderer": {
+        "draws": 57,
+        "renderMs": 0.5,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-390x844-focal-before.png",
+      "state": "focal-before",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894807667,
+      "renderer": {
+        "draws": 65,
+        "renderMs": 0.7000000476837158,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-390x844-focal-mid.png",
+      "state": "focal-mid",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894808606,
+      "renderer": {
+        "draws": 66,
+        "renderMs": 0.30000007152557373,
+        "progress": 0.3495260663507109,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          9.52212441901319
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-390x844-focal-after.png",
+      "state": "focal-after",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894809548,
+      "renderer": {
+        "draws": 66,
+        "renderMs": 0.30000007152557373,
+        "progress": 0.3495260663507109,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          9.52212441901319
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-390x844-focal-reversal.png",
+      "state": "focal-reversal",
+      "viewport": [
+        390,
+        844
+      ],
+      "time": 1791894810484,
+      "renderer": {
+        "draws": 67,
+        "renderMs": 0.20000004768371582,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-844x390-focal-before.png",
+      "state": "focal-before",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894837590,
+      "renderer": {
+        "draws": 64,
+        "renderMs": 0.2999999523162842,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-844x390-focal-mid.png",
+      "state": "focal-mid",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894838535,
+      "renderer": {
+        "draws": 65,
+        "renderMs": 0.30000007152557373,
+        "progress": 0.5074074074074074,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          9.131112493014276
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-844x390-focal-after.png",
+      "state": "focal-after",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894839481,
+      "renderer": {
+        "draws": 66,
+        "renderMs": 0.3999999761581421,
+        "progress": 1,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          8.3
+        ]
+      }
+    },
+    {
+      "file": "parent-confirmation-844x390-focal-reversal.png",
+      "state": "focal-reversal",
+      "viewport": [
+        844,
+        390
+      ],
+      "time": 1791894840405,
+      "renderer": {
+        "draws": 67,
+        "renderMs": 0.6000000238418579,
+        "progress": 0,
+        "paused": true,
+        "reduced": false,
+        "entrance": 1,
+        "camera": [
+          0,
+          0,
+          10
+        ]
+      }
+    }
+  ],
+  "material_source_limit": "The authored lens and cobalt editorial spreads preserve the accepted world. Scroll separates laminations and reverses camera distance; this is one original sculptural shot, not the source\u2019s richer multi-scene figure/lab narrative. On phone, the later focal sample stops updating when the canvas goes offscreen, by design; reading continues.",
+  "unresolved_reproducer": null,
+  "parent_remaining": [
+    "runtime-only assembly",
+    "served-byte hash comparison",
+    "source-link/comparison chrome checks",
+    "actual LAN verification"
+  ]
+}

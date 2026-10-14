@@ -1,0 +1,75 @@
+{
+  "method": "Actual headed Chromium tab switched away and restored under existing Xvfb; no visibility property injection",
+  "before": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 0
+      },
+      {
+        "state": "running",
+        "time": 0
+      }
+    ]
+  },
+  "minimized": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 0
+      },
+      {
+        "state": "running",
+        "time": 0
+      }
+    ]
+  },
+  "after": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 566.6869999457668
+      },
+      {
+        "state": "running",
+        "time": 566.6869999457668
+      }
+    ]
+  },
+  "restored": {
+    "selected": "about",
+    "reading": false,
+    "signalCount": 0,
+    "paused": false,
+    "roomVisible": true,
+    "hidden": false,
+    "animations": [
+      {
+        "state": "running",
+        "time": 1083.3329999457674
+      },
+      {
+        "state": "running",
+        "time": 1083.3329999457674
+      }
+    ]
+  }
+}
